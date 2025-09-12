@@ -1,0 +1,509 @@
+[
+  {
+    "StoolPatterns": [
+      {
+        "rubric": "Frequent urging with scanty stool",
+        "grading": {
+          "high": ["Nux vomica", "Aloe"],
+          "medium": ["Mercurius", "Colocynth"],
+          "low": ["Ignatia"]
+        },
+        "modality": "Ineffectual urge, never satisfied",
+        "miasm": "Psoric",
+        "notes": "Typical in dysentery, IBS, and irritable colon"
+      },
+      {
+        "rubric": "Sudden, involuntary stool on motion",
+        "grading": {
+          "high": ["Veratrum album", "Podophyllum"],
+          "medium": ["Aloe", "Arsenicum album"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Stool gushes on walking or slight movement",
+        "miasm": "Syphilitic",
+        "notes": "Seen in cholera, diarrheal collapse"
+      },
+      {
+        "rubric": "Diarrhea after eating or drinking",
+        "grading": {
+          "high": ["Croton tiglium", "Arsenicum album"],
+          "medium": ["China", "Sulphur"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Immediately after food enters stomach",
+        "miasm": "Psoric",
+        "notes": "Croton – 'as soon as food touches lips'"
+      },
+      {
+        "rubric": "Stool expelled with much flatus",
+        "grading": {
+          "high": ["Aloe", "Podophyllum"],
+          "medium": ["Lycopodium", "Carbo vegetabilis"],
+          "low": ["Natrum sulph"]
+        },
+        "modality": "Explosive, noisy stool",
+        "miasm": "Psoric",
+        "notes": "Aloe – key in morning urgency + gas"
+      },
+      {
+        "rubric": "Painless diarrhea",
+        "grading": {
+          "high": ["Podophyllum", "China"],
+          "medium": ["Phosphorus", "Ferrum"],
+          "low": ["Arsenicum album"]
+        },
+        "modality": "Copious, watery, no colic",
+        "miasm": "Psoric",
+        "notes": "China – great for weakness after diarrhea"
+      },
+      {
+        "rubric": "Diarrhea early morning (5 AM)",
+        "grading": {
+          "high": ["Sulphur", "Aloe"],
+          "medium": ["Podophyllum", "Nux vomica"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Forces patient out of bed",
+        "miasm": "Psoric",
+        "notes": "Sulphur and Aloe are keynote here"
+      },
+      {
+        "rubric": "Stool difficult to expel though soft",
+        "grading": {
+          "high": ["Silicea", "Hepar sulph"],
+          "medium": ["Opium", "Nux moschata"],
+          "low": ["Alumina"]
+        },
+        "modality": "No urge, sluggish rectum",
+        "miasm": "Syphilitic",
+        "notes": "Seen in weak peristalsis, infants"
+      },
+      {
+        "rubric": "Stool with mucus",
+        "grading": {
+          "high": ["Mercurius", "Colocynth"],
+          "medium": ["Aloe", "Nux vomica"],
+          "low": ["Kali bichromicum"]
+        },
+        "modality": "Like frog spawn, jelly-like",
+        "miasm": "Psoric",
+        "notes": "Colitis, amoebiasis cases"
+      },
+      {
+        "rubric": "Stool with blood",
+        "grading": {
+          "high": ["Mercurius", "Nux vomica"],
+          "medium": ["Hamamelis", "Phosphorus"],
+          "low": ["Aloe"]
+        },
+        "modality": "Fresh or dark blood in stool",
+        "miasm": "Syphilitic",
+        "notes": "Check for hemorrhoids vs ulcers"
+      },
+      {
+        "rubric": "Constipation with no desire",
+        "grading": {
+          "high": ["Alumina", "Opium"],
+          "medium": ["Bryonia", "Sulphur"],
+          "low": ["Plumbum"]
+        },
+        "modality": "Rectum inactive, dryness",
+        "miasm": "Psoric",
+        "notes": "Alumina – even soft stool difficult"
+      },
+      {
+        "rubric": "Stool hard, large, knotty",
+        "grading": {
+          "high": ["Bryonia", "Plumbum"],
+          "medium": ["Nux vomica", "Graphites"],
+          "low": ["Silicea"]
+        },
+        "modality": "Dry, painful stool",
+        "miasm": "Psoric/Syphilitic",
+        "notes": "Hemorrhoid-prone patients"
+      },
+      {
+        "rubric": "Stool slips back after being partly expelled",
+        "grading": {
+          "high": ["Silicea"],
+          "medium": ["Thuja", "Lycopodium"],
+          "low": ["Hepar sulph"]
+        },
+        "modality": "Involuntary retraction",
+        "miasm": "Psoric",
+        "notes": "Classic keynote of Silicea"
+      },
+      {
+        "rubric": "Stool with undigested food particles",
+        "grading": {
+          "high": ["China", "Podophyllum"],
+          "medium": ["Ferrum", "Arsenicum album"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Even after proper meals",
+        "miasm": "Tubercular",
+        "notes": "Malabsorption, digestive weakness"
+      },
+      {
+        "rubric": "Stool offensive, putrid",
+        "grading": {
+          "high": ["Psorinum", "Arsenicum", "Carbo veg"],
+          "medium": ["Sulphur", "Podophyllum"],
+          "low": ["Mercurius"]
+        },
+        "modality": "Strong putrid smell",
+        "miasm": "Psoric/Syphilitic",
+        "notes": "Useful in septic fevers, food poisoning"
+      },
+      {
+        "rubric": "Involuntary stool during sleep",
+        "grading": {
+          "high": ["Arsenicum album", "Carbo vegetabilis"],
+          "medium": ["Hyoscyamus", "Veratrum album"],
+          "low": ["Aloe"]
+        },
+        "modality": "Passes unnoticed at night",
+        "miasm": "Syphilitic",
+        "notes": "Seen in cholera infantum, paralysis"
+      },
+      {
+        "rubric": "Stool in small balls (goat dung)",
+        "grading": {
+          "high": ["Opium", "Plumbum"],
+          "medium": ["Chelidonium", "Nux moschata"],
+          "low": ["Alumina"]
+        },
+        "modality": "Hard and scanty",
+        "miasm": "Syphilitic",
+        "notes": "Classic constipation rubric"
+      },
+      {
+        "rubric": "Stool difficult, painful, with fissures",
+        "grading": {
+          "high": ["Nitric acid", "Graphites"],
+          "medium": ["Silicea", "Ratanhia"],
+          "low": ["Thuja"]
+        },
+        "modality": "Followed by burning, blood",
+        "miasm": "Syphilitic",
+        "notes": "Important in fissure-in-ano cases"
+      },
+      {
+        "rubric": "Stool passes involuntarily on passing flatus",
+        "grading": {
+          "high": ["Aloe", "Podophyllum"],
+          "medium": ["Arsenicum", "China"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Cannot control rectum",
+        "miasm": "Syphilitic",
+        "notes": "Often seen in weak old patients"
+      },
+      {
+        "rubric": "Urgent morning stool with gurgling and noise",
+        "grading": {
+          "high": ["Aloe", "Sulphur"],
+          "medium": ["Podophyllum", "Croton tig"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Forces out of bed, rumbling",
+        "miasm": "Psoric",
+        "notes": "Confirms Aloe/Sulphur when paired with other symptoms"
+      },
+      {
+        "rubric": "Alternating constipation and diarrhea",
+        "grading": {
+          "high": ["Nux vomica", "Sulphur"],
+          "medium": ["Lycopodium", "Phosphorus"],
+          "low": ["Thuja"]
+        },
+        "modality": "Chronic dysbiosis or colitis",
+        "miasm": "Psoro-syphilitic",
+        "notes": "Useful in IBS and ulcerative colitis"
+      }
+    ]
+  },
+  {
+    "StoolPatterns": [
+      {
+        "rubric": "Stool greasy or oily",
+        "grading": {
+          "high": ["China", "Phosphorus"],
+          "medium": ["Chelidonium", "Lycopodium"],
+          "low": ["Iodum"]
+        },
+        "modality": "Floats, slick appearance in water",
+        "miasm": "Tubercular",
+        "notes": "Suggests liver, fat malabsorption (steatorrhea)"
+      },
+      {
+        "rubric": "Stool white or clay-colored",
+        "grading": {
+          "high": ["Chelidonium", "Calcarea carbonica"],
+          "medium": ["Phosphorus", "China"],
+          "low": ["Silicea"]
+        },
+        "modality": "Biliary blockage, liver-related",
+        "miasm": "Psoric",
+        "notes": "Highly indicative in jaundice cases"
+      },
+      {
+        "rubric": "Stool green like chopped spinach",
+        "grading": {
+          "high": ["Chamomilla", "Magnesia carbonica"],
+          "medium": ["Podophyllum", "Mercurius"],
+          "low": ["Aethusa"]
+        },
+        "modality": "Common in infants, teething",
+        "miasm": "Psoric",
+        "notes": "Seen in dentition diarrhea"
+      },
+      {
+        "rubric": "Stool expelled suddenly, with force",
+        "grading": {
+          "high": ["Croton tiglium", "Podophyllum"],
+          "medium": ["Aloe", "Phosphorus"],
+          "low": ["Dulcamara"]
+        },
+        "modality": "Projectile-like gushing stool",
+        "miasm": "Psoric",
+        "notes": "Croton – even with touch of lips"
+      },
+      {
+        "rubric": "Stool yellow, watery",
+        "grading": {
+          "high": ["Podophyllum", "Chelidonium"],
+          "medium": ["Ferrum", "Chamomilla"],
+          "low": ["Calcarea"]
+        },
+        "modality": "Typical of bile excess or weak digestion",
+        "miasm": "Psoric",
+        "notes": "Seen in children and liver cases"
+      },
+      {
+        "rubric": "Stool dark, tarry (melena)",
+        "grading": {
+          "high": ["Arnica", "Lachesis"],
+          "medium": ["Hamamelis", "Phosphorus"],
+          "low": ["China"]
+        },
+        "modality": "Internal hemorrhage or ulcer",
+        "miasm": "Syphilitic",
+        "notes": "Suggests upper GI bleeding"
+      },
+      {
+        "rubric": "Stool involuntary during cough or sneeze",
+        "grading": {
+          "high": ["Causticum", "Aloe"],
+          "medium": ["Podophyllum", "Arsenicum album"],
+          "low": ["China"]
+        },
+        "modality": "Pelvic weakness, rectal prolapse",
+        "miasm": "Syphilitic",
+        "notes": "Often in aged or weak pelvic tone patients"
+      },
+      {
+        "rubric": "Stool like sheep dung",
+        "grading": {
+          "high": ["Plumbum", "Chelidonium"],
+          "medium": ["Opium", "Alumina"],
+          "low": ["Nux moschata"]
+        },
+        "modality": "Dry, hard, in little balls",
+        "miasm": "Syphilitic",
+        "notes": "Also seen in habitual constipation"
+      },
+      {
+        "rubric": "Stool ribbon-like, narrow",
+        "grading": {
+          "high": ["Thuja", "Nitric acid"],
+          "medium": ["Plumbum", "Phosphorus"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Stricture, fissure, or nervous spasm",
+        "miasm": "Syphilitic",
+        "notes": "Consider in rectal stenosis, anal fissure"
+      },
+      {
+        "rubric": "Stool offensive to patient themselves",
+        "grading": {
+          "high": ["Psorinum"],
+          "medium": ["Sulphur", "Carbo veg"],
+          "low": ["Sepia"]
+        },
+        "modality": "So offensive they avoid it",
+        "miasm": "Psoric",
+        "notes": "Confirms low vitality and disgust"
+      }
+    ]
+  },
+  {
+    "StoolPatterns": [
+      {
+        "rubric": "Desire for stool but only flatus passed",
+        "grading": {
+          "high": ["Nux vomica", "Aloe"],
+          "medium": ["Ignatia", "China"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Repeated ineffectual urging",
+        "miasm": "Psoric",
+        "notes": "Very key in IBS, spastic colon"
+      },
+      {
+        "rubric": "Stool causes exhaustion and faintness",
+        "grading": {
+          "high": ["Veratrum album", "Carbo veg"],
+          "medium": ["China", "Phosphorus"],
+          "low": ["Camphora"]
+        },
+        "modality": "Sweating, collapse during stool",
+        "miasm": "Syphilitic",
+        "notes": "Seen in cholera, severe enteritis"
+      },
+      {
+        "rubric": "Stool followed by burning in anus",
+        "grading": {
+          "high": ["Arsenicum", "Aloe"],
+          "medium": ["Sulphur", "Ratanhia"],
+          "low": ["Kali carb"]
+        },
+        "modality": "Feels like fire, lasts long after stool",
+        "miasm": "Psoric",
+        "notes": "Important confirmatory in Aloe, Sulphur"
+      },
+      {
+        "rubric": "Stool with intense tenesmus",
+        "grading": {
+          "high": ["Mercurius", "Colocynth"],
+          "medium": ["Nux vomica", "Ratanhia"],
+          "low": ["Cantharis"]
+        },
+        "modality": "Painful, straining but ineffectual",
+        "miasm": "Syphilitic",
+        "notes": "Very common in dysentery"
+      },
+      {
+        "rubric": "Stool with sensation of incomplete evacuation",
+        "grading": {
+          "high": ["Nux vomica", "Ignatia"],
+          "medium": ["Lycopodium", "Sulphur"],
+          "low": ["Aloe"]
+        },
+        "modality": "Never feels finished",
+        "miasm": "Psoric",
+        "notes": "IBS, psychological involvement"
+      },
+      {
+        "rubric": "Stool alternates with hemorrhoids",
+        "grading": {
+          "high": ["Aloe", "Nux vomica"],
+          "medium": ["Sulphur", "Lachesis"],
+          "low": ["Collinsonia"]
+        },
+        "modality": "Bleeding piles after constipation or diarrhea",
+        "miasm": "Psoro-syphilitic",
+        "notes": "Aloe – bleeding after loose stool"
+      },
+      {
+        "rubric": "Stool dry and crumbling",
+        "grading": {
+          "high": ["Bryonia", "Natrum muriaticum"],
+          "medium": ["Silicea", "Phosphorus"],
+          "low": ["Graphites"]
+        },
+        "modality": "Cracks into pieces during expulsion",
+        "miasm": "Psoric",
+        "notes": "Indicates dry mucosa and liver weakness"
+      },
+      {
+        "rubric": "Stool floats in water",
+        "grading": {
+          "high": ["China", "Phosphorus"],
+          "medium": ["Natrum sulph", "Chelidonium"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Oily, slick appearance",
+        "miasm": "Tubercular",
+        "notes": "Malabsorption (fatty stools)"
+      },
+      {
+        "rubric": "Stool with jelly-like mucus and blood",
+        "grading": {
+          "high": ["Mercurius", "Aloe"],
+          "medium": ["Colocynth", "Kali bichromicum"],
+          "low": ["Nitric acid"]
+        },
+        "modality": "Frequent, painful passage",
+        "miasm": "Syphilitic",
+        "notes": "Dysentery, colitis"
+      },
+      {
+        "rubric": "Stool worse from fruit or milk",
+        "grading": {
+          "high": ["Aethusa", "Arsenicum", "Ferrum"],
+          "medium": ["Calcarea", "Chamomilla"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Food intolerance aggravates",
+        "miasm": "Psoric",
+        "notes": "Aethusa – milk intolerance diarrhea in infants"
+      },
+      {
+        "rubric": "Stool associated with anxiety before and weakness after",
+        "grading": {
+          "high": ["Gelsemium", "Argentum nitricum"],
+          "medium": ["Arsenicum", "Phosphoric acid"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Mental or emotional disturbance during bowel movement",
+        "miasm": "Psoric",
+        "notes": "Gelsemium – anticipatory diarrhea"
+      },
+      {
+        "rubric": "Stool expelled with loud flatus",
+        "grading": {
+          "high": ["Aloe", "Podophyllum"],
+          "medium": ["Carbo veg", "Lycopodium"],
+          "low": ["China"]
+        },
+        "modality": "Violent, gassy, sputtery",
+        "miasm": "Psoric",
+        "notes": "Seen in IBS, early morning patterns"
+      },
+      {
+        "rubric": "Stool with alternate chills and heat",
+        "grading": {
+          "high": ["Gelsemium", "Arsenicum"],
+          "medium": ["Pulsatilla", "China"],
+          "low": ["Ignatia"]
+        },
+        "modality": "During stool or immediately after",
+        "miasm": "Psoro-syphilitic",
+        "notes": "Suggests nervous/gastro-enteric dysregulation"
+      },
+      {
+        "rubric": "Stool resembling rice water",
+        "grading": {
+          "high": ["Veratrum album", "Camphora"],
+          "medium": ["Arsenicum", "Phosphorus"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "Pale, watery, odorless, floating flakes",
+        "miasm": "Syphilitic",
+        "notes": "Seen in cholera-like collapse"
+      },
+      {
+        "rubric": "Stool occurs during urination (simultaneously)",
+        "grading": {
+          "high": ["Thuja", "Causticum"],
+          "medium": ["Aloe", "Sulphur"],
+          "low": ["Petroleum"]
+        },
+        "modality": "Weak pelvic control, prolapse tendency",
+        "miasm": "Syphilitic",
+        "notes": "Often linked to urinary-rectal nerve loop weakness"
+      }
+    ]
+  }
+]

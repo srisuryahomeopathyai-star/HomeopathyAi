@@ -1,0 +1,1840 @@
+[
+  {
+    "test_name": "Hemoglobin (Hb)",
+    "category": "Hematology",
+    "normal_range": {
+      "male": "13.5 - 17.5 g/dL",
+      "female": "12.0 - 15.5 g/dL"
+    },
+    "abnormal_interpretation": {
+      "low": "Anemia, blood loss, nutritional deficiency",
+      "high": "Dehydration, polycythemia vera"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Blood, deficiency of", "Anemia, general"],
+      "key_remedies": ["Ferrum met", "China", "Nat mur", "Calc phos"]
+    }
+  },
+  {
+    "test_name": "RBC Count",
+    "category": "Hematology",
+    "normal_range": {
+      "male": "4.7 - 6.1 million/μL",
+      "female": "4.2 - 5.4 million/μL"
+    },
+    "abnormal_interpretation": {
+      "low": "Anemia, hemorrhage",
+      "high": "Polycythemia vera"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Red blood cells, decreased", "Anemia, hemorrhagic"],
+      "key_remedies": ["China", "Phosphorus", "Ferrum phos", "Arnica"]
+    }
+  },
+  {
+    "test_name": "WBC Count (TLC)",
+    "category": "Hematology",
+    "normal_range": "4,000 - 11,000 cells/μL",
+    "abnormal_interpretation": {
+      "low": "Leukopenia (viral infections, bone marrow depression)",
+      "high": "Leukocytosis (infection, inflammation)"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Leucocytosis", "Infection, tendency to"],
+      "key_remedies": ["Echinacea", "Ferrum phos", "Arsenicum alb", "Silicea"]
+    }
+  },
+  {
+    "test_name": "Platelet Count",
+    "category": "Hematology",
+    "normal_range": "150,000 - 450,000 cells/μL",
+    "abnormal_interpretation": {
+      "low": "Thrombocytopenia (dengue, viral fever, bone marrow issues)",
+      "high": "Thrombocytosis (inflammation, malignancy)"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Hemorrhage, easy", "Bleeding tendency"],
+      "key_remedies": ["Crotalus", "Phosphorus", "Hamamelis", "Arnica"]
+    }
+  },
+  {
+    "test_name": "ESR",
+    "category": "Inflammatory marker",
+    "normal_range": {
+      "male": "0 - 15 mm/hr",
+      "female": "0 - 20 mm/hr"
+    },
+    "abnormal_interpretation": {
+      "high": "Chronic inflammation, infection, autoimmune disease"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Inflammation, general", "Chronic diseases"],
+      "key_remedies": ["Bryonia", "Rhus tox", "Tuberculinum", "Silicea"]
+    }
+  },
+  {
+    "test_name": "Packed Cell Volume (PCV)",
+    "category": "Hematology",
+    "normal_range": {
+      "male": "40 - 54%",
+      "female": "36 - 48%"
+    },
+    "abnormal_interpretation": {
+      "low": "Anemia, blood loss",
+      "high": "Polycythemia"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia", "Dehydration"],
+      "key_remedies": ["Ferrum met", "China", "Nat mur", "Phos acid"]
+    }
+  },
+  {
+    "test_name": "MCV",
+    "category": "Hematology",
+    "normal_range": "80 - 100 fL",
+    "abnormal_interpretation": {
+      "low": "Microcytic anemia (iron deficiency)",
+      "high": "Macrocytic anemia (B12 or folate deficiency)"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia, microcytic", "Anemia, macrocytic"],
+      "key_remedies": ["Ferrum phos", "Calc phos", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "MCH",
+    "category": "Hematology",
+    "normal_range": "27 - 33 pg",
+    "abnormal_interpretation": {
+      "low": "Iron deficiency anemia",
+      "high": "Folate/B12 deficiency"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia", "Deficiency states"],
+      "key_remedies": ["China", "Calc phos", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "MCHC",
+    "category": "Hematology",
+    "normal_range": "32 - 36 g/dL",
+    "abnormal_interpretation": {
+      "low": "Hypochromic anemia",
+      "high": "Hereditary spherocytosis (rare)"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Paleness", "Blood, poor quality"],
+      "key_remedies": ["Ferrum", "China", "Arsenicum"]
+    }
+  },
+  {
+    "test_name": "Bleeding Time (BT)",
+    "category": "Coagulation",
+    "normal_range": "1 - 6 minutes",
+    "abnormal_interpretation": {
+      "prolonged": "Platelet dysfunction, vascular defect"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Bleeding tendency", "Hemorrhage, prolonged"],
+      "key_remedies": ["Crotalus", "Hamamelis", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "Clotting Time (CT)",
+    "category": "Coagulation",
+    "normal_range": "4 - 10 minutes",
+    "abnormal_interpretation": {
+      "prolonged": "Clotting factor deficiency"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Blood, does not clot", "Hemorrhage, persistent"],
+      "key_remedies": ["Lachesis", "Hamamelis", "Carbo veg"]
+    }
+  },
+  {
+    "test_name": "Prothrombin Time (PT)",
+    "category": "Coagulation",
+    "normal_range": "11 - 13.5 seconds",
+    "abnormal_interpretation": {
+      "high": "Liver disease, warfarin therapy, vitamin K deficiency"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Coagulation slow", "Bleeding tendency"],
+      "key_remedies": ["Phosphorus", "Hamamelis", "Crotalus"]
+    }
+  },
+  {
+    "test_name": "Random Blood Sugar (RBS)",
+    "category": "Metabolic",
+    "normal_range": "Less than 140 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Diabetes mellitus",
+      "low": "Hypoglycemia"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Diabetes", "Low sugar episodes"],
+      "key_remedies": ["Syzygium", "Phos acid", "Uranium nitricum"]
+    }
+  },
+  {
+    "test_name": "Post Prandial Blood Sugar (PPBS)",
+    "category": "Metabolic",
+    "normal_range": "Less than 180 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Diabetes",
+      "low": "Insulin overdose"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Thirst, increased", "Sugar craving", "Polyuria"],
+      "key_remedies": ["Syzygium", "Lycopodium", "Nat mur"]
+    }
+  },
+  {
+    "test_name": "HbA1c",
+    "category": "Metabolic",
+    "normal_range": "4 - 5.6%",
+    "abnormal_interpretation": {
+      "pre-diabetic": "5.7 - 6.4%",
+      "diabetic": "6.5% and above"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Chronic diabetes", "Glycosuria"],
+      "key_remedies": ["Syzygium", "Phos acid", "Uranium nitricum"]
+    }
+  },
+  {
+    "test_name": "Thyroid Stimulating Hormone (TSH)",
+    "category": "Endocrinology",
+    "normal_range": "0.4 - 4.0 mIU/L",
+    "abnormal_interpretation": {
+      "low": "Hyperthyroidism",
+      "high": "Hypothyroidism"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Thyroid, underactive", "Thyroid, overactive"],
+      "key_remedies": ["Calc carb", "Sepia", "Thyroidinum", "Iodum", "Nat mur"]
+    }
+  },
+  {
+    "test_name": "T3 (Triiodothyronine)",
+    "category": "Endocrinology",
+    "normal_range": "100 - 200 ng/dL",
+    "abnormal_interpretation": {
+      "low": "Hypothyroidism",
+      "high": "Hyperthyroidism"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Thyroid complaints", "Restlessness, heat"],
+      "key_remedies": ["Iodum", "Thyroidinum", "Lachesis"]
+    }
+  },
+  {
+    "test_name": "T4 (Thyroxine)",
+    "category": "Endocrinology",
+    "normal_range": "5 - 12 μg/dL",
+    "abnormal_interpretation": {
+      "low": "Hypothyroidism",
+      "high": "Hyperthyroidism"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Coldness, general", "Weight gain with tiredness"],
+      "key_remedies": ["Calc carb", "Sepia", "Thyroidinum"]
+    }
+  },
+  {
+    "test_name": "Serum Creatinine",
+    "category": "Renal function",
+    "normal_range": {
+      "male": "0.7 - 1.3 mg/dL",
+      "female": "0.6 - 1.1 mg/dL"
+    },
+    "abnormal_interpretation": {
+      "high": "Kidney dysfunction, dehydration",
+      "low": "Low muscle mass"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Kidney disease", "Retention of urine", "Edema"],
+      "key_remedies": ["Apis", "Berberis", "Cantharis", "Kali carb"]
+    }
+  },
+  {
+    "test_name": "Blood Urea",
+    "category": "Renal function",
+    "normal_range": "7 - 20 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Kidney dysfunction, dehydration, high protein intake",
+      "low": "Liver failure, low protein diet"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Uremia", "Retention of urine", "Toxic states"],
+      "key_remedies": ["Berberis", "Terebinthina", "Apis", "Ars alb"]
+    }
+  },
+  {
+    "test_name": "Blood Urea Nitrogen (BUN)",
+    "category": "Renal function",
+    "normal_range": "7 - 22 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Kidney failure, high protein breakdown",
+      "low": "Liver disease, malnutrition"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Uremic condition", "Toxicity from nitrogenous wastes"],
+      "key_remedies": ["Terebinthina", "Kali carb", "Cantharis"]
+    }
+  },
+  {
+    "test_name": "Serum Uric Acid",
+    "category": "Metabolic",
+    "normal_range": {
+      "male": "3.4 - 7.0 mg/dL",
+      "female": "2.4 - 6.0 mg/dL"
+    },
+    "abnormal_interpretation": {
+      "high": "Gout, renal stones",
+      "low": "Wilson’s disease, SIADH"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Gout", "Joint pain with uric acid", "Crystals in urine"],
+      "key_remedies": ["Colchicum", "Ledum", "Benzoic acid", "Lithium carb"]
+    }
+  },
+  {
+    "test_name": "Serum Calcium",
+    "category": "Metabolic / Electrolyte",
+    "normal_range": "8.5 - 10.5 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Hyperparathyroidism, bone disease, malignancy",
+      "low": "Vitamin D deficiency, hypoparathyroidism"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Bone pain", "Cramps", "Numbness"],
+      "key_remedies": ["Calc phos", "Calc carb", "Silicea"]
+    }
+  },
+  {
+    "test_name": "Serum Sodium (Na+)",
+    "category": "Electrolyte",
+    "normal_range": "135 - 145 mEq/L",
+    "abnormal_interpretation": {
+      "low": "Hyponatremia – vomiting, diarrhea, renal loss",
+      "high": "Hypernatremia – dehydration"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Dehydration", "Confusion from electrolyte imbalance"],
+      "key_remedies": ["Nat mur", "Verat alb", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "Serum Potassium (K+)",
+    "category": "Electrolyte",
+    "normal_range": "3.5 - 5.0 mEq/L",
+    "abnormal_interpretation": {
+      "low": "Hypokalemia – weakness, muscle cramps",
+      "high": "Hyperkalemia – cardiac arrhythmia"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Muscle weakness", "Tingling", "Palpitations"],
+      "key_remedies": ["Kali carb", "Arg nit", "Digitalis"]
+    }
+  },
+  {
+    "test_name": "Serum Chloride",
+    "category": "Electrolyte",
+    "normal_range": "96 - 106 mEq/L",
+    "abnormal_interpretation": {
+      "low": "Metabolic alkalosis, vomiting",
+      "high": "Metabolic acidosis, dehydration"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Acidosis", "Alkalosis", "Fatigue with imbalance"],
+      "key_remedies": ["Nat mur", "Phos acid", "Carbo veg"]
+    }
+  },
+  {
+    "test_name": "Serum Magnesium",
+    "category": "Electrolyte",
+    "normal_range": "1.7 - 2.2 mg/dL",
+    "abnormal_interpretation": {
+      "low": "Muscle cramps, seizures",
+      "high": "Lethargy, cardiac arrest (rare)"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Cramps", "Convulsions", "Fatigue"],
+      "key_remedies": ["Mag phos", "Cuprum", "Zincum met"]
+    }
+  },
+  {
+    "test_name": "Serum Phosphorus",
+    "category": "Electrolyte",
+    "normal_range": "2.5 - 4.5 mg/dL",
+    "abnormal_interpretation": {
+      "low": "Rickets, bone disease",
+      "high": "Renal failure"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Bone weakness", "Teeth problems"],
+      "key_remedies": ["Calc phos", "Phosphorus", "Silicea"]
+    }
+  },
+  {
+    "test_name": "Liver Function Test (LFT): SGOT (AST)",
+    "category": "Liver function",
+    "normal_range": "10 - 40 U/L",
+    "abnormal_interpretation": {
+      "high": "Liver injury, hepatitis, muscle damage"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Liver, inflammation", "Hepatitis"],
+      "key_remedies": ["Chelidonium", "Carduus marianus", "Bryonia"]
+    }
+  },
+  {
+    "test_name": "Liver Function Test (LFT): SGPT (ALT)",
+    "category": "Liver function",
+    "normal_range": "7 - 56 U/L",
+    "abnormal_interpretation": {
+      "high": "Liver damage, fatty liver, hepatitis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Liver disorders", "Jaundice, general"],
+      "key_remedies": ["Chelidonium", "Lycopodium", "Nux vomica"]
+    }
+  },
+  {
+    "test_name": "Alkaline Phosphatase (ALP)",
+    "category": "Liver / Bone",
+    "normal_range": "44 - 147 IU/L",
+    "abnormal_interpretation": {
+      "high": "Biliary obstruction, bone disease"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Biliary colic", "Bone growth pain"],
+      "key_remedies": ["Calc phos", "Chelidonium", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "Total Bilirubin",
+    "category": "Liver",
+    "normal_range": "0.3 - 1.2 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Jaundice, liver obstruction, hemolysis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Jaundice", "Liver complaints"],
+      "key_remedies": ["Chelidonium", "China", "Merc sol"]
+    }
+  },
+  {
+    "test_name": "Direct Bilirubin",
+    "category": "Liver",
+    "normal_range": "0.1 - 0.3 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Obstructive jaundice"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Jaundice, obstructive"],
+      "key_remedies": ["Carduus", "Chelidonium", "Chionanthus"]
+    }
+  },
+  {
+    "test_name": "Indirect Bilirubin",
+    "category": "Liver",
+    "normal_range": "0.2 - 0.8 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Hemolytic jaundice"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Jaundice, hemolytic"],
+      "key_remedies": ["China", "Phosphorus", "Merc sol"]
+    }
+  },
+  {
+    "test_name": "Total Protein",
+    "category": "Liver / Nutrition",
+    "normal_range": "6.0 - 8.3 g/dL",
+    "abnormal_interpretation": {
+      "low": "Malnutrition, liver/kidney disease",
+      "high": "Chronic inflammation, infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Weakness from malnutrition", "Protein loss"],
+      "key_remedies": ["China", "Ferrum phos", "Calc phos"]
+    }
+  },
+  {
+    "test_name": "Albumin",
+    "category": "Liver / Nutrition",
+    "normal_range": "3.5 - 5.5 g/dL",
+    "abnormal_interpretation": {
+      "low": "Liver disease, kidney loss, malnutrition"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Emaciation", "Ascites from albumin loss"],
+      "key_remedies": ["Ars alb", "Apis", "China"]
+    }
+  },
+  {
+    "test_name": "Globulin",
+    "category": "Liver / Immune",
+    "normal_range": "2.0 - 3.5 g/dL",
+    "abnormal_interpretation": {
+      "high": "Chronic infection, immune disorder",
+      "low": "Immune deficiency"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Low immunity", "Recurrent infections"],
+      "key_remedies": ["Tuberculinum", "Silicea", "Echinacea"]
+    }
+  },
+  {
+    "test_name": "A/G Ratio",
+    "category": "Liver",
+    "normal_range": "1.0 - 2.1",
+    "abnormal_interpretation": {
+      "low": "Liver disease, nephrotic syndrome"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Liver dysfunction", "Edema"],
+      "key_remedies": ["Apis", "China", "Carduus"]
+    }
+  },
+  {
+    "test_name": "Lipid Profile - Total Cholesterol",
+    "category": "Cardiovascular",
+    "normal_range": "Less than 200 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Hypercholesterolemia, cardiovascular risk"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["High cholesterol", "Obesity, fatty degeneration"],
+      "key_remedies": ["Crataegus", "Allium sativum", "Calc fluor"]
+    }
+  },
+  {
+    "test_name": "Lipid Profile - LDL",
+    "category": "Cardiovascular",
+    "normal_range": "Less than 130 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Bad cholesterol, atherosclerosis risk"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Atherosclerosis", "Hardening of arteries"],
+      "key_remedies": ["Baryta mur", "Crataegus", "Plumbum"]
+    }
+  },
+  {
+    "test_name": "Lipid Profile - HDL",
+    "category": "Cardiovascular",
+    "normal_range": {
+      "male": "Above 40 mg/dL",
+      "female": "Above 50 mg/dL"
+    },
+    "abnormal_interpretation": {
+      "low": "Increased heart disease risk"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Poor fat metabolism", "Sedentary habits"],
+      "key_remedies": ["Calc carb", "Nat mur", "Nux vom"]
+    }
+  },
+  {
+    "test_name": "Lipid Profile - Triglycerides",
+    "category": "Cardiovascular",
+    "normal_range": "Less than 150 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Obesity, pancreatitis, diabetes"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Obesity with sluggishness", "Fatty liver"],
+      "key_remedies": ["Phytolacca", "Lycopodium", "Chelidonium"]
+    }
+  },
+  {
+    "test_name": "C-Reactive Protein (CRP)",
+    "category": "Inflammation / Infection",
+    "normal_range": "Less than 1.0 mg/dL",
+    "abnormal_interpretation": {
+      "high": "Infection, inflammation, cardiac risk"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Fever with inflammation", "Acute infection"],
+      "key_remedies": ["Belladonna", "Bryonia", "Rhus tox"]
+    }
+  },
+  {
+    "test_name": "Rheumatoid Factor (RF)",
+    "category": "Autoimmune",
+    "normal_range": "Negative (<14 IU/mL)",
+    "abnormal_interpretation": {
+      "positive": "Rheumatoid arthritis, autoimmune disease"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Arthritis, chronic", "Joint swelling"],
+      "key_remedies": ["Rhus tox", "Causticum", "Ledum", "Kalmia"]
+    }
+  },
+  {
+    "test_name": "Anti Nuclear Antibody (ANA)",
+    "category": "Autoimmune",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "SLE, autoimmune diseases"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Lupus", "Autoimmune tendency"],
+      "key_remedies": ["Sepia", "Nat mur", "Tuberculinum"]
+    }
+  },
+  {
+    "test_name": "HIV 1 & 2 Antibody",
+    "category": "Infectious Disease",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "HIV infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Immune deficiency", "Wasting", "Opportunistic infections"],
+      "key_remedies": ["Tuberculinum", "Silicea", "Carcinosin"]
+    }
+  },
+  {
+    "test_name": "Hepatitis B Surface Antigen (HBsAg)",
+    "category": "Infectious Disease",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "Hepatitis B infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Hepatitis", "Liver infection"],
+      "key_remedies": ["Chelidonium", "Carduus", "Merc sol"]
+    }
+  },
+  {
+    "test_name": "Dengue NS1 Antigen",
+    "category": "Infectious Disease",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "Acute dengue fever"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Fever, dengue", "Hemorrhage, low platelets"],
+      "key_remedies": [
+        "Eupatorium perf",
+        "Crotalus",
+        "Phosphorus",
+        "Carica papaya"
+      ]
+    }
+  },
+  {
+    "test_name": "Typhoid (Widal Test)",
+    "category": "Infectious Disease",
+    "normal_range": "TO < 1:80",
+    "abnormal_interpretation": {
+      "high": "Typhoid fever"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Fever, typhoid", "Slow fever, prostration"],
+      "key_remedies": ["Baptisia", "Arnica", "Gelsemium", "Pyrogen"]
+    }
+  },
+  {
+    "test_name": "Urine - Protein",
+    "category": "Urine Routine",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "Proteinuria – kidney disease"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Urine, albuminous", "Nephrotic symptoms"],
+      "key_remedies": ["Apis", "Ars alb", "Merc corr"]
+    }
+  },
+  {
+    "test_name": "Urine - Sugar",
+    "category": "Urine Routine",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "Diabetes mellitus"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Glycosuria", "Diabetes"],
+      "key_remedies": ["Syzygium", "Uranium nitricum", "Phos acid"]
+    }
+  },
+  {
+    "test_name": "Urine - Ketones",
+    "category": "Urine Routine",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "Diabetic ketoacidosis, starvation"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Ketonuria", "Acidosis", "Emaciation"],
+      "key_remedies": ["Phos acid", "Ars alb", "Nat phos"]
+    }
+  },
+  {
+    "test_name": "Urine - Pus Cells",
+    "category": "Urine Routine",
+    "normal_range": "0 - 5 / hpf",
+    "abnormal_interpretation": {
+      "high": "Urinary tract infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Cystitis", "Burning urination", "Pus in urine"],
+      "key_remedies": ["Cantharis", "Sarsaparilla", "Apis"]
+    }
+  },
+  {
+    "test_name": "Urine - RBCs",
+    "category": "Urine Routine",
+    "normal_range": "0 - 2 / hpf",
+    "abnormal_interpretation": {
+      "high": "Hematuria – stones, infection, trauma"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Hematuria", "Urine, bloody"],
+      "key_remedies": ["Cantharis", "Terebinthina", "Berberis", "Sarsaparilla"]
+    }
+  },
+  {
+    "test_name": "Urine - Specific Gravity",
+    "category": "Urine Routine",
+    "normal_range": "1.005 - 1.030",
+    "abnormal_interpretation": {
+      "low": "Renal dysfunction, diabetes insipidus",
+      "high": "Dehydration, glycosuria"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Concentration of urine abnormal"],
+      "key_remedies": ["Nat mur", "Phosphoric acid", "Ars alb"]
+    }
+  },
+  {
+    "test_name": "Stool - Occult Blood",
+    "category": "Stool Test",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "GI bleed, ulcer, malignancy"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Blood in stool", "Hemorrhoids", "GI ulcer"],
+      "key_remedies": ["Hamamelis", "Nitric acid", "Aloe", "Merc sol"]
+    }
+  },
+  {
+    "test_name": "Stool - Ova and Cysts",
+    "category": "Stool Test",
+    "normal_range": "Absent",
+    "abnormal_interpretation": {
+      "positive": "Parasitic infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Worms", "Diarrhea, chronic"],
+      "key_remedies": ["Teucrium", "Cina", "Santoninum", "Spigelia"]
+    }
+  },
+  {
+    "test_name": "Vitamin D (25-OH)",
+    "category": "Nutrition",
+    "normal_range": "30 - 100 ng/mL",
+    "abnormal_interpretation": {
+      "low": "Deficiency – bone pain, fatigue",
+      "high": "Toxicity (rare)"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Bone pain", "Vitamin D deficiency"],
+      "key_remedies": ["Calc phos", "Calc carb", "Silicea"]
+    }
+  },
+  {
+    "test_name": "Vitamin B12",
+    "category": "Nutrition / Neurology",
+    "normal_range": "200 - 900 pg/mL",
+    "abnormal_interpretation": {
+      "low": "Pernicious anemia, neuropathy, memory issues"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia, macrocytic", "Numbness", "Weakness of memory"],
+      "key_remedies": ["Phosphoric acid", "Lycopodium", "Nat mur", "Silicea"]
+    }
+  },
+  {
+    "test_name": "Folic Acid (Serum Folate)",
+    "category": "Nutrition",
+    "normal_range": "2.7 - 17.0 ng/mL",
+    "abnormal_interpretation": {
+      "low": "Macrocytic anemia, malnutrition",
+      "high": "Rare, usually due to supplementation"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia", "Fatigue from deficiency"],
+      "key_remedies": ["China", "Phosphorus", "Calc phos"]
+    }
+  },
+  {
+    "test_name": "Serum Ferritin",
+    "category": "Iron Storage",
+    "normal_range": {
+      "male": "20 - 500 ng/mL",
+      "female": "20 - 200 ng/mL"
+    },
+    "abnormal_interpretation": {
+      "low": "Iron deficiency",
+      "high": "Inflammation, liver disease, hemochromatosis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia, ferritin low", "Inflammatory state"],
+      "key_remedies": ["Ferrum met", "China", "Ars alb"]
+    }
+  },
+  {
+    "test_name": "D-Dimer",
+    "category": "Clotting / Inflammation",
+    "normal_range": "Less than 500 ng/mL",
+    "abnormal_interpretation": {
+      "high": "DVT, pulmonary embolism, COVID-19 complications"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Clotting tendency", "Thrombosis", "Post-viral effects"],
+      "key_remedies": ["Lachesis", "Crotalus", "Arnica"]
+    }
+  },
+  {
+    "test_name": "LDH (Lactate Dehydrogenase)",
+    "category": "Tissue damage marker",
+    "normal_range": "140 - 280 U/L",
+    "abnormal_interpretation": {
+      "high": "Tissue damage, hemolysis, heart/liver disease"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Fatigue after exertion", "Hemolysis tendency"],
+      "key_remedies": ["China", "Phos acid", "Ferrum phos"]
+    }
+  },
+  {
+    "test_name": "Procalcitonin",
+    "category": "Sepsis / Infection Marker",
+    "normal_range": "< 0.1 ng/mL",
+    "abnormal_interpretation": {
+      "high": "Bacterial infection, sepsis, pneumonia"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Septic state", "Infection, severe"],
+      "key_remedies": ["Pyrogen", "Ars alb", "Baptisia"]
+    }
+  },
+  {
+    "test_name": "Creatine Kinase (CK/CPK)",
+    "category": "Muscle Injury Marker",
+    "normal_range": "22 - 198 U/L",
+    "abnormal_interpretation": {
+      "high": "Muscle injury, myocardial infarction"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Muscle pain", "Post exertional fatigue"],
+      "key_remedies": ["Rhus tox", "Arnica", "Ruta"]
+    }
+  },
+  {
+    "test_name": "Troponin I/T",
+    "category": "Cardiac Marker",
+    "normal_range": "< 0.04 ng/mL",
+    "abnormal_interpretation": {
+      "high": "Myocardial infarction, heart injury"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Heart attack", "Palpitation", "Chest pain"],
+      "key_remedies": ["Cactus", "Crataegus", "Spigelia"]
+    }
+  },
+  {
+    "test_name": "NT-proBNP",
+    "category": "Heart Failure Marker",
+    "normal_range": "< 125 pg/mL",
+    "abnormal_interpretation": {
+      "high": "Congestive heart failure"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Heart failure", "Shortness of breath", "Edema"],
+      "key_remedies": ["Digitalis", "Cactus", "Adonis vernalis"]
+    }
+  },
+  {
+    "test_name": "Eosinophil Count",
+    "category": "Allergy / Parasitic Marker",
+    "normal_range": "1 - 6%",
+    "abnormal_interpretation": {
+      "high": "Allergic diseases, asthma, parasitic infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Allergy", "Asthma", "Worms"],
+      "key_remedies": ["Natrum mur", "Sabadilla", "Cina"]
+    }
+  },
+  {
+    "test_name": "IgE (Total)",
+    "category": "Allergy",
+    "normal_range": "< 100 IU/mL",
+    "abnormal_interpretation": {
+      "high": "Allergies, atopic conditions"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Allergic constitution", "Recurrent cold", "Skin eruptions"],
+      "key_remedies": ["Histaminum", "Psorinum", "Sulphur"]
+    }
+  },
+  {
+    "test_name": "COVID-19 RTPCR",
+    "category": "Viral Infection",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "SARS-CoV-2 infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Fever, viral", "Breathlessness", "Post-viral fatigue"],
+      "key_remedies": ["Bryonia", "Arsenicum alb", "Gelsemium", "Influenzinum"]
+    }
+  },
+  {
+    "test_name": "COVID-19 Antibody IgG",
+    "category": "Immunity / Past Infection",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "Past infection or vaccination response"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Post-infection fatigue", "Recovered COVID cases"],
+      "key_remedies": ["Gelsemium", "Phos acid", "Ars alb"]
+    }
+  },
+  {
+    "test_name": "RT-PCR for Influenza A/B",
+    "category": "Viral Infection",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "Flu infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Influenza", "Cold with body pain"],
+      "key_remedies": ["Eupatorium perf", "Gelsemium", "Bryonia"]
+    }
+  },
+  {
+    "test_name": "Mantoux Test (Tuberculin Skin Test)",
+    "category": "Tuberculosis",
+    "normal_range": "< 10 mm",
+    "abnormal_interpretation": {
+      "positive": "Tuberculosis infection (latent or active)"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Tuberculosis", "Chronic cough", "Loss of weight"],
+      "key_remedies": ["Tuberculinum", "Phosphorus", "Silicea"]
+    }
+  },
+  {
+    "test_name": "Sputum for AFB",
+    "category": "TB Diagnosis",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "Pulmonary tuberculosis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Cough, morning, yellow sputum", "Lung infection"],
+      "key_remedies": ["Tuberculinum", "Kali carb", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "Chest X-ray",
+    "category": "Imaging",
+    "normal_range": "Normal",
+    "abnormal_interpretation": {
+      "findings": "Consolidation, cavity, fibrosis, effusion"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Pneumonia", "Fibrosis", "Lung cavitation"],
+      "key_remedies": ["Bryonia", "Ant tart", "Silicea", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "ECG (Electrocardiogram)",
+    "category": "Cardiac",
+    "normal_range": "Normal sinus rhythm",
+    "abnormal_interpretation": {
+      "findings": "Arrhythmia, ischemia, MI"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Palpitation", "Chest pain, cardiac"],
+      "key_remedies": ["Digitalis", "Cactus", "Spigelia"]
+    }
+  },
+  {
+    "test_name": "Ultrasound Abdomen",
+    "category": "Imaging",
+    "normal_range": "Normal size and echotexture of organs",
+    "abnormal_interpretation": {
+      "findings": "Fatty liver, gallstones, cysts, ascites"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Gallstones", "Fatty liver", "Cystic diseases"],
+      "key_remedies": ["Chelidonium", "Lycopodium", "Berberis", "Nux vomica"]
+    }
+  },
+  {
+    "test_name": "MRI Brain",
+    "category": "Imaging",
+    "normal_range": "No abnormalities detected",
+    "abnormal_interpretation": {
+      "findings": "Lesions, tumors, infarcts, demyelination"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Headache, chronic", "Brain tumors", "Epilepsy"],
+      "key_remedies": ["Helleborus", "Belladonna", "Conium"]
+    }
+  },
+  {
+    "test_name": "CT Scan Chest",
+    "category": "Imaging",
+    "normal_range": "Normal lung fields",
+    "abnormal_interpretation": {
+      "findings": "Fibrosis, infection, cavities, pleural effusion"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Lung diseases", "Effusion", "Cavities"],
+      "key_remedies": ["Phosphorus", "Bryonia", "Tuberculinum"]
+    }
+  },
+  {
+    "test_name": "PET-CT Scan",
+    "category": "Cancer Detection / Metabolic Imaging",
+    "normal_range": "No abnormal FDG uptake",
+    "abnormal_interpretation": {
+      "positive": "Cancer, metastasis, inflammation"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Cancer", "Cachexia", "Tumors"],
+      "key_remedies": ["Carcinosin", "Conium", "Thuja"]
+    }
+  },
+  {
+    "test_name": "Biopsy Report",
+    "category": "Histopathology",
+    "normal_range": "No malignancy",
+    "abnormal_interpretation": {
+      "findings": "Benign or malignant tumor, dysplasia"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Tumor, benign", "Tumor, malignant", "Induration"],
+      "key_remedies": ["Conium", "Carcinosin", "Scirrhinum", "Thuja"]
+    }
+  },
+  {
+    "test_name": "ESR (Erythrocyte Sedimentation Rate)",
+    "category": "Inflammation Marker",
+    "normal_range": {
+      "male": "0 - 15 mm/hr",
+      "female": "0 - 20 mm/hr"
+    },
+    "abnormal_interpretation": {
+      "high": "Chronic infection, inflammation, anemia, TB"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Chronic inflammation", "TB suspicion", "Anemia"],
+      "key_remedies": ["Phosphorus", "Tuberculinum", "Kali carb"]
+    }
+  },
+  {
+    "test_name": "Prothrombin Time (PT)",
+    "category": "Coagulation",
+    "normal_range": "11 - 13.5 seconds",
+    "abnormal_interpretation": {
+      "high": "Bleeding risk, liver disease, anticoagulant use"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Bleeding tendency", "Clotting delay"],
+      "key_remedies": ["Crotalus", "Phosphorus", "Hamamelis"]
+    }
+  },
+  {
+    "test_name": "INR (International Normalized Ratio)",
+    "category": "Coagulation",
+    "normal_range": "0.8 - 1.2",
+    "abnormal_interpretation": {
+      "high": "Excessive anticoagulation, bleeding risk"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Bleeding", "Bruising easily", "Anticoagulant side effects"],
+      "key_remedies": ["Lachesis", "Phosphorus", "Hamamelis"]
+    }
+  },
+  {
+    "test_name": "Activated Partial Thromboplastin Time (aPTT)",
+    "category": "Coagulation",
+    "normal_range": "25 - 35 seconds",
+    "abnormal_interpretation": {
+      "high": "Bleeding disorder, heparin therapy"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Hemophilia", "Prolonged bleeding"],
+      "key_remedies": ["Phosphorus", "Sulphur", "Hamamelis"]
+    }
+  },
+  {
+    "test_name": "Platelet Count",
+    "category": "Hematology",
+    "normal_range": "1.5 - 4.5 lakh/µL",
+    "abnormal_interpretation": {
+      "low": "Dengue, viral fever, bone marrow suppression",
+      "high": "Myeloproliferative disorders"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Bleeding, low platelets", "Hemorrhagic tendency"],
+      "key_remedies": ["Crotalus", "China", "Carica papaya"]
+    }
+  },
+  {
+    "test_name": "Reticulocyte Count",
+    "category": "Hematology",
+    "normal_range": "0.5% - 2.5%",
+    "abnormal_interpretation": {
+      "high": "Hemolysis, recent blood loss",
+      "low": "Bone marrow suppression"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia, regenerative", "Bone marrow depression"],
+      "key_remedies": ["Ferrum met", "China", "Phosphoric acid"]
+    }
+  },
+  {
+    "test_name": "Peripheral Blood Smear",
+    "category": "Hematology",
+    "normal_range": "Normal RBC, WBC, Platelet morphology",
+    "abnormal_interpretation": {
+      "findings": "Anisocytosis, poikilocytosis, blasts, parasites"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia types", "Malaria parasites", "Leukemia suspicion"],
+      "key_remedies": ["Ferrum phos", "Ars alb", "Ceanothus"]
+    }
+  },
+  {
+    "test_name": "Bone Marrow Biopsy",
+    "category": "Hematology / Oncology",
+    "normal_range": "Normal cellularity",
+    "abnormal_interpretation": {
+      "findings": "Leukemia, lymphoma, aplastic anemia"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Leukemia", "Aplastic anemia", "Bone marrow disorders"],
+      "key_remedies": ["Hydrastis", "Ars iod", "Ceanothus"]
+    }
+  },
+  {
+    "test_name": "CEA (Carcinoembryonic Antigen)",
+    "category": "Tumor Marker",
+    "normal_range": "< 2.5 ng/mL (non-smoker)",
+    "abnormal_interpretation": {
+      "high": "Colon cancer, GI cancers"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Cancer of colon", "Tumor of GIT"],
+      "key_remedies": ["Carcinosin", "Conium", "Hydrastis"]
+    }
+  },
+  {
+    "test_name": "CA-125",
+    "category": "Tumor Marker",
+    "normal_range": "< 35 U/mL",
+    "abnormal_interpretation": {
+      "high": "Ovarian cancer, endometriosis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Ovarian cysts", "Ovarian cancer"],
+      "key_remedies": ["Apis", "Lachesis", "Sepia"]
+    }
+  },
+  {
+    "test_name": "CA 19-9",
+    "category": "Tumor Marker",
+    "normal_range": "< 37 U/mL",
+    "abnormal_interpretation": {
+      "high": "Pancreatic cancer, GI tumors"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Pancreatic complaints", "Tumor of pancreas"],
+      "key_remedies": ["Iris versicolor", "Chelidonium", "Conium"]
+    }
+  },
+  {
+    "test_name": "PSA (Prostate Specific Antigen)",
+    "category": "Prostate / Tumor Marker",
+    "normal_range": "< 4 ng/mL",
+    "abnormal_interpretation": {
+      "high": "Prostate cancer, prostatitis, BPH"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Prostate enlargement", "Prostate cancer"],
+      "key_remedies": ["Sabal serrulata", "Conium", "Chimaphila"]
+    }
+  },
+  {
+    "test_name": "Beta-hCG",
+    "category": "Pregnancy / Tumor Marker",
+    "normal_range": "< 5 mIU/mL",
+    "abnormal_interpretation": {
+      "high": "Pregnancy, choriocarcinoma, molar pregnancy"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Pregnancy, molar", "HCG levels abnormal"],
+      "key_remedies": ["Hydrastis", "Sepia", "Sabina"]
+    }
+  },
+  {
+    "test_name": "Thyroglobulin",
+    "category": "Thyroid / Tumor Marker",
+    "normal_range": "< 55 ng/mL",
+    "abnormal_interpretation": {
+      "high": "Thyroid cancer, thyrotoxicosis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Thyroid tumor", "Hyperthyroidism"],
+      "key_remedies": ["Iodium", "Lapis alba", "Thyroidinum"]
+    }
+  },
+  {
+    "test_name": "Calcitonin",
+    "category": "Tumor Marker",
+    "normal_range": "< 10 pg/mL",
+    "abnormal_interpretation": {
+      "high": "Medullary thyroid carcinoma"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Thyroid tumor, medullary"],
+      "key_remedies": ["Iodium", "Spongia", "Thyroidinum"]
+    }
+  },
+  {
+    "test_name": "Anti-TPO Antibody",
+    "category": "Thyroid Autoimmune",
+    "normal_range": "< 35 IU/mL",
+    "abnormal_interpretation": {
+      "high": "Hashimoto’s thyroiditis, autoimmune hypothyroid"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Thyroiditis, autoimmune", "Hypothyroidism"],
+      "key_remedies": ["Thyroidinum", "Sepia", "Calc carb"]
+    }
+  },
+  {
+    "test_name": "Anti-Tg Antibody",
+    "category": "Thyroid Autoimmune",
+    "normal_range": "< 4 IU/mL",
+    "abnormal_interpretation": {
+      "high": "Autoimmune thyroid disorders"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Thyroid autoimmune", "Hashimoto’s disease"],
+      "key_remedies": ["Thyroidinum", "Iodium", "Calc carb"]
+    }
+  },
+  {
+    "test_name": "Anti-CCP Antibody",
+    "category": "Autoimmune / Arthritis",
+    "normal_range": "< 20 U/mL",
+    "abnormal_interpretation": {
+      "high": "Rheumatoid arthritis (high specificity)"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Rheumatoid arthritis", "Joint destruction"],
+      "key_remedies": ["Rhus tox", "Causticum", "Bryonia"]
+    }
+  },
+  {
+    "test_name": "HLA-B27",
+    "category": "Genetic Marker",
+    "normal_range": "Negative",
+    "abnormal_interpretation": {
+      "positive": "Ankylosing spondylitis, autoimmune arthropathies"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Ankylosing spondylitis", "Stiff back"],
+      "key_remedies": ["Kali carb", "Rhus tox", "Calc fluor"]
+    }
+  },
+  {
+    "test_name": "Hb Electrophoresis",
+    "category": "Genetic / Hematology",
+    "normal_range": "HbA > 95%, HbF < 2%, HbA2 < 3.5%",
+    "abnormal_interpretation": {
+      "findings": "Thalassemia, sickle cell disease"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia, genetic", "Hemoglobinopathy"],
+      "key_remedies": ["Ferrum met", "China", "Ceanothus"]
+    }
+  },
+  {
+    "test_name": "Karyotyping",
+    "category": "Genetic",
+    "normal_range": "Normal 46,XX or 46,XY",
+    "abnormal_interpretation": {
+      "findings": "Genetic syndromes, chromosomal abnormalities"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Genetic disorders", "Congenital anomalies"],
+      "key_remedies": ["Baryta carb", "Tuberculinum", "Calc carb"]
+    }
+  },
+  {
+    "test_name": "Amniocentesis",
+    "category": "Prenatal Diagnosis",
+    "normal_range": "No chromosomal abnormality",
+    "abnormal_interpretation": {
+      "findings": "Down syndrome, spina bifida, etc."
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Congenital disorders", "Pregnancy complication"],
+      "key_remedies": ["Sepia", "Pulsatilla", "Calc phos"]
+    }
+  },
+  {
+    "test_name": "OGTT (Oral Glucose Tolerance Test)",
+    "category": "Diabetes",
+    "normal_range": {
+      "fasting": "< 100 mg/dL",
+      "2hr_post_glucose": "< 140 mg/dL"
+    },
+    "abnormal_interpretation": {
+      "impaired": "140 - 199 mg/dL (prediabetes)",
+      "diabetes": "≥ 200 mg/dL"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Glycosuria", "Increased thirst", "Diabetes tendency"],
+      "key_remedies": ["Syzygium", "Phosphoric acid", "Uranium nitricum"]
+    }
+  },
+  {
+    "test_name": "GTT for Gestational Diabetes",
+    "category": "Pregnancy / Diabetes",
+    "normal_range": {
+      "fasting": "< 92 mg/dL",
+      "1 hour": "< 180 mg/dL",
+      "2 hour": "< 153 mg/dL"
+    },
+    "abnormal_interpretation": {
+      "high": "Gestational diabetes mellitus"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Pregnancy with diabetes", "Gestational diabetes"],
+      "key_remedies": ["Syzygium", "Secale cor", "Nat mur"]
+    }
+  },
+  {
+    "test_name": "Triple Marker Test",
+    "category": "Prenatal Screening",
+    "normal_range": "Age-dependent values for AFP, hCG, Estriol",
+    "abnormal_interpretation": {
+      "findings": "Down syndrome, neural tube defects"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Congenital anomaly risk", "Fetal abnormality"],
+      "key_remedies": ["Calc phos", "Baryta carb", "Sepia"]
+    }
+  },
+  {
+    "test_name": "Quadruple Marker Test",
+    "category": "Prenatal Screening",
+    "normal_range": "AFP, hCG, Estriol, Inhibin A within age limits",
+    "abnormal_interpretation": {
+      "findings": "Genetic disorders like Trisomy 21"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Genetic anomaly", "Congenital conditions"],
+      "key_remedies": ["Baryta mur", "Tuberculinum", "Calcarea"]
+    }
+  },
+  {
+    "test_name": "TORCH Panel",
+    "category": "Infectious Disease / Pregnancy",
+    "normal_range": "IgM Negative for all",
+    "abnormal_interpretation": {
+      "positive": "Toxoplasmosis, Rubella, CMV, HSV infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Recurrent abortion", "Congenital infection"],
+      "key_remedies": ["Thuja", "Medorrhinum", "Cundurango"]
+    }
+  },
+  {
+    "test_name": "Rubella IgG/IgM",
+    "category": "Pregnancy Screening",
+    "normal_range": {
+      "IgG": "Positive = immune",
+      "IgM": "Negative = no active infection"
+    },
+    "abnormal_interpretation": {
+      "IgM positive": "Active rubella – risk to fetus"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Fever in pregnancy", "Rubella history"],
+      "key_remedies": ["Pulsatilla", "Sepia", "Thuja"]
+    }
+  },
+  {
+    "test_name": "CMV IgM/IgG",
+    "category": "Pregnancy Infection",
+    "normal_range": {
+      "IgG positive": "past infection",
+      "IgM negative": "no active infection"
+    },
+    "abnormal_interpretation": {
+      "IgM positive": "Cytomegalovirus – fetal infection risk"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["CMV infection", "Congenital infection"],
+      "key_remedies": ["Medorrhinum", "Merc sol", "Psorinum"]
+    }
+  },
+  {
+    "test_name": "Blood Culture",
+    "category": "Infection",
+    "normal_range": "No growth",
+    "abnormal_interpretation": {
+      "positive": "Sepsis, bacteremia"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Septicemia", "High-grade fever with chills"],
+      "key_remedies": ["Pyrogen", "Baptisia", "Arsenicum album"]
+    }
+  },
+  {
+    "test_name": "Urine Culture",
+    "category": "UTI Diagnosis",
+    "normal_range": "No growth",
+    "abnormal_interpretation": {
+      "positive": "Urinary tract infection"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["UTI", "Burning micturition", "Cloudy urine"],
+      "key_remedies": ["Cantharis", "Sarsaparilla", "Staphysagria"]
+    }
+  },
+  {
+    "test_name": "Stool Culture",
+    "category": "Gastrointestinal Infection",
+    "normal_range": "No growth",
+    "abnormal_interpretation": {
+      "positive": "Bacterial GI infection (e.g., Salmonella, Shigella)"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Diarrhea, offensive", "Gastroenteritis"],
+      "key_remedies": ["Arsenicum album", "Podophyllum", "Aloe"]
+    }
+  },
+  {
+    "test_name": "CSF Analysis",
+    "category": "Neurology / Infection",
+    "normal_range": "Clear, sterile, normal protein/glucose",
+    "abnormal_interpretation": {
+      "findings": "Meningitis, encephalitis, raised pressure"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Meningitis", "Headache with stiffness", "Convulsions"],
+      "key_remedies": ["Helleborus", "Belladonna", "Cicuta"]
+    }
+  },
+  {
+    "test_name": "Synovial Fluid Analysis",
+    "category": "Joint Disorders",
+    "normal_range": "Clear, low WBC, no crystals",
+    "abnormal_interpretation": {
+      "findings": "Septic arthritis, gout, RA"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Joint effusion", "Gout", "Arthritis"],
+      "key_remedies": ["Colchicum", "Rhus tox", "Ledum"]
+    }
+  },
+  {
+    "test_name": "Pleural Fluid Analysis",
+    "category": "Respiratory / Chest",
+    "normal_range": "Clear, low protein, sterile",
+    "abnormal_interpretation": {
+      "findings": "Pleural effusion, TB, malignancy"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Pleural effusion", "Chest oppression"],
+      "key_remedies": ["Bryonia", "Phosphorus", "Kali carb"]
+    }
+  },
+  {
+    "test_name": "Ascitic Fluid Analysis",
+    "category": "Abdomen / Liver",
+    "normal_range": "Clear, no infection/malignancy",
+    "abnormal_interpretation": {
+      "findings": "Ascites due to cirrhosis, TB, malignancy"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Ascites", "Liver disease with fluid retention"],
+      "key_remedies": ["Apis", "Carduus", "Arsenicum album"]
+    }
+  },
+  {
+    "test_name": "Amylase",
+    "category": "Pancreas",
+    "normal_range": "30 - 110 U/L",
+    "abnormal_interpretation": {
+      "high": "Pancreatitis, salivary gland disorder"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Pancreatitis", "Nausea with pain", "Upper abdomen pain"],
+      "key_remedies": ["Iris versicolor", "Bryonia", "Belladonna"]
+    }
+  },
+  {
+    "test_name": "Lipase",
+    "category": "Pancreas",
+    "normal_range": "10 - 140 U/L",
+    "abnormal_interpretation": {
+      "high": "Pancreatitis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Pancreas inflammation", "Sharp epigastric pain"],
+      "key_remedies": ["Iris versicolor", "Chelidonium", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "Sweat Chloride Test",
+    "category": "Cystic Fibrosis Diagnosis",
+    "normal_range": "< 39 mmol/L",
+    "abnormal_interpretation": {
+      "≥ 60": "Suggestive of cystic fibrosis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Thick mucus", "Recurrent lung infections", "Malabsorption"],
+      "key_remedies": ["Kali bich", "Ant tart", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "24-Hour Urine Protein",
+    "category": "Renal Function",
+    "normal_range": "< 150 mg/24 hrs",
+    "abnormal_interpretation": {
+      "high": "Proteinuria, nephrotic syndrome"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Urine albuminous", "Edema with urination issues"],
+      "key_remedies": ["Apis", "Arsenicum alb", "Mercurius corr"]
+    }
+  },
+  {
+    "test_name": "24-Hour Urine Calcium",
+    "category": "Metabolic / Kidney Stones",
+    "normal_range": "100 - 300 mg/day",
+    "abnormal_interpretation": {
+      "high": "Hypercalciuria – stone risk",
+      "low": "Hypocalciuria – nutritional deficiency"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Renal calculi", "Bone calcium loss"],
+      "key_remedies": ["Berberis vulgaris", "Calcarea carb", "Sarsaparilla"]
+    }
+  },
+  {
+    "test_name": "Beta-2 Microglobulin (Urine)",
+    "category": "Renal Tubular Marker",
+    "normal_range": "< 300 µg/L",
+    "abnormal_interpretation": {
+      "high": "Tubular dysfunction, nephritis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Kidney inflammation", "Tubular dysfunction"],
+      "key_remedies": ["Ars alb", "Terebinthina", "Merc corr"]
+    }
+  },
+  {
+    "test_name": "HOMA-IR (Insulin Resistance Index)",
+    "category": "Metabolic Syndrome",
+    "normal_range": "< 2.0",
+    "abnormal_interpretation": {
+      "high": "Insulin resistance – prediabetes/PCOS"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["PCOD", "Obesity with irregular menses"],
+      "key_remedies": ["Pulsatilla", "Sepia", "Graphites"]
+    }
+  },
+  {
+    "test_name": "Leptin",
+    "category": "Obesity Hormone",
+    "normal_range": "Depends on BMI/age",
+    "abnormal_interpretation": {
+      "high": "Leptin resistance – obesity",
+      "low": "Anorexia, low fat stores"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Obesity", "Loss of appetite"],
+      "key_remedies": ["Calc carb", "Antimonium crudum", "Nat mur"]
+    }
+  },
+  {
+    "test_name": "Adiponectin",
+    "category": "Metabolic / Obesity",
+    "normal_range": "4 – 26 µg/mL",
+    "abnormal_interpretation": {
+      "low": "Associated with obesity, insulin resistance"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Obesity", "Metabolic dysfunction"],
+      "key_remedies": ["Calcarea carb", "Antimonium crudum", "Graphites"]
+    }
+  },
+  {
+    "test_name": "Homocysteine",
+    "category": "Cardiovascular / Nutrition",
+    "normal_range": "5 – 15 µmol/L",
+    "abnormal_interpretation": {
+      "high": "Vitamin B deficiency, cardiovascular risk"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Atherosclerosis", "Memory loss", "Fatigue"],
+      "key_remedies": ["Baryta mur", "Phosphoric acid", "Crataegus"]
+    }
+  },
+  {
+    "test_name": "Serum Ceruloplasmin",
+    "category": "Liver / Wilson’s Disease",
+    "normal_range": "20 – 40 mg/dL",
+    "abnormal_interpretation": {
+      "low": "Wilson’s disease, copper metabolism disorder"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Tremors", "Liver degeneration", "Neurological disorders"],
+      "key_remedies": ["Cuprum met", "Chelidonium", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "Serum Copper",
+    "category": "Liver / Metabolism",
+    "normal_range": "70 – 140 µg/dL",
+    "abnormal_interpretation": {
+      "low": "Wilson’s disease",
+      "high": "Copper toxicity"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Tremors", "Metallic toxicity", "Liver degeneration"],
+      "key_remedies": ["Cuprum met", "Nux vomica", "Chelidonium"]
+    }
+  },
+  {
+    "test_name": "Serum Zinc",
+    "category": "Nutritional / Skin",
+    "normal_range": "70 – 120 µg/dL",
+    "abnormal_interpretation": {
+      "low": "Growth retardation, immunity issues, skin disorders"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Skin eruptions", "Delayed healing", "Growth issues"],
+      "key_remedies": ["Calcarea phos", "Silicea", "Zincum met"]
+    }
+  },
+  {
+    "test_name": "Serum Magnesium",
+    "category": "Metabolic / Muscle / Nerve",
+    "normal_range": "1.5 – 2.5 mEq/L",
+    "abnormal_interpretation": {
+      "low": "Muscle cramps, weakness, arrhythmias"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Cramps", "Muscle twitching", "Weakness"],
+      "key_remedies": ["Mag phos", "Zincum met", "Cuprum met"]
+    }
+  },
+  {
+    "test_name": "Serum Selenium",
+    "category": "Antioxidant / Thyroid",
+    "normal_range": "70 – 150 µg/L",
+    "abnormal_interpretation": {
+      "low": "Thyroid dysfunction, fatigue"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Hair fall", "Fatigue", "Thyroid issues"],
+      "key_remedies": ["Selenium", "Calc carb", "Phosphoric acid"]
+    }
+  },
+  {
+    "test_name": "Serum Manganese",
+    "category": "Trace Elements",
+    "normal_range": "4.7 – 18.3 µg/L",
+    "abnormal_interpretation": {
+      "high": "Toxicity: neurological symptoms"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Neuralgia", "Toxicity", "Muscle tremors"],
+      "key_remedies": ["Manganum", "Zincum", "Cuprum"]
+    }
+  },
+  {
+    "test_name": "Serum Vitamin A",
+    "category": "Nutritional / Eye",
+    "normal_range": "20 – 80 µg/dL",
+    "abnormal_interpretation": {
+      "low": "Night blindness, dry skin"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Night blindness", "Dry skin", "Vision problems"],
+      "key_remedies": ["Calcarea fluor", "Psorinum", "Sulphur"]
+    }
+  },
+  {
+    "test_name": "Serum Vitamin D3 (25-OH)",
+    "category": "Bone / Immunity",
+    "normal_range": "30 – 100 ng/mL",
+    "abnormal_interpretation": {
+      "low": "Osteomalacia, fatigue, muscle pain"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Bone pains", "Deficiency disorders", "Lassitude"],
+      "key_remedies": ["Calc phos", "Silicea", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "Serum Vitamin K1",
+    "category": "Clotting",
+    "normal_range": "0.2 – 3.2 ng/mL",
+    "abnormal_interpretation": {
+      "low": "Bleeding disorders, bruising"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Epistaxis", "Bleeding, easy", "Menorrhagia"],
+      "key_remedies": ["Phosphorus", "Hamamelis", "Ferrum met"]
+    }
+  },
+  {
+    "test_name": "Serum Biotin (Vitamin B7)",
+    "category": "Hair / Nails / Skin",
+    "normal_range": "200 – 1200 ng/L",
+    "abnormal_interpretation": {
+      "low": "Hair loss, dermatitis"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Hair fall", "Brittle nails", "Eczema"],
+      "key_remedies": ["Graphites", "Silicea", "Lycopodium"]
+    }
+  },
+  {
+    "test_name": "Serum Cobalt",
+    "category": "B12 Metabolism",
+    "normal_range": "0.1 – 1.0 µg/L",
+    "abnormal_interpretation": {
+      "low": "B12 deficiency",
+      "high": "Cobalt toxicity"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Anemia", "Neuropathy", "Toxic effects"],
+      "key_remedies": ["Ferrum met", "Phosphoric acid", "Arsenicum"]
+    }
+  },
+  {
+    "test_name": "Serum Fluoride",
+    "category": "Bone / Dental",
+    "normal_range": "0.5 – 1.5 mg/L",
+    "abnormal_interpretation": {
+      "high": "Fluorosis – bone/joint issues, mottled teeth"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Bone pain", "Tooth mottling", "Joint stiffness"],
+      "key_remedies": ["Fluoric acid", "Calc fluor", "Silicea"]
+    }
+  },
+  {
+    "test_name": "Serum Lithium",
+    "category": "Psychiatric / Toxicology",
+    "normal_range": "0.6 – 1.2 mEq/L (therapeutic)",
+    "abnormal_interpretation": {
+      "high": "Lithium toxicity – tremors, nausea, confusion"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Delirium", "Toxic drug effects", "Mania"],
+      "key_remedies": ["Veratrum album", "Hyoscyamus", "Belladonna"]
+    }
+  },
+  {
+    "test_name": "Blood Lead Level",
+    "category": "Toxicology",
+    "normal_range": "< 5 µg/dL",
+    "abnormal_interpretation": {
+      "high": "Lead poisoning – anemia, neuropathy, GI upset"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Lead toxicity", "Constipation", "Colic"],
+      "key_remedies": ["Plumbum", "Opium", "Nux vomica"]
+    }
+  },
+  {
+    "test_name": "Arsenic (Urine/Blood)",
+    "category": "Toxicology",
+    "normal_range": "< 50 µg/L (urine)",
+    "abnormal_interpretation": {
+      "high": "Arsenic poisoning – GI distress, skin pigmentation"
+    },
+    "homeopathic_relevance": {
+      "rubrics": [
+        "Arsenic poisoning",
+        "Anxiety with weakness",
+        "Skin eruptions"
+      ],
+      "key_remedies": ["Arsenicum album", "Sulphur", "Carbo veg"]
+    }
+  },
+  {
+    "test_name": "Mercury (Urine)",
+    "category": "Toxicology / Neurology",
+    "normal_range": "< 10 µg/L",
+    "abnormal_interpretation": {
+      "high": "Tremors, gingivitis, neurotoxicity"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Mercury toxicity", "Tremors", "Mouth ulcers"],
+      "key_remedies": ["Merc sol", "Cuprum met", "Nitric acid"]
+    }
+  },
+  {
+    "test_name": "Cadmium (Urine)",
+    "category": "Toxicology",
+    "normal_range": "< 1 µg/L",
+    "abnormal_interpretation": {
+      "high": "Kidney damage, bone demineralization"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Metal poisoning", "Renal failure", "Bone pain"],
+      "key_remedies": ["Cadmium sulph", "Ars alb", "Calc phos"]
+    }
+  },
+  {
+    "test_name": "Aluminum (Serum)",
+    "category": "Toxicology / Dialysis",
+    "normal_range": "< 10 µg/L",
+    "abnormal_interpretation": {
+      "high": "Bone pain, dementia-like symptoms"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Aluminum toxicity", "Brain fog", "Osteomalacia"],
+      "key_remedies": ["Alumina", "Baryta carb", "Phosphorus"]
+    }
+  },
+  {
+    "test_name": "Nickel (Urine)",
+    "category": "Toxicology / Skin",
+    "normal_range": "< 1 µg/L",
+    "abnormal_interpretation": {
+      "high": "Contact dermatitis, eczema"
+    },
+    "homeopathic_relevance": {
+      "rubrics": ["Nickel allergy", "Dermatitis", "Skin eruptions"],
+      "key_remedies": ["Graphites", "Sulphur", "Petroleum"]
+    }
+  }
+]

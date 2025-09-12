@@ -1,0 +1,184 @@
+[
+  {
+    "disease": "Gout",
+    "tags": [
+      "CommonChronic",
+      "JointPain",
+      "Metabolic",
+      "UricAcid",
+      "Inflammatory",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Acute gout attack in great toe (podagra), red, swollen, extremely sensitive",
+        "grading": {
+          "high": ["Colchicum", "Ledum", "Benzoic acid"],
+          "medium": ["Berberis", "Sulphur"],
+          "low": ["Rhus tox", "Causticum"]
+        },
+        "modality": "< slightest touch, < motion, < night, > rest",
+        "miasm": "Sycosis",
+        "notes": "Hallmark rubric for classical gout presentation"
+      },
+      {
+        "rubric": "Gouty pain in small joints: fingers, wrists, toes",
+        "grading": {
+          "high": ["Lithium carb", "Causticum", "Benzoic acid"],
+          "medium": ["Kali bich", "Rhododendron"],
+          "low": ["Bryonia"]
+        },
+        "modality": "Red, hot, shiny joints; sudden attacks",
+        "miasm": "Syphilitic",
+        "notes": "Chronic deposits and deformity in small joints"
+      },
+      {
+        "rubric": "Gout pain < at night; forces patient to get up",
+        "grading": {
+          "high": ["Colchicum", "Rhododendron", "Arsenicum"],
+          "medium": ["Sulphur", "Ledum"],
+          "low": ["Merc sol"]
+        },
+        "modality": "Pain worse 2–4 a.m., requires walking or cold applications",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Restless aggravation phase, disturbing sleep"
+      },
+      {
+        "rubric": "Gout with uric acid diathesis: offensive, dark urine",
+        "grading": {
+          "high": ["Benzoic acid", "Berberis", "Sarsaparilla"],
+          "medium": ["Lithium carb", "Sulphur"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Urate crystals present, offensive odor",
+        "miasm": "Sycosis",
+        "notes": "Metabolic base with kidney involvement"
+      },
+      {
+        "rubric": "Gout with nodosities (tophi) and joint deformities",
+        "grading": {
+          "high": ["Calcarea fluor", "Hecla lava", "Silicea"],
+          "medium": ["Causticum", "Colchicum"],
+          "low": ["Fluoric acid"]
+        },
+        "modality": "Joints hard, enlarged, disfigured",
+        "miasm": "Syphilitic",
+        "notes": "Chronic gout with bony changes"
+      },
+      {
+        "rubric": "Gout alternating with urinary or gastric complaints",
+        "grading": {
+          "high": ["Lycopodium", "Benzoic acid"],
+          "medium": ["Sulphur", "Colchicum"],
+          "low": ["Sepia"]
+        },
+        "modality": "When joint pain stops, urine or stomach issues begin",
+        "miasm": "Sycosis",
+        "notes": "Suppressed excretion redirected to joints"
+      },
+      {
+        "rubric": "Gout worse from rich food, wine, beer, meat",
+        "grading": {
+          "high": ["Colchicum", "Nux vomica", "Lycopodium"],
+          "medium": ["Pulsatilla", "Sulphur"],
+          "low": ["Ant crud"]
+        },
+        "modality": "Lifestyle-triggered flares",
+        "miasm": "Psora-Sycosis",
+        "notes": "Metabolic-dietary triggers; high uric acid"
+      },
+      {
+        "rubric": "Gout with extreme irritability, cannot bear noise or disturbance",
+        "grading": {
+          "high": ["Nux vomica", "Colchicum", "Chamomilla"],
+          "medium": ["Ignatia", "Arsenicum"],
+          "low": ["Anacardium"]
+        },
+        "modality": "Mentals triggered during attacks",
+        "miasm": "Psora",
+        "notes": "Gouty temperament important in case-matching"
+      }
+    ]
+  },
+  {
+    "disease": "Gout – Intercurrent & Miasmatic",
+    "tags": [
+      "Intercurrent",
+      "Miasmatic",
+      "Gout",
+      "UricAcid",
+      "SuppressedComplaint",
+      "MixedMiasm",
+      "ChronicJointDisease"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Gout with uric acid diathesis and family history of arthritis, kidney stones, or psoriasis",
+        "grading": {
+          "high": ["Benzoicum acidum", "Psorinum", "Medorrhinum"],
+          "medium": ["Tuberculinum", "Lycopodium"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "Dark urine, offensive smell, sediment, gout history in family",
+        "miasm": "Sycosis-Tubercular",
+        "notes": "Inherited uric acid dyscrasia and metabolic miasm"
+      },
+      {
+        "rubric": "Chronic gout with joint deformity, tophi, nodules, bone disintegration",
+        "grading": {
+          "high": ["Syphilinum", "Hecla lava", "Calcarea fluor"],
+          "medium": ["Fluoric acid", "Silicea"],
+          "low": ["Mercurius solubilis"]
+        },
+        "modality": "Joints deformed, stiff, history of night aggravation and bone pathology",
+        "miasm": "Syphilitic",
+        "notes": "Deep miasmatic block → destructive gout"
+      },
+      {
+        "rubric": "Gout alternating or suppressed with urinary / skin complaints",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Thuja"],
+          "medium": ["Graphites", "Lycopodium"],
+          "low": ["Natrum mur"]
+        },
+        "modality": "When joint pain stops, urinary or skin eruptions return",
+        "miasm": "Psora-Sycosis",
+        "notes": "Layered pathology needing miasmatic clearing"
+      },
+      {
+        "rubric": "Gout flares with suppressed anger, humiliation, or long-term grief",
+        "grading": {
+          "high": ["Staphysagria", "Ignatia", "Natrum mur"],
+          "medium": ["Aurum met", "Phosphoric acid"],
+          "low": ["Anacardium"]
+        },
+        "modality": "Emotionally intense, bottled-up type with recurring attacks",
+        "miasm": "Psora-Sycosis",
+        "notes": "Emotional miasm blocking recovery"
+      },
+      {
+        "rubric": "Gout with recurrent relapses despite well-selected remedy",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Medorrhinum"],
+          "medium": ["Tuberculinum", "Syphilinum"],
+          "low": ["Sulphur", "Thuja"]
+        },
+        "modality": "Good remedy improves then fails; new joint involved each time",
+        "miasm": "Mixed miasm",
+        "notes": "Indicates underlying chronic miasmatic obstruction"
+      },
+      {
+        "rubric": "Gout with craving alcohol, rich food, and overindulgence habits",
+        "grading": {
+          "high": ["Nux vomica", "Sulphur", "Lycopodium"],
+          "medium": ["Psorinum", "Colchicum"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "History of excess lifestyle leading to repeated metabolic crises",
+        "miasm": "Psora-Sycosis",
+        "notes": "Clear constitutional basis tied to gouty temperament"
+      }
+    ]
+  }
+]

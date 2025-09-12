@@ -1,0 +1,278 @@
+[
+  {
+    "disease": "Piles (Hemorrhoids)",
+    "tags": ["CommonChronic", "Gastrointestinal", "Rectal"],
+    "rubrics": [
+      {
+        "rubric": "Bleeding painful piles",
+        "grading": {
+          "high": ["Hamamelis", "Ratanhia"],
+          "medium": ["Aesculus", "Nitric acid"],
+          "low": ["Sulphur", "Collinsonia"]
+        },
+        "modality": "Worse after stool, sitting, straining",
+        "miasm": "Syphilis",
+        "notes": "Bright red bleeding with intense pain"
+      },
+      {
+        "rubric": "Blind (non-bleeding) piles with backache",
+        "grading": {
+          "high": ["Aesculus", "Sulphur"],
+          "medium": ["Graphites", "Collinsonia"],
+          "low": ["Ratanhia", "Lycopodium"]
+        },
+        "modality": "Worse standing, walking; better cold bathing",
+        "miasm": "Psora",
+        "notes": "Dry, hard stools with dull lumbar pain"
+      },
+      {
+        "rubric": "Burning piles with raw soreness",
+        "grading": {
+          "high": ["Sulphur", "Aloe"],
+          "medium": ["Ratanhia", "Nitric acid"],
+          "low": ["Hamamelis", "Paeonia"]
+        },
+        "modality": "Worse after stool, hot weather",
+        "miasm": "Psora-Sycosis",
+        "notes": "Intense rawness, itching, heat in anus"
+      },
+      {
+        "rubric": "Stitching or sharp pain during and after stool",
+        "grading": {
+          "high": ["Nitric acid", "Ratanhia"],
+          "medium": ["Thuja", "Sulphur"],
+          "low": ["Aesculus", "Ignatia"]
+        },
+        "modality": "Needle-like pain that lasts for hours",
+        "miasm": "Syphilitic",
+        "notes": "Often associated with fissures or ulceration"
+      },
+      {
+        "rubric": "Protruding piles < walking or standing",
+        "grading": {
+          "high": ["Aloe", "Aesculus"],
+          "medium": ["Sulphur", "Nux vomica"],
+          "low": ["Hamamelis", "Paeonia"]
+        },
+        "modality": "Worse with exertion, heat, and tight clothing",
+        "miasm": "Sycosis",
+        "notes": "Prolapsed piles that protrude and retract"
+      },
+      {
+        "rubric": "Piles with itching and crawling in anus",
+        "grading": {
+          "high": ["Sulphur", "Aesculus"],
+          "medium": ["Graphites", "Teucrium"],
+          "low": ["Ignatia", "Ratanhia"]
+        },
+        "modality": "Often worse at night, heat, after stool",
+        "miasm": "Psora",
+        "notes": "Worm-like sensation; raw and irritable anus"
+      },
+      {
+        "rubric": "Piles with sensation of a lump or fullness",
+        "grading": {
+          "high": ["Aesculus", "Collinsonia"],
+          "medium": ["Aloe", "Sulphur"],
+          "low": ["Calcarea fluor", "Sepia"]
+        },
+        "modality": "Worse standing, better lying",
+        "miasm": "Psora",
+        "notes": "Engorged, congested veins; portal stasis"
+      },
+      {
+        "rubric": "Piles with constipation and hard stool",
+        "grading": {
+          "high": ["Nux vomica", "Aesculus"],
+          "medium": ["Graphites", "Bryonia"],
+          "low": ["Sulphur", "Alumina"]
+        },
+        "modality": "Dry, difficult stool irritates hemorrhoids",
+        "miasm": "Psora",
+        "notes": "Straining worsens piles, causes bleeding"
+      },
+      {
+        "rubric": "Hemorrhoids during pregnancy",
+        "grading": {
+          "high": ["Collinsonia", "Sepia"],
+          "medium": ["Aesculus", "Pulsatilla"],
+          "low": ["Nux vomica", "Hamamelis"]
+        },
+        "modality": "Worse during 2nd/3rd trimester",
+        "miasm": "Psora-Sycosis",
+        "notes": "Venous congestion of pelvis and portal system"
+      },
+      {
+        "rubric": "Piles with pulsating or throbbing sensation",
+        "grading": {
+          "high": ["Aesculus", "Aloe"],
+          "medium": ["Sulphur", "Hamamelis"],
+          "low": ["Lachesis"]
+        },
+        "modality": "Throbbing after long standing or hard stool",
+        "miasm": "Psora",
+        "notes": "Rectal venous stasis with inflammation"
+      },
+      {
+        "rubric": "Hemorrhoids after suppressed eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Calcarea sulph", "Graphites"],
+          "low": ["Aloe", "Sepia"]
+        },
+        "modality": "Skin symptoms vanish → piles appear",
+        "miasm": "Psora",
+        "notes": "Shifting of psoric discharge to rectum"
+      }
+    ]
+  },
+  {
+    "disease": "Piles (Hemorrhoids)",
+    "tags": ["CommonChronic", "Gastrointestinal", "Rectal"],
+    "rubrics": [
+      {
+        "rubric": "Piles with portal congestion and liver complaints",
+        "grading": {
+          "high": ["Aesculus", "Sulphur"],
+          "medium": ["Nux vomica", "Collinsonia"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Associated with liver enlargement, pain in liver region",
+        "miasm": "Psora-Sycosis",
+        "notes": "Venous stasis from sluggish liver function"
+      },
+      {
+        "rubric": "Piles with discharge of mucus from anus",
+        "grading": {
+          "high": ["Aloe", "Nitric acid"],
+          "medium": ["Sulphur", "Teucrium"],
+          "low": ["Ratanhia", "Collinsonia"]
+        },
+        "modality": "Mucous irritation with rawness",
+        "miasm": "Sycosis",
+        "notes": "Suggests catarrhal piles or prolapsing mucosa"
+      },
+      {
+        "rubric": "Piles after suppression of sexual desire",
+        "grading": {
+          "high": ["Staphysagria", "Lycopodium"],
+          "medium": ["Sulphur", "Nux vomica"],
+          "low": ["Thuja"]
+        },
+        "modality": "Venous engorgement post-emotional suppression",
+        "miasm": "Sycosis",
+        "notes": "Deep constitutional trigger"
+      },
+      {
+        "rubric": "Piles from sedentary habits or mental strain",
+        "grading": {
+          "high": ["Nux vomica", "Sulphur"],
+          "medium": ["Aesculus", "Collinsonia"],
+          "low": ["Ignatia", "Graphites"]
+        },
+        "modality": "Sitting long hours; brain work without movement",
+        "miasm": "Psora",
+        "notes": "IT workers, students, writers"
+      },
+      {
+        "rubric": "Piles worse during summer heat",
+        "grading": {
+          "high": ["Sulphur", "Aloe"],
+          "medium": ["Graphites", "Ratanhia"],
+          "low": ["Hamamelis"]
+        },
+        "modality": "Increased itching and congestion in hot weather",
+        "miasm": "Psora",
+        "notes": "Vascular dilation and pruritus"
+      },
+      {
+        "rubric": "Piles with prolapse of rectum",
+        "grading": {
+          "high": ["Aloe", "Podophyllum"],
+          "medium": ["Ignatia", "Sepia"],
+          "low": ["Sulphur", "Teucrium"]
+        },
+        "modality": "Occurs with or independent of stool",
+        "miasm": "Psora-Sycosis",
+        "notes": "Anal muscle weakness, chronic straining"
+      },
+      {
+        "rubric": "Piles during menopause",
+        "grading": {
+          "high": ["Sepia", "Lachesis"],
+          "medium": ["Sulphur", "Pulsatilla"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Climacteric congestion and hormonal venous weakness",
+        "miasm": "Psora",
+        "notes": "Part of pelvic stasis syndrome"
+      },
+      {
+        "rubric": "Piles with anal fissures",
+        "grading": {
+          "high": ["Nitric acid", "Ratanhia"],
+          "medium": ["Aesculus", "Paeonia"],
+          "low": ["Hamamelis", "Nux vomica"]
+        },
+        "modality": "Painful stool with cracks and bleeding",
+        "miasm": "Syphilis",
+        "notes": "Fissure-pile complex is common in practice"
+      },
+      {
+        "rubric": "Piles < after alcohol or spicy food",
+        "grading": {
+          "high": ["Nux vomica", "Sulphur"],
+          "medium": ["Aloe", "Lachesis"],
+          "low": ["Hamamelis"]
+        },
+        "modality": "Aggravation of portal pressure, heat",
+        "miasm": "Psora-Sycosis",
+        "notes": "Often triggers painful inflammation or bleeding"
+      },
+      {
+        "rubric": "Piles alternating with skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Lycopodium"],
+          "low": ["Sepia", "Ratanhia"]
+        },
+        "modality": "Eruptions suppressed → piles begin",
+        "miasm": "Psora",
+        "notes": "Psoric discharge shift"
+      },
+      {
+        "rubric": "Piles better from cold applications",
+        "grading": {
+          "high": ["Aloe", "Sulphur"],
+          "medium": ["Ratanhia", "Hamamelis"],
+          "low": ["Ignatia"]
+        },
+        "modality": "Temporary relief from burning and itching",
+        "miasm": "Psora",
+        "notes": "Venous congestion relieved by cooling"
+      },
+      {
+        "rubric": "Piles with offensive, bloody discharge",
+        "grading": {
+          "high": ["Hamamelis", "Nitric acid"],
+          "medium": ["Paeonia", "Sulphur"],
+          "low": ["Ratanhia"]
+        },
+        "modality": "Offensive ulcerated hemorrhoids",
+        "miasm": "Syphilis",
+        "notes": "May need intercurrent or anti-miasmatic approach"
+      },
+      {
+        "rubric": "Piles protrude and must be manually reduced",
+        "grading": {
+          "high": ["Aloe", "Ignatia"],
+          "medium": ["Sulphur", "Graphites"],
+          "low": ["Sepia", "Lycopodium"]
+        },
+        "modality": "Worse during defecation; sphincter weakness",
+        "miasm": "Sycosis",
+        "notes": "Prolapsed internal piles; weak muscle tone"
+      }
+    ]
+  }
+]

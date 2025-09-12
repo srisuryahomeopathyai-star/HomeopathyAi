@@ -1,0 +1,265 @@
+[
+  {
+    "disease": "Ankylosing Spondylitis",
+    "tags": [
+      "CommonChronic",
+      "SpinalPain",
+      "Inflammatory",
+      "Autoimmune",
+      "Ankylosis",
+      "Stiffness",
+      "Miasmatic",
+      "PosturalPain",
+      "SuppressionBased"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Stiffness of spine and sacroiliac joints < morning, > motion",
+        "grading": {
+          "high": ["Rhus toxicodendron", "Kali carb", "Causticum"],
+          "medium": ["Bryonia", "Ruta", "Sulphur"],
+          "low": ["Phytolacca", "Dulcamara"]
+        },
+        "modality": "Worse after rest or sleep; better by movement or hot applications",
+        "miasm": "Psora-Sycosis",
+        "notes": "Classical keynote modality in AS"
+      },
+      {
+        "rubric": "Ankylosis tendency with loss of spinal flexibility",
+        "grading": {
+          "high": ["Calcarea fluor", "Silicea", "Causticum"],
+          "medium": ["Phosphorus", "Fluoric acid"],
+          "low": ["Hecla lava"]
+        },
+        "modality": "Hard bony back; cannot bend or twist easily",
+        "miasm": "Syphilitic",
+        "notes": "Late-stage or degenerative phase of AS"
+      },
+      {
+        "rubric": "Back pain radiating to hips, thighs or knees (sciatica-like)",
+        "grading": {
+          "high": ["Kali iodatum", "Gnaphalium", "Colocynth"],
+          "medium": ["Rhus tox", "Hypericum"],
+          "low": ["Lycopodium", "Ammon mur"]
+        },
+        "modality": "Tearing, pulling, worse at night, better by flexing limbs",
+        "miasm": "Sycosis",
+        "notes": "Common neuralgic involvement in AS"
+      },
+      {
+        "rubric": "Back pain < lying still, > stretching or activity",
+        "grading": {
+          "high": ["Rhus tox", "Phytolacca", "Causticum"],
+          "medium": ["Arnica", "Nux vomica"],
+          "low": ["Kalmia", "Sepia"]
+        },
+        "modality": "Pain drives patient to keep shifting position",
+        "miasm": "Psora",
+        "notes": "Key differentiator from mechanical back pain"
+      },
+      {
+        "rubric": "Inflammation of sacroiliac joints with morning pain & stiffness",
+        "grading": {
+          "high": ["Kali carb", "Causticum", "Sulphur"],
+          "medium": ["Rhus tox", "Bryonia"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Worse on first rising; limited movement early in day",
+        "miasm": "Syphilitic",
+        "notes": "Sacroiliitis is hallmark early sign"
+      },
+      {
+        "rubric": "Stiffness ascending upward from lumbar to thoracic/cervical region",
+        "grading": {
+          "high": ["Calcarea fluor", "Silicea", "Fluoric acid"],
+          "medium": ["Rhus tox", "Ruta"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Back feels like it will break if bent backward",
+        "miasm": "Syphilitic",
+        "notes": "Indicates fusion progressing cranially"
+      },
+      {
+        "rubric": "Chronic pain in young males with family history of arthritis or TB",
+        "grading": {
+          "high": ["Tuberculinum", "Medorrhinum", "Phosphorus"],
+          "medium": ["Sulphur", "Lycopodium"],
+          "low": ["Psorinum"]
+        },
+        "modality": "Thin, restless, hot-blooded types",
+        "miasm": "Tubercular",
+        "notes": "Often genetic background contributes to autoimmune trigger"
+      },
+      {
+        "rubric": "AS worsened after grief, prolonged stress or suppression",
+        "grading": {
+          "high": ["Ignatia", "Staphysagria", "Aurum met"],
+          "medium": ["Natrum mur", "Sepia"],
+          "low": ["Phos acid"]
+        },
+        "modality": "Timeline of emotional trauma → back stiffness",
+        "miasm": "Psora-Sycosis",
+        "notes": "Mind–body link in autoimmune rheumatism"
+      },
+      {
+        "rubric": "Back pain with deformity, hunched posture, spinal rigidity",
+        "grading": {
+          "high": ["Calcarea fluor", "Silicea", "Hecla lava"],
+          "medium": ["Aur met", "Phosphorus"],
+          "low": ["Causticum"]
+        },
+        "modality": "Neck and thoracic curve fixed or deformed",
+        "miasm": "Syphilitic",
+        "notes": "Structural changes in late AS"
+      },
+      {
+        "rubric": "AS with fatigue, restlessness, and cold sweat",
+        "grading": {
+          "high": ["Arsenicum album", "Gelsemium", "Phosphoric acid"],
+          "medium": ["China", "Rhus tox"],
+          "low": ["Calc carb"]
+        },
+        "modality": "Low vitality; chronic pain wears down system",
+        "miasm": "Psora",
+        "notes": "Vital force depleted; body can’t recover"
+      }
+    ]
+  },
+  {
+    "disease": "Ankylosing Spondylitis – Intercurrent & Miasmatic",
+    "tags": [
+      "Intercurrent",
+      "Miasmatic",
+      "Autoimmune",
+      "Ankylosis",
+      "Spine",
+      "Tubercular",
+      "Syphilitic",
+      "SuppressedEruption",
+      "GeneticPredisposition"
+    ],
+    "rubrics": [
+      {
+        "rubric": "AS with genetic/family history of TB, RA, psoriasis",
+        "grading": {
+          "high": ["Tuberculinum", "Carcinosinum"],
+          "medium": ["Psorinum", "Medorrhinum"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Early onset AS in hot, restless, thin individuals",
+        "miasm": "Tubercular",
+        "notes": "Classical background miasm seen in early autoimmune inflammation"
+      },
+      {
+        "rubric": "Ankylosis or bony fusion of spine or sacroiliac joint",
+        "grading": {
+          "high": ["Syphilinum", "Fluoric acid", "Calcarea fluor"],
+          "medium": ["Hecla lava", "Merc sol"],
+          "low": ["Silicea"]
+        },
+        "modality": "Deformity, rigidity, < night, < damp, < cold",
+        "miasm": "Syphilitic",
+        "notes": "Advanced degenerative AS stage"
+      },
+      {
+        "rubric": "AS with recurrent relapses despite indicated remedy",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum"],
+          "medium": ["Tuberculinum", "Medorrhinum"],
+          "low": ["Sulphur", "Thuja"]
+        },
+        "modality": "Gets better with remedy, but relapses again; new complaints emerge",
+        "miasm": "Mixed Miasm",
+        "notes": "Vital force obstruction or layer blockage"
+      },
+      {
+        "rubric": "AS with suppressed skin eruptions (eczema, psoriasis)",
+        "grading": {
+          "high": ["Psorinum", "Sulphur"],
+          "medium": ["Graphites", "Sepia"],
+          "low": ["Petroleum"]
+        },
+        "modality": "Never well since suppression; itching may shift to joints",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Skin-to-joint autoimmune shift often seen"
+      },
+      {
+        "rubric": "AS with deep grief, humiliation, or suppressed anger",
+        "grading": {
+          "high": ["Staphysagria", "Ignatia", "Natrum mur"],
+          "medium": ["Aurum met", "Sepia"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Clear emotional trauma precedes onset",
+        "miasm": "Psora-Sycosis",
+        "notes": "Mind–body axis treatment required"
+      },
+      {
+        "rubric": "AS cases with deformity, despair, suicidal thoughts",
+        "grading": {
+          "high": ["Aurum metallicum", "Syphilinum"],
+          "medium": ["Natrum sulph", "Anacardium"],
+          "low": ["Ignatia"]
+        },
+        "modality": "Feels hopeless, worse at night, suicidal thoughts with pain",
+        "miasm": "Syphilitic",
+        "notes": "Used in degenerative + psychological collapse stage"
+      }
+    ]
+  },
+  {
+    "rubric": "Neck pain and stiffness with stooped or bent forward posture",
+    "grading": {
+      "high": ["Causticum", "Calcarea fluor", "Rhus tox"],
+      "medium": ["Gelsemium", "Phosphorus"],
+      "low": ["Hecla lava"]
+    },
+    "modality": "Neck locked in bent position; spinal rigidity; worse cold wind",
+    "miasm": "Syphilitic",
+    "notes": "Seen in late stage of AS with cervical involvement"
+  },
+  {
+    "rubric": "Back pain better after walking fast or stretching violently",
+    "grading": {
+      "high": ["Rhus tox", "Kali carb", "Ruta"],
+      "medium": ["Arnica", "Dulcamara"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Pain compels movement; can’t rest for long",
+    "miasm": "Psora-Sycosis",
+    "notes": "Restless joint pain, very characteristic of inflammatory spine"
+  },
+  {
+    "rubric": "Spinal vertebrae sensitive to pressure or even light touch",
+    "grading": {
+      "high": ["Phosphorus", "Silicea", "Fluoric acid"],
+      "medium": ["Bryonia", "Arnica"],
+      "low": ["Hypericum"]
+    },
+    "modality": "Can't lean on backrest or bed; intense soreness of spine",
+    "miasm": "Syphilitic",
+    "notes": "Seen in early vertebral inflammation stage"
+  },
+  {
+    "rubric": "Back stiffness and pain worse after damp weather or getting wet",
+    "grading": {
+      "high": ["Dulcamara", "Rhus tox", "Calcarea carb"],
+      "medium": ["Natrum sulph", "Silicea"],
+      "low": ["Kali sulph"]
+    },
+    "modality": "Even minor rain exposure flares up back pain",
+    "miasm": "Sycosis",
+    "notes": "Classic of rheumatic patients with weather sensitivity"
+  },
+  {
+    "rubric": "AS in tall, lean, narrow-chested subjects with TB family history",
+    "grading": {
+      "high": ["Tuberculinum", "Phosphorus"],
+      "medium": ["Iodum", "Silicea"],
+      "low": ["Bacillinum"]
+    },
+    "modality": "Weak bones, nervous temperament, early deformities",
+    "miasm": "Tubercular",
+    "notes": "Often shows fast joint destruction despite good vitality"
+  }
+]

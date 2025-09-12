@@ -1,0 +1,2190 @@
+[
+  {
+    "remedy": "Medorrhinum",
+    "constitution": [
+      "Extremes",
+      "Thrill-seeking",
+      "Forgetful",
+      "Better at night"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Tuberculinum",
+    "constitution": [
+      "Desire for change",
+      "Wanderlust",
+      "Rapid exhaustion",
+      "Sensitive to injustice"
+    ],
+    "miasms": ["Tubercular"]
+  },
+  {
+    "remedy": "Psorinum",
+    "constitution": [
+      "Despair",
+      "Chilly",
+      "Offensive discharges",
+      "Hopelessness"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Syphilinum",
+    "constitution": [
+      "Night pains",
+      "Destructive tendencies",
+      "Obsessive cleaning",
+      "Fear of infection"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Sulphur",
+    "constitution": [
+      "Intellectual",
+      "Messy",
+      "Philosophical",
+      "Neglects hygiene"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Calcarea carbonica",
+    "constitution": ["Sluggish", "Responsible", "Fearful", "Chilly", "Obese"],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Lycopodium",
+    "constitution": [
+      "Bossy",
+      "Low self-confidence",
+      "Digestive issues",
+      "Worse 4-8 PM"
+    ],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Natrum muriaticum",
+    "constitution": [
+      "Introverted",
+      "Emotionally closed",
+      "Grief",
+      "Salt craving"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Nux vomica",
+    "constitution": [
+      "Irritable",
+      "Workaholic",
+      "Oversensitive",
+      "Abuses stimulants"
+    ],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Pulsatilla",
+    "constitution": [
+      "Mild",
+      "Yielding",
+      "Craves attention",
+      "Changeable symptoms"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Silicea",
+    "constitution": [
+      "Timid",
+      "Perfectionist",
+      "Cold",
+      "Weak resistance to infections"
+    ],
+    "miasms": ["Psoric", "Tubercular"]
+  },
+  {
+    "remedy": "Phosphorus",
+    "constitution": [
+      "Sympathetic",
+      "Open",
+      "Fearful",
+      "Sensitive to noise and light"
+    ],
+    "miasms": ["Tubercular"]
+  },
+  {
+    "remedy": "Arsenicum album",
+    "constitution": ["Anxious", "Obsessive", "Fastidious", "Wants control"],
+    "miasms": ["Psoric", "Syphilitic"]
+  },
+  {
+    "remedy": "Carcinosin",
+    "constitution": [
+      "Perfectionist",
+      "Suppressed emotions",
+      "Dance/music lover",
+      "Craves chocolate"
+    ],
+    "miasms": ["Cancerinic"]
+  },
+  {
+    "remedy": "Thuja",
+    "constitution": [
+      "Fixed ideas",
+      "Feels ugly",
+      "Low self-worth",
+      "Feels something inside is alive"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Sepia",
+    "constitution": [
+      "Indifferent",
+      "Irritable",
+      "Better with vigorous exercise",
+      "Hates sympathy"
+    ],
+    "miasms": ["Sycotic", "Syphilitic"]
+  },
+  {
+    "remedy": "Ignatia",
+    "constitution": [
+      "Idealistic",
+      "Hysterical grief",
+      "Contradictory symptoms",
+      "Sensitive"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Staphysagria",
+    "constitution": [
+      "Suppressed anger",
+      "Mild outside, burns inside",
+      "Sexual suppression"
+    ],
+    "miasms": ["Sycotic", "Cancerinic"]
+  },
+  {
+    "remedy": "China officinalis",
+    "constitution": [
+      "Sensitive",
+      "Weak from loss of fluids",
+      "Irritable",
+      "Talkative"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Hepar sulphuris",
+    "constitution": [
+      "Irritable",
+      "Oversensitive",
+      "Offended easily",
+      "Abscess tendency"
+    ],
+    "miasms": ["Psoric", "Syphilitic"]
+  },
+  {
+    "remedy": "Aurum metallicum",
+    "constitution": [
+      "Serious",
+      "Responsible",
+      "Suicidal when failed",
+      "Sensitive to contradiction"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Baryta carbonica",
+    "constitution": ["Immature", "Shy", "Dependent", "Fear of responsibility"],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Belladonna",
+    "constitution": [
+      "Sudden onset",
+      "Violent",
+      "Sensitive to light and noise",
+      "Dry heat"
+    ],
+    "miasms": ["Acute"]
+  },
+  {
+    "remedy": "Bryonia alba",
+    "constitution": [
+      "Irritable",
+      "Wants to be alone",
+      "Dryness",
+      "Worse slightest motion"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Camphora",
+    "constitution": [
+      "Collapse state",
+      "Icy cold body",
+      "Sudden anxiety",
+      "Fear of touch"
+    ],
+    "miasms": ["Acute", "Syphilitic"]
+  },
+  {
+    "remedy": "Cantharis",
+    "constitution": [
+      "Burning pains",
+      "Violent sexual desire",
+      "Anger",
+      "Irritable"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Coffea cruda",
+    "constitution": [
+      "Excitable",
+      "Insomnia from joy or pain",
+      "Sensitive to noise"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Crocus sativus",
+    "constitution": [
+      "Alternating moods",
+      "Impulsive",
+      "Hysterical",
+      "Feels body parts are double"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Digitalis purpurea",
+    "constitution": [
+      "Fear of heart disease",
+      "Slow pulse",
+      "Anxious",
+      "Fainting"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Dulcamara",
+    "constitution": [
+      "Chilly damp aggravates",
+      "Irritable",
+      "Suppressed eruptions"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Euphrasia",
+    "constitution": [
+      "Irritable",
+      "Burning lachrymation",
+      "Cold aggravates",
+      "Photophobia"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Ferrum metallicum",
+    "constitution": [
+      "Pale but flushes easily",
+      "Alternating strength and weakness",
+      "Anemia"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Gelsemium",
+    "constitution": [
+      "Dullness",
+      "Lack of coordination",
+      "Fear of appearing in public",
+      "Stage fright"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Glonoinum",
+    "constitution": [
+      "Congestive headaches",
+      "Pulsations",
+      "Worse from sun",
+      "Sudden blood rush"
+    ],
+    "miasms": ["Acute", "Sycotic"]
+  },
+  {
+    "remedy": "Hamamelis",
+    "constitution": [
+      "Venous congestion",
+      "Passive bleeding",
+      "Bruised feeling",
+      "Mild"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Ipecacuanha",
+    "constitution": [
+      "Nausea not relieved by vomiting",
+      "Irritable",
+      "Persistent complaints"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Kali bichromicum",
+    "constitution": [
+      "Stringy discharges",
+      "Perfectionist",
+      "Migratory pains",
+      "Ulcers"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Kali carbonicum",
+    "constitution": [
+      "Rigid morals",
+      "Anxiety at 3 AM",
+      "Conservative",
+      "Sensitive to drafts"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Lachesis",
+    "constitution": [
+      "Talkative",
+      "Jealous",
+      "Suspicious",
+      "Worse after sleep",
+      "Better discharges"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Mercurius solubilis",
+    "constitution": [
+      "Anxious",
+      "Trembling",
+      "Offensive discharges",
+      "Slow healing ulcers"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Muriatic acid",
+    "constitution": [
+      "Exhausted",
+      "Apathetic",
+      "Serious weakness",
+      "Worse while resting"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Nitric acid",
+    "constitution": [
+      "Irritable",
+      "Pains like splinters",
+      "Obstinate",
+      "Discharges offensive"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Opium",
+    "constitution": [
+      "Lack of reaction",
+      "Comatose",
+      "Overconfidence",
+      "Fear from fright"
+    ],
+    "miasms": ["Psoric", "Syphilitic"]
+  },
+  {
+    "remedy": "Petroleum",
+    "constitution": [
+      "Irritable",
+      "Skin cracks",
+      "Cold aggravates",
+      "Poor memory"
+    ],
+    "miasms": ["Psoric", "Syphilitic"]
+  },
+  {
+    "remedy": "Platina",
+    "constitution": ["Pride", "Contemptuous", "Haughty", "Sexual excitement"],
+    "miasms": ["Sycotic", "Syphilitic"]
+  },
+  {
+    "remedy": "Podophyllum",
+    "constitution": [
+      "Profuse diarrhea",
+      "Exhausted",
+      "Loud flatus",
+      "Hot face"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Rhus toxicodendron",
+    "constitution": [
+      "Restless",
+      "Stiffness",
+      "Better with motion",
+      "Worse at rest"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Ruta graveolens",
+    "constitution": [
+      "Bruised feeling",
+      "Eye strain",
+      "Tendon pain",
+      "Restless"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Sabadilla",
+    "constitution": ["Delusions", "Chilly", "Sneezing", "Fear of worms"],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Sanguinaria",
+    "constitution": [
+      "Right-sided complaints",
+      "Flushed face",
+      "Burning",
+      "Hot hands/feet"
+    ],
+    "miasms": ["Tubercular"]
+  },
+  {
+    "remedy": "Spongia tosta",
+    "constitution": [
+      "Dry cough",
+      "Worse midnight",
+      "Anxiety of heart",
+      "Heat and dryness"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Stramonium",
+    "constitution": ["Terror", "Violent mania", "Fear of dark", "Loquacious"],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Veratrum album",
+    "constitution": ["Collapse", "Cold sweat", "Religious mania", "Greed"],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Zincum metallicum",
+    "constitution": [
+      "Restless feet",
+      "Mental exhaustion",
+      "Suppressed eruptions",
+      "Nervousness"
+    ],
+    "miasms": ["Psoric", "Syphilitic"]
+  },
+  {
+    "remedy": "Tarentula hispanica",
+    "constitution": [
+      "Hysterical",
+      "Fast movements",
+      "Manipulative",
+      "Love for music and dance"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Bovista",
+    "constitution": [
+      "Clumsy",
+      "Feels body is too large",
+      "Skin eruptions",
+      "Sensitive"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Cimicifuga",
+    "constitution": [
+      "Hysterical",
+      "Fear of insanity",
+      "Muscular pain",
+      "Talkative"
+    ],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Cyclamen",
+    "constitution": ["Guilt", "Changeable mood", "Faintness", "Worse open air"],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Graphites",
+    "constitution": [
+      "Obesity",
+      "Skin cracks",
+      "Sadness",
+      "Delayed mental development"
+    ],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Helonias",
+    "constitution": [
+      "Irritable",
+      "Uterine prolapse",
+      "Better when busy",
+      "Back pain"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Kali phosphoricum",
+    "constitution": [
+      "Mental fatigue",
+      "Nervous exhaustion",
+      "Depression",
+      "Irritability"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Manganum",
+    "constitution": ["Better lying on affected side", "Bone pain", "Restless"],
+    "miasms": ["Psoric", "Syphilitic"]
+  },
+  {
+    "remedy": "Millefolium",
+    "constitution": [
+      "Hemorrhagic tendency",
+      "Passive bleeding",
+      "Venous congestion"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Moschus",
+    "constitution": ["Fainting", "Hysterical", "Gas retention", "Sensitivity"],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Antimonium tartaricum",
+    "constitution": [
+      "Drowsy",
+      "Lethargic",
+      "Wet rattling cough",
+      "Desires to be left alone"
+    ],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Ammonium carbonicum",
+    "constitution": [
+      "Lassitude",
+      "Fear of suffocation",
+      "Chilly",
+      "Weak heart"
+    ],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Anacardium orientale",
+    "constitution": ["Wicked thoughts", "Irresolute", "Two wills", "Cruel"],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Agaricus muscarius",
+    "constitution": [
+      "Clownish",
+      "Uncontrollable laughter",
+      "Cold aggravates",
+      "Chorea"
+    ],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Aethusa cynapium",
+    "constitution": [
+      "Inability to digest milk",
+      "Irritability",
+      "Weakness",
+      "Sudden collapse"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Alumina",
+    "constitution": [
+      "Slowness",
+      "Dryness",
+      "Constipation with no urge",
+      "Confused identity"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Ammonium muriaticum",
+    "constitution": [
+      "Irritable",
+      "Sad",
+      "Back pain with sciatica",
+      "Craving pickles"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Antimonium crudum",
+    "constitution": [
+      "Irritable children",
+      "Thick white-coated tongue",
+      "Craves sour",
+      "Obesity"
+    ],
+    "miasms": ["Psoric", "Sycotic"]
+  },
+  {
+    "remedy": "Apis mellifica",
+    "constitution": [
+      "Jealous",
+      "Edematous swellings",
+      "Worse heat",
+      "Stinging pains"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Argentum nitricum",
+    "constitution": [
+      "Impulsive",
+      "Stage fright",
+      "Diarrhea from anxiety",
+      "Desire for sweets"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Asafoetida",
+    "constitution": [
+      "Hysterical",
+      "Gastrointestinal complaints",
+      "Oppression",
+      "Flatulence"
+    ],
+    "miasms": ["Sycotic", "Hysteric"]
+  },
+  {
+    "remedy": "Asterias rubens",
+    "constitution": [
+      "Breast affections",
+      "Irritability",
+      "Redness",
+      "Feeling of heat"
+    ],
+    "miasms": ["Cancerinic"]
+  },
+  {
+    "remedy": "Aurum muriaticum natronatum",
+    "constitution": ["Uterine tumors", "Grief", "Despair", "Suicidal thoughts"],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Berberis vulgaris",
+    "constitution": ["Radiating pain", "Renal colic", "Tired", "Thirstless"],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Boerhaavia diffusa",
+    "constitution": ["Edema", "Nephritis", "Puffy face", "Urinary retention"],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Borax",
+    "constitution": [
+      "Anxious",
+      "Startles easily",
+      "Aphthae in mouth",
+      "Fear of downward motion"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Bothrops lanceolatus",
+    "constitution": [
+      "Hemorrhagic tendency",
+      "Sluggish",
+      "Paralysis",
+      "Cerebral stroke"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Bromium",
+    "constitution": [
+      "Scrofulous children",
+      "Goitre",
+      "Agg. dust",
+      "Left-sided"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Cadmium sulphuratum",
+    "constitution": [
+      "Extreme prostration",
+      "Cancer cachexia",
+      "Thirsty",
+      "Nausea"
+    ],
+    "miasms": ["Cancerinic", "Syphilitic"]
+  },
+  {
+    "remedy": "Cactus grandiflorus",
+    "constitution": [
+      "Constriction",
+      "Heart affections",
+      "Worse at night",
+      "Fear of death"
+    ],
+    "miasms": ["Sycotic", "Syphilitic"]
+  },
+  {
+    "remedy": "Calendula officinalis",
+    "constitution": [
+      "Wound healing",
+      "Lacerated injuries",
+      "Fear of touch",
+      "Suppuration"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Calcarea fluorica",
+    "constitution": ["Varicose veins", "Cracks", "Hard nodules", "Obstinate"],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Capsicum annuum",
+    "constitution": ["Homesick", "Red cheeks", "Burning pains", "Overweight"],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Chelidonium majus",
+    "constitution": [
+      "Right-sided liver affections",
+      "Yellow coating",
+      "Lethargic"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Cimex lectularius",
+    "constitution": [
+      "Rheumatic",
+      "Restless sleep",
+      "Periodic chills",
+      "Shrinking pains"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Cistus canadensis",
+    "constitution": [
+      "Extreme sensitivity to cold air",
+      "Nasal ulcers",
+      "Chronic infections"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Cocculus indicus",
+    "constitution": [
+      "Weakness from loss of sleep",
+      "Vertigo",
+      "Slow comprehension"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Colchicum autumnale",
+    "constitution": ["Gouty", "Sensitive to smell", "Nausea", "Swollen joints"],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Collinsonia canadensis",
+    "constitution": [
+      "Hemorrhoids",
+      "Pelvic congestion",
+      "Irritable",
+      "Backache"
+    ],
+    "miasms": ["Psoric"]
+  },
+  {
+    "remedy": "Conium maculatum",
+    "constitution": [
+      "Indurated glands",
+      "Vertigo on turning head",
+      "Suppression",
+      "Sexual weakness"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Crotalus horridus",
+    "constitution": ["Hemorrhagic", "Jaundice", "Delirium", "Fear of death"],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Croton tiglium",
+    "constitution": [
+      "Violent diarrhea",
+      "Skin eruptions",
+      "Burning",
+      "Sensitive"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Cuprum metallicum",
+    "constitution": ["Convulsions", "Spasms", "Collapse", "Chilly"],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Cundurango",
+    "constitution": [
+      "Cracks in corners of mouth",
+      "Cancerous diathesis",
+      "Tightness in esophagus"
+    ],
+    "miasms": ["Cancerinic"]
+  },
+  {
+    "remedy": "Dioscorea villosa",
+    "constitution": [
+      "Biliary colic",
+      "Wandering abdominal pain",
+      "Better stretching"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Drosera rotundifolia",
+    "constitution": [
+      "Violent cough",
+      "Tubercular diathesis",
+      "Fear of suffocation"
+    ],
+    "miasms": ["Tubercular"]
+  },
+  {
+    "remedy": "Echinacea",
+    "constitution": [
+      "Septic conditions",
+      "Lack of reaction",
+      "Blood poisoning",
+      "Fatigue"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Elaps corallinus",
+    "constitution": [
+      "Black discharges",
+      "Fears rain",
+      "Right-sided",
+      "Bleeding tendency"
+    ],
+    "miasms": ["Syphilitic"]
+  },
+  {
+    "remedy": "Erigeron",
+    "constitution": [
+      "Bright red bleeding",
+      "Menorrhagia",
+      "Hematuria",
+      "Excitability"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Eugenia jambos",
+    "constitution": [
+      "Acne",
+      "Facial eruptions",
+      "Youthful aggravations",
+      "Oversensitive"
+    ],
+    "miasms": ["Sycotic"]
+  },
+  {
+    "remedy": "Eupatorium perfoliatum",
+    "constitution": ["Bone pains", "Chilly", "Thirsty", "Malarial fevers"],
+    "miasms": ["Psoric"]
+  },
+  {
+    "miasm": "Psora",
+    "traits": [
+      "Functional disturbances",
+      "Itching and skin dryness",
+      "Fatigue and exhaustion",
+      "Poverty of reaction",
+      "Emotional hypersensitivity",
+      "Anxiety about future",
+      "Improvement from scratching or warmth"
+    ],
+    "common_remedies": [
+      "Sulphur",
+      "Psorinum",
+      "Calcarea carb",
+      "Pulsatilla",
+      "Ignatia"
+    ]
+  },
+  {
+    "miasm": "Sycosis",
+    "traits": [
+      "Overgrowths (warts, tumors)",
+      "Suppression tendency (skin, gonorrhoea)",
+      "Fixity of ideas",
+      "Secretive and suspicious nature",
+      "Greed, guilt and compulsive habits",
+      "Discharges retained or thick",
+      "Better from movement or night"
+    ],
+    "common_remedies": [
+      "Thuja",
+      "Medorrhinum",
+      "Natrum mur",
+      "Staphysagria",
+      "Lycopodium"
+    ]
+  },
+  {
+    "miasm": "Syphilitic",
+    "traits": [
+      "Destruction and degeneration",
+      "Ulceration, deformities, bone diseases",
+      "Suicidal thoughts or self-harm",
+      "Hopelessness, despair of recovery",
+      "Fear of contamination or insanity",
+      "Compulsions, mania, criminal tendencies",
+      "Worse at night or from heat"
+    ],
+    "common_remedies": [
+      "Mercurius",
+      "Syphilinum",
+      "Aurum met",
+      "Arsenicum alb",
+      "Silicea"
+    ]
+  },
+  {
+    "miasm": "Tubercular",
+    "traits": [
+      "Alternating symptoms",
+      "Rapid exhaustion and emaciation",
+      "Desire for travel and change",
+      "Restlessness and dissatisfaction",
+      "Recurring respiratory issues",
+      "Childhood weakness",
+      "Hereditary tuberculosis or anemia"
+    ],
+    "common_remedies": [
+      "Phosphorus",
+      "Tuberculinum",
+      "Calcarea phos",
+      "Lobelia",
+      "Bacillinum"
+    ]
+  },
+  {
+    "miasm": "Canceric",
+    "traits": [
+      "Perfectionism and control",
+      "Suppressed emotions",
+      "High responsibility at young age",
+      "History of cancer or autoimmune disease in family",
+      "Over-stretching self",
+      "Silent grief or prolonged sadness",
+      "Tendency for tumors, fibroids, cysts"
+    ],
+    "common_remedies": [
+      "Carcinosin",
+      "Natrum mur",
+      "Ignatia",
+      "Thuja",
+      "Phosphorus"
+    ]
+  },
+  {
+    "remedy": "Psorinum",
+    "indications": [
+      "Deep psoric miasm",
+      "Chilly, hopeless, filthy appearance",
+      "Repeated skin infections",
+      "Failure to improve despite well-selected remedies",
+      "Always feels cold even in warm weather"
+    ],
+    "miasm": "Psora",
+    "used_when": [
+      "Chronic non-responding cases",
+      "Relapse after acute relief",
+      "Family history of eczema or scabies"
+    ]
+  },
+  {
+    "remedy": "Medorrhinum",
+    "indications": [
+      "Inherited sycotic miasm",
+      "Extreme behaviors, thrill-seeking",
+      "Obesity or hormonal imbalance (PCOS)",
+      "Recurrent genital infections, warts",
+      "History of suppressed gonorrhea or leucorrhea"
+    ],
+    "miasm": "Sycosis",
+    "used_when": [
+      "Stuck cases with no progress",
+      "Multiple remedy failures",
+      "Marked sycotic constitution"
+    ]
+  },
+  {
+    "remedy": "Syphilinum",
+    "indications": [
+      "Inherited or active syphilitic miasm",
+      "Ulcers, bone pains, suicidal despair",
+      "Destructive tendencies (physical or mental)",
+      "Night aggravation, fear of contamination"
+    ],
+    "miasm": "Syphilitic",
+    "used_when": [
+      "Ulcerative diseases",
+      "Mental illness with family history",
+      "Deep pathology or autoimmune disorders"
+    ]
+  },
+  {
+    "remedy": "Tuberculinum",
+    "indications": [
+      "Inherited tubercular miasm",
+      "Changeable symptoms, allergies",
+      "Desire to travel, hates confinement",
+      "Prone to lung infections, asthma"
+    ],
+    "miasm": "Tubercular",
+    "used_when": [
+      "Family history of TB, asthma, allergies",
+      "Constitutional restlessness",
+      "Weak children or wasting diseases"
+    ]
+  },
+  {
+    "remedy": "Carcinosin",
+    "indications": [
+      "Canceric miasm",
+      "Perfectionist nature, anticipatory anxiety",
+      "Suppressed grief, high parental expectations",
+      "History of cancer, autoimmune or diabetes"
+    ],
+    "miasm": "Canceric",
+    "used_when": [
+      "All other remedies fail",
+      "Multiple miasms present",
+      "Highly suppressed emotions"
+    ]
+  },
+  {
+    "remedy": "Thuja",
+    "indications": [
+      "Sycotic suppression",
+      "Warts, polyps, oily face",
+      "Vaccination effects",
+      "Fixed ideas (e.g., soul separated from body)"
+    ],
+    "miasm": "Sycosis",
+    "used_when": [
+      "Ailments after vaccination",
+      "Skin eruptions suppressed by ointments",
+      "Person feels fragile, ashamed, guilty"
+    ]
+  },
+  {
+    "remedy": "Bacillinum",
+    "indications": [
+      "Tubercular background",
+      "Chronic chest complaints, cough",
+      "Non-responsive asthma or bronchitis",
+      "Obstinate scrofulous children"
+    ],
+    "miasm": "Tubercular",
+    "used_when": [
+      "Recurring bronchitis despite other treatment",
+      "After Tuberculinum partial relief",
+      "Strong family TB history"
+    ]
+  },
+  {
+    "layer_sequence": ["Nux vomica", "Sulphur", "Psorinum"],
+    "indications": [
+      "Nux for acute stress, irritability, indigestion",
+      "Sulphur for chronic lazy, philosophical type with skin issues",
+      "Psorinum for deep-seated psoric miasm, hopelessness"
+    ],
+    "used_when": [
+      "Recurrent complaints relapsing after acute relief",
+      "Personality and skin suggest psoric block",
+      "Case requires miasmatic unlocking"
+    ]
+  },
+  {
+    "layer_sequence": ["Pulsatilla", "Silicea", "Tuberculinum"],
+    "indications": [
+      "Pulsatilla for mild, weepy, changeable acute symptoms",
+      "Silicea for chronic weakness, chilliness, obstinacy",
+      "Tuberculinum for inherited TB miasm, restlessness"
+    ],
+    "used_when": [
+      "Childhood constitutional cases",
+      "Growth & immunity issues",
+      "Frequent respiratory infections"
+    ]
+  },
+  {
+    "layer_sequence": ["Ignatia", "Natrum mur", "Carcinosin"],
+    "indications": [
+      "Ignatia for acute grief or emotional trauma",
+      "Nat mur for reserved, long-standing emotional hurt",
+      "Carcinosin for suppressed emotions, perfectionism, family cancer hx"
+    ],
+    "used_when": [
+      "Deep emotional suppression",
+      "No physical pathology but mental tension",
+      "Strong family miasmatic background"
+    ]
+  },
+  {
+    "layer_sequence": ["Belladonna", "Mercurius", "Syphilinum"],
+    "indications": [
+      "Belladonna for acute inflammation, sudden onset",
+      "Mercurius for destructive tendencies, glandular swellings",
+      "Syphilinum for deep syphilitic miasm, ulcers, despair"
+    ],
+    "used_when": [
+      "Case deteriorates into ulceration or mental collapse",
+      "Syphilitic inheritance suspected",
+      "Night aggravation prominent"
+    ]
+  },
+  {
+    "layer_sequence": ["Thuja", "Medorrhinum", "Natrum mur"],
+    "indications": [
+      "Thuja for post-vaccination effects, fixed ideas",
+      "Medorrhinum for inherited sycosis, hormonal & emotional extremes",
+      "Nat mur to stabilize emotional trauma layer"
+    ],
+    "used_when": [
+      "Urogenital, hormonal or autoimmune patterns",
+      "Sycotic traits with emotional suppression",
+      "Post-suppression or OCP-related illness"
+    ]
+  },
+  {
+    "acute": "Belladonna",
+    "chronic": "Mercurius",
+    "relation_notes": [
+      "Belladonna: Acute congestion, sudden onset, throbbing pain",
+      "Mercurius: Chronic inflammation, glandular issues, foul discharges",
+      "Useful transition in cases with recurring tonsillitis, abscesses, or otitis"
+    ]
+  },
+  {
+    "acute": "Bryonia",
+    "chronic": "Natrum muriaticum",
+    "relation_notes": [
+      "Bryonia: Acute dryness, stitching pain, worse motion",
+      "Nat mur: Chronic emotional suppression, headaches, dryness",
+      "Common in post-fever dryness, grief-linked illnesses"
+    ]
+  },
+  {
+    "acute": "Aconite",
+    "chronic": "Sulphur",
+    "relation_notes": [
+      "Aconite: Sudden shock, fear, fever with anxiety",
+      "Sulphur: Chronic psoric base, heat, skin issues, mental philosophy",
+      "Used in transition from acute panic to long-term psoric state"
+    ]
+  },
+  {
+    "acute": "Gelsemium",
+    "chronic": "Phosphoric acid",
+    "relation_notes": [
+      "Gelsemium: Weakness, dullness, trembling with anxiety",
+      "Phos acid: Chronic exhaustion, indifference after grief or study",
+      "Often follows flu, exams, or long anxiety episodes"
+    ]
+  },
+  {
+    "acute": "Chamomilla",
+    "chronic": "Staphysagria",
+    "relation_notes": [
+      "Chamomilla: Irritability, colic, teething pains",
+      "Staphysagria: Chronic suppressed anger, ailments from humiliation",
+      "Transition from acute irritability to long-term emotional suppression"
+    ]
+  },
+  {
+    "acute": "Nux vomica",
+    "chronic": "Sulphur",
+    "relation_notes": [
+      "Nux: Acute gastric disturbances, irritability, overstimulation",
+      "Sulphur: Chronic lazy yet intellectual profile, skin, heat, and aversion to bathing",
+      "Nux often precedes Sulphur in layer removal"
+    ]
+  },
+  {
+    "acute": "Pulsatilla",
+    "chronic": "Silicea",
+    "relation_notes": [
+      "Pulsatilla: Weepy, mild, changeable complaints",
+      "Silicea: Deep-seated weakness, poor assimilation, obstinacy",
+      "Helpful in chronic cases with repeated colds and weak immunity"
+    ]
+  },
+  {
+    "acute": "Rhus tox",
+    "chronic": "Calcarea carbonica",
+    "relation_notes": [
+      "Rhus tox: Acute stiffness, sprains, better motion",
+      "Calc carb: Deep constitutional sluggishness, chilliness, sweat, fear",
+      "Often used in arthritis with deeper calc constitutional traits"
+    ]
+  },
+  {
+    "acute": "Arsenicum album",
+    "chronic": "Thuja",
+    "relation_notes": [
+      "Arsenicum: Acute restlessness, anxiety, burning pains",
+      "Thuja: Chronic sycotic tendencies, fixed ideas, warts",
+      "Transition seen in chronic suppressed or post-vaccine states"
+    ]
+  },
+  {
+    "acute": "Hepar sulph",
+    "chronic": "Silicea",
+    "relation_notes": [
+      "Hepar: Acute sensitivity, suppuration tendency",
+      "Silicea: Chronic weak immunity, pus, cold intolerance",
+      "Sequence in chronic abscess or post-infection stages"
+    ]
+  },
+  {
+    "Psora": {
+      "traits": [
+        "Functional disorders",
+        "Hypersensitivity",
+        "Itching, skin dryness",
+        "Fatigue, low stamina",
+        "Poverty of reaction"
+      ],
+      "remedies": [
+        "Sulphur",
+        "Psorinum",
+        "Calcarea carbonica",
+        "Pulsatilla",
+        "Ignatia",
+        "Phosphorus",
+        "Staphysagria",
+        "Silicea",
+        "Sepia",
+        "Natrum muriaticum",
+        "Nux vomica"
+      ]
+    },
+    "Sycosis": {
+      "traits": [
+        "Overgrowth (warts, tumors)",
+        "Suppression",
+        "Greed, guilt, secretiveness",
+        "Thick discharges",
+        "Hormonal imbalance"
+      ],
+      "remedies": [
+        "Thuja",
+        "Medorrhinum",
+        "Natrum muriaticum",
+        "Staphysagria",
+        "Lycopodium",
+        "Pulsatilla",
+        "Nux vomica",
+        "Sepia"
+      ]
+    },
+    "Syphilitic": {
+      "traits": [
+        "Ulceration and destruction",
+        "Deformities, bone diseases",
+        "Suicidal thoughts",
+        "Compulsions, OCD",
+        "Worse at night"
+      ],
+      "remedies": [
+        "Mercurius",
+        "Syphilinum",
+        "Aurum metallicum",
+        "Silicea",
+        "Arsenicum album",
+        "Carbo animalis",
+        "Baryta carbonica",
+        "Sepia"
+      ]
+    },
+    "Tubercular": {
+      "traits": [
+        "Desire for travel/change",
+        "Allergies and recurrent infections",
+        "Emaciation",
+        "Restlessness",
+        "Childhood weakness"
+      ],
+      "remedies": [
+        "Tuberculinum",
+        "Phosphorus",
+        "Bacillinum",
+        "Calcarea phosphorica",
+        "Pulsatilla",
+        "Silicea"
+      ]
+    },
+    "Canceric": {
+      "traits": [
+        "Perfectionism",
+        "Suppressed emotions",
+        "Family history of cancer",
+        "Early responsibility",
+        "Overwork and silent grief"
+      ],
+      "remedies": [
+        "Carcinosin",
+        "Natrum muriaticum",
+        "Phosphorus",
+        "Thuja",
+        "Ignatia",
+        "Sepia"
+      ]
+    }
+  },
+  {
+    "disease": "Asthma",
+    "miasms": {
+      "Tubercular": ["Phosphorus", "Tuberculinum", "Bacillinum"],
+      "Sycotic": ["Medorrhinum", "Natrum sulph", "Thuja"],
+      "Psoric": ["Arsenicum album", "Sulphur", "Psorinum"]
+    }
+  },
+  {
+    "disease": "Psoriasis",
+    "miasms": {
+      "Syphilitic": ["Mercurius", "Syphilinum", "Arsenicum iod"],
+      "Sycotic": ["Thuja", "Medorrhinum", "Graphites"],
+      "Psoric": ["Sulphur", "Psorinum", "Calcarea carb"]
+    }
+  },
+  {
+    "disease": "Diabetes Mellitus",
+    "miasms": {
+      "Syphilitic": ["Syphilinum", "Phosphoric acid", "Syzygium jambolanum"],
+      "Canceric": ["Carcinosin", "Phosphorus", "Thuja"],
+      "Psoric": ["Lycopodium", "Natrum mur", "Sulphur"]
+    }
+  },
+  {
+    "disease": "Rheumatoid Arthritis",
+    "miasms": {
+      "Syphilitic": ["Mercurius", "Aur met", "Kali iodatum"],
+      "Sycotic": ["Rhus tox", "Medorrhinum", "Causticum"],
+      "Psoric": ["Bryonia", "Sulphur", "Nux vomica"]
+    }
+  },
+  {
+    "disease": "Uterine Fibroids / PCOS",
+    "miasms": {
+      "Sycotic": ["Thuja", "Medorrhinum", "Sabina"],
+      "Canceric": ["Carcinosin", "Natrum mur", "Conium"],
+      "Psoric": ["Pulsatilla", "Lachesis", "Sepia"]
+    }
+  },
+  {
+    "disease": "Recurrent Tonsillitis",
+    "miasms": {
+      "Tubercular": ["Tuberculinum", "Calcarea phos", "Baryta carb"],
+      "Psoric": ["Belladonna", "Hepar sulph", "Sulphur"],
+      "Syphilitic": ["Merc sol", "Syphilinum"]
+    }
+  },
+  {
+    "disease": "Eczema",
+    "miasms": {
+      "Psoric": ["Sulphur", "Graphites", "Psorinum"],
+      "Sycotic": ["Thuja", "Medorrhinum", "Natrum sulph"],
+      "Syphilitic": ["Petroleum", "Nitric acid"]
+    }
+  },
+  {
+    "disease": "Vitiligo",
+    "miasms": {
+      "Syphilitic": ["Syphilinum", "Arsenicum sulph flavum"],
+      "Sycotic": ["Thuja", "Natrum sulph"],
+      "Psoric": ["Psorinum", "Sulphur"]
+    }
+  },
+  {
+    "disease": "Migraine",
+    "miasms": {
+      "Psoric": ["Nux vomica", "Ignatia", "Pulsatilla"],
+      "Sycotic": ["Natrum mur", "Lycopodium", "Thuja"],
+      "Syphilitic": ["Belladonna", "Gelsemium", "Spigelia"]
+    }
+  },
+  {
+    "disease": "Cancer (General Miasmatic Tendency)",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Conium", "Scirrhinum"],
+      "Syphilitic": ["Hydrastis", "Kali arsenicum", "Mercurius"],
+      "Sycotic": ["Thuja", "Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Hypothyroidism",
+    "miasms": {
+      "Psoric": ["Calcarea carb", "Sepia", "Graphites"],
+      "Syphilitic": ["Syphilinum", "Lapis albus", "Iodum"],
+      "Sycotic": ["Thuja", "Natrum sulph", "Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Hyperthyroidism (Graves')",
+    "miasms": {
+      "Tubercular": ["Phosphorus", "Iodum", "Spongia"],
+      "Canceric": ["Carcinosin", "Phosphorus"],
+      "Syphilitic": ["Syphilinum", "Mercurius"]
+    }
+  },
+  {
+    "disease": "Cervical Spondylosis",
+    "miasms": {
+      "Syphilitic": ["Calcarea fluor", "Kali iodatum", "Rhus tox"],
+      "Psoric": ["Bryonia", "Colocynth", "Nux vomica"],
+      "Sycotic": ["Causticum", "Rhus tox"]
+    }
+  },
+  {
+    "disease": "Anxiety Disorders",
+    "miasms": {
+      "Psoric": ["Arsenicum alb", "Aconite", "Pulsatilla"],
+      "Canceric": ["Carcinosin", "Natrum mur", "Phosphorus"],
+      "Sycotic": ["Medorrhinum", "Lycopodium"]
+    }
+  },
+  {
+    "disease": "Depression",
+    "miasms": {
+      "Psoric": ["Ignatia", "Natrum mur", "Aur met"],
+      "Syphilitic": ["Syphilinum", "Merc sol"],
+      "Canceric": ["Carcinosin", "Phosphorus", "Staphysagria"]
+    }
+  },
+  {
+    "disease": "Chronic Sinusitis",
+    "miasms": {
+      "Psoric": ["Kali bich", "Pulsatilla"],
+      "Sycotic": ["Thuja", "Natrum sulph", "Medorrhinum"],
+      "Syphilitic": ["Merc sol", "Hepar sulph"]
+    }
+  },
+  {
+    "disease": "Chronic UTI",
+    "miasms": {
+      "Sycotic": ["Thuja", "Medorrhinum", "Cannabis sativa"],
+      "Syphilitic": ["Nitric acid", "Merc cor", "Syphilinum"],
+      "Psoric": ["Sulphur", "Sarsaparilla"]
+    }
+  },
+  {
+    "disease": "Epilepsy",
+    "miasms": {
+      "Syphilitic": ["Cuprum met", "Hyoscyamus", "Bufo"],
+      "Psoric": ["Cicuta virosa", "Calc carb"],
+      "Canceric": ["Carcinosin", "Baryta carb"]
+    }
+  },
+  {
+    "disease": "Chronic Constipation",
+    "miasms": {
+      "Psoric": ["Nux vomica", "Bryonia", "Sulphur"],
+      "Sycotic": ["Lycopodium", "Plumbum"],
+      "Syphilitic": ["Opium", "Alumina"]
+    }
+  },
+  {
+    "disease": "Acne Vulgaris",
+    "miasms": {
+      "Sycotic": ["Thuja", "Antimonium crudum", "Medorrhinum"],
+      "Psoric": ["Sulphur", "Psorinum"],
+      "Syphilitic": ["Hepar sulph", "Kali bromatum"]
+    }
+  },
+  {
+    "disease": "Female Infertility",
+    "miasms": {
+      "Sycotic": ["Thuja", "Medorrhinum", "Natrum sulph"],
+      "Canceric": ["Carcinosin", "Conium", "Phosphorus"],
+      "Psoric": ["Pulsatilla", "Sepia", "Calcarea carb"]
+    }
+  },
+  {
+    "disease": "Male Infertility",
+    "miasms": {
+      "Syphilitic": ["Syphilinum", "Merc sol", "Aurum met"],
+      "Sycotic": ["Thuja", "Sabal serrulata", "Medorrhinum"],
+      "Psoric": ["Nux vomica", "Sulphur"]
+    }
+  },
+  {
+    "disease": "Irritable Bowel Syndrome (IBS)",
+    "miasms": {
+      "Psoric": ["Nux vomica", "Lycopodium", "Colocynth"],
+      "Sycotic": ["Aloe socotrina", "Sulphur", "Medorrhinum"],
+      "Canceric": ["Carcinosin", "Phosphorus"]
+    }
+  },
+  {
+    "disease": "Piles / Hemorrhoids",
+    "miasms": {
+      "Psoric": ["Nux vomica", "Sulphur", "Aesculus"],
+      "Syphilitic": ["Nitric acid", "Aloe", "Hamamelis"],
+      "Sycotic": ["Thuja", "Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Varicose Veins / Ulcers",
+    "miasms": {
+      "Syphilitic": ["Fluoric acid", "Lachesis", "Carbo veg"],
+      "Psoric": ["Hamamelis", "Sulphur"],
+      "Sycotic": ["Pulsatilla", "Calcarea fluor"]
+    }
+  },
+  {
+    "disease": "Insomnia",
+    "miasms": {
+      "Psoric": ["Coffea", "Nux vomica", "Ignatia"],
+      "Canceric": ["Carcinosin", "Phosphorus"],
+      "Sycotic": ["Lycopodium", "Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Bedwetting (Enuresis)",
+    "miasms": {
+      "Psoric": ["Sepia", "Sulphur"],
+      "Sycotic": ["Causticum", "Equisetum", "Medorrhinum"],
+      "Tubercular": ["Tuberculinum", "Kreosotum"]
+    }
+  },
+  {
+    "disease": "Boils / Recurrent Abscess",
+    "miasms": {
+      "Psoric": ["Hepar sulph", "Sulphur"],
+      "Sycotic": ["Thuja", "Silicea"],
+      "Syphilitic": ["Mercurius", "Tarentula cubensis"]
+    }
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "miasms": {
+      "Tubercular": ["Tuberculinum", "Sabadilla", "Natrum sulph"],
+      "Psoric": ["Arsenicum album", "Nux vomica"],
+      "Sycotic": ["Medorrhinum", "Pulsatilla"]
+    }
+  },
+  {
+    "disease": "Warts (General)",
+    "miasms": {
+      "Sycotic": ["Thuja", "Nitric acid", "Causticum"],
+      "Psoric": ["Sulphur"],
+      "Syphilitic": ["Merc sol", "Antimonium crudum"]
+    }
+  },
+  {
+    "disease": "Alopecia Areata",
+    "miasms": {
+      "Syphilitic": ["Fluoric acid", "Merc sol", "Syphilinum"],
+      "Psoric": ["Phosphorus", "Lycopodium"],
+      "Sycotic": ["Thuja", "Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Urticaria (Hives)",
+    "miasms": {
+      "Sycotic": ["Urtica urens", "Medorrhinum", "Natrum mur"],
+      "Psoric": ["Sulphur", "Apis mellifica"],
+      "Tubercular": ["Tuberculinum", "Histaminum"]
+    }
+  },
+  {
+    "disease": "Iron-deficiency Anemia",
+    "miasms": {
+      "Psoric": ["Ferrum met", "China", "Calcarea phos"],
+      "Syphilitic": ["Syphilinum", "Nitric acid"],
+      "Canceric": ["Carcinosin", "Phosphorus"]
+    }
+  },
+  {
+    "disease": "Chronic Kidney Disease (CKD)",
+    "miasms": {
+      "Syphilitic": ["Mercurius", "Arsenicum alb", "Plumbum"],
+      "Psoric": ["Berberis vulgaris", "Sulphur"],
+      "Canceric": ["Carcinosin", "Phosphorus"]
+    }
+  },
+  {
+    "disease": "Benign Prostatic Hypertrophy (BPH)",
+    "miasms": {
+      "Sycotic": ["Sabal serrulata", "Thuja", "Medorrhinum"],
+      "Psoric": ["Conium", "Lycopodium"],
+      "Syphilitic": ["Merc sol", "Clematis"]
+    }
+  },
+  {
+    "disease": "Leucorrhea (Chronic Vaginal Discharge)",
+    "miasms": {
+      "Sycotic": ["Medorrhinum", "Sepia", "Kreosotum"],
+      "Psoric": ["Pulsatilla", "Sulphur"],
+      "Syphilitic": ["Merc sol", "Syphilinum"]
+    }
+  },
+  {
+    "disease": "Eczema – Dry Cracked",
+    "miasms": {
+      "Syphilitic": ["Petroleum", "Graphites", "Nitric acid"],
+      "Psoric": ["Sulphur", "Psorinum"],
+      "Sycotic": ["Thuja"]
+    }
+  },
+  {
+    "disease": "Eczema – Weeping",
+    "miasms": {
+      "Sycotic": ["Graphites", "Medorrhinum"],
+      "Psoric": ["Mezereum", "Sulphur"],
+      "Syphilitic": ["Merc sol", "Hepar sulph"]
+    }
+  },
+  {
+    "disease": "Contact Dermatitis",
+    "miasms": {
+      "Psoric": ["Sulphur", "Graphites"],
+      "Sycotic": ["Natrum mur", "Medorrhinum"],
+      "Tubercular": ["Tuberculinum"]
+    }
+  },
+  {
+    "disease": "Chronic Otitis Media (Ear Discharge)",
+    "miasms": {
+      "Sycotic": ["Pulsatilla", "Kali mur", "Medorrhinum"],
+      "Psoric": ["Sulphur", "Calcarea carb"],
+      "Syphilitic": ["Merc sol", "Syphilinum"]
+    }
+  },
+  {
+    "disease": "Tinea (Ringworm)",
+    "miasms": {
+      "Sycotic": ["Thuja", "Tellurium", "Sepia"],
+      "Psoric": ["Sulphur", "Graphites"],
+      "Tubercular": ["Tuberculinum"]
+    }
+  },
+  {
+    "disease": "Herpes Simplex (Oral/Genital)",
+    "miasms": {
+      "Syphilitic": ["Syphilinum", "Merc sol", "Nitric acid"],
+      "Sycotic": ["Medorrhinum", "Natrum mur"],
+      "Psoric": ["Sulphur", "Rhus tox"]
+    }
+  },
+  {
+    "disease": "Ulcerative Colitis",
+    "miasms": {
+      "Syphilitic": ["Merc corr", "Nitric acid", "Syphilinum"],
+      "Psoric": ["Nux vomica", "Aloe", "Sulphur"],
+      "Sycotic": ["Thuja", "Natrum sulph"]
+    }
+  },
+  {
+    "disease": "Piles – Bleeding",
+    "miasms": {
+      "Psoric": ["Hamamelis", "Aesculus", "Sulphur"],
+      "Syphilitic": ["Nitric acid", "Phosphorus"]
+    }
+  },
+  {
+    "disease": "Piles – Blind (non-bleeding)",
+    "miasms": {
+      "Sycotic": ["Thuja", "Nux vomica"],
+      "Psoric": ["Sulphur", "Collinsonia"]
+    }
+  },
+  {
+    "disease": "Autism Spectrum Disorder (ASD)",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Baryta carb", "Phosphorus"],
+      "Sycotic": ["Medorrhinum", "Stramonium"],
+      "Syphilitic": ["Syphilinum"]
+    }
+  },
+  {
+    "disease": "ADHD (Attention Deficit)",
+    "miasms": {
+      "Tubercular": ["Tuberculinum", "Tarentula hisp", "Phosphorus"],
+      "Psoric": ["Sulphur", "Veratrum album"],
+      "Sycotic": ["Medorrhinum", "Hyoscyamus"]
+    }
+  },
+  {
+    "disease": "Chronic Gastritis / Acidity",
+    "miasms": {
+      "Psoric": ["Nux vomica", "Robinia", "Iris versicolor"],
+      "Sycotic": ["Lycopodium", "Carbo veg"],
+      "Syphilitic": ["Merc sol", "Kali bich"]
+    }
+  },
+  {
+    "disease": "Scabies",
+    "miasms": {
+      "Psoric": ["Psorinum", "Sulphur"],
+      "Sycotic": ["Thuja", "Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Acne Rosacea",
+    "miasms": {
+      "Sycotic": ["Thuja", "Nat mur", "Antimonium crudum"],
+      "Psoric": ["Sulphur", "Pulsatilla"],
+      "Syphilitic": ["Hepar sulph"]
+    }
+  },
+  {
+    "disease": "Menstrual Irregularities",
+    "miasms": {
+      "Psoric": ["Pulsatilla", "Sulphur", "Sepia"],
+      "Sycotic": ["Medorrhinum", "Thuja", "Natrum mur"],
+      "Syphilitic": ["Kali iod", "Syphilinum"]
+    }
+  },
+  {
+    "disease": "Menorrhagia (Heavy Bleeding)",
+    "miasms": {
+      "Syphilitic": ["Sabina", "Crocus", "Nitric acid"],
+      "Psoric": ["Sulphur", "Calcarea carb"],
+      "Sycotic": ["Thuja", "Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Amenorrhea (No Periods)",
+    "miasms": {
+      "Sycotic": ["Natrum mur", "Sepia", "Pulsatilla"],
+      "Psoric": ["Sulphur", "Nux vomica"],
+      "Canceric": ["Carcinosin", "Ignatia"]
+    }
+  },
+  {
+    "disease": "PCOD – Obese Type",
+    "miasms": {
+      "Sycotic": ["Thuja", "Calcarea carb", "Medorrhinum"],
+      "Canceric": ["Carcinosin", "Phosphorus"],
+      "Psoric": ["Pulsatilla", "Sepia"]
+    }
+  },
+  {
+    "disease": "PCOD – Lean, Hormonal Acne",
+    "miasms": {
+      "Sycotic": ["Thuja", "Natrum mur", "Medorrhinum"],
+      "Syphilitic": ["Hepar sulph", "Kali brom"],
+      "Canceric": ["Carcinosin"]
+    }
+  },
+  {
+    "disease": "Hepatitis (Chronic)",
+    "miasms": {
+      "Syphilitic": ["Chelidonium", "Merc sol", "Arsenicum album"],
+      "Psoric": ["Lycopodium", "Sulphur"],
+      "Sycotic": ["Natrum sulph", "Thuja"]
+    }
+  },
+  {
+    "disease": "Fatty Liver / NAFLD",
+    "miasms": {
+      "Sycotic": ["Chelidonium", "Thuja", "Lycopodium"],
+      "Psoric": ["Nux vomica", "Sulphur"],
+      "Canceric": ["Carcinosin", "Phosphorus"]
+    }
+  },
+  {
+    "disease": "Panic Attacks",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Phosphorus", "Natrum mur"],
+      "Psoric": ["Aconite", "Argentum nitricum"],
+      "Sycotic": ["Medorrhinum", "Stramonium"]
+    }
+  },
+  {
+    "disease": "Eye Floaters",
+    "miasms": {
+      "Syphilitic": ["Syphilinum", "Merc sol", "Physostigma"],
+      "Psoric": ["Agaricus", "Phosphorus"],
+      "Sycotic": ["Thuja"]
+    }
+  },
+  {
+    "disease": "Blepharitis / Stye",
+    "miasms": {
+      "Psoric": ["Pulsatilla", "Sulphur", "Hepar sulph"],
+      "Sycotic": ["Thuja", "Medorrhinum"],
+      "Syphilitic": ["Merc sol"]
+    }
+  },
+  {
+    "disease": "Asthma – Child Type (Night aggravation, wheezing)",
+    "miasms": {
+      "Tubercular": ["Tuberculinum", "Calcarea phos", "Sambucus"],
+      "Sycotic": ["Medorrhinum", "Natrum sulph"],
+      "Psoric": ["Arsenicum album", "Spongia"]
+    }
+  },
+  {
+    "disease": "Asthma – Adult Stress-Induced",
+    "miasms": {
+      "Psoric": ["Nux vomica", "Ignatia"],
+      "Sycotic": ["Lycopodium", "Medorrhinum"],
+      "Canceric": ["Carcinosin", "Natrum mur"]
+    }
+  },
+  {
+    "disease": "GERD (Reflux)",
+    "miasms": {
+      "Psoric": ["Robinia", "Nux vomica", "Iris versicolor"],
+      "Sycotic": ["Lycopodium", "Natrum sulph"],
+      "Canceric": ["Phosphorus", "Carcinosin"]
+    }
+  },
+  {
+    "disease": "IBS – Constipation Dominant",
+    "miasms": {
+      "Psoric": ["Nux vomica", "Bryonia", "Sulphur"],
+      "Sycotic": ["Lycopodium", "Plumbum"],
+      "Syphilitic": ["Alumina"]
+    }
+  },
+  {
+    "disease": "IBS – Diarrhea Dominant",
+    "miasms": {
+      "Sycotic": ["Aloe", "Podophyllum"],
+      "Psoric": ["Sulphur", "Natrum sulph"],
+      "Canceric": ["Carcinosin"]
+    }
+  },
+  {
+    "disease": "Gallstones (Cholelithiasis)",
+    "miasms": {
+      "Sycotic": ["Chelidonium", "Lycopodium", "Carduus mar"],
+      "Psoric": ["Nux vomica", "Calcarea carb"],
+      "Syphilitic": ["Berberis vulgaris"]
+    }
+  },
+  {
+    "disease": "Alopecia Totalis (complete hair loss)",
+    "miasms": {
+      "Syphilitic": ["Fluoric acid", "Syphilinum", "Lycopodium"],
+      "Canceric": ["Carcinosin", "Phosphorus"],
+      "Sycotic": ["Thuja"]
+    }
+  },
+  {
+    "disease": "Eczema – Hands and Fingers",
+    "miasms": {
+      "Syphilitic": ["Petroleum", "Graphites", "Hepar sulph"],
+      "Psoric": ["Sulphur", "Psorinum"],
+      "Sycotic": ["Thuja"]
+    }
+  },
+  {
+    "disease": "Eczema – Behind Ears / Folds",
+    "miasms": {
+      "Psoric": ["Graphites", "Mezereum"],
+      "Sycotic": ["Thuja", "Natrum mur"],
+      "Syphilitic": ["Merc sol"]
+    }
+  },
+  {
+    "disease": "Sinus Headaches",
+    "miasms": {
+      "Sycotic": ["Kali bich", "Natrum sulph", "Thuja"],
+      "Psoric": ["Pulsatilla", "Silicea"],
+      "Syphilitic": ["Mercurius"]
+    }
+  },
+  {
+    "disease": "Obsessive Compulsive Disorder (OCD)",
+    "miasms": {
+      "Syphilitic": ["Syphilinum", "Merc sol", "Aurum metallicum"],
+      "Canceric": ["Carcinosin", "Anacardium", "Natrum mur"],
+      "Sycotic": ["Medorrhinum", "Stramonium"]
+    }
+  },
+  {
+    "disease": "Parkinson’s Disease",
+    "miasms": {
+      "Syphilitic": ["Merc sol", "Plumbum", "Zincum met"],
+      "Psoric": ["Gelsemium", "Agaricus"],
+      "Canceric": ["Carcinosin"]
+    }
+  },
+  {
+    "disease": "Lupus (SLE)",
+    "miasms": {
+      "Syphilitic": ["Syphilinum", "Merc sol", "Arsenicum iod"],
+      "Canceric": ["Carcinosin", "Phosphorus"],
+      "Psoric": ["Natrum mur", "Sulphur"]
+    }
+  },
+  {
+    "disease": "Intermenstrual Pain (Mittelschmerz)",
+    "miasms": {
+      "Sycotic": ["Thuja", "Medorrhinum", "Belladonna"],
+      "Psoric": ["Pulsatilla", "Sepia"],
+      "Syphilitic": ["Merc sol"]
+    }
+  },
+  {
+    "disease": "Bronchiectasis",
+    "miasms": {
+      "Tubercular": ["Bacillinum", "Phosphorus", "Calcarea phos"],
+      "Syphilitic": ["Kali bich", "Mercurius"],
+      "Psoric": ["Arsenicum alb"]
+    }
+  },
+  {
+    "disease": "Cellulitis (Recurrent)",
+    "miasms": {
+      "Syphilitic": ["Tarentula cubensis", "Merc sol", "Lachesis"],
+      "Psoric": ["Belladonna", "Hepar sulph"],
+      "Sycotic": ["Medorrhinum", "Thuja"]
+    }
+  },
+  {
+    "disease": "Chronic Fatigue Syndrome (CFS)",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Phosphoric acid", "Natrum mur"],
+      "Psoric": ["Gelsemium", "Nux vomica"],
+      "Tubercular": ["Tuberculinum"]
+    }
+  },
+  {
+    "disease": "Multiple Sclerosis (MS)",
+    "miasms": {
+      "Syphilitic": ["Plumbum", "Merc sol", "Alumina"],
+      "Canceric": ["Carcinosin", "Phosphorus"],
+      "Sycotic": ["Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Frozen Shoulder",
+    "miasms": {
+      "Sycotic": ["Rhus tox", "Causticum"],
+      "Psoric": ["Bryonia", "Ruta"],
+      "Syphilitic": ["Merc sol", "Guaiacum"]
+    }
+  },
+  {
+    "disease": "Chilblains",
+    "miasms": {
+      "Psoric": ["Agaricus", "Petroleum"],
+      "Syphilitic": ["Fluoric acid", "Nitric acid"],
+      "Sycotic": ["Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Conjunctivitis (Recurrent)",
+    "miasms": {
+      "Psoric": ["Euphrasia", "Pulsatilla", "Belladonna"],
+      "Sycotic": ["Thuja", "Medorrhinum"],
+      "Syphilitic": ["Merc sol"]
+    }
+  },
+  {
+    "disease": "Otitis Media – Recurrent",
+    "miasms": {
+      "Sycotic": ["Kali mur", "Pulsatilla", "Medorrhinum"],
+      "Psoric": ["Hepar sulph", "Belladonna"],
+      "Syphilitic": ["Merc sol"]
+    }
+  },
+  {
+    "disease": "Stammering / Speech Delay",
+    "miasms": {
+      "Psoric": ["Stramonium", "Gelsemium", "Baryta carb"],
+      "Sycotic": ["Causticum", "Medorrhinum"],
+      "Tubercular": ["Tuberculinum", "Lachesis"]
+    }
+  },
+  {
+    "disease": "Hairfall – Hormonal / PCOD",
+    "miasms": {
+      "Sycotic": ["Thuja", "Natrum mur", "Lycopodium"],
+      "Psoric": ["Phosphorus", "Sulphur"],
+      "Canceric": ["Carcinosin"]
+    }
+  },
+  {
+    "disease": "Hairfall – Stress-Induced",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Ignatia"],
+      "Psoric": ["Phosphoric acid", "Natrum mur"],
+      "Sycotic": ["Medorrhinum"]
+    }
+  },
+  {
+    "disease": "B12 Deficiency / Pernicious Anemia",
+    "miasms": {
+      "Syphilitic": ["Arsenicum album", "Plumbum", "Merc sol"],
+      "Psoric": ["China", "Ferrum met"],
+      "Canceric": ["Carcinosin", "Phosphorus"]
+    }
+  },
+  {
+    "disease": "Insomnia – Grief Related",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Ignatia"],
+      "Psoric": ["Coffea", "Pulsatilla"],
+      "Sycotic": ["Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Vertigo – Cervical Origin",
+    "miasms": {
+      "Syphilitic": ["Merc sol", "Conium"],
+      "Psoric": ["Bryonia", "Gelsemium"],
+      "Sycotic": ["Causticum", "Lycopodium"]
+    }
+  },
+  {
+    "disease": "Performance Anxiety",
+    "miasms": {
+      "Psoric": ["Gelsemium", "Argentum nitricum"],
+      "Canceric": ["Carcinosin", "Phosphorus"],
+      "Sycotic": ["Medorrhinum"]
+    }
+  },
+  {
+    "disease": "Suppressed Emotions – Somatization",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Natrum mur", "Ignatia"],
+      "Psoric": ["Staphysagria", "Sepia"],
+      "Syphilitic": ["Aurum met"]
+    }
+  },
+  {
+    "disease": "Epilepsy – Idiopathic / Childhood",
+    "miasms": {
+      "Syphilitic": ["Cuprum met", "Bufo", "Hyoscyamus"],
+      "Psoric": ["Cicuta virosa", "Calcarea carb"],
+      "Tubercular": ["Tuberculinum"]
+    }
+  },
+  {
+    "disease": "Epilepsy – Post-Injury or Trauma",
+    "miasms": {
+      "Syphilitic": ["Natrum sulph", "Hypericum", "Plumbum"],
+      "Canceric": ["Carcinosin", "Aurum met"]
+    }
+  },
+  {
+    "disease": "Post-Viral Fatigue / Long COVID",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Phosphoric acid", "Phosphorus"],
+      "Psoric": ["Gelsemium", "Nux vomica"],
+      "Tubercular": ["Bacillinum"]
+    }
+  },
+  {
+    "disease": "Tendency for Keloids / Raised Scars",
+    "miasms": {
+      "Sycotic": ["Graphites", "Silicea", "Thuja"],
+      "Syphilitic": ["Fluoric acid", "Nitric acid"],
+      "Canceric": ["Carcinosin"]
+    }
+  },
+  {
+    "disease": "Psychogenic Pain / Fibromyalgia",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Phosphorus", "Natrum mur"],
+      "Psoric": ["Ignatia", "Staphysagria"],
+      "Syphilitic": ["Aurum met"]
+    }
+  },
+  {
+    "disease": "Chronic Suppression of Anger / Grief",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Natrum mur"],
+      "Psoric": ["Ignatia", "Staphysagria"],
+      "Syphilitic": ["Aurum mur", "Naja"]
+    }
+  },
+  {
+    "disease": "Recurrent Skin Abscesses",
+    "miasms": {
+      "Sycotic": ["Silicea", "Hepar sulph", "Medorrhinum"],
+      "Psoric": ["Sulphur", "Psorinum"],
+      "Syphilitic": ["Tarentula cubensis", "Merc sol"]
+    }
+  },
+  {
+    "disease": "Chronic Lymphadenopathy",
+    "miasms": {
+      "Tubercular": ["Calcarea phos", "Tuberculinum", "Baryta carb"],
+      "Sycotic": ["Silicea", "Thuja"],
+      "Psoric": ["Sulphur", "Hepar sulph"]
+    }
+  },
+  {
+    "disease": "Speech Regression / Mutism (Post-trauma)",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Baryta carb", "Natrum mur"],
+      "Syphilitic": ["Stramonium", "Hyoscyamus"],
+      "Psoric": ["Ignatia"]
+    }
+  },
+  {
+    "disease": "Neurasthenia / Nervous Exhaustion",
+    "miasms": {
+      "Canceric": ["Carcinosin", "Phosphoric acid"],
+      "Psoric": ["Kali phos", "Gelsemium"],
+      "Sycotic": ["Medorrhinum"]
+    }
+  }
+]

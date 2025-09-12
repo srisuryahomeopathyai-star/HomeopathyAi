@@ -1,0 +1,116 @@
+[
+  {
+    "final_additions": [
+      {
+        "rubric": "PCOD with masculine features (hirsutism, coarse voice, acne)",
+        "grading": {
+          "high": ["Sepia", "Natrum mur", "Thuja"],
+          "medium": ["Lycopodium", "Pulsatilla"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< suppressed menses, < emotions unexpressed",
+        "miasm": "Sycosis",
+        "notes": "Hormonal masculinization in women"
+      },
+      {
+        "rubric": "Infertility after repeated abortions or uterine curettage",
+        "grading": {
+          "high": ["Sabina", "Secale cor", "Cimicifuga"],
+          "medium": ["Belladonna", "Calcarea carb"],
+          "low": ["Murex"]
+        },
+        "modality": "< after surgical intervention, < uterine weakness",
+        "miasm": "Syphilitic",
+        "notes": "Uterine lining damage, chronic infertility"
+      },
+      {
+        "rubric": "Menopause with sadness, worthlessness, and loss of sexual desire",
+        "grading": {
+          "high": ["Sepia", "Lachesis", "Ignatia"],
+          "medium": ["Nat mur", "Staphysagria"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< alone, < evening, < past regrets",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Psychological core of hormonal withdrawal"
+      },
+      {
+        "rubric": "Amenorrhea after strong emotional shock (death, divorce)",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur", "Pulsatilla"],
+          "medium": ["Sepia", "Aurum mur"],
+          "low": ["Cyclamen"]
+        },
+        "modality": "< grief, < suppressed emotions, < trauma",
+        "miasm": "Psoric",
+        "notes": "Hypothalamic-pituitary-menses axis collapse"
+      },
+      {
+        "rubric": "Infertility with constant fear of sterility; obsessive focus on pregnancy",
+        "grading": {
+          "high": ["Murex", "Natrum mur", "Carcinosinum"],
+          "medium": ["Sepia", "Ignatia"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< silent suffering, < seeing children",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Mind-focused reproductive block"
+      },
+      {
+        "rubric": "Female sterility with sexual aversion and vaginal dryness",
+        "grading": {
+          "high": ["Sepia", "Kreosote", "Lachesis"],
+          "medium": ["Ignatia", "Staphysagria"],
+          "low": ["Graphites"]
+        },
+        "modality": "< before menses, < during intercourse",
+        "miasm": "Psora",
+        "notes": "Low estrogen, suppressed libido-related infertility"
+      },
+      {
+        "rubric": "Menopause with joint pains, dryness, and palpitations",
+        "grading": {
+          "high": ["Lachesis", "Sepia", "Sulphur"],
+          "medium": ["Pulsatilla", "Cimicifuga"],
+          "low": ["Silicea"]
+        },
+        "modality": "< night, < rest, < heat",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Menopause causing connective tissue dryness & tension"
+      },
+      {
+        "rubric": "Polycystic ovary with extreme craving for sweets and obesity",
+        "grading": {
+          "high": ["Calcarea carb", "Sepia", "Lycopodium"],
+          "medium": ["Phosphorus", "Pulsatilla"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< inactivity, < suppression, < overthinking",
+        "miasm": "Sycosis",
+        "notes": "Insulin–ovarian link (metabolic PCOD type)"
+      },
+      {
+        "rubric": "Menopause or infertility after long-term oral contraceptive pills",
+        "grading": {
+          "high": ["Thuja", "Sepia", "Natrum mur"],
+          "medium": ["Medorrhinum", "Carcinosinum"],
+          "low": ["Oophorinum"]
+        },
+        "modality": "< after hormone suppression, < synthetic estrogens",
+        "miasm": "Sycosis–Psora",
+        "notes": "Axis suppression needing intercurrent"
+      },
+      {
+        "rubric": "Blocked female case: no response to remedy, irregular menses, past trauma",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Thuja"],
+          "medium": ["Medorrhinum", "Lachesis"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< multiple suppression, < poor vitality",
+        "miasm": "Mixed",
+        "notes": "Use to unlock deep trauma-based infertility/menopause"
+      }
+    ]
+  }
+]

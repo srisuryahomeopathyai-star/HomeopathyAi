@@ -1,0 +1,267 @@
+[
+  {
+    "disease": "Sciatica & Nerve Radiation",
+    "tags": [
+      "CommonChronic",
+      "NervePain",
+      "Sciatica",
+      "LumbarRadiculopathy",
+      "BackPainRadiating",
+      "Psora",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Sciatic pain radiating from low back to left leg",
+        "grading": {
+          "high": ["Colocynthis", "Lycopodium", "Magnesium phos"],
+          "medium": ["Kali carb", "Plumbum met"],
+          "low": ["Gnaphalium"]
+        },
+        "modality": "Left-sided, < sitting, > bending forward",
+        "miasm": "Syphilitic",
+        "notes": "Left-sided nerve compression or disc bulge pattern"
+      },
+      {
+        "rubric": "Sciatic pain radiating from low back to right leg",
+        "grading": {
+          "high": ["Gnaphalium", "Bryonia", "Nux vomica"],
+          "medium": ["Rhus tox", "Kali carb"],
+          "low": ["Colocynthis"]
+        },
+        "modality": "Right-sided pain, < long standing, > hard pressure",
+        "miasm": "Sycosis",
+        "notes": "Right lumbar disc irritation or overstrain case"
+      },
+      {
+        "rubric": "Sciatica with numbness, tingling, formication in leg",
+        "grading": {
+          "high": ["Gnaphalium", "Hypericum", "Plumbum"],
+          "medium": ["Kali iodatum", "Ruta"],
+          "low": ["Rhus tox"]
+        },
+        "modality": "Electric shock-like pain with sensory loss",
+        "miasm": "Syphilitic",
+        "notes": "Deep nerve compression or inflammation"
+      },
+      {
+        "rubric": "Sciatica < sitting, > walking or lying flat",
+        "grading": {
+          "high": ["Colocynthis", "Mag phos", "Gnaphalium"],
+          "medium": ["Bryonia", "Rhus tox"],
+          "low": ["Kali bichromicum"]
+        },
+        "modality": "Motion relieves nerve pressure",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Disc prolapse or piriformis syndrome pattern"
+      },
+      {
+        "rubric": "Sciatic pain < night, < turning in bed",
+        "grading": {
+          "high": ["Rhus tox", "Nux vomica", "Kali bich"],
+          "medium": ["Arnica", "Plumbum"],
+          "low": ["Silicea"]
+        },
+        "modality": "< night, < rest, > motion",
+        "miasm": "Sycosis",
+        "notes": "Nerve tension + soft tissue strain co-existing"
+      },
+      {
+        "rubric": "Sciatic pain extending down entire leg to toes",
+        "grading": {
+          "high": ["Gnaphalium", "Colocynthis", "Plumbum"],
+          "medium": ["Kali iodatum", "Lachesis"],
+          "low": ["Causticum"]
+        },
+        "modality": "Radiating from spine to foot, worse prolonged sitting",
+        "miasm": "Syphilitic",
+        "notes": "Classic full-length sciatic involvement"
+      },
+      {
+        "rubric": "Sciatica after lifting heavy weight or overexertion",
+        "grading": {
+          "high": ["Arnica", "Rhus tox", "Bryonia"],
+          "medium": ["Colocynthis", "Ruta"],
+          "low": ["Bellis perennis"]
+        },
+        "modality": "History of strain or jerk to spine",
+        "miasm": "Psora",
+        "notes": "Acute mechanical injury origin"
+      },
+      {
+        "rubric": "Alternating sciatica – pain shifts sides or disappears suddenly",
+        "grading": {
+          "high": ["Lac caninum", "Pulsatilla", "Sulphur"],
+          "medium": ["Rhus tox", "Ignatia"],
+          "low": ["Thuja"]
+        },
+        "modality": "Changing sides or alternating with other issues",
+        "miasm": "Psora-Sycosis",
+        "notes": "Indicates dynamic miasmatic activity or emotional layer"
+      }
+    ]
+  },
+  {
+    "additional_rubrics": [
+      {
+        "rubric": "Sciatic pain < coughing, sneezing, or straining",
+        "grading": {
+          "high": ["Bryonia", "Belladonna", "Plumbum"],
+          "medium": ["Nux vomica", "Colocynthis"],
+          "low": ["Magnesium phosphoricum"]
+        },
+        "modality": "Pressure aggravates nerve root",
+        "miasm": "Syphilitic",
+        "notes": "Strongly suggests disc compression or herniation"
+      },
+      {
+        "rubric": "Sciatic pain with complete numbness of leg",
+        "grading": {
+          "high": ["Plumbum", "Gnaphalium", "Causticum"],
+          "medium": ["Hypericum", "Kali iod"],
+          "low": ["Silicea"]
+        },
+        "modality": "Loss of nerve function; no sensation",
+        "miasm": "Syphilitic",
+        "notes": "Progressed degenerative sciatica"
+      },
+      {
+        "rubric": "Sciatic pain with involuntary jerks or spasms in leg",
+        "grading": {
+          "high": ["Agaricus", "Zincum metallicum", "Cuprum metallicum"],
+          "medium": ["Gelsemium", "Mag phos"],
+          "low": ["Tarentula"]
+        },
+        "modality": "Accompanied by twitching or cramps",
+        "miasm": "Syphilitic",
+        "notes": "Nerve irritation or cord involvement"
+      },
+      {
+        "rubric": "Sciatica alternating with constipation or suppressed urine",
+        "grading": {
+          "high": ["Plumbum", "Nux vomica", "Sepia"],
+          "medium": ["Sulphur", "Alumina"],
+          "low": ["Silicea"]
+        },
+        "modality": "Alternating complaints (gut ↔ back)",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Viscero-spinal reflex or constitutional blockage"
+      },
+      {
+        "rubric": "Sciatic pain with icy coldness in leg or foot",
+        "grading": {
+          "high": ["Lachesis", "Secale cornutum", "Camphora"],
+          "medium": ["Plumbum", "Veratrum alb"],
+          "low": ["Zincum met"]
+        },
+        "modality": "Cold limbs during sciatica, despite warm body",
+        "miasm": "Syphilitic",
+        "notes": "Severe ischemia or nerve degeneration"
+      },
+      {
+        "rubric": "Sciatic pain < first motion, > continued walking",
+        "grading": {
+          "high": ["Rhus toxicodendron", "Calcarea carb", "Causticum"],
+          "medium": ["Kali carb", "Ruta"],
+          "low": ["Zincum met"]
+        },
+        "modality": "< beginning to move, > motion continued",
+        "miasm": "Sycosis",
+        "notes": "Stiff neuralgia with fibrositic tension"
+      },
+      {
+        "rubric": "Sciatica with paralytic sensation or dragging leg",
+        "grading": {
+          "high": ["Plumbum", "Causticum", "Conium"],
+          "medium": ["Aconite", "Gelsemium"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Leg feels powerless or disconnected",
+        "miasm": "Syphilitic",
+        "notes": "Deep motor nerve involvement"
+      }
+    ]
+  },
+  {
+    "disease": "Chronic Sciatica – Intercurrent & Miasmatic",
+    "tags": [
+      "Sciatica",
+      "Intercurrent",
+      "Miasmatic",
+      "Suppressed",
+      "Chronic",
+      "NervePain",
+      "Psora",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Chronic sciatica after suppression of skin eruptions or steroids",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Thuja"],
+          "medium": ["Graphites", "Medorrhinum"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "Suppressed discharges, topical steroid history",
+        "miasm": "Psora-Sycosis",
+        "notes": "Layer of skin-sciatica suppression; Psorinum is most key here"
+      },
+      {
+        "rubric": "Sciatica alternating with constipation, urinary retention, or eruptions",
+        "grading": {
+          "high": ["Plumbum", "Sulphur", "Lycopodium"],
+          "medium": ["Sepia", "Alumina"],
+          "low": ["Silicea"]
+        },
+        "modality": "Complaints shift between nerve and visceral systems",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Functional blockage; suggests deeper intercurrent terrain"
+      },
+      {
+        "rubric": "Sciatica after deep grief, humiliation, suppressed emotions",
+        "grading": {
+          "high": ["Staphysagria", "Ignatia", "Natrum mur"],
+          "medium": ["Sepia", "Phosphoric acid"],
+          "low": ["Aurum met"]
+        },
+        "modality": "Pain began after emotional event; no physical cause",
+        "miasm": "Psora",
+        "notes": "Psychosomatic trigger often overlooked"
+      },
+      {
+        "rubric": "Sciatica in patients with family history of TB, arthritis, or diabetes",
+        "grading": {
+          "high": ["Tuberculinum", "Syphilinum", "Medorrhinum"],
+          "medium": ["Psorinum", "Calcarea carb"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "Constitutionally vulnerable miasmatic terrain",
+        "miasm": "Mixed",
+        "notes": "Deep constitutional taint blocks healing"
+      },
+      {
+        "rubric": "Sciatica from suppressed gonorrhea or pelvic discharge",
+        "grading": {
+          "high": ["Medorrhinum", "Thuja", "Pulsatilla"],
+          "medium": ["Sepia", "Lachesis"],
+          "low": ["Kreosotum"]
+        },
+        "modality": "Old infection history + recurring sciatica",
+        "miasm": "Sycosis",
+        "notes": "Hidden pelvic/urinary suppression can trigger spinal nerve pain"
+      },
+      {
+        "rubric": "Severe destructive sciatica with deformity or weakness",
+        "grading": {
+          "high": ["Syphilinum", "Plumbum", "Fluoric acid"],
+          "medium": ["Causticum", "Hecla lava"],
+          "low": ["Silicea"]
+        },
+        "modality": "Degenerative, destructive miasm with nerve damage",
+        "miasm": "Syphilitic",
+        "notes": "Final layer when all else fails or weakness sets in"
+      }
+    ]
+  }
+]

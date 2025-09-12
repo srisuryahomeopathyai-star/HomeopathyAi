@@ -1,0 +1,256 @@
+[
+  {
+    "disease": "Fistula-in-Ano",
+    "tags": ["CommonChronic", "Rectal", "SuppurativeDisorders"],
+    "rubrics": [
+      {
+        "rubric": "Fistula in ano with offensive pus discharge",
+        "grading": {
+          "high": ["Silicea", "Paeonia"],
+          "medium": ["Myristica", "Calcarea sulph"],
+          "low": ["Hepar sulph", "Thuja"]
+        },
+        "modality": "Worse in evening and damp weather",
+        "miasm": "Syphilitic",
+        "notes": "Discharge is sticky, offensive, chronic"
+      },
+      {
+        "rubric": "Pain in fistula when sitting or walking",
+        "grading": {
+          "high": ["Graphites", "Silicea"],
+          "medium": ["Paeonia", "Aesculus"],
+          "low": ["Calcarea fluor"]
+        },
+        "modality": "Pain worsens by pressure or prolonged sitting",
+        "miasm": "Psora-Sycosis",
+        "notes": "Sharp, stitching, gnawing or pulsating pain"
+      },
+      {
+        "rubric": "Fistula alternating with piles or skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Silicea"],
+          "low": ["Thuja"]
+        },
+        "modality": "Suppression of one condition brings out another",
+        "miasm": "Psora",
+        "notes": "A classic chronic miasmatic pattern"
+      },
+      {
+        "rubric": "Fistula with burning and itching around anus",
+        "grading": {
+          "high": ["Paeonia", "Sulphur"],
+          "medium": ["Teucrium", "Ratanhia"],
+          "low": ["Aloe", "Sepia"]
+        },
+        "modality": "Worse in warmth, at night",
+        "miasm": "Psora",
+        "notes": "Common in early and active phases"
+      },
+      {
+        "rubric": "Fistula with bleeding discharge",
+        "grading": {
+          "high": ["Nitric acid", "Paeonia"],
+          "medium": ["Silicea", "Calcarea fluor"],
+          "low": ["Hamamelis"]
+        },
+        "modality": "Mixed blood and pus oozes periodically",
+        "miasm": "Syphilitic",
+        "notes": "Ulcerative or sinus wall inflammation"
+      },
+      {
+        "rubric": "Fistula not healing despite long treatment",
+        "grading": {
+          "high": ["Silicea", "Calcarea sulph"],
+          "medium": ["Sulphur", "Hepar sulph"],
+          "low": ["Graphites"]
+        },
+        "modality": "Long-standing, old fistula; indolent tract",
+        "miasm": "Tubercular-Syphilitic",
+        "notes": "Weak vitality or deep-seated disease"
+      },
+      {
+        "rubric": "Fistula with secondary abscess or multiple tracts",
+        "grading": {
+          "high": ["Hepar sulph", "Silicea"],
+          "medium": ["Myristica", "Calcarea fluor"],
+          "low": ["Merc sol"]
+        },
+        "modality": "Abscess formation, recurring nodules",
+        "miasm": "Syphilitic",
+        "notes": "Suppuration with tendency to spread"
+      },
+      {
+        "rubric": "Fistula with hard external opening and induration",
+        "grading": {
+          "high": ["Calcarea fluor", "Silicea"],
+          "medium": ["Graphites", "Paeonia"],
+          "low": ["Thuja"]
+        },
+        "modality": "Skin feels nodular, scarred, or fibrosed",
+        "miasm": "Sycosis",
+        "notes": "Hard tracts due to chronic inflammation"
+      },
+      {
+        "rubric": "Fistula after surgery or incomplete healing post-op",
+        "grading": {
+          "high": ["Calendula", "Silicea"],
+          "medium": ["Hepar sulph", "Calcarea sulph"],
+          "low": ["Staphysagria"]
+        },
+        "modality": "Poor healing, reformation of tract",
+        "miasm": "Syphilitic",
+        "notes": "Postoperative fistula recurrence"
+      },
+      {
+        "rubric": "Fistula with tuberculosis history or emaciation",
+        "grading": {
+          "high": ["Tuberculinum", "Silicea"],
+          "medium": ["Phosphorus", "Psorinum"],
+          "low": ["Bacillinum"]
+        },
+        "modality": "Chronic, stubborn fistula with poor immunity",
+        "miasm": "Tubercular",
+        "notes": "Fails to heal due to suppressed vitality"
+      },
+      {
+        "rubric": "Fistula with diarrhoea alternating with discharge",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Phosphorus", "Paeonia"],
+          "low": ["Sepia"]
+        },
+        "modality": "Watery or loose stool phase alternates with pus",
+        "miasm": "Psora",
+        "notes": "IBS-fistula alternation"
+      },
+      {
+        "rubric": "Fistula with pain better after warm water or sitting in hot bath",
+        "grading": {
+          "high": ["Paeonia", "Silicea"],
+          "medium": ["Sulphur", "Hepar sulph"],
+          "low": ["Ratanhia"]
+        },
+        "modality": "Soothing effect on itching or soreness",
+        "miasm": "Psora",
+        "notes": "Key modality in practice"
+      }
+    ]
+  },
+  {
+    "disease": "Fistula-in-Ano",
+    "tags": ["CommonChronic", "Rectal", "SuppurativeDisorders"],
+    "rubrics": [
+      {
+        "rubric": "Fistula after suppression of skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Lycopodium"],
+          "low": ["Sepia"]
+        },
+        "modality": "After ringworm, eczema, psoriasis suppressed",
+        "miasm": "Psora",
+        "notes": "One-sided disease expression shift"
+      },
+      {
+        "rubric": "Fistula with profound weakness from slight discharge",
+        "grading": {
+          "high": ["Phosphorus", "Tuberculinum"],
+          "medium": ["Silicea", "Psorinum"],
+          "low": ["Stannum"]
+        },
+        "modality": "Debilitating weakness, night sweats",
+        "miasm": "Tubercular",
+        "notes": "Loss of vitality despite low-grade infection"
+      },
+      {
+        "rubric": "Fistula pain alternating with headache or neuralgia",
+        "grading": {
+          "high": ["Lachesis", "Sulphur"],
+          "medium": ["Psorinum", "Phosphorus"],
+          "low": ["Sepia"]
+        },
+        "modality": "One symptom ceases, another appears",
+        "miasm": "Psora",
+        "notes": "Alternate miasmatic outlets"
+      },
+      {
+        "rubric": "Fistula discharge yellow-green and sticky",
+        "grading": {
+          "high": ["Silicea", "Calcarea sulph"],
+          "medium": ["Paeonia", "Hepar sulph"],
+          "low": ["Merc sol"]
+        },
+        "modality": "Purulent, infected sinus",
+        "miasm": "Syphilitic",
+        "notes": "Advanced infection phase"
+      },
+      {
+        "rubric": "Fistula with burning pain better by warm water",
+        "grading": {
+          "high": ["Paeonia", "Sulphur"],
+          "medium": ["Ratanhia", "Hepar sulph"],
+          "low": ["Aesculus"]
+        },
+        "modality": "Warmth relieves pain and itching",
+        "miasm": "Psora",
+        "notes": "Confirms common modality"
+      },
+      {
+        "rubric": "Fistula with hard indurated calloused tracts",
+        "grading": {
+          "high": ["Calcarea fluor", "Silicea"],
+          "medium": ["Graphites", "Thuja"],
+          "low": ["Hepar sulph"]
+        },
+        "modality": "Non-healing scarred fistula",
+        "miasm": "Sycosis",
+        "notes": "Hard lumps, fibrotic walls"
+      },
+      {
+        "rubric": "Fistula with aversion to treatment or hopelessness",
+        "grading": {
+          "high": ["Psorinum", "Lycopodium"],
+          "medium": ["Silicea", "Sepia"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "No desire to continue treatment",
+        "miasm": "Psora",
+        "notes": "Mental component must be addressed"
+      },
+      {
+        "rubric": "Fistula with burning, foul-smelling, ichorous discharge",
+        "grading": {
+          "high": ["Nitric acid", "Paeonia"],
+          "medium": ["Silicea", "Graphites"],
+          "low": ["Merc sol"]
+        },
+        "modality": "Stains linen, causes soreness",
+        "miasm": "Syphilitic",
+        "notes": "Chronic infected ulcer stage"
+      },
+      {
+        "rubric": "Fistula recurring every rainy season",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Silicea", "Calcarea sulph"],
+          "low": ["Merc sol"]
+        },
+        "modality": "Worse in monsoon, humidity",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Climate-related cyclic expression"
+      },
+      {
+        "rubric": "Fistula with bleeding < after stool",
+        "grading": {
+          "high": ["Nitric acid", "Paeonia"],
+          "medium": ["Hamamelis", "Hepar sulph"],
+          "low": ["Calcarea fluor"]
+        },
+        "modality": "Pain and discharge worsens post-defecation",
+        "miasm": "Syphilitic",
+        "notes": "Active rectal inflammation"
+      }
+    ]
+  }
+]

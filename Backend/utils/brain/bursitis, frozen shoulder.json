@@ -1,0 +1,280 @@
+[
+  {
+    "disease": "Other Joint Disorders (Frozen Shoulder, Bursitis, Tendinitis)",
+    "tags": [
+      "CommonChronic",
+      "JointPain",
+      "Tendons",
+      "Bursa",
+      "FrozenShoulder",
+      "Bursitis",
+      "TennisElbow",
+      "TriggerFinger",
+      "Psora",
+      "Sycosis"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Frozen shoulder < night, < lying on affected side",
+        "grading": {
+          "high": ["Ferrum met", "Rhus tox", "Sanguinaria"],
+          "medium": ["Mag phos", "Causticum"],
+          "low": ["Bryonia"]
+        },
+        "modality": "< rest, < pressure on shoulder",
+        "miasm": "Sycosis",
+        "notes": "Stiffness + nerve pain combo in middle-aged individuals"
+      },
+      {
+        "rubric": "Pain in shoulder with restricted motion > warmth",
+        "grading": {
+          "high": ["Rhus tox", "Sanguinaria", "Guaiacum"],
+          "medium": ["Ruta", "Ferrum met"],
+          "low": ["Arnica"]
+        },
+        "modality": "> hot packs, < lifting arm",
+        "miasm": "Sycosis",
+        "notes": "Adhesive capsulitis and fibrotic restriction"
+      },
+      {
+        "rubric": "Shoulder bursitis with swelling and stiffness",
+        "grading": {
+          "high": ["Bellis perennis", "Ruta", "Arnica"],
+          "medium": ["Guaiacum", "Ferrum phos"],
+          "low": ["Bryonia"]
+        },
+        "modality": "< pressure, > gentle massage",
+        "miasm": "Psora",
+        "notes": "Inflamed bursae (subacromial/subdeltoid)"
+      },
+      {
+        "rubric": "Tennis elbow < using arm, < lifting objects",
+        "grading": {
+          "high": ["Ruta", "Rhus tox", "Bryonia"],
+          "medium": ["Causticum", "Bellis perennis"],
+          "low": ["Sanguinaria"]
+        },
+        "modality": "< wrist use, < strain",
+        "miasm": "Sycosis",
+        "notes": "Extensor tendon inflammation from overuse"
+      },
+      {
+        "rubric": "Trigger finger or tendon nodule with locking",
+        "grading": {
+          "high": ["Causticum", "Ruta", "Staphysagria"],
+          "medium": ["Guaiacum", "Bryonia"],
+          "low": ["Silicea"]
+        },
+        "modality": "Snapping finger with nodule or tight tendon",
+        "miasm": "Sycosis",
+        "notes": "Tenosynovitis of flexor sheath or diabetic patients"
+      },
+      {
+        "rubric": "Carpal tunnel syndrome with numbness, tingling < night",
+        "grading": {
+          "high": ["Hypericum", "Causticum", "Plumbum"],
+          "medium": ["Gnaphalium", "Ruta"],
+          "low": ["Mag phos"]
+        },
+        "modality": "< wrist flexion, < rest, > shaking hand",
+        "miasm": "Syphilitic",
+        "notes": "Median nerve compression due to overuse/edema"
+      },
+      {
+        "rubric": "Tendinitis or ligament pain after injury or overuse",
+        "grading": {
+          "high": ["Ruta", "Arnica", "Bellis perennis"],
+          "medium": ["Rhus tox", "Calc phos"],
+          "low": ["Symphytum"]
+        },
+        "modality": "< motion, < touch, > hot fomentation",
+        "miasm": "Psora-Sycosis",
+        "notes": "Common in athletes and physical laborers"
+      },
+      {
+        "rubric": "Chronic joint pain with fibrous nodules or contractures",
+        "grading": {
+          "high": ["Causticum", "Guaiacum", "Plumbum"],
+          "medium": ["Calc fluor", "Silicea"],
+          "low": ["Hecla lava"]
+        },
+        "modality": "Contracted tendons or fibrous tissue build-up",
+        "miasm": "Syphilitic",
+        "notes": "Late-stage fibrosis or joint capsule tightening"
+      }
+    ]
+  },
+  {
+    "additional_rubrics": [
+      {
+        "rubric": "Chronic frozen shoulder with stiffness < uncovering or cold air",
+        "grading": {
+          "high": ["Dulcamara", "Rhus tox", "Silicea"],
+          "medium": ["Calcarea carb", "Causticum"],
+          "low": ["Sepia"]
+        },
+        "modality": "< cold air, < wet weather, > warmth",
+        "miasm": "Psora-Sycosis",
+        "notes": "Fibrotic joint pain after exposure, especially in rainy climate"
+      },
+      {
+        "rubric": "Joint and tendon pain after suppression of skin conditions or discharges",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Thuja"],
+          "medium": ["Graphites", "Medorrhinum"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "Joint symptoms begin after suppressed skin eruptions",
+        "miasm": "Psora-Sycosis",
+        "notes": "Needs intercurrent remedy before local improvement"
+      },
+      {
+        "rubric": "Joint stiffness with burning, tearing pain < rest",
+        "grading": {
+          "high": ["Rhus tox", "Causticum", "Arsenicum album"],
+          "medium": ["Kali iodatum", "Sulphur"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< inactivity, > motion, < cold",
+        "miasm": "Psora",
+        "notes": "Indicates rheumatic miasm with active inflammation"
+      },
+      {
+        "rubric": "Tendon and ligament hardening or calcification",
+        "grading": {
+          "high": ["Calcarea fluorica", "Hecla lava", "Silicea"],
+          "medium": ["Fluoric acid", "Plumbum"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Nodular swelling or stiffness on imaging",
+        "miasm": "Syphilitic",
+        "notes": "Late-stage fibrosis or degenerative tendon condition"
+      },
+      {
+        "rubric": "Joint pain after old injury or fracture site",
+        "grading": {
+          "high": ["Symphytum", "Ruta", "Calcarea phos"],
+          "medium": ["Arnica", "Bellis perennis"],
+          "low": ["Silicea"]
+        },
+        "modality": "Old injury site pain reactivates with use or weather change",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Often needs bone-connective tissue support remedies"
+      },
+      {
+        "rubric": "Recurrent bursitis/tendonitis with family history of arthritis or TB",
+        "grading": {
+          "high": ["Tuberculinum", "Medorrhinum", "Calcarea carb"],
+          "medium": ["Psorinum", "Sulphur"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "Inherited taint; weak tendon/connective tissue terrain",
+        "miasm": "Mixed",
+        "notes": "Miasmatic intercurrent often required"
+      },
+      {
+        "rubric": "Joint pain with alternating mental or menstrual symptoms",
+        "grading": {
+          "high": ["Sepia", "Lachesis", "Ignatia"],
+          "medium": ["Pulsatilla", "Natrum mur"],
+          "low": ["Thuja"]
+        },
+        "modality": "Joint symptoms worsen during hormonal changes or stress",
+        "miasm": "Psora-Sycosis",
+        "notes": "Hormonal axis may need balancing first"
+      }
+    ]
+  },
+  {
+    "deep_additions": [
+      {
+        "rubric": "Chronic joint stiffness with coldness and cracking on movement",
+        "grading": {
+          "high": ["Causticum", "Kali carb", "Calcarea carb"],
+          "medium": ["Silicea", "Lycopodium"],
+          "low": ["Baryta carb"]
+        },
+        "modality": "< damp cold, > motion, cracking audible on movement",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Suggests long-standing fibrosis + degenerative cartilage loss"
+      },
+      {
+        "rubric": "Stiffness and pain in tendons during hormonal imbalance (menopause, puberty)",
+        "grading": {
+          "high": ["Sepia", "Lachesis", "Calcarea carb"],
+          "medium": ["Pulsatilla", "Ignatia"],
+          "low": ["Murex"]
+        },
+        "modality": "Joint stiffness worsens during menses changes or ovulation",
+        "miasm": "Sycosis",
+        "notes": "Tendon-bursa affections linked to hormonal shifts"
+      },
+      {
+        "rubric": "Bursa swelling with burning and stitching pain < least movement",
+        "grading": {
+          "high": ["Apis", "Bryonia", "Ledum"],
+          "medium": ["Rhus tox", "Kalmia"],
+          "low": ["Colchicum"]
+        },
+        "modality": "< slight motion, > cold application",
+        "miasm": "Sycosis-Syphilitic",
+        "notes": "Inflamed bursal sac with synovial irritation"
+      },
+      {
+        "rubric": "Painful joint nodules that alternate with skin eruptions or piles",
+        "grading": {
+          "high": ["Sulphur", "Lycopodium", "Thuja"],
+          "medium": ["Graphites", "Psorinum"],
+          "low": ["Alumina"]
+        },
+        "modality": "Alternating discharge-related issues (rectal ↔ joint)",
+        "miasm": "Psora-Sycosis",
+        "notes": "Indicates retrograde miasmatic shift"
+      },
+      {
+        "rubric": "Old shoulder or joint injury with spasmodic trembling or twitching",
+        "grading": {
+          "high": ["Agaricus", "Zincum met", "Cuprum met"],
+          "medium": ["Hypericum", "Gelsemium"],
+          "low": ["Mag phos"]
+        },
+        "modality": "< excitement, < night, involuntary motions",
+        "miasm": "Syphilitic",
+        "notes": "Post-traumatic nerve damage with involuntary response"
+      },
+      {
+        "rubric": "Recurring tendinitis or bursitis < suppressed anger or grief",
+        "grading": {
+          "high": ["Staphysagria", "Ignatia", "Natrum mur"],
+          "medium": ["Sepia", "Phos acid"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "Tendon/joint pains arise after emotional insult",
+        "miasm": "Psora",
+        "notes": "Psycho-somatic trigger layer that precedes physical expression"
+      },
+      {
+        "rubric": "Chronic joint complaints with night aggravation and bone pains",
+        "grading": {
+          "high": ["Mercurius", "Syphilinum", "Hepar sulph"],
+          "medium": ["Phosphorus", "Silicea"],
+          "low": ["Fluoric acid"]
+        },
+        "modality": "< night, < damp, > warmth of bed",
+        "miasm": "Syphilitic",
+        "notes": "Bone or periosteal involvement in degenerative joint layer"
+      },
+      {
+        "rubric": "Joint stiffness in patients with flat feet, poor posture or scoliosis",
+        "grading": {
+          "high": ["Calcarea fluor", "Ruta", "Silicea"],
+          "medium": ["Causticum", "Phosphorus"],
+          "low": ["Plumbum"]
+        },
+        "modality": "Joint complaints secondary to biomechanical strain",
+        "miasm": "Psora",
+        "notes": "Often structural – chronic compensation or ligament weakness"
+      }
+    ]
+  }
+]

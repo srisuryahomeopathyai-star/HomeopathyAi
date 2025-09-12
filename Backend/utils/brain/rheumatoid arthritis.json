@@ -1,0 +1,243 @@
+[
+  {
+    "disease": "Rheumatoid Arthritis",
+    "tags": [
+      "CommonChronic",
+      "Autoimmune",
+      "RA",
+      "JointPain",
+      "Inflammatory",
+      "Miasmatic",
+      "Deformity",
+      "Emotional",
+      "SuppressionBased"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Joint swelling with stiffness < morning > continued motion",
+        "grading": {
+          "high": ["Rhus toxicodendron", "Causticum", "Bryonia"],
+          "medium": ["Ruta", "Kalmia", "Ferrum met"],
+          "low": ["Ledum", "Calcarea carb"]
+        },
+        "modality": "Worse on waking; improves after moving for a while",
+        "miasm": "Psora-Sycosis",
+        "notes": "Classical keynote of inflammatory arthritis"
+      },
+      {
+        "rubric": "Symmetrical joint involvement with deformities (fingers, wrists)",
+        "grading": {
+          "high": ["Causticum", "Calcarea fluor", "Silicea"],
+          "medium": ["Ruta", "Rhus tox"],
+          "low": ["Antimonium crudum"]
+        },
+        "modality": "Stiff, twisted, enlarged joints in long-term disease",
+        "miasm": "Syphilitic",
+        "notes": "Chronic destructive pathology seen in late RA"
+      },
+      {
+        "rubric": "Rheumatoid pain < cold weather, > warmth",
+        "grading": {
+          "high": ["Rhus tox", "Dulcamara", "Calcarea carb"],
+          "medium": ["Silicea", "Arnica"],
+          "low": ["Sepia", "Natrum sulph"]
+        },
+        "modality": "Rainy or cold seasons aggravate; hot packs relieve",
+        "miasm": "Psora",
+        "notes": "Modalities help differentiate from gout/osteoarthritis"
+      },
+      {
+        "rubric": "Rheumatic pain changes place or joint frequently (wandering)",
+        "grading": {
+          "high": ["Pulsatilla", "Kalmia", "Lac caninum"],
+          "medium": ["Zincum met", "Kali bich"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Pain moves from one joint to another rapidly",
+        "miasm": "Sycosis",
+        "notes": "Indicates unstable autoimmune activity"
+      },
+      {
+        "rubric": "Rheumatoid arthritis after suppressed skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Sepia", "Graphites"],
+          "low": ["Calcarea sulph"]
+        },
+        "modality": "Joint pain started after eczema or skin disease suppressed",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Common autoimmune trigger in homeopathic understanding"
+      },
+      {
+        "rubric": "Rheumatism alternating with gastric, urinary or skin complaints",
+        "grading": {
+          "high": ["Lycopodium", "Rhus tox"],
+          "medium": ["Sulphur", "Natrum mur"],
+          "low": ["Sepia"]
+        },
+        "modality": "Joint pains stop, stomach or bladder issues begin",
+        "miasm": "Sycosis",
+        "notes": "Alternating pathologies key to miasmatic remedy selection"
+      },
+      {
+        "rubric": "RA with great weakness, worse slightest exertion",
+        "grading": {
+          "high": ["Gelsemium", "Phosphoric acid"],
+          "medium": ["China", "Silicea"],
+          "low": ["Sepia"]
+        },
+        "modality": "Tired even after rest; joints feel too weak to move",
+        "miasm": "Psora",
+        "notes": "Vitality collapse stage of chronic RA"
+      },
+      {
+        "rubric": "RA with destructive joint degeneration (bony ankylosis, erosion)",
+        "grading": {
+          "high": ["Calcarea fluor", "Fluoric acid", "Aur met"],
+          "medium": ["Silicea", "Causticum"],
+          "low": ["Hecla lava"]
+        },
+        "modality": "Severe deformity, pain even at rest",
+        "miasm": "Syphilitic",
+        "notes": "Deep-acting remedies needed here"
+      },
+      {
+        "rubric": "RA triggered or worsened after grief, insult, humiliation",
+        "grading": {
+          "high": ["Staphysagria", "Ignatia", "Natrum mur"],
+          "medium": ["Sepia", "Aurum met"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Mind symptoms precede joint complaints",
+        "miasm": "Psora-Sycosis",
+        "notes": "Suppressed emotions as etiology of RA"
+      },
+      {
+        "rubric": "RA patients: chilly, sweaty, sensitive to weather change",
+        "grading": {
+          "high": ["Calcarea carb", "Silicea"],
+          "medium": ["Rhus tox", "Arsenicum"],
+          "low": ["Psorinum"]
+        },
+        "modality": "Catch cold easily; sweat profuse or offensive",
+        "miasm": "Psora",
+        "notes": "Constitutional base common in chronic arthritis cases"
+      },
+      {
+        "rubric": "RA with anxiety about future, despair of recovery",
+        "grading": {
+          "high": ["Arsenicum", "Aurum met", "Phosphorus"],
+          "medium": ["Ignatia", "Nux vomica"],
+          "low": ["Anacardium"]
+        },
+        "modality": "Fear of disability or being a burden",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Psychological distress affecting remedy choice"
+      }
+    ]
+  },
+  {
+    "disease": "Rheumatoid Arthritis – Intercurrent & Miasmatic Remedies",
+    "tags": [
+      "CommonChronic",
+      "RA",
+      "Intercurrent",
+      "Miasmatic",
+      "Autoimmune",
+      "Suppression",
+      "Tubercular",
+      "Syphilitic",
+      "Constitutional"
+    ],
+    "rubrics": [
+      {
+        "rubric": "RA with strong inherited miasm: deformities, relapsing attacks, destruction",
+        "grading": {
+          "high": ["Syphilinum", "Tuberculinum", "Medorrhinum"],
+          "medium": ["Carcinosinum", "Psorinum"],
+          "low": ["Sulphur", "Thuja"]
+        },
+        "modality": "Family history of TB, arthritis, autoimmunity; deformity stage",
+        "miasm": "Syphilitic-Sycotic-Tubercular",
+        "notes": "Use as intercurrent when regular remedy stalls"
+      },
+      {
+        "rubric": "RA after suppression of skin complaints (eczema, psoriasis)",
+        "grading": {
+          "high": ["Psorinum", "Sulphur"],
+          "medium": ["Graphites", "Sepia"],
+          "low": ["Petroleum"]
+        },
+        "modality": "Never well since suppressed eruptions; chilly, dirty skin",
+        "miasm": "Psora",
+        "notes": "Used to unblock suppressed skin → joint shift"
+      },
+      {
+        "rubric": "RA with destructive changes + hopelessness + suicidal thoughts",
+        "grading": {
+          "high": ["Syphilinum", "Aurum metallicum"],
+          "medium": ["Natrum sulph", "Merc sol"],
+          "low": ["Anacardium"]
+        },
+        "modality": "Wants to die due to pain, deformity; gloomy and withdrawn",
+        "miasm": "Syphilitic",
+        "notes": "Deep miasmatic stage with mental collapse"
+      },
+      {
+        "rubric": "RA after grief, humiliation, suppressed anger",
+        "grading": {
+          "high": ["Staphysagria", "Ignatia", "Natrum muriaticum"],
+          "medium": ["Sepia", "Aurum met"],
+          "low": ["Phos-acid"]
+        },
+        "modality": "Clear timeline of mind symptom → joint complaint",
+        "miasm": "Psora-Sycosis",
+        "notes": "Intercurrent to address root mental block"
+      },
+      {
+        "rubric": "RA with alternating complaints: skin, stomach, urinary, joints",
+        "grading": {
+          "high": ["Sulphur", "Lycopodium"],
+          "medium": ["Rhus tox", "Natrum mur"],
+          "low": ["Sepia"]
+        },
+        "modality": "One complaint vanishes, another appears",
+        "miasm": "Sycosis",
+        "notes": "Vitality shifting layers of expression"
+      },
+      {
+        "rubric": "RA with cold sensitivity, suppressed perspiration",
+        "grading": {
+          "high": ["Psorinum", "Silicea"],
+          "medium": ["Calcarea carb", "Sepia"],
+          "low": ["Baryta carb"]
+        },
+        "modality": "Takes cold easily; no eruptions; internalized pathology",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Cold, sluggish, deep chronic cases"
+      },
+      {
+        "rubric": "RA in tubercular diathesis: alternating heat/chill, changeable symptoms",
+        "grading": {
+          "high": ["Tuberculinum", "Phosphorus"],
+          "medium": ["Iodum", "Stannum"],
+          "low": ["Bacillinum"]
+        },
+        "modality": "Family TB, emotional intensity, traveling pain, high reactivity",
+        "miasm": "Tubercular",
+        "notes": "Use when case shows restless, alternating modalities"
+      },
+      {
+        "rubric": "RA with frequent relapse after improvement",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Medorrhinum"],
+          "medium": ["Syphilinum", "Silicea"],
+          "low": ["Thuja"]
+        },
+        "modality": "Gets better with remedy but relapses often or develops new complaint",
+        "miasm": "All miasms (mixed)",
+        "notes": "Indicates block in core vital force"
+      }
+    ]
+  }
+]

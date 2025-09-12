@@ -1,0 +1,447 @@
+[
+  {
+    "SpeechVoicePatterns": [
+      {
+        "rubric": "Inability to speak during emotional excitement",
+        "grading": {
+          "high": ["Gelsemium", "Ignatia"],
+          "medium": ["Aconite", "Argentum nitricum"],
+          "low": ["Lachesis"]
+        },
+        "modality": "Fear, anticipation, or nervousness blocks voice",
+        "miasm": "Psoric",
+        "notes": "Gelsemium – exam anxiety; Argent-nit – stage fright"
+      },
+      {
+        "rubric": "Sudden loss of speech (aphasia)",
+        "grading": {
+          "high": ["Causticum", "Belladonna"],
+          "medium": ["Phosphorus", "Stramonium"],
+          "low": ["Lachesis"]
+        },
+        "modality": "After fright, stroke, or sudden shock",
+        "miasm": "Syphilitic",
+        "notes": "Causticum – post-paralytic aphonia"
+      },
+      {
+        "rubric": "Talks too much – loquacity",
+        "grading": {
+          "high": ["Lachesis", "Stramonium"],
+          "medium": ["Hyoscyamus", "Sulphur"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Often jumps from one topic to another",
+        "miasm": "Psoric",
+        "notes": "Lachesis – nonstop talking, especially in evening"
+      },
+      {
+        "rubric": "Disjointed, incoherent speech",
+        "grading": {
+          "high": ["Anacardium", "Cannabis indica"],
+          "medium": ["Veratrum album", "Belladonna"],
+          "low": ["Hyoscyamus"]
+        },
+        "modality": "During delirium, mania, or mental confusion",
+        "miasm": "Syphilitic",
+        "notes": "Cannabis – loses thread of thought mid-sentence"
+      },
+      {
+        "rubric": "Stammering or stuttering",
+        "grading": {
+          "high": ["Stramonium", "Mercurius"],
+          "medium": ["Causticum", "Baryta carbonica"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Worse from anxiety or being watched",
+        "miasm": "Psoric",
+        "notes": "Often seen in timid or developmentally delayed children"
+      },
+      {
+        "rubric": "Slow, hesitant speech",
+        "grading": {
+          "high": ["Baryta carbonica", "Gelsemium"],
+          "medium": ["Cannabis indica", "Phosphoric acid"],
+          "low": ["Silicea"]
+        },
+        "modality": "Mental dullness, fatigue, or fear",
+        "miasm": "Psoric",
+        "notes": "Baryta – childish, bashful speech patterns"
+      },
+      {
+        "rubric": "Repeats same word or phrase",
+        "grading": {
+          "high": ["Stramonium", "Cicuta virosa"],
+          "medium": ["Hyoscyamus", "Anacardium"],
+          "low": ["Arsenicum"]
+        },
+        "modality": "Often occurs in delirium or OCD states",
+        "miasm": "Syphilitic",
+        "notes": "Stramonium – compulsive repetition in psychosis"
+      },
+      {
+        "rubric": "Answers slowly or not at all",
+        "grading": {
+          "high": ["Opium", "Phosphoric acid"],
+          "medium": ["Carbo veg", "Gelsemium"],
+          "low": ["Agaricus"]
+        },
+        "modality": "Apathetic, dazed, or dull mental state",
+        "miasm": "Syphilitic",
+        "notes": "Opium – answers slowly, inattentive"
+      },
+      {
+        "rubric": "Speech confused during fever or delirium",
+        "grading": {
+          "high": ["Belladonna", "Stramonium"],
+          "medium": ["Hyoscyamus", "Veratrum album"],
+          "low": ["Rhus toxicodendron"]
+        },
+        "modality": "High temperature or cerebral inflammation",
+        "miasm": "Syphilitic",
+        "notes": "Belladonna – muttering with red face and dryness"
+      },
+      {
+        "rubric": "Avoids talking, prefers silence",
+        "grading": {
+          "high": ["Ignatia", "Sepia"],
+          "medium": ["Natrum mur", "Phosphoric acid"],
+          "low": ["Silicea"]
+        },
+        "modality": "Sadness, grief, or introversion",
+        "miasm": "Psoric",
+        "notes": "Nat mur – introverted grief pattern"
+      }
+    ]
+  },
+  {
+    "SpeechVoicePatterns": [
+      {
+        "rubric": "Hoarseness of voice",
+        "grading": {
+          "high": ["Causticum", "Phosphorus"],
+          "medium": ["Hepar sulph", "Argentum nitricum"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "Worse in morning or evening; overuse of voice",
+        "miasm": "Psoric",
+        "notes": "Causticum – classic for morning hoarseness"
+      },
+      {
+        "rubric": "Complete loss of voice (aphonia)",
+        "grading": {
+          "high": ["Causticum", "Arum triphyllum"],
+          "medium": ["Phosphorus", "Spongia"],
+          "low": ["Lachesis"]
+        },
+        "modality": "Worse after exposure, anger, or over-talking",
+        "miasm": "Syphilitic",
+        "notes": "Causticum – cannot speak a word though tries"
+      },
+      {
+        "rubric": "Voice weak, cannot speak loudly",
+        "grading": {
+          "high": ["Stannum", "Phosphorus"],
+          "medium": ["Arnica", "Causticum"],
+          "low": ["Silicea"]
+        },
+        "modality": "Even whisper is exhausting",
+        "miasm": "Tubercular",
+        "notes": "Voice fades with talking – key in Phosphorus"
+      },
+      {
+        "rubric": "Voice cracks or breaks while talking",
+        "grading": {
+          "high": ["Phosphorus", "Graphites"],
+          "medium": ["Lycopodium", "Causticum"],
+          "low": ["Spongia"]
+        },
+        "modality": "Worse when speaking continuously",
+        "miasm": "Psoric",
+        "notes": "Phosphorus – emotional or weak nerves"
+      },
+      {
+        "rubric": "Voice deep and rough",
+        "grading": {
+          "high": ["Baryta carbonica", "Spongia"],
+          "medium": ["Hepar sulph", "Causticum"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "Chronic laryngitis or endocrine issues",
+        "miasm": "Psoro-syphilitic",
+        "notes": "Seen in elderly or thyroid-based cases"
+      },
+      {
+        "rubric": "Voice shrill and high-pitched",
+        "grading": {
+          "high": ["Chamomilla", "Belladonna"],
+          "medium": ["Cina", "Stramonium"],
+          "low": ["Veratrum album"]
+        },
+        "modality": "Often in children, hysteria, or high fever",
+        "miasm": "Psoric",
+        "notes": "Chamomilla – especially in irritable children"
+      },
+      {
+        "rubric": "Voice lost after anger or grief",
+        "grading": {
+          "high": ["Ignatia", "Phosphorus"],
+          "medium": ["Staphysagria", "Causticum"],
+          "low": ["Lachesis"]
+        },
+        "modality": "Silent after emotional suppression",
+        "miasm": "Psoric",
+        "notes": "Ignatia – silent grief, aphonia from emotion"
+      },
+      {
+        "rubric": "Voice lost after exposure to cold air",
+        "grading": {
+          "high": ["Aconite", "Causticum"],
+          "medium": ["Hepar sulph", "Phosphorus"],
+          "low": ["Spongia"]
+        },
+        "modality": "Dry, cold wind or sudden chill",
+        "miasm": "Psoric",
+        "notes": "Common in acute laryngitis"
+      },
+      {
+        "rubric": "Talking aggravates cough or symptoms",
+        "grading": {
+          "high": ["Drosera", "Spongia"],
+          "medium": ["Phosphorus", "Hepar sulph"],
+          "low": ["Belladonna"]
+        },
+        "modality": "Even few words start violent cough",
+        "miasm": "Psoric",
+        "notes": "Drosera – cough triggered by voice, very sensitive"
+      },
+      {
+        "rubric": "Voice altered during menstruation",
+        "grading": {
+          "high": ["Lachesis", "Sepia"],
+          "medium": ["Cyclamen", "Pulsatilla"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Hoarseness or aphonia before/during menses",
+        "miasm": "Psoro-sycotic",
+        "notes": "Lachesis – all symptoms worse during menses"
+      }
+    ]
+  },
+  {
+    "SpeechVoicePatterns": [
+      {
+        "rubric": "Voice changes during emotion or excitement",
+        "grading": {
+          "high": ["Phosphorus", "Ignatia"],
+          "medium": ["Gelsemium", "Lachesis"],
+          "low": ["Stramonium"]
+        },
+        "modality": "Grief, stage fright, anger causes hoarseness or loss",
+        "miasm": "Psoric",
+        "notes": "Voice trembles or vanishes during stress"
+      },
+      {
+        "rubric": "Voice lost after singing or overuse",
+        "grading": {
+          "high": ["Argentum metallicum", "Causticum"],
+          "medium": ["Arum triphyllum", "Phosphorus"],
+          "low": ["Drosera"]
+        },
+        "modality": "Professional voice strain or overtalking",
+        "miasm": "Psoric",
+        "notes": "Arg-met – classic for singers, public speakers"
+      },
+      {
+        "rubric": "Voice lost or weak in the morning",
+        "grading": {
+          "high": ["Causticum", "Hepar sulph"],
+          "medium": ["Kali bichromicum", "Phosphorus"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "Wakes aphonic or very hoarse",
+        "miasm": "Psoric",
+        "notes": "Morning aphonia is a keynote of Causticum"
+      },
+      {
+        "rubric": "Voice lost after suppression of eruption or menses",
+        "grading": {
+          "high": ["Causticum", "Sulphur"],
+          "medium": ["Lachesis", "Sepia"],
+          "low": ["Graphites"]
+        },
+        "modality": "Skin suppression or menstrual suppression history",
+        "miasm": "Psoro-syphilitic",
+        "notes": "Deep miasmatic block; Causticum highly indicated"
+      },
+      {
+        "rubric": "Voice trembles while speaking",
+        "grading": {
+          "high": ["Gelsemium", "Argentum nitricum"],
+          "medium": ["Phosphoric acid", "Baryta carbonica"],
+          "low": ["Ignatia"]
+        },
+        "modality": "Weakness, anxiety, exam fear",
+        "miasm": "Psoric",
+        "notes": "Gelsemium – trembling voice, lack of confidence"
+      },
+      {
+        "rubric": "Voice croaking, as if speaking through mucus",
+        "grading": {
+          "high": ["Kali bichromicum", "Causticum"],
+          "medium": ["Hepar sulph", "Lachesis"],
+          "low": ["Antimonium tart"]
+        },
+        "modality": "Worse in morning or in damp cold",
+        "miasm": "Syphilitic",
+        "notes": "Kali bich – thick sticky mucus in larynx"
+      },
+      {
+        "rubric": "Voice squeaky or childish in adults",
+        "grading": {
+          "high": ["Baryta carbonica", "Stramonium"],
+          "medium": ["Phosphorus", "Medorrhinum"],
+          "low": ["Silicea"]
+        },
+        "modality": "Underdeveloped larynx or delayed growth",
+        "miasm": "Sycotic",
+        "notes": "Baryta – physical + emotional immaturity"
+      },
+      {
+        "rubric": "Voice stops suddenly while talking",
+        "grading": {
+          "high": ["Causticum", "Cocculus"],
+          "medium": ["Phosphorus", "Ignatia"],
+          "low": ["Conium"]
+        },
+        "modality": "Sudden aphonia mid-sentence",
+        "miasm": "Psoric",
+        "notes": "Causticum – paralysis-like sudden loss"
+      },
+      {
+        "rubric": "Voice better after drinking cold water",
+        "grading": {
+          "high": ["Phosphorus"],
+          "medium": ["Spongia", "Drosera"],
+          "low": ["Causticum"]
+        },
+        "modality": "Soothes burning or dryness in larynx",
+        "miasm": "Psoric",
+        "notes": "Confirmatory for Phosphorus"
+      },
+      {
+        "rubric": "Voice deep, hoarse, harsh in children",
+        "grading": {
+          "high": ["Spongia", "Aconite"],
+          "medium": ["Hepar sulph", "Bromium"],
+          "low": ["Sambucus"]
+        },
+        "modality": "During croup, laryngitis, or cold exposure",
+        "miasm": "Psoric",
+        "notes": "Spongia – barking hoarse croupy voice"
+      }
+    ]
+  },
+  {
+    "SpeechVoicePatterns": [
+      {
+        "rubric": "Talks during sleep (somniloquy)",
+        "grading": {
+          "high": ["Lachesis", "Sulphur"],
+          "medium": ["Belladonna", "Hyoscyamus"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Talks loudly or mutters; reveals secrets or emotions",
+        "miasm": "Psoric",
+        "notes": "Lachesis – passionate talk during sleep; Bell – fever talk"
+      },
+      {
+        "rubric": "Talking in delirium with eyes open",
+        "grading": {
+          "high": ["Belladonna", "Stramonium"],
+          "medium": ["Hyoscyamus", "Veratrum album"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "High fever, meningeal states, red face",
+        "miasm": "Syphilitic",
+        "notes": "Bell – classic red face, dry tongue, muttering"
+      },
+      {
+        "rubric": "Talks irrationally or about imaginary things",
+        "grading": {
+          "high": ["Anacardium", "Cannabis indica"],
+          "medium": ["Stramonium", "Lachesis"],
+          "low": ["Veratrum album"]
+        },
+        "modality": "During psychosis, mania, or high fever",
+        "miasm": "Syphilitic",
+        "notes": "Cann-ind – fantastic stories mid-sentence"
+      },
+      {
+        "rubric": "Answers questions irrelevantly",
+        "grading": {
+          "high": ["Belladonna", "Hyoscyamus"],
+          "medium": ["Stramonium", "Lachesis"],
+          "low": ["Opium"]
+        },
+        "modality": "In delirium, mania, dementia",
+        "miasm": "Syphilitic",
+        "notes": "Shows disconnected mental processing"
+      },
+      {
+        "rubric": "Talking worsens headache",
+        "grading": {
+          "high": ["Bryonia", "Iris versicolor"],
+          "medium": ["Sanguinaria", "Belladonna"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Even answering increases head pain",
+        "miasm": "Psoric",
+        "notes": "Bryonia – wants to lie still and silent"
+      },
+      {
+        "rubric": "Cannot pronounce certain words correctly",
+        "grading": {
+          "high": ["Causticum", "Baryta carbonica"],
+          "medium": ["Lycopodium", "Cannabis sativa"],
+          "low": ["Cicuta virosa"]
+        },
+        "modality": "Developmental delay or post-stroke",
+        "miasm": "Syphilitic",
+        "notes": "Speech defect in children or after paralysis"
+      },
+      {
+        "rubric": "Inability to articulate after fright or grief",
+        "grading": {
+          "high": ["Gelsemium", "Ignatia"],
+          "medium": ["Aconite", "Phosphoric acid"],
+          "low": ["Lachesis"]
+        },
+        "modality": "Paralytic or mental block after emotional trauma",
+        "miasm": "Psoric",
+        "notes": "Gelsemium – cannot speak in front of audience"
+      },
+      {
+        "rubric": "Talks with closed eyes in semi-sleep",
+        "grading": {
+          "high": ["Lachesis", "Sulphur"],
+          "medium": ["Hyoscyamus", "Opium"],
+          "low": ["Stramonium"]
+        },
+        "modality": "Dreamy, in twilight consciousness",
+        "miasm": "Psoric",
+        "notes": "Often part of fever or hysteria states"
+      },
+      {
+        "rubric": "Talks only in whispers",
+        "grading": {
+          "high": ["Phosphorus", "Stannum"],
+          "medium": ["Causticum", "Lycopodium"],
+          "low": ["Ignatia"]
+        },
+        "modality": "From weakness, fear, or laryngeal paresis",
+        "miasm": "Tubercular",
+        "notes": "Stannum – weakness of voice from slightest effort"
+      }
+    ]
+  }
+]

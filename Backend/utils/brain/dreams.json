@@ -1,0 +1,1253 @@
+[
+  {
+    "rubric": "Dreams – vivid",
+    "grading": "High",
+    "modality": "During light sleep; often remembered",
+    "miasm": "Tubercular",
+    "notes": "Intense imagination, emotional sensitivity, excitable mental sphere",
+    "remedies": [
+      { "remedy": "Sulphur", "grade": "H" },
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "M" },
+      { "remedy": "Nux vomica", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – anxious",
+    "grading": "High",
+    "modality": "Wakes up afraid; worse at midnight",
+    "miasm": "Psora",
+    "notes": "Fear of future, performance, loss, or attack; often seen in anticipatory anxiety",
+    "remedies": [
+      { "remedy": "Arsenicum album", "grade": "H" },
+      { "remedy": "Aconitum", "grade": "H" },
+      { "remedy": "Kali carbonicum", "grade": "M" },
+      { "remedy": "Nux vomica", "grade": "M" },
+      { "remedy": "Calcarea carbonica", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – frightful / nightmares",
+    "grading": "High",
+    "modality": "Sudden waking with scream or palpitations",
+    "miasm": "Syphilitic",
+    "notes": "Violent themes, repression, trauma, childhood fears, subconscious conflict",
+    "remedies": [
+      { "remedy": "Belladonna", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Opium", "grade": "M" },
+      { "remedy": "Zincum metallicum", "grade": "M" },
+      { "remedy": "Kali bromatum", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of falling",
+    "grading": "Medium",
+    "modality": "Early part of sleep",
+    "miasm": "Psoric",
+    "notes": "Fear of losing control, instability in life, insecurity",
+    "remedies": [
+      { "remedy": "Borax", "grade": "H" },
+      { "remedy": "Arsenicum album", "grade": "M" },
+      { "remedy": "Sulphur", "grade": "M" },
+      { "remedy": "Opium", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of death",
+    "grading": "High",
+    "modality": "After grief; during hormonal transitions (e.g., menopause)",
+    "miasm": "Syphilitic",
+    "notes": "Fear of death, loss, change; also symbolic of psychological transformation",
+    "remedies": [
+      { "remedy": "Calcarea carbonica", "grade": "H" },
+      { "remedy": "Ignatia", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "H" },
+      { "remedy": "Sepia", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – sexual",
+    "grading": "High",
+    "modality": "During suppressed libido, celibacy, or post-relationship",
+    "miasm": "Sycotic",
+    "notes": "Repressed desires, guilty pleasure, indulgence vs. control conflict",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "H" },
+      { "remedy": "Staphysagria", "grade": "M" },
+      { "remedy": "Nux vomica", "grade": "M" },
+      { "remedy": "Platina", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of fire",
+    "grading": "Medium",
+    "modality": "Feverish state; after watching dramatic visuals",
+    "miasm": "Tubercular",
+    "notes": "Burning ambitions, purification, danger, or repressed anger",
+    "remedies": [
+      { "remedy": "Medorrhinum", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Arsenicum album", "grade": "L" },
+      { "remedy": "Sulphur", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of water / floods",
+    "grading": "Medium",
+    "modality": "Full moon; hormonal surges",
+    "miasm": "Psoric",
+    "notes": "Emotional overwhelm, repressed tears, fear of being consumed",
+    "remedies": [
+      { "remedy": "Pulsatilla", "grade": "H" },
+      { "remedy": "Natrum muriaticum", "grade": "H" },
+      { "remedy": "Arsenicum album", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – prophetic",
+    "grading": "Rare",
+    "modality": "Early morning dreams remembered exactly",
+    "miasm": "Cancerinic",
+    "notes": "Highly intuitive persons; clairvoyant experiences; mystical tendencies",
+    "remedies": [
+      { "remedy": "Lycopodium", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Sepia", "grade": "L" },
+      { "remedy": "Silicea", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of animals",
+    "grading": "High",
+    "modality": "Often threatening animals; symbolic fears",
+    "miasm": "Sycotic",
+    "notes": "Primal fears, suppressed instincts, or symbolic people as animals",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Lyssinum", "grade": "M" },
+      { "remedy": "Belladonna", "grade": "M" },
+      { "remedy": "Medorrhinum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of flying",
+    "grading": "Medium",
+    "modality": "Usually light, euphoric, before waking",
+    "miasm": "Tubercular",
+    "notes": "Desire for freedom, escape from limitations, spiritual elevation",
+    "remedies": [
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Medorrhinum", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Sticta pulmonaria", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of teeth falling out",
+    "grading": "High",
+    "modality": "Often without pain; during stress periods",
+    "miasm": "Psoric",
+    "notes": "Anxiety about aging, loss of control or appearance",
+    "remedies": [
+      { "remedy": "Calcarea carbonica", "grade": "H" },
+      { "remedy": "Silicea", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of being chased",
+    "grading": "High",
+    "modality": "Mostly by men or animals; wakes up breathless",
+    "miasm": "Syphilitic",
+    "notes": "Feeling hunted, persecuted, or trauma-linked avoidance",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "M" },
+      { "remedy": "Pulsatilla", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of examinations",
+    "grading": "Medium",
+    "modality": "Often recurring; stress-induced; even in older age",
+    "miasm": "Psoric",
+    "notes": "Performance anxiety, insecurity, fear of failure",
+    "remedies": [
+      { "remedy": "Argentum nitricum", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "H" },
+      { "remedy": "Silicea", "grade": "M" },
+      { "remedy": "Gelsemium", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of being late (school/train/etc.)",
+    "grading": "Medium",
+    "modality": "Often early morning dreams; recurring theme",
+    "miasm": "Psoric",
+    "notes": "Inability to cope with responsibilities; guilt or control issues",
+    "remedies": [
+      { "remedy": "Argentum nitricum", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "M" },
+      { "remedy": "Sepia", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of snakes",
+    "grading": "High",
+    "modality": "Fearful or symbolic; often during hormonal/sexual conflicts",
+    "miasm": "Sycotic",
+    "notes": "Hidden fears, sexuality, betrayal, Kundalini symbolism",
+    "remedies": [
+      { "remedy": "Lachesis", "grade": "H" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Stramonium", "grade": "M" },
+      { "remedy": "Crotalus", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of being buried alive",
+    "grading": "Rare",
+    "modality": "Claustrophobic, often gasping in sleep",
+    "miasm": "Syphilitic",
+    "notes": "Extreme suppression, trauma memory, fear of confinement",
+    "remedies": [
+      { "remedy": "Opium", "grade": "M" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Stramonium", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of ghosts / spirits",
+    "grading": "Medium",
+    "modality": "Often night terrors; spiritual sensitivity",
+    "miasm": "Cancerinic",
+    "notes": "Fear of unseen forces, guilt, religious impressions, mystical tendencies",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Calcarea carbonica", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Silicea", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – vivid",
+    "grading": "High",
+    "modality": "During light sleep; often remembered",
+    "miasm": "Tubercular",
+    "notes": "Intense imagination, emotional sensitivity, excitable mental sphere",
+    "remedies": [
+      { "remedy": "Sulphur", "grade": "H" },
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "M" },
+      { "remedy": "Nux vomica", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – anxious",
+    "grading": "High",
+    "modality": "Wakes up afraid; worse at midnight",
+    "miasm": "Psora",
+    "notes": "Fear of future, performance, loss, or attack; often seen in anticipatory anxiety",
+    "remedies": [
+      { "remedy": "Arsenicum album", "grade": "H" },
+      { "remedy": "Aconitum", "grade": "H" },
+      { "remedy": "Kali carbonicum", "grade": "M" },
+      { "remedy": "Nux vomica", "grade": "M" },
+      { "remedy": "Calcarea carbonica", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – frightful / nightmares",
+    "grading": "High",
+    "modality": "Sudden waking with scream or palpitations",
+    "miasm": "Syphilitic",
+    "notes": "Violent themes, repression, trauma, childhood fears, subconscious conflict",
+    "remedies": [
+      { "remedy": "Belladonna", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Opium", "grade": "M" },
+      { "remedy": "Zincum metallicum", "grade": "M" },
+      { "remedy": "Kali bromatum", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of falling",
+    "grading": "Medium",
+    "modality": "Early part of sleep",
+    "miasm": "Psoric",
+    "notes": "Fear of losing control, instability in life, insecurity",
+    "remedies": [
+      { "remedy": "Borax", "grade": "H" },
+      { "remedy": "Arsenicum album", "grade": "M" },
+      { "remedy": "Sulphur", "grade": "M" },
+      { "remedy": "Opium", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of death",
+    "grading": "High",
+    "modality": "After grief; during hormonal transitions (e.g., menopause)",
+    "miasm": "Syphilitic",
+    "notes": "Fear of death, loss, change; also symbolic of psychological transformation",
+    "remedies": [
+      { "remedy": "Calcarea carbonica", "grade": "H" },
+      { "remedy": "Ignatia", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "H" },
+      { "remedy": "Sepia", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – sexual",
+    "grading": "High",
+    "modality": "During suppressed libido, celibacy, or post-relationship",
+    "miasm": "Sycotic",
+    "notes": "Repressed desires, guilty pleasure, indulgence vs. control conflict",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "H" },
+      { "remedy": "Staphysagria", "grade": "M" },
+      { "remedy": "Nux vomica", "grade": "M" },
+      { "remedy": "Platina", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of fire",
+    "grading": "Medium",
+    "modality": "Feverish state; after watching dramatic visuals",
+    "miasm": "Tubercular",
+    "notes": "Burning ambitions, purification, danger, or repressed anger",
+    "remedies": [
+      { "remedy": "Medorrhinum", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Arsenicum album", "grade": "L" },
+      { "remedy": "Sulphur", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of water / floods",
+    "grading": "Medium",
+    "modality": "Full moon; hormonal surges",
+    "miasm": "Psoric",
+    "notes": "Emotional overwhelm, repressed tears, fear of being consumed",
+    "remedies": [
+      { "remedy": "Pulsatilla", "grade": "H" },
+      { "remedy": "Natrum muriaticum", "grade": "H" },
+      { "remedy": "Arsenicum album", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – prophetic",
+    "grading": "Rare",
+    "modality": "Early morning dreams remembered exactly",
+    "miasm": "Cancerinic",
+    "notes": "Highly intuitive persons; clairvoyant experiences; mystical tendencies",
+    "remedies": [
+      { "remedy": "Lycopodium", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Sepia", "grade": "L" },
+      { "remedy": "Silicea", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of animals",
+    "grading": "High",
+    "modality": "Often threatening animals; symbolic fears",
+    "miasm": "Sycotic",
+    "notes": "Primal fears, suppressed instincts, or symbolic people as animals",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Lyssinum", "grade": "M" },
+      { "remedy": "Belladonna", "grade": "M" },
+      { "remedy": "Medorrhinum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of flying",
+    "grading": "Medium",
+    "modality": "Usually light, euphoric, before waking",
+    "miasm": "Tubercular",
+    "notes": "Desire for freedom, escape from limitations, spiritual elevation",
+    "remedies": [
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Medorrhinum", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Sticta pulmonaria", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of teeth falling out",
+    "grading": "High",
+    "modality": "Often without pain; during stress periods",
+    "miasm": "Psoric",
+    "notes": "Anxiety about aging, loss of control or appearance",
+    "remedies": [
+      { "remedy": "Calcarea carbonica", "grade": "H" },
+      { "remedy": "Silicea", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of being chased",
+    "grading": "High",
+    "modality": "Mostly by men or animals; wakes up breathless",
+    "miasm": "Syphilitic",
+    "notes": "Feeling hunted, persecuted, or trauma-linked avoidance",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "M" },
+      { "remedy": "Pulsatilla", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of examinations",
+    "grading": "Medium",
+    "modality": "Often recurring; stress-induced; even in older age",
+    "miasm": "Psoric",
+    "notes": "Performance anxiety, insecurity, fear of failure",
+    "remedies": [
+      { "remedy": "Argentum nitricum", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "H" },
+      { "remedy": "Silicea", "grade": "M" },
+      { "remedy": "Gelsemium", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of being late (school/train/etc.)",
+    "grading": "Medium",
+    "modality": "Often early morning dreams; recurring theme",
+    "miasm": "Psoric",
+    "notes": "Inability to cope with responsibilities; guilt or control issues",
+    "remedies": [
+      { "remedy": "Argentum nitricum", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "M" },
+      { "remedy": "Natrum muriaticum", "grade": "M" },
+      { "remedy": "Sepia", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of snakes",
+    "grading": "High",
+    "modality": "Fearful or symbolic; often during hormonal/sexual conflicts",
+    "miasm": "Sycotic",
+    "notes": "Hidden fears, sexuality, betrayal, Kundalini symbolism",
+    "remedies": [
+      { "remedy": "Lachesis", "grade": "H" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Stramonium", "grade": "M" },
+      { "remedy": "Crotalus", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of being buried alive",
+    "grading": "Rare",
+    "modality": "Claustrophobic, often gasping in sleep",
+    "miasm": "Syphilitic",
+    "notes": "Extreme suppression, trauma memory, fear of confinement",
+    "remedies": [
+      { "remedy": "Opium", "grade": "M" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Stramonium", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of ghosts / spirits",
+    "grading": "Medium",
+    "modality": "Often night terrors; spiritual sensitivity",
+    "miasm": "Cancerinic",
+    "notes": "Fear of unseen forces, guilt, religious impressions, mystical tendencies",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Calcarea carbonica", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Silicea", "grade": "L" }
+    ]
+  },
+  {
+    "remedy": "Sulphur",
+    "dream_themes": [
+      "Vivid dreams",
+      "Philosophical or abstract",
+      "Of fire",
+      "Of falling"
+    ],
+    "mental_state": "Egotistic, neglectful of appearance, over-intellectualized, searching for truth.",
+    "miasm": "Psoric",
+    "clinical_insight": "Dreams reveal mental restlessness, theorizing, and avoidance of responsibility."
+  },
+  {
+    "remedy": "Lycopodium",
+    "dream_themes": [
+      "Of examinations",
+      "Failure",
+      "Being late",
+      "Being pursued",
+      "Prophetic"
+    ],
+    "mental_state": "Insecure but dictatorial, anticipatory anxiety, fear of failure with a show of confidence.",
+    "miasm": "Sycotic",
+    "clinical_insight": "Dreams often show inner inferiority, fear of being exposed, or performance stress."
+  },
+  {
+    "remedy": "Phosphorus",
+    "dream_themes": [
+      "Of fire",
+      "Ghosts",
+      "Natural disasters",
+      "Flying",
+      "Emotional dreams"
+    ],
+    "mental_state": "Open, sympathetic, fearful, emotionally porous, anxious when alone.",
+    "miasm": "Tubercular",
+    "clinical_insight": "Dreams reflect emotional hypersensitivity, spiritual yearning, and fear of death."
+  },
+  {
+    "remedy": "Calcarea carbonica",
+    "dream_themes": [
+      "Of death",
+      "Teeth falling out",
+      "Nightmares",
+      "Monsters",
+      "Being buried alive"
+    ],
+    "mental_state": "Insecurity, fear of loss of control, responsibility-heavy personality.",
+    "miasm": "Psoric",
+    "clinical_insight": "Dreams show fear of being overwhelmed, fear of health decline, or suffocation."
+  },
+  {
+    "remedy": "Stramonium",
+    "dream_themes": [
+      "Night terrors",
+      "Of darkness",
+      "Of monsters",
+      "Of being chased",
+      "Ghosts"
+    ],
+    "mental_state": "Violent fears, extreme terror, childhood trauma, aggression or submission duality.",
+    "miasm": "Syphilitic",
+    "clinical_insight": "Dreams expose hidden trauma and psychotic elements; very important in children."
+  },
+  {
+    "remedy": "Lachesis",
+    "dream_themes": [
+      "Of snakes",
+      "Jealousy",
+      "Sexual encounters",
+      "Fire",
+      "Being attacked"
+    ],
+    "mental_state": "Talkative, passionate, jealous, suspicious, expressive with hormonal link.",
+    "miasm": "Syphilitic",
+    "clinical_insight": "Dreams mirror suppressed sexuality, rivalry, fear of losing control."
+  },
+  {
+    "remedy": "Sepia",
+    "dream_themes": [
+      "Of separation",
+      "Loss",
+      "Dancing",
+      "Drowning",
+      "Dreams of family estrangement"
+    ],
+    "mental_state": "Detached, overburdened, hormonal stagnation, loss of joy and love.",
+    "miasm": "Sycotic / Syphilitic",
+    "clinical_insight": "Dreams expose emotional dullness, resentment, and hormonal imbalance."
+  },
+  {
+    "remedy": "Ignatia",
+    "dream_themes": [
+      "Of grief",
+      "Of death",
+      "Romantic loss",
+      "Emotional dreams",
+      "Crying in sleep"
+    ],
+    "mental_state": "Contradictory nature, sensitive, romantic idealist, prone to silent grief.",
+    "miasm": "Psoric",
+    "clinical_insight": "Dreams reflect unresolved emotional trauma, suppressed mourning, heartache."
+  },
+  {
+    "remedy": "Natrum muriaticum",
+    "dream_themes": [
+      "Of rejection",
+      "Of weeping",
+      "Drowning",
+      "Of past grief",
+      "Ghosts of loved ones"
+    ],
+    "mental_state": "Closed, dignified, introverted, weeps alone, holds grudges from past grief.",
+    "miasm": "Psoric",
+    "clinical_insight": "Dreams reflect deep-seated grief, unexpressed emotions, and broken relationships."
+  },
+  {
+    "remedy": "Argentum nitricum",
+    "dream_themes": [
+      "Of examinations",
+      "Of being late",
+      "Of disasters",
+      "Heights",
+      "Falling"
+    ],
+    "mental_state": "Impatient, hurried, impulsive, fear of heights and claustrophobia.",
+    "miasm": "Sycotic",
+    "clinical_insight": "Dreams reveal anticipatory anxiety, chaos fear, and nervous system overload."
+  },
+  {
+    "rubric": "Dreams – of being naked in public",
+    "grading": "Medium",
+    "modality": "Often embarrassing, shameful feeling",
+    "miasm": "Psoric",
+    "notes": "Fear of exposure, inferiority, vulnerability or hidden guilt",
+    "remedies": [
+      { "remedy": "Natrum muriaticum", "grade": "H" },
+      { "remedy": "Pulsatilla", "grade": "M" },
+      { "remedy": "Sulphur", "grade": "M" },
+      { "remedy": "Silicea", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of violence and murder",
+    "grading": "High",
+    "modality": "Often disturbing and remembered clearly",
+    "miasm": "Syphilitic",
+    "notes": "Aggression, rage, suppressed anger or suicidal tendency",
+    "remedies": [
+      { "remedy": "Nux vomica", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Belladonna", "grade": "M" },
+      { "remedy": "Anacardium", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of flying downward or crashing",
+    "grading": "Medium",
+    "modality": "With a sensation of falling or doom",
+    "miasm": "Tubercular",
+    "notes": "Loss of control, high aspirations suddenly breaking",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Staphysagria", "grade": "M" },
+      { "remedy": "Medorrhinum", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of missing body parts",
+    "grading": "Rare",
+    "modality": "Limbs missing or paralyzed in dream",
+    "miasm": "Syphilitic",
+    "notes": "Fear of incapacity, worthlessness, deep self-hatred",
+    "remedies": [
+      { "remedy": "Thuja", "grade": "M" },
+      { "remedy": "Syphilinum", "grade": "M" },
+      { "remedy": "Causticum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of past lives or reincarnation",
+    "grading": "Rare",
+    "modality": "Often vivid and symbolic",
+    "miasm": "Cancerinic",
+    "notes": "Karmic guilt, mystical insight, spiritual evolution",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Medorrhinum", "grade": "M" },
+      { "remedy": "Aurum metallicum", "grade": "L" },
+      { "remedy": "Carcinosin", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of being in an examination",
+    "grading": "High",
+    "modality": "Recurring; causes anxiety or sweating",
+    "miasm": "Psoric",
+    "notes": "Performance fear, fear of being judged or failing",
+    "remedies": [
+      { "remedy": "Argentum nitricum", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "H" },
+      { "remedy": "Silicea", "grade": "M" },
+      { "remedy": "Gelsemium", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of vomiting",
+    "grading": "Low",
+    "modality": "Often after heavy emotions or eating late",
+    "miasm": "Psoric",
+    "notes": "Symbolic of emotional rejection or cleansing",
+    "remedies": [
+      { "remedy": "Nux vomica", "grade": "M" },
+      { "remedy": "Antimonium crudum", "grade": "L" },
+      { "remedy": "Ipecacuanha", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of insects or spiders",
+    "grading": "Medium",
+    "modality": "Creeping sensations; during fever or fright",
+    "miasm": "Sycotic",
+    "notes": "Fear of contamination, obsession, paranoia, or sexual conflict",
+    "remedies": [
+      { "remedy": "Tarentula", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Stramonium", "grade": "M" },
+      { "remedy": "Aranea diadema", "grade": "L" }
+    ]
+  },
+  {
+    "miasm": "Psoric",
+    "dream_rubrics": [
+      {
+        "rubric": "Dreams – of being late",
+        "grading": "High",
+        "modality": "Recurring before important events",
+        "notes": "Insecurity, low confidence, fear of responsibility",
+        "remedies": [
+          { "remedy": "Argentum nitricum", "grade": "H" },
+          { "remedy": "Silicea", "grade": "M" },
+          { "remedy": "Natrum muriaticum", "grade": "M" }
+        ]
+      },
+      {
+        "rubric": "Dreams – of falling",
+        "grading": "Medium",
+        "modality": "Startling dream during light sleep",
+        "notes": "Fear of losing control, anxiety about failure",
+        "remedies": [
+          { "remedy": "Borax", "grade": "H" },
+          { "remedy": "Sulphur", "grade": "M" }
+        ]
+      },
+      {
+        "rubric": "Dreams – of examinations",
+        "grading": "High",
+        "modality": "Recurring theme of fear or failing",
+        "notes": "Performance anxiety, anticipatory tension",
+        "remedies": [
+          { "remedy": "Lycopodium", "grade": "H" },
+          { "remedy": "Gelsemium", "grade": "M" }
+        ]
+      }
+    ]
+  },
+  {
+    "miasm": "Sycotic",
+    "dream_rubrics": [
+      {
+        "rubric": "Dreams – of snakes",
+        "grading": "High",
+        "modality": "With fear or symbolic appearance",
+        "notes": "Hidden sexuality, betrayal, secrecy, kundalini symbols",
+        "remedies": [
+          { "remedy": "Lachesis", "grade": "H" },
+          { "remedy": "Medorrhinum", "grade": "M" }
+        ]
+      },
+      {
+        "rubric": "Dreams – of animals",
+        "grading": "High",
+        "modality": "Aggressive or fearful animals",
+        "notes": "Repressed instincts, territorial fears, or symbolic people",
+        "remedies": [
+          { "remedy": "Stramonium", "grade": "H" },
+          { "remedy": "Lyssinum", "grade": "M" }
+        ]
+      },
+      {
+        "rubric": "Dreams – sexual",
+        "grading": "High",
+        "modality": "After suppression or celibacy",
+        "notes": "Hidden sexual desire, shame, or indulgence",
+        "remedies": [
+          { "remedy": "Staphysagria", "grade": "H" },
+          { "remedy": "Phosphorus", "grade": "M" }
+        ]
+      }
+    ]
+  },
+  {
+    "miasm": "Syphilitic",
+    "dream_rubrics": [
+      {
+        "rubric": "Dreams – of murder / violence",
+        "grading": "High",
+        "modality": "With vivid imagery; wakes disturbed",
+        "notes": "Self-destructive tendencies, suppressed rage or trauma",
+        "remedies": [
+          { "remedy": "Stramonium", "grade": "H" },
+          { "remedy": "Nux vomica", "grade": "H" }
+        ]
+      },
+      {
+        "rubric": "Dreams – of death",
+        "grading": "High",
+        "modality": "Night or early morning",
+        "notes": "Hopelessness, destruction, identity crisis",
+        "remedies": [
+          { "remedy": "Lachesis", "grade": "H" },
+          { "remedy": "Syphilinum", "grade": "M" }
+        ]
+      },
+      {
+        "rubric": "Dreams – of being buried alive",
+        "grading": "Rare",
+        "modality": "Claustrophobic dreams, gasping for breath",
+        "notes": "Suppression, punishment, self-hate",
+        "remedies": [
+          { "remedy": "Opium", "grade": "M" },
+          { "remedy": "Stramonium", "grade": "L" }
+        ]
+      }
+    ]
+  },
+  {
+    "miasm": "Tubercular",
+    "dream_rubrics": [
+      {
+        "rubric": "Dreams – of flying",
+        "grading": "Medium",
+        "modality": "Euphoric or light dreams",
+        "notes": "Desire to escape, break boundaries, free-spirited",
+        "remedies": [
+          { "remedy": "Medorrhinum", "grade": "H" },
+          { "remedy": "Phosphorus", "grade": "H" }
+        ]
+      },
+      {
+        "rubric": "Dreams – of travel",
+        "grading": "Medium",
+        "modality": "Often long journeys or unknown places",
+        "notes": "Restlessness, longing for change, dissatisfaction",
+        "remedies": [
+          { "remedy": "Tuberculinum", "grade": "H" },
+          { "remedy": "Sulphur", "grade": "M" }
+        ]
+      },
+      {
+        "rubric": "Dreams – of fire",
+        "grading": "Medium",
+        "modality": "Often during fevers or hormonal surges",
+        "notes": "Symbolic transformation, burning desires, spiritual purification",
+        "remedies": [
+          { "remedy": "Phosphorus", "grade": "H" },
+          { "remedy": "Medorrhinum", "grade": "M" }
+        ]
+      }
+    ]
+  },
+  {
+    "miasm": "Cancerinic",
+    "dream_rubrics": [
+      {
+        "rubric": "Dreams – of ghosts / spirits",
+        "grading": "Medium",
+        "modality": "Often in early morning or full moon",
+        "notes": "Guilt, ancestral karma, moral pressure, spiritual sensitivity",
+        "remedies": [
+          { "remedy": "Carcinosin", "grade": "H" },
+          { "remedy": "Phosphorus", "grade": "M" }
+        ]
+      },
+      {
+        "rubric": "Dreams – of prophecy",
+        "grading": "Rare",
+        "modality": "Early morning vivid dreams that come true",
+        "notes": "Mystical temperament, intuitive dreams, burdened by fate",
+        "remedies": [
+          { "remedy": "Lycopodium", "grade": "M" },
+          { "remedy": "Phosphorus", "grade": "M" }
+        ]
+      },
+      {
+        "rubric": "Dreams – of rituals / temples / God",
+        "grading": "Low",
+        "modality": "Often repetitive; intense devotion or guilt",
+        "notes": "Religious conflict, ritualism, suppressed desires",
+        "remedies": [
+          { "remedy": "Thuja", "grade": "M" },
+          { "remedy": "Silicea", "grade": "L" }
+        ]
+      }
+    ]
+  },
+  {
+    "rubric": "Children – Dreams of monsters",
+    "grading": "High",
+    "modality": "Occurs during early sleep or fever; wakes up crying",
+    "miasm": "Syphilitic",
+    "notes": "Symbol of deep-seated fear, aggression or trauma, often after fright or abuse",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Belladonna", "grade": "H" },
+      { "remedy": "Cina", "grade": "M" },
+      { "remedy": "Hyoscyamus", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Children – Dreams of ghosts or darkness",
+    "grading": "High",
+    "modality": "Child clings to parent; refuses to sleep alone",
+    "miasm": "Cancerinic / Syphilitic",
+    "notes": "Fear of death, guilt, suppression of fear at school/home",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Calcarea carbonica", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Carcinosin", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Children – Dreams of falling",
+    "grading": "Medium",
+    "modality": "Startles during sleep; often seen in sensitive or insecure children",
+    "miasm": "Psoric",
+    "notes": "Instability, fear of abandonment, anxiety about safety",
+    "remedies": [
+      { "remedy": "Borax", "grade": "H" },
+      { "remedy": "Pulsatilla", "grade": "M" },
+      { "remedy": "Sulphur", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Children – Dreams of animals attacking",
+    "grading": "Medium",
+    "modality": "Cries or talks during sleep; very vivid",
+    "miasm": "Sycotic",
+    "notes": "Fear of domination, bullying, parental aggression; may relate to symbolic people",
+    "remedies": [
+      { "remedy": "Lyssinum", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Tarentula", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Children – Dreams with sleep-talking",
+    "grading": "Medium",
+    "modality": "Speaks, cries, or repeats same words in sleep",
+    "miasm": "Psoric / Sycotic",
+    "notes": "Overactive brain, unable to switch off from day thoughts",
+    "remedies": [
+      { "remedy": "Hyoscyamus", "grade": "H" },
+      { "remedy": "Kali bromatum", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Lachesis", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Children – Frightful dreams during fever",
+    "grading": "High",
+    "modality": "Often with high temperature, delirium, fear of death",
+    "miasm": "Tubercular / Syphilitic",
+    "notes": "Useful during acute states with neurologic symptoms",
+    "remedies": [
+      { "remedy": "Belladonna", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Cina", "grade": "M" },
+      { "remedy": "Chamomilla", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Children – Dreams of losing parents",
+    "grading": "Medium",
+    "modality": "Emotional child clings after waking; anxiety all day",
+    "miasm": "Psoric / Cancerinic",
+    "notes": "Fear of abandonment, hypersensitive children, parental neglect",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Pulsatilla", "grade": "M" },
+      { "remedy": "Carcinosin", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Children – Dreams of urinating",
+    "grading": "Low",
+    "modality": "Bedwetting follows dream",
+    "miasm": "Psoric",
+    "notes": "Common in developmental delay, emotional conflict, or fear of punishment",
+    "remedies": [
+      { "remedy": "Sepia", "grade": "M" },
+      { "remedy": "Causticum", "grade": "M" },
+      { "remedy": "Equisetum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – recurring before menstruation",
+    "grading": "Medium",
+    "modality": "Mostly emotional or sexual dreams before periods",
+    "miasm": "Sycotic / Syphilitic",
+    "notes": "Hormonal tension, suppressed sexuality, PMS aggravation",
+    "remedies": [
+      { "remedy": "Lachesis", "grade": "H" },
+      { "remedy": "Sepia", "grade": "M" },
+      { "remedy": "Murex", "grade": "M" },
+      { "remedy": "Medorrhinum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – during full moon",
+    "grading": "High",
+    "modality": "Very vivid, spiritual or disturbing dreams on moonlit nights",
+    "miasm": "Tubercular / Cancerinic",
+    "notes": "Psychic openness, mental agitation, disturbed sleep cycle",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Calcarea carb", "grade": "H" },
+      { "remedy": "Lunaria", "grade": "M" },
+      { "remedy": "Carcinosin", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – before or during fever",
+    "grading": "High",
+    "modality": "Frightful, delirious dreams during prodrome or peak of fever",
+    "miasm": "Syphilitic / Tubercular",
+    "notes": "Often precedes high fevers; predictive in children and acute cases",
+    "remedies": [
+      { "remedy": "Belladonna", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Opium", "grade": "M" },
+      { "remedy": "Aconite", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – early in the night",
+    "grading": "Medium",
+    "modality": "Light sleep phase; often emotional dreams",
+    "miasm": "Psoric",
+    "notes": "Connected to recent events, unresolved daytime issues",
+    "remedies": [
+      { "remedy": "Ignatia", "grade": "M" },
+      { "remedy": "Staphysagria", "grade": "M" },
+      { "remedy": "Pulsatilla", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – after midnight",
+    "grading": "Medium",
+    "modality": "Disturbing or weird dreams post-midnight",
+    "miasm": "Sycotic",
+    "notes": "Linked with liver congestion, hormonal drop, suppressed thoughts",
+    "remedies": [
+      { "remedy": "Nux vomica", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Natrum mur", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – remembered clearly in the morning",
+    "grading": "High",
+    "modality": "Vivid and deeply symbolic",
+    "miasm": "Cancerinic / Psoric",
+    "notes": "Insightful, intuitive dreams; often recurrent and detailed",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Carcinosin", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – continue after waking",
+    "grading": "Rare",
+    "modality": "Dream thoughts linger; blurring between dream and reality",
+    "miasm": "Cancerinic / Syphilitic",
+    "notes": "Psychic sensitivity, detachment from reality, dream-like mental state",
+    "remedies": [
+      { "remedy": "Anhalonium", "grade": "H" },
+      { "remedy": "Cannabis indica", "grade": "M" },
+      { "remedy": "Aurum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – frightful, during fever",
+    "grading": "High",
+    "modality": "Screaming, starting, or clinging in sleep during high fever",
+    "miasm": "Syphilitic / Tubercular",
+    "notes": "Often with delirium, night terrors, or febrile seizures",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Belladonna", "grade": "H" },
+      { "remedy": "Cina", "grade": "M" },
+      { "remedy": "Aconitum", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of ghosts and black figures during acute illness",
+    "grading": "Medium",
+    "modality": "Hallucination-like dreams with fever or infections",
+    "miasm": "Syphilitic",
+    "notes": "Delusional state, toxic mental storm, acute psychotic breaks",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Hyoscyamus", "grade": "M" },
+      { "remedy": "Belladonna", "grade": "M" },
+      { "remedy": "Veratrum album", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of being pursued or attacked (in febrile state)",
+    "grading": "High",
+    "modality": "Violent struggling in sleep; fear remains after waking",
+    "miasm": "Tubercular / Syphilitic",
+    "notes": "Hyperreactive brain in infection; often seen in children or toxic fevers",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Opium", "grade": "M" },
+      { "remedy": "Lachesis", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Dreams – screaming with open eyes in sleep (night terrors)",
+    "grading": "High",
+    "modality": "Child screams but is not fully conscious; eyes may remain open",
+    "miasm": "Syphilitic",
+    "notes": "Deep fear from subconscious, acute disturbance of cerebral cortex",
+    "remedies": [
+      { "remedy": "Belladonna", "grade": "H" },
+      { "remedy": "Opium", "grade": "M" },
+      { "remedy": "Cina", "grade": "M" },
+      { "remedy": "Tarentula", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of animals, terrifying, during fever",
+    "grading": "Medium",
+    "modality": "Often of snakes, tigers, or insects; patient panics",
+    "miasm": "Sycotic / Syphilitic",
+    "notes": "Symbolic of subconscious fear, delirium, toxic brain state",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Tarentula", "grade": "M" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Lyssinum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – confused, nonsensical, during acute state",
+    "grading": "Medium",
+    "modality": "Fast shifting dreams; nonsense words or scenes",
+    "miasm": "Psoric / Tubercular",
+    "notes": "Fever delirium; mind over-stimulated; can precede seizures",
+    "remedies": [
+      { "remedy": "Hyoscyamus", "grade": "H" },
+      { "remedy": "Belladonna", "grade": "M" },
+      { "remedy": "Cina", "grade": "M" },
+      { "remedy": "Baptisia", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of falling or slipping from height (fever onset)",
+    "grading": "Low",
+    "modality": "Dream precedes fever or marks beginning of illness",
+    "miasm": "Psoric / Tubercular",
+    "notes": "Brain trying to alert body to upcoming collapse or inflammation",
+    "remedies": [
+      { "remedy": "Borax", "grade": "M" },
+      { "remedy": "Belladonna", "grade": "M" },
+      { "remedy": "Gelsemium", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – prophetic (come true later)",
+    "grading": "High",
+    "modality": "Dreams about events that later occur; often early morning dreams",
+    "miasm": "Cancerinic / Tubercular",
+    "notes": "High sensitivity, psychic openness, intuitive mind",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Carcinosin", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "M" },
+      { "remedy": "Ignatia", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – lucid (realize one is dreaming)",
+    "grading": "Medium",
+    "modality": "Dreamer takes control or is aware of dreaming",
+    "miasm": "Tubercular / Cancerinic",
+    "notes": "High mental activity, spiritual seeking, astral awareness",
+    "remedies": [
+      { "remedy": "Anhalonium", "grade": "H" },
+      { "remedy": "Cannabis indica", "grade": "H" },
+      { "remedy": "Medorrhinum", "grade": "M" },
+      { "remedy": "Aurum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of angels or divine beings",
+    "grading": "Medium",
+    "modality": "Soothing, radiant, or emotional; often post-grief or illness",
+    "miasm": "Cancerinic / Psoric",
+    "notes": "Deep faith, spiritual transformation, or soul healing",
+    "remedies": [
+      { "remedy": "Aurum metallicum", "grade": "H" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Carcinosin", "grade": "M" },
+      { "remedy": "Ignatia", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of temples, religious rituals",
+    "grading": "Medium",
+    "modality": "Often repeating or linked to inner guilt or devotion",
+    "miasm": "Psoric / Cancerinic",
+    "notes": "Spiritual longing or suppression of desire via ritual",
+    "remedies": [
+      { "remedy": "Thuja", "grade": "M" },
+      { "remedy": "Silicea", "grade": "M" },
+      { "remedy": "Sepia", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of past life / reincarnation",
+    "grading": "Rare",
+    "modality": "Often vivid with strong emotions or karmic feeling",
+    "miasm": "Cancerinic / Tubercular",
+    "notes": "Spiritual memory, burden of past, unresolved patterns",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Medorrhinum", "grade": "M" },
+      { "remedy": "Aurum", "grade": "M" },
+      { "remedy": "Carcinosin", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of flying upward (joyful or liberating)",
+    "grading": "High",
+    "modality": "Lightness, freedom; dreamer feels liberated or ecstatic",
+    "miasm": "Tubercular",
+    "notes": "Desire to escape boundaries, spiritual elevation, yearning",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Tuberculinum", "grade": "H" },
+      { "remedy": "Medorrhinum", "grade": "M" },
+      { "remedy": "Cannabis indica", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Dreams – of light or divine illumination",
+    "grading": "Rare",
+    "modality": "Often follows meditation or deep emotional experience",
+    "miasm": "Cancerinic / Syphilitic",
+    "notes": "Symbolic enlightenment, grace, inner peace or awakening",
+    "remedies": [
+      { "remedy": "Aurum metallicum", "grade": "H" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Anhalonium", "grade": "L" }
+    ]
+  }
+]

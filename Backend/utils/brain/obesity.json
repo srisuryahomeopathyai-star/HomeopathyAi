@@ -1,0 +1,3445 @@
+[
+  {
+    "rubric": "Obesity with excessive appetite",
+    "grading": {
+      "high": ["Antimonium crudum", "Lycopodium", "Calcarea carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Craves indigestible things; worse by fasting",
+    "miasm": "Psora",
+    "notes": "Common in sluggish types with digestive imbalance"
+  },
+  {
+    "rubric": "Obesity with hypothyroidism",
+    "grading": {
+      "high": ["Calcarea carb", "Sepia", "Graphites"],
+      "medium": ["Fucus vesiculosus", "Thyroidinum"],
+      "low": ["Iodum"]
+    },
+    "modality": "Chilly, sluggish metabolism, hair fall",
+    "miasm": "Psora-Sycosis",
+    "notes": "Endocrine imbalance with slow weight gain"
+  },
+  {
+    "rubric": "Obesity with water retention and oedema",
+    "grading": {
+      "high": ["Natrum sulph", "Apis", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse before menses, better by urination",
+    "miasm": "Sycosis",
+    "notes": "Common in hormonal and renal-linked obesity"
+  },
+  {
+    "rubric": "Obesity with constipation",
+    "grading": {
+      "high": ["Opium", "Bryonia", "Alumina", "Natrum mur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry stools, sluggish bowel",
+    "miasm": "Psora",
+    "notes": "Digestive inactivity causes weight retention"
+  },
+  {
+    "rubric": "Obesity with dyspnoea on exertion",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium tart", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse climbing stairs, exertion",
+    "miasm": "Psora",
+    "notes": "Breathing difficulty due to excess weight"
+  },
+  {
+    "rubric": "Obesity in children with delayed milestones",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": [],
+      "low": ["Silicea"]
+    },
+    "modality": "Better by activity, worse by inactivity",
+    "miasm": "Psora-Sycosis",
+    "notes": "Slow development and physical growth"
+  },
+  {
+    "rubric": "Obesity with excessive appetite in children",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea carb", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Craves indigestible things, worse when hungry",
+    "miasm": "Psora",
+    "notes": "Greedy or compulsive eating in early age"
+  },
+  {
+    "rubric": "Obesity in chilly children",
+    "grading": {
+      "high": ["Calcarea carb", "Silicea"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse from cold air",
+    "miasm": "Psora",
+    "notes": "Obesity in fair, soft, chilly, flabby children"
+  },
+  {
+    "rubric": "Obesity with aversion to exertion in children",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium crudum", "Baryta carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse from mental or physical effort",
+    "miasm": "Psora",
+    "notes": "Inactivity worsens their metabolic response"
+  },
+  {
+    "rubric": "Obese children with stunted growth or mental dullness",
+    "grading": {
+      "high": ["Baryta carb", "Calcarea carb"],
+      "medium": ["Tuberculinum"],
+      "low": []
+    },
+    "modality": "Worse from cold, school pressure",
+    "miasm": "Psora-Syphilis",
+    "notes": "Underdeveloped mentally and physically"
+  },
+  {
+    "rubric": "Obesity with excessive appetite",
+    "grading": {
+      "high": ["Antimonium crudum", "Lycopodium", "Calcarea carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Craves indigestible things; worse by fasting",
+    "miasm": "Psora",
+    "notes": "Common in sluggish types with digestive imbalance"
+  },
+  {
+    "rubric": "Obesity with hypothyroidism",
+    "grading": {
+      "high": ["Calcarea carb", "Sepia", "Graphites"],
+      "medium": ["Fucus vesiculosus", "Thyroidinum"],
+      "low": ["Iodum"]
+    },
+    "modality": "Chilly, sluggish metabolism, hair fall",
+    "miasm": "Psora-Sycosis",
+    "notes": "Endocrine imbalance with slow weight gain"
+  },
+  {
+    "rubric": "Obesity with water retention and oedema",
+    "grading": {
+      "high": ["Natrum sulph", "Apis", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse before menses, better by urination",
+    "miasm": "Sycosis",
+    "notes": "Common in hormonal and renal-linked obesity"
+  },
+  {
+    "rubric": "Obesity with constipation",
+    "grading": {
+      "high": ["Opium", "Bryonia", "Alumina", "Natrum mur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry stools, sluggish bowel",
+    "miasm": "Psora",
+    "notes": "Digestive inactivity causes weight retention"
+  },
+  {
+    "rubric": "Obesity with dyspnoea on exertion",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium tart", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse climbing stairs, exertion",
+    "miasm": "Psora",
+    "notes": "Breathing difficulty due to excess weight"
+  },
+  {
+    "rubric": "Obesity in children with delayed milestones",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": [],
+      "low": ["Silicea"]
+    },
+    "modality": "Better by activity, worse by inactivity",
+    "miasm": "Psora-Sycosis",
+    "notes": "Slow development and physical growth"
+  },
+  {
+    "rubric": "Obesity with excessive appetite in children",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea carb", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Craves indigestible things, worse when hungry",
+    "miasm": "Psora",
+    "notes": "Greedy or compulsive eating in early age"
+  },
+  {
+    "rubric": "Obesity in chilly children",
+    "grading": {
+      "high": ["Calcarea carb", "Silicea"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse from cold air",
+    "miasm": "Psora",
+    "notes": "Obesity in fair, soft, chilly, flabby children"
+  },
+  {
+    "rubric": "Obesity with aversion to exertion in children",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium crudum", "Baryta carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse from mental or physical effort",
+    "miasm": "Psora",
+    "notes": "Inactivity worsens their metabolic response"
+  },
+  {
+    "rubric": "Obese children with stunted growth or mental dullness",
+    "grading": {
+      "high": ["Baryta carb", "Calcarea carb"],
+      "medium": ["Tuberculinum"],
+      "low": []
+    },
+    "modality": "Worse from cold, school pressure",
+    "miasm": "Psora-Syphilis",
+    "notes": "Underdeveloped mentally and physically"
+  },
+  {
+    "rubric": "Obesity in females with suppressed menses",
+    "grading": {
+      "high": ["Sepia", "Lachesis", "Kali carb"],
+      "medium": ["Natrum mur"],
+      "low": []
+    },
+    "modality": "Menses stopped after weight gain or emotional stress",
+    "miasm": "Psora-Syphilis",
+    "notes": "Amenorrhea related obesity, hormonal etiology"
+  },
+  {
+    "rubric": "Obesity with PCOD in females",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Pulsatilla"],
+      "medium": ["Thuja"],
+      "low": []
+    },
+    "modality": "Irregular cycles, acne, hirsutism",
+    "miasm": "Psora-Sycosis",
+    "notes": "Polycystic ovarian tendency"
+  },
+  {
+    "rubric": "Obesity after childbirth",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb"],
+      "medium": ["Graphites"],
+      "low": []
+    },
+    "modality": "Weight retained postpartum, worse by exertion",
+    "miasm": "Psora",
+    "notes": "Hormonal or metabolism changes after delivery"
+  },
+  {
+    "rubric": "Obesity with acne and oily skin",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea sulph", "Pulsatilla", "Sepia"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse before menses, oily T-zone",
+    "miasm": "Sycosis",
+    "notes": "Oily, congested skin with hormonal imbalance"
+  },
+  {
+    "rubric": "Obesity with stretch marks",
+    "grading": {
+      "high": ["Graphites", "Sepia", "Fluoric acid", "Calcarea fluor"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse after rapid weight gain or pregnancy",
+    "miasm": "Sycosis",
+    "notes": "Common in post-pregnancy or rapid weight change"
+  },
+  {
+    "rubric": "Obesity with offensive sweating in skin folds",
+    "grading": {
+      "high": ["Sulphur", "Silicea", "Calcarea carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse by heat and exertion",
+    "miasm": "Psora-Sycosis",
+    "notes": "Sweaty, offensive-smelling, especially in folds"
+  },
+  {
+    "rubric": "Obesity with fungal infections in folds",
+    "grading": {
+      "high": ["Graphites", "Tellurium", "Thuja"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse in summer and with tight clothing",
+    "miasm": "Sycosis",
+    "notes": "Moist eczema, candida-like rashes in obese folds"
+  },
+  {
+    "rubric": "Obesity with excessive appetite",
+    "grading": {
+      "high": ["Antimonium crudum", "Lycopodium", "Calcarea carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Craves indigestible things; worse by fasting",
+    "miasm": "Psora",
+    "notes": "Common in sluggish types with digestive imbalance"
+  },
+  {
+    "rubric": "Obesity with hypothyroidism",
+    "grading": {
+      "high": ["Calcarea carb", "Sepia", "Graphites"],
+      "medium": ["Fucus vesiculosus", "Thyroidinum"],
+      "low": ["Iodum"]
+    },
+    "modality": "Chilly, sluggish metabolism, hair fall",
+    "miasm": "Psora-Sycosis",
+    "notes": "Endocrine imbalance with slow weight gain"
+  },
+  {
+    "rubric": "Obesity with water retention and oedema",
+    "grading": {
+      "high": ["Natrum sulph", "Apis", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse before menses, better by urination",
+    "miasm": "Sycosis",
+    "notes": "Common in hormonal and renal-linked obesity"
+  },
+  {
+    "rubric": "Obesity with constipation",
+    "grading": {
+      "high": ["Opium", "Bryonia", "Alumina", "Natrum mur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry stools, sluggish bowel",
+    "miasm": "Psora",
+    "notes": "Digestive inactivity causes weight retention"
+  },
+  {
+    "rubric": "Obesity with dyspnoea on exertion",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium tart", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse climbing stairs, exertion",
+    "miasm": "Psora",
+    "notes": "Breathing difficulty due to excess weight"
+  },
+  {
+    "rubric": "Obesity in children with delayed milestones",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": [],
+      "low": ["Silicea"]
+    },
+    "modality": "Better by activity, worse by inactivity",
+    "miasm": "Psora-Sycosis",
+    "notes": "Slow development and physical growth"
+  },
+  {
+    "rubric": "Obesity with excessive appetite in children",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea carb", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Craves indigestible things, worse when hungry",
+    "miasm": "Psora",
+    "notes": "Greedy or compulsive eating in early age"
+  },
+  {
+    "rubric": "Obesity in chilly children",
+    "grading": {
+      "high": ["Calcarea carb", "Silicea"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse from cold air",
+    "miasm": "Psora",
+    "notes": "Obesity in fair, soft, chilly, flabby children"
+  },
+  {
+    "rubric": "Obesity with aversion to exertion in children",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium crudum", "Baryta carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse from mental or physical effort",
+    "miasm": "Psora",
+    "notes": "Inactivity worsens their metabolic response"
+  },
+  {
+    "rubric": "Obese children with stunted growth or mental dullness",
+    "grading": {
+      "high": ["Baryta carb", "Calcarea carb"],
+      "medium": ["Tuberculinum"],
+      "low": []
+    },
+    "modality": "Worse from cold, school pressure",
+    "miasm": "Psora-Syphilis",
+    "notes": "Underdeveloped mentally and physically"
+  },
+  {
+    "rubric": "Obesity in females with suppressed menses",
+    "grading": {
+      "high": ["Sepia", "Lachesis", "Kali carb"],
+      "medium": ["Natrum mur"],
+      "low": []
+    },
+    "modality": "Menses stopped after weight gain or emotional stress",
+    "miasm": "Psora-Syphilis",
+    "notes": "Amenorrhea related obesity, hormonal etiology"
+  },
+  {
+    "rubric": "Obesity with PCOD in females",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Pulsatilla"],
+      "medium": ["Thuja"],
+      "low": []
+    },
+    "modality": "Irregular cycles, acne, hirsutism",
+    "miasm": "Psora-Sycosis",
+    "notes": "Polycystic ovarian tendency"
+  },
+  {
+    "rubric": "Obesity after childbirth",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb"],
+      "medium": ["Graphites"],
+      "low": []
+    },
+    "modality": "Weight retained postpartum, worse by exertion",
+    "miasm": "Psora",
+    "notes": "Hormonal or metabolism changes after delivery"
+  },
+  {
+    "rubric": "Obesity with acne and oily skin",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea sulph", "Pulsatilla", "Sepia"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse before menses, oily T-zone",
+    "miasm": "Sycosis",
+    "notes": "Oily, congested skin with hormonal imbalance"
+  },
+  {
+    "rubric": "Obesity with stretch marks",
+    "grading": {
+      "high": ["Graphites", "Sepia", "Fluoric acid", "Calcarea fluor"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse after rapid weight gain or pregnancy",
+    "miasm": "Sycosis",
+    "notes": "Common in post-pregnancy or rapid weight change"
+  },
+  {
+    "rubric": "Obesity with offensive sweating in skin folds",
+    "grading": {
+      "high": ["Sulphur", "Silicea", "Calcarea carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse by heat and exertion",
+    "miasm": "Psora-Sycosis",
+    "notes": "Sweaty, offensive-smelling, especially in folds"
+  },
+  {
+    "rubric": "Obesity with fungal infections in folds",
+    "grading": {
+      "high": ["Graphites", "Tellurium", "Thuja"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse in summer and with tight clothing",
+    "miasm": "Sycosis",
+    "notes": "Moist eczema, candida-like rashes in obese folds"
+  },
+  {
+    "rubric": "Obesity with dry, itchy skin and dandruff",
+    "grading": {
+      "high": ["Sulphur", "Psorinum", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse in winter, after bathing",
+    "miasm": "Psora",
+    "notes": "Scaly, itchy skin due to internal heat or dryness"
+  },
+  {
+    "rubric": "Obesity with excessive appetite",
+    "grading": {
+      "high": ["Antimonium crudum", "Lycopodium", "Calcarea carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Craves indigestible things; worse by fasting",
+    "miasm": "Psora",
+    "notes": "Common in sluggish types with digestive imbalance"
+  },
+  {
+    "rubric": "Obesity with hypothyroidism",
+    "grading": {
+      "high": ["Calcarea carb", "Sepia", "Graphites"],
+      "medium": ["Fucus vesiculosus", "Thyroidinum"],
+      "low": ["Iodum"]
+    },
+    "modality": "Chilly, sluggish metabolism, hair fall",
+    "miasm": "Psora-Sycosis",
+    "notes": "Endocrine imbalance with slow weight gain"
+  },
+  {
+    "rubric": "Obesity with water retention and oedema",
+    "grading": {
+      "high": ["Natrum sulph", "Apis", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse before menses, better by urination",
+    "miasm": "Sycosis",
+    "notes": "Common in hormonal and renal-linked obesity"
+  },
+  {
+    "rubric": "Obesity with constipation",
+    "grading": {
+      "high": ["Opium", "Bryonia", "Alumina", "Natrum mur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry stools, sluggish bowel",
+    "miasm": "Psora",
+    "notes": "Digestive inactivity causes weight retention"
+  },
+  {
+    "rubric": "Obesity with dyspnoea on exertion",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium tart", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse climbing stairs, exertion",
+    "miasm": "Psora",
+    "notes": "Breathing difficulty due to excess weight"
+  },
+  {
+    "rubric": "Obesity in children with delayed milestones",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": [],
+      "low": ["Silicea"]
+    },
+    "modality": "Better by activity, worse by inactivity",
+    "miasm": "Psora-Sycosis",
+    "notes": "Slow development and physical growth"
+  },
+  {
+    "rubric": "Obesity with excessive appetite in children",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea carb", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Craves indigestible things, worse when hungry",
+    "miasm": "Psora",
+    "notes": "Greedy or compulsive eating in early age"
+  },
+  {
+    "rubric": "Obesity in chilly children",
+    "grading": {
+      "high": ["Calcarea carb", "Silicea"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse from cold air",
+    "miasm": "Psora",
+    "notes": "Obesity in fair, soft, chilly, flabby children"
+  },
+  {
+    "rubric": "Obesity with aversion to exertion in children",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium crudum", "Baryta carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse from mental or physical effort",
+    "miasm": "Psora",
+    "notes": "Inactivity worsens their metabolic response"
+  },
+  {
+    "rubric": "Obese children with stunted growth or mental dullness",
+    "grading": {
+      "high": ["Baryta carb", "Calcarea carb"],
+      "medium": ["Tuberculinum"],
+      "low": []
+    },
+    "modality": "Worse from cold, school pressure",
+    "miasm": "Psora-Syphilis",
+    "notes": "Underdeveloped mentally and physically"
+  },
+  {
+    "rubric": "Obesity in females with suppressed menses",
+    "grading": {
+      "high": ["Sepia", "Lachesis", "Kali carb"],
+      "medium": ["Natrum mur"],
+      "low": []
+    },
+    "modality": "Menses stopped after weight gain or emotional stress",
+    "miasm": "Psora-Syphilis",
+    "notes": "Amenorrhea related obesity, hormonal etiology"
+  },
+  {
+    "rubric": "Obesity with PCOD in females",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Pulsatilla"],
+      "medium": ["Thuja"],
+      "low": []
+    },
+    "modality": "Irregular cycles, acne, hirsutism",
+    "miasm": "Psora-Sycosis",
+    "notes": "Polycystic ovarian tendency"
+  },
+  {
+    "rubric": "Obesity after childbirth",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb"],
+      "medium": ["Graphites"],
+      "low": []
+    },
+    "modality": "Weight retained postpartum, worse by exertion",
+    "miasm": "Psora",
+    "notes": "Hormonal or metabolism changes after delivery"
+  },
+  {
+    "rubric": "Obesity with acne and oily skin",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea sulph", "Pulsatilla", "Sepia"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse before menses, oily T-zone",
+    "miasm": "Sycosis",
+    "notes": "Oily, congested skin with hormonal imbalance"
+  },
+  {
+    "rubric": "Obesity with stretch marks",
+    "grading": {
+      "high": ["Graphites", "Sepia", "Fluoric acid", "Calcarea fluor"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse after rapid weight gain or pregnancy",
+    "miasm": "Sycosis",
+    "notes": "Common in post-pregnancy or rapid weight change"
+  },
+  {
+    "rubric": "Obesity with offensive sweating in skin folds",
+    "grading": {
+      "high": ["Sulphur", "Silicea", "Calcarea carb"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse by heat and exertion",
+    "miasm": "Psora-Sycosis",
+    "notes": "Sweaty, offensive-smelling, especially in folds"
+  },
+  {
+    "rubric": "Obesity with fungal infections in folds",
+    "grading": {
+      "high": ["Graphites", "Tellurium", "Thuja"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse in summer and with tight clothing",
+    "miasm": "Sycosis",
+    "notes": "Moist eczema, candida-like rashes in obese folds"
+  },
+  {
+    "rubric": "Obesity with dry, itchy skin and dandruff",
+    "grading": {
+      "high": ["Sulphur", "Psorinum", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Worse in winter, after bathing",
+    "miasm": "Psora",
+    "notes": "Scaly, itchy skin due to internal heat or dryness"
+  },
+  {
+    "rubric": "Obesity from emotional stress or grief",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur", "Sepia"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Triggered after emotional trauma or disappointment",
+    "miasm": "Psora",
+    "notes": "Weight gain as emotional compensation"
+  },
+  {
+    "rubric": "Obesity with anxiety and restlessness",
+    "grading": {
+      "high": ["Argentum nitricum", "Lycopodium"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": []
+    },
+    "modality": "Restless eating, especially sweets before anxiety events",
+    "miasm": "Psora-Sycosis",
+    "notes": "Mental unrest leads to frequent snacking"
+  },
+  {
+    "rubric": "Obesity with depression and withdrawal",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Phosphoric acid"],
+      "medium": ["Ignatia", "Aurum"],
+      "low": []
+    },
+    "modality": "Avoids company, silent grief, consolation aggravates",
+    "miasm": "Psora",
+    "notes": "Emotional heaviness reflected in body"
+  },
+  {
+    "rubric": "Obesity with compulsive eating",
+    "grading": {
+      "high": ["Antimonium crudum", "Argentum nitricum", "Sulphur"],
+      "medium": ["Lycopodium", "Ignatia"],
+      "low": []
+    },
+    "modality": "Eats to calm nerves, worse when anxious or alone",
+    "miasm": "Psora-Sycosis",
+    "notes": "Mental fixations trigger binge-eating habits"
+  },
+  {
+    "rubric": "Obesity from sedentary lifestyle",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium crudum", "Graphites"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "No physical activity, desk-bound routine",
+    "miasm": "Psora",
+    "notes": "Lack of movement slows down metabolism and fat burning"
+  },
+  {
+    "rubric": "Obesity with slow metabolism",
+    "grading": {
+      "high": ["Calcarea carb", "Graphites", "Thyroidinum"],
+      "medium": ["Sepia", "Lycopodium"],
+      "low": ["Iodum"]
+    },
+    "modality": "Gain weight even with moderate food intake",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hypometabolic types tend to retain calories more easily"
+  },
+  {
+    "rubric": "Obesity with tendency to diabetes",
+    "grading": {
+      "high": ["Phosphoric acid", "Syzygium", "Uranium nitricum"],
+      "medium": ["Lycopodium", "Calcarea carb"],
+      "low": []
+    },
+    "modality": "Polydipsia, polyuria with weight gain",
+    "miasm": "Psora-Syphilis",
+    "notes": "Obesity-linked insulin resistance and sugar cravings"
+  },
+  {
+    "rubric": "Obesity in menopause",
+    "grading": {
+      "high": ["Lachesis", "Sepia", "Graphites"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Weight gain around waist after menses stop",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal shifts affect fat distribution"
+  },
+  {
+    "rubric": "Obesity with craving for sweets",
+    "grading": {
+      "high": ["Argentum nitricum", "Lycopodium", "Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": []
+    },
+    "modality": "Craves sweets especially under stress",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in emotional eaters and insulin sensitive types"
+  },
+  {
+    "rubric": "Obesity with bloating and flatulence",
+    "grading": {
+      "high": ["Lycopodium", "Carbo veg", "China"],
+      "medium": ["Natrum sulph", "Calcarea carb"],
+      "low": []
+    },
+    "modality": "After eating, worse with beans and rich food",
+    "miasm": "Psora",
+    "notes": "Abdominal distension gives sense of obesity"
+  },
+  {
+    "rubric": "Obesity with joint pains",
+    "grading": {
+      "high": ["Rhus tox", "Bryonia", "Calcarea carb"],
+      "medium": ["Ledum", "Silicea"],
+      "low": []
+    },
+    "modality": "Worse from motion (Bryonia), better from motion (Rhus tox)",
+    "miasm": "Psora",
+    "notes": "Weight puts strain on joints"
+  },
+  {
+    "rubric": "Obesity-related remedy comparison",
+    "grading": {
+      "high": ["Calcarea carb", "Lycopodium", "Sepia"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Comparison among top remedies",
+    "miasm": "Mixed",
+    "notes": "Calcarea carb: Flabby, chilly, eats a lot but sluggish.\nLycopodium: Flatulent, craving sweets, anticipatory anxiety.\nSepia: Hormonal obesity, irritable, indifferent to loved ones."
+  },
+  {
+    "rubric": "Obesity from sedentary lifestyle",
+    "grading": {
+      "high": ["Calcarea carb", "Antimonium crudum", "Graphites"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "No physical activity, desk-bound routine",
+    "miasm": "Psora",
+    "notes": "Lack of movement slows down metabolism and fat burning"
+  },
+  {
+    "rubric": "Obesity with slow metabolism",
+    "grading": {
+      "high": ["Calcarea carb", "Graphites", "Thyroidinum"],
+      "medium": ["Sepia", "Lycopodium"],
+      "low": ["Iodum"]
+    },
+    "modality": "Gain weight even with moderate food intake",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hypometabolic types tend to retain calories more easily"
+  },
+  {
+    "rubric": "Obesity with tendency to diabetes",
+    "grading": {
+      "high": ["Phosphoric acid", "Syzygium", "Uranium nitricum"],
+      "medium": ["Lycopodium", "Calcarea carb"],
+      "low": []
+    },
+    "modality": "Polydipsia, polyuria with weight gain",
+    "miasm": "Psora-Syphilis",
+    "notes": "Obesity-linked insulin resistance and sugar cravings"
+  },
+  {
+    "rubric": "Obesity in menopause",
+    "grading": {
+      "high": ["Lachesis", "Sepia", "Graphites"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Weight gain around waist after menses stop",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal shifts affect fat distribution"
+  },
+  {
+    "rubric": "Obesity with craving for sweets",
+    "grading": {
+      "high": ["Argentum nitricum", "Lycopodium", "Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": []
+    },
+    "modality": "Craves sweets especially under stress",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in emotional eaters and insulin sensitive types"
+  },
+  {
+    "rubric": "Obesity with bloating and flatulence",
+    "grading": {
+      "high": ["Lycopodium", "Carbo veg", "China"],
+      "medium": ["Natrum sulph", "Calcarea carb"],
+      "low": []
+    },
+    "modality": "After eating, worse with beans and rich food",
+    "miasm": "Psora",
+    "notes": "Abdominal distension gives sense of obesity"
+  },
+  {
+    "rubric": "Obesity with joint pains",
+    "grading": {
+      "high": ["Rhus tox", "Bryonia", "Calcarea carb"],
+      "medium": ["Ledum", "Silicea"],
+      "low": []
+    },
+    "modality": "Worse from motion (Bryonia), better from motion (Rhus tox)",
+    "miasm": "Psora",
+    "notes": "Weight puts strain on joints"
+  },
+  {
+    "rubric": "Obesity-related remedy comparison",
+    "grading": {
+      "high": ["Calcarea carb", "Lycopodium", "Sepia"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Comparison among top remedies",
+    "miasm": "Mixed",
+    "notes": "Calcarea carb: Flabby, chilly, eats a lot but sluggish.\nLycopodium: Flatulent, craving sweets, anticipatory anxiety.\nSepia: Hormonal obesity, irritable, indifferent to loved ones."
+  },
+  {
+    "rubric": "Obesity due to overuse of steroids or hormonal pills",
+    "grading": {
+      "high": ["Thuja", "Graphites", "Nux vomica"],
+      "medium": ["Calcarea fluor"],
+      "low": []
+    },
+    "modality": "History of hormonal therapy or corticosteroids",
+    "miasm": "Sycosis",
+    "notes": "Drug-induced obesity often with liver or endocrine sluggishness"
+  },
+  {
+    "rubric": "Obesity alternating with weight loss phases",
+    "grading": {
+      "high": ["Tuberculinum", "Natrum mur", "Phosphorus"],
+      "medium": ["Iodum"],
+      "low": []
+    },
+    "modality": "Irregular metabolic pattern, fluctuating appetite",
+    "miasm": "Psora-Tubercular",
+    "notes": "Weight instability with constitutional weakness"
+  },
+  {
+    "rubric": "Obesity with poor sleep and late-night eating",
+    "grading": {
+      "high": ["Calcarea carb", "Nux vomica", "Lycopodium"],
+      "medium": ["Kali carb", "Phosphorus"],
+      "low": []
+    },
+    "modality": "Worse after staying awake late, irregular dinner times",
+    "miasm": "Psora",
+    "notes": "Disrupted circadian rhythm linked to metabolic slowdown"
+  },
+  {
+    "rubric": "Obesity with thyroid gland enlargement (goitre)",
+    "grading": {
+      "high": ["Iodum", "Thyroidinum", "Fucus vesiculosus"],
+      "medium": ["Calcarea carb", "Spongia"],
+      "low": []
+    },
+    "modality": "Associated with sluggish thyroid or visible neck swelling",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in hypothyroid-linked obesity cases"
+  },
+  {
+    "rubric": "Obesity with polycystic ovarian disease and infertility",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla", "Natrum mur"],
+      "medium": ["Thuja", "Apis"],
+      "low": []
+    },
+    "modality": "Missed periods, acne, unwanted hair growth",
+    "miasm": "Sycosis",
+    "notes": "Hormonal imbalance with obesity and anovulation"
+  },
+  {
+    "rubric": "Obesity with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium", "Nux vomica"],
+      "medium": ["Carduus marianus"],
+      "low": []
+    },
+    "modality": "Yellow tongue coating, poor digestion, bitter taste",
+    "miasm": "Psora-Sycosis",
+    "notes": "Liver-related metabolic stagnation contributing to fat retention"
+  },
+  {
+    "rubric": "Obesity after long-term stress or caregiving",
+    "grading": {
+      "high": ["Sepia", "Ignatia", "Calcarea carb"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Fatigue, loss of motivation, eats to cope",
+    "miasm": "Psora",
+    "notes": "Weight gain following emotional burnout or prolonged grief"
+  },
+  {
+    "rubric": "Obesity with poor sleep and late-night eating",
+    "grading": {
+      "high": ["Calcarea carb", "Nux vomica", "Lycopodium"],
+      "medium": ["Kali carb", "Phosphorus"],
+      "low": []
+    },
+    "modality": "Worse after staying awake late, irregular dinner times",
+    "miasm": "Psora",
+    "notes": "Disrupted circadian rhythm linked to metabolic slowdown"
+  },
+  {
+    "rubric": "Obesity with thyroid gland enlargement (goitre)",
+    "grading": {
+      "high": ["Iodum", "Thyroidinum", "Fucus vesiculosus"],
+      "medium": ["Calcarea carb", "Spongia"],
+      "low": []
+    },
+    "modality": "Associated with sluggish thyroid or visible neck swelling",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in hypothyroid-linked obesity cases"
+  },
+  {
+    "rubric": "Obesity with polycystic ovarian disease and infertility",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla", "Natrum mur"],
+      "medium": ["Thuja", "Apis"],
+      "low": []
+    },
+    "modality": "Missed periods, acne, unwanted hair growth",
+    "miasm": "Sycosis",
+    "notes": "Hormonal imbalance with obesity and anovulation"
+  },
+  {
+    "rubric": "Obesity with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium", "Nux vomica"],
+      "medium": ["Carduus marianus"],
+      "low": []
+    },
+    "modality": "Yellow tongue coating, poor digestion, bitter taste",
+    "miasm": "Psora-Sycosis",
+    "notes": "Liver-related metabolic stagnation contributing to fat retention"
+  },
+  {
+    "rubric": "Obesity after long-term stress or caregiving",
+    "grading": {
+      "high": ["Sepia", "Ignatia", "Calcarea carb"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Fatigue, loss of motivation, eats to cope",
+    "miasm": "Psora",
+    "notes": "Weight gain following emotional burnout or prolonged grief"
+  },
+  {
+    "rubric": "Obesity with craving for fried and spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur", "Calcarea carb"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Worse after spicy food binges or street food habits",
+    "miasm": "Psora",
+    "notes": "Strong cravings leading to digestive imbalance and fat gain"
+  },
+  {
+    "rubric": "Obesity with fluid retention before menses",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Lachesis"],
+      "medium": ["Pulsatilla"],
+      "low": []
+    },
+    "modality": "Bloating, puffiness, emotional swings premenstrually",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal water retention mistaken as permanent weight gain"
+  },
+  {
+    "rubric": "Obesity with poor sleep and late-night eating",
+    "grading": {
+      "high": ["Calcarea carb", "Nux vomica", "Lycopodium"],
+      "medium": ["Kali carb", "Phosphorus"],
+      "low": []
+    },
+    "modality": "Worse after staying awake late, irregular dinner times",
+    "miasm": "Psora",
+    "notes": "Disrupted circadian rhythm linked to metabolic slowdown"
+  },
+  {
+    "rubric": "Obesity with thyroid gland enlargement (goitre)",
+    "grading": {
+      "high": ["Iodum", "Thyroidinum", "Fucus vesiculosus"],
+      "medium": ["Calcarea carb", "Spongia"],
+      "low": []
+    },
+    "modality": "Associated with sluggish thyroid or visible neck swelling",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in hypothyroid-linked obesity cases"
+  },
+  {
+    "rubric": "Obesity with polycystic ovarian disease and infertility",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla", "Natrum mur"],
+      "medium": ["Thuja", "Apis"],
+      "low": []
+    },
+    "modality": "Missed periods, acne, unwanted hair growth",
+    "miasm": "Sycosis",
+    "notes": "Hormonal imbalance with obesity and anovulation"
+  },
+  {
+    "rubric": "Obesity with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium", "Nux vomica"],
+      "medium": ["Carduus marianus"],
+      "low": []
+    },
+    "modality": "Yellow tongue coating, poor digestion, bitter taste",
+    "miasm": "Psora-Sycosis",
+    "notes": "Liver-related metabolic stagnation contributing to fat retention"
+  },
+  {
+    "rubric": "Obesity after long-term stress or caregiving",
+    "grading": {
+      "high": ["Sepia", "Ignatia", "Calcarea carb"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Fatigue, loss of motivation, eats to cope",
+    "miasm": "Psora",
+    "notes": "Weight gain following emotional burnout or prolonged grief"
+  },
+  {
+    "rubric": "Obesity with craving for fried and spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur", "Calcarea carb"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Worse after spicy food binges or street food habits",
+    "miasm": "Psora",
+    "notes": "Strong cravings leading to digestive imbalance and fat gain"
+  },
+  {
+    "rubric": "Obesity with fluid retention before menses",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Lachesis"],
+      "medium": ["Pulsatilla"],
+      "low": []
+    },
+    "modality": "Bloating, puffiness, emotional swings premenstrually",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal water retention mistaken as permanent weight gain"
+  },
+  {
+    "rubric": "Obesity with suppressed sweat and dry skin",
+    "grading": {
+      "high": ["Silicea", "Psorinum", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry skin, offensive odor when sweat appears",
+    "miasm": "Psora",
+    "notes": "Lack of detox through sweat contributes to fat retention"
+  },
+  {
+    "rubric": "Obesity with high cholesterol and fatty liver",
+    "grading": {
+      "high": ["Chelidonium", "Phosphorus", "Carduus marianus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Heaviness in right hypochondrium, yellow stools",
+    "miasm": "Psora-Sycosis",
+    "notes": "Lipid metabolism dysfunction adds to obesity"
+  },
+  {
+    "rubric": "Obesity with poor sleep and late-night eating",
+    "grading": {
+      "high": ["Calcarea carb", "Nux vomica", "Lycopodium"],
+      "medium": ["Kali carb", "Phosphorus"],
+      "low": []
+    },
+    "modality": "Worse after staying awake late, irregular dinner times",
+    "miasm": "Psora",
+    "notes": "Disrupted circadian rhythm linked to metabolic slowdown"
+  },
+  {
+    "rubric": "Obesity with thyroid gland enlargement (goitre)",
+    "grading": {
+      "high": ["Iodum", "Thyroidinum", "Fucus vesiculosus"],
+      "medium": ["Calcarea carb", "Spongia"],
+      "low": []
+    },
+    "modality": "Associated with sluggish thyroid or visible neck swelling",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in hypothyroid-linked obesity cases"
+  },
+  {
+    "rubric": "Obesity with polycystic ovarian disease and infertility",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla", "Natrum mur"],
+      "medium": ["Thuja", "Apis"],
+      "low": []
+    },
+    "modality": "Missed periods, acne, unwanted hair growth",
+    "miasm": "Sycosis",
+    "notes": "Hormonal imbalance with obesity and anovulation"
+  },
+  {
+    "rubric": "Obesity with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium", "Nux vomica"],
+      "medium": ["Carduus marianus"],
+      "low": []
+    },
+    "modality": "Yellow tongue coating, poor digestion, bitter taste",
+    "miasm": "Psora-Sycosis",
+    "notes": "Liver-related metabolic stagnation contributing to fat retention"
+  },
+  {
+    "rubric": "Obesity after long-term stress or caregiving",
+    "grading": {
+      "high": ["Sepia", "Ignatia", "Calcarea carb"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Fatigue, loss of motivation, eats to cope",
+    "miasm": "Psora",
+    "notes": "Weight gain following emotional burnout or prolonged grief"
+  },
+  {
+    "rubric": "Obesity with craving for fried and spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur", "Calcarea carb"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Worse after spicy food binges or street food habits",
+    "miasm": "Psora",
+    "notes": "Strong cravings leading to digestive imbalance and fat gain"
+  },
+  {
+    "rubric": "Obesity with fluid retention before menses",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Lachesis"],
+      "medium": ["Pulsatilla"],
+      "low": []
+    },
+    "modality": "Bloating, puffiness, emotional swings premenstrually",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal water retention mistaken as permanent weight gain"
+  },
+  {
+    "rubric": "Obesity with suppressed sweat and dry skin",
+    "grading": {
+      "high": ["Silicea", "Psorinum", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry skin, offensive odor when sweat appears",
+    "miasm": "Psora",
+    "notes": "Lack of detox through sweat contributes to fat retention"
+  },
+  {
+    "rubric": "Obesity with high cholesterol and fatty liver",
+    "grading": {
+      "high": ["Chelidonium", "Phosphorus", "Carduus marianus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Heaviness in right hypochondrium, yellow stools",
+    "miasm": "Psora-Sycosis",
+    "notes": "Lipid metabolism dysfunction adds to obesity"
+  },
+  {
+    "rubric": "Obesity with poor circulation and cold extremities",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": ["Silicea"],
+      "low": []
+    },
+    "modality": "Hands and feet cold to touch, sluggish blood flow",
+    "miasm": "Psora",
+    "notes": "Indicates lowered peripheral metabolism"
+  },
+  {
+    "rubric": "Obesity with inactivity in old age",
+    "grading": {
+      "high": ["Baryta carb", "Antimonium crudum"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Elderly, sedentary lifestyle, dull mind",
+    "miasm": "Psora-Sycosis",
+    "notes": "Degenerative aging metabolism leading to weight gain"
+  },
+  {
+    "rubric": "Obesity with poor sleep and late-night eating",
+    "grading": {
+      "high": ["Calcarea carb", "Nux vomica", "Lycopodium"],
+      "medium": ["Kali carb", "Phosphorus"],
+      "low": []
+    },
+    "modality": "Worse after staying awake late, irregular dinner times",
+    "miasm": "Psora",
+    "notes": "Disrupted circadian rhythm linked to metabolic slowdown"
+  },
+  {
+    "rubric": "Obesity with thyroid gland enlargement (goitre)",
+    "grading": {
+      "high": ["Iodum", "Thyroidinum", "Fucus vesiculosus"],
+      "medium": ["Calcarea carb", "Spongia"],
+      "low": []
+    },
+    "modality": "Associated with sluggish thyroid or visible neck swelling",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in hypothyroid-linked obesity cases"
+  },
+  {
+    "rubric": "Obesity with polycystic ovarian disease and infertility",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla", "Natrum mur"],
+      "medium": ["Thuja", "Apis"],
+      "low": []
+    },
+    "modality": "Missed periods, acne, unwanted hair growth",
+    "miasm": "Sycosis",
+    "notes": "Hormonal imbalance with obesity and anovulation"
+  },
+  {
+    "rubric": "Obesity with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium", "Nux vomica"],
+      "medium": ["Carduus marianus"],
+      "low": []
+    },
+    "modality": "Yellow tongue coating, poor digestion, bitter taste",
+    "miasm": "Psora-Sycosis",
+    "notes": "Liver-related metabolic stagnation contributing to fat retention"
+  },
+  {
+    "rubric": "Obesity after long-term stress or caregiving",
+    "grading": {
+      "high": ["Sepia", "Ignatia", "Calcarea carb"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Fatigue, loss of motivation, eats to cope",
+    "miasm": "Psora",
+    "notes": "Weight gain following emotional burnout or prolonged grief"
+  },
+  {
+    "rubric": "Obesity with craving for fried and spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur", "Calcarea carb"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Worse after spicy food binges or street food habits",
+    "miasm": "Psora",
+    "notes": "Strong cravings leading to digestive imbalance and fat gain"
+  },
+  {
+    "rubric": "Obesity with fluid retention before menses",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Lachesis"],
+      "medium": ["Pulsatilla"],
+      "low": []
+    },
+    "modality": "Bloating, puffiness, emotional swings premenstrually",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal water retention mistaken as permanent weight gain"
+  },
+  {
+    "rubric": "Obesity with suppressed sweat and dry skin",
+    "grading": {
+      "high": ["Silicea", "Psorinum", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry skin, offensive odor when sweat appears",
+    "miasm": "Psora",
+    "notes": "Lack of detox through sweat contributes to fat retention"
+  },
+  {
+    "rubric": "Obesity with high cholesterol and fatty liver",
+    "grading": {
+      "high": ["Chelidonium", "Phosphorus", "Carduus marianus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Heaviness in right hypochondrium, yellow stools",
+    "miasm": "Psora-Sycosis",
+    "notes": "Lipid metabolism dysfunction adds to obesity"
+  },
+  {
+    "rubric": "Obesity with poor circulation and cold extremities",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": ["Silicea"],
+      "low": []
+    },
+    "modality": "Hands and feet cold to touch, sluggish blood flow",
+    "miasm": "Psora",
+    "notes": "Indicates lowered peripheral metabolism"
+  },
+  {
+    "rubric": "Obesity with inactivity in old age",
+    "grading": {
+      "high": ["Baryta carb", "Antimonium crudum"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Elderly, sedentary lifestyle, dull mind",
+    "miasm": "Psora-Sycosis",
+    "notes": "Degenerative aging metabolism leading to weight gain"
+  },
+  {
+    "rubric": "Obesity with emotional eating after trauma",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur", "Calcarea carb"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Eats to suppress grief, isolation, sadness",
+    "miasm": "Psora-Syphilis",
+    "notes": "Food becomes an emotional compensator"
+  },
+  {
+    "rubric": "Obesity from night shift work and circadian reversal",
+    "grading": {
+      "high": ["Nux vomica", "Kali carb", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Works at night, sleeps during the day",
+    "miasm": "Psora",
+    "notes": "Hormonal rhythms disrupted, metabolism slows"
+  },
+  {
+    "rubric": "Obesity with poor sleep and late-night eating",
+    "grading": {
+      "high": ["Calcarea carb", "Nux vomica", "Lycopodium"],
+      "medium": ["Kali carb", "Phosphorus"],
+      "low": []
+    },
+    "modality": "Worse after staying awake late, irregular dinner times",
+    "miasm": "Psora",
+    "notes": "Disrupted circadian rhythm linked to metabolic slowdown"
+  },
+  {
+    "rubric": "Obesity with thyroid gland enlargement (goitre)",
+    "grading": {
+      "high": ["Iodum", "Thyroidinum", "Fucus vesiculosus"],
+      "medium": ["Calcarea carb", "Spongia"],
+      "low": []
+    },
+    "modality": "Associated with sluggish thyroid or visible neck swelling",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in hypothyroid-linked obesity cases"
+  },
+  {
+    "rubric": "Obesity with polycystic ovarian disease and infertility",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla", "Natrum mur"],
+      "medium": ["Thuja", "Apis"],
+      "low": []
+    },
+    "modality": "Missed periods, acne, unwanted hair growth",
+    "miasm": "Sycosis",
+    "notes": "Hormonal imbalance with obesity and anovulation"
+  },
+  {
+    "rubric": "Obesity with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium", "Nux vomica"],
+      "medium": ["Carduus marianus"],
+      "low": []
+    },
+    "modality": "Yellow tongue coating, poor digestion, bitter taste",
+    "miasm": "Psora-Sycosis",
+    "notes": "Liver-related metabolic stagnation contributing to fat retention"
+  },
+  {
+    "rubric": "Obesity after long-term stress or caregiving",
+    "grading": {
+      "high": ["Sepia", "Ignatia", "Calcarea carb"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Fatigue, loss of motivation, eats to cope",
+    "miasm": "Psora",
+    "notes": "Weight gain following emotional burnout or prolonged grief"
+  },
+  {
+    "rubric": "Obesity with craving for fried and spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur", "Calcarea carb"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Worse after spicy food binges or street food habits",
+    "miasm": "Psora",
+    "notes": "Strong cravings leading to digestive imbalance and fat gain"
+  },
+  {
+    "rubric": "Obesity with fluid retention before menses",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Lachesis"],
+      "medium": ["Pulsatilla"],
+      "low": []
+    },
+    "modality": "Bloating, puffiness, emotional swings premenstrually",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal water retention mistaken as permanent weight gain"
+  },
+  {
+    "rubric": "Obesity with suppressed sweat and dry skin",
+    "grading": {
+      "high": ["Silicea", "Psorinum", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry skin, offensive odor when sweat appears",
+    "miasm": "Psora",
+    "notes": "Lack of detox through sweat contributes to fat retention"
+  },
+  {
+    "rubric": "Obesity with high cholesterol and fatty liver",
+    "grading": {
+      "high": ["Chelidonium", "Phosphorus", "Carduus marianus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Heaviness in right hypochondrium, yellow stools",
+    "miasm": "Psora-Sycosis",
+    "notes": "Lipid metabolism dysfunction adds to obesity"
+  },
+  {
+    "rubric": "Obesity with poor circulation and cold extremities",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": ["Silicea"],
+      "low": []
+    },
+    "modality": "Hands and feet cold to touch, sluggish blood flow",
+    "miasm": "Psora",
+    "notes": "Indicates lowered peripheral metabolism"
+  },
+  {
+    "rubric": "Obesity with inactivity in old age",
+    "grading": {
+      "high": ["Baryta carb", "Antimonium crudum"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Elderly, sedentary lifestyle, dull mind",
+    "miasm": "Psora-Sycosis",
+    "notes": "Degenerative aging metabolism leading to weight gain"
+  },
+  {
+    "rubric": "Obesity with emotional eating after trauma",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur", "Calcarea carb"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Eats to suppress grief, isolation, sadness",
+    "miasm": "Psora-Syphilis",
+    "notes": "Food becomes an emotional compensator"
+  },
+  {
+    "rubric": "Obesity from night shift work and circadian reversal",
+    "grading": {
+      "high": ["Nux vomica", "Kali carb", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Works at night, sleeps during the day",
+    "miasm": "Psora",
+    "notes": "Hormonal rhythms disrupted, metabolism slows"
+  },
+  {
+    "rubric": "Obesity with chronic constipation and bloating",
+    "grading": {
+      "high": ["Opium", "Alumina", "Lycopodium"],
+      "medium": ["Nux vomica"],
+      "low": []
+    },
+    "modality": "No urge for days, distended abdomen",
+    "miasm": "Psora",
+    "notes": "Digestive sluggishness adds to weight gain"
+  },
+  {
+    "rubric": "Obesity after frequent steroid use",
+    "grading": {
+      "high": ["Psorinum", "Thuja", "Graphites"],
+      "medium": ["Medorrhinum"],
+      "low": []
+    },
+    "modality": "Cushingoid appearance, puffiness, moon face",
+    "miasm": "Sycosis",
+    "notes": "Steroid-induced endocrine disruption"
+  },
+  {
+    "rubric": "Obesity with poor sleep and late-night eating",
+    "grading": {
+      "high": ["Calcarea carb", "Nux vomica", "Lycopodium"],
+      "medium": ["Kali carb", "Phosphorus"],
+      "low": []
+    },
+    "modality": "Worse after staying awake late, irregular dinner times",
+    "miasm": "Psora",
+    "notes": "Disrupted circadian rhythm linked to metabolic slowdown"
+  },
+  {
+    "rubric": "Obesity with thyroid gland enlargement (goitre)",
+    "grading": {
+      "high": ["Iodum", "Thyroidinum", "Fucus vesiculosus"],
+      "medium": ["Calcarea carb", "Spongia"],
+      "low": []
+    },
+    "modality": "Associated with sluggish thyroid or visible neck swelling",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in hypothyroid-linked obesity cases"
+  },
+  {
+    "rubric": "Obesity with polycystic ovarian disease and infertility",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla", "Natrum mur"],
+      "medium": ["Thuja", "Apis"],
+      "low": []
+    },
+    "modality": "Missed periods, acne, unwanted hair growth",
+    "miasm": "Sycosis",
+    "notes": "Hormonal imbalance with obesity and anovulation"
+  },
+  {
+    "rubric": "Obesity with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium", "Nux vomica"],
+      "medium": ["Carduus marianus"],
+      "low": []
+    },
+    "modality": "Yellow tongue coating, poor digestion, bitter taste",
+    "miasm": "Psora-Sycosis",
+    "notes": "Liver-related metabolic stagnation contributing to fat retention"
+  },
+  {
+    "rubric": "Obesity after long-term stress or caregiving",
+    "grading": {
+      "high": ["Sepia", "Ignatia", "Calcarea carb"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Fatigue, loss of motivation, eats to cope",
+    "miasm": "Psora",
+    "notes": "Weight gain following emotional burnout or prolonged grief"
+  },
+  {
+    "rubric": "Obesity with craving for fried and spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur", "Calcarea carb"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Worse after spicy food binges or street food habits",
+    "miasm": "Psora",
+    "notes": "Strong cravings leading to digestive imbalance and fat gain"
+  },
+  {
+    "rubric": "Obesity with fluid retention before menses",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Lachesis"],
+      "medium": ["Pulsatilla"],
+      "low": []
+    },
+    "modality": "Bloating, puffiness, emotional swings premenstrually",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal water retention mistaken as permanent weight gain"
+  },
+  {
+    "rubric": "Obesity with suppressed sweat and dry skin",
+    "grading": {
+      "high": ["Silicea", "Psorinum", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry skin, offensive odor when sweat appears",
+    "miasm": "Psora",
+    "notes": "Lack of detox through sweat contributes to fat retention"
+  },
+  {
+    "rubric": "Obesity with high cholesterol and fatty liver",
+    "grading": {
+      "high": ["Chelidonium", "Phosphorus", "Carduus marianus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Heaviness in right hypochondrium, yellow stools",
+    "miasm": "Psora-Sycosis",
+    "notes": "Lipid metabolism dysfunction adds to obesity"
+  },
+  {
+    "rubric": "Obesity with poor circulation and cold extremities",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": ["Silicea"],
+      "low": []
+    },
+    "modality": "Hands and feet cold to touch, sluggish blood flow",
+    "miasm": "Psora",
+    "notes": "Indicates lowered peripheral metabolism"
+  },
+  {
+    "rubric": "Obesity with inactivity in old age",
+    "grading": {
+      "high": ["Baryta carb", "Antimonium crudum"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Elderly, sedentary lifestyle, dull mind",
+    "miasm": "Psora-Sycosis",
+    "notes": "Degenerative aging metabolism leading to weight gain"
+  },
+  {
+    "rubric": "Obesity with emotional eating after trauma",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur", "Calcarea carb"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Eats to suppress grief, isolation, sadness",
+    "miasm": "Psora-Syphilis",
+    "notes": "Food becomes an emotional compensator"
+  },
+  {
+    "rubric": "Obesity from night shift work and circadian reversal",
+    "grading": {
+      "high": ["Nux vomica", "Kali carb", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Works at night, sleeps during the day",
+    "miasm": "Psora",
+    "notes": "Hormonal rhythms disrupted, metabolism slows"
+  },
+  {
+    "rubric": "Obesity with chronic constipation and bloating",
+    "grading": {
+      "high": ["Opium", "Alumina", "Lycopodium"],
+      "medium": ["Nux vomica"],
+      "low": []
+    },
+    "modality": "No urge for days, distended abdomen",
+    "miasm": "Psora",
+    "notes": "Digestive sluggishness adds to weight gain"
+  },
+  {
+    "rubric": "Obesity after frequent steroid use",
+    "grading": {
+      "high": ["Psorinum", "Thuja", "Graphites"],
+      "medium": ["Medorrhinum"],
+      "low": []
+    },
+    "modality": "Cushingoid appearance, puffiness, moon face",
+    "miasm": "Sycosis",
+    "notes": "Steroid-induced endocrine disruption"
+  },
+  {
+    "rubric": "Obesity with recurrent flares despite well-selected remedies",
+    "grading": {
+      "high": ["Carcinosinum", "Medorrhinum", "Psorinum"],
+      "medium": ["Tuberculinum", "Syphilinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Case relapses or moves to new joints over months",
+    "miasm": "Mixed Miasm",
+    "notes": "Requires intercurrent remedy to clear miasmatic block"
+  },
+  {
+    "rubric": "Obesity with poor sleep and late-night eating",
+    "grading": {
+      "high": ["Calcarea carb", "Nux vomica", "Lycopodium"],
+      "medium": ["Kali carb", "Phosphorus"],
+      "low": []
+    },
+    "modality": "Worse after staying awake late, irregular dinner times",
+    "miasm": "Psora",
+    "notes": "Disrupted circadian rhythm linked to metabolic slowdown"
+  },
+  {
+    "rubric": "Obesity with thyroid gland enlargement (goitre)",
+    "grading": {
+      "high": ["Iodum", "Thyroidinum", "Fucus vesiculosus"],
+      "medium": ["Calcarea carb", "Spongia"],
+      "low": []
+    },
+    "modality": "Associated with sluggish thyroid or visible neck swelling",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in hypothyroid-linked obesity cases"
+  },
+  {
+    "rubric": "Obesity with polycystic ovarian disease and infertility",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla", "Natrum mur"],
+      "medium": ["Thuja", "Apis"],
+      "low": []
+    },
+    "modality": "Missed periods, acne, unwanted hair growth",
+    "miasm": "Sycosis",
+    "notes": "Hormonal imbalance with obesity and anovulation"
+  },
+  {
+    "rubric": "Obesity with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium", "Nux vomica"],
+      "medium": ["Carduus marianus"],
+      "low": []
+    },
+    "modality": "Yellow tongue coating, poor digestion, bitter taste",
+    "miasm": "Psora-Sycosis",
+    "notes": "Liver-related metabolic stagnation contributing to fat retention"
+  },
+  {
+    "rubric": "Obesity after long-term stress or caregiving",
+    "grading": {
+      "high": ["Sepia", "Ignatia", "Calcarea carb"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Fatigue, loss of motivation, eats to cope",
+    "miasm": "Psora",
+    "notes": "Weight gain following emotional burnout or prolonged grief"
+  },
+  {
+    "rubric": "Obesity with craving for fried and spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur", "Calcarea carb"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Worse after spicy food binges or street food habits",
+    "miasm": "Psora",
+    "notes": "Strong cravings leading to digestive imbalance and fat gain"
+  },
+  {
+    "rubric": "Obesity with fluid retention before menses",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Lachesis"],
+      "medium": ["Pulsatilla"],
+      "low": []
+    },
+    "modality": "Bloating, puffiness, emotional swings premenstrually",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal water retention mistaken as permanent weight gain"
+  },
+  {
+    "rubric": "Obesity with suppressed sweat and dry skin",
+    "grading": {
+      "high": ["Silicea", "Psorinum", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry skin, offensive odor when sweat appears",
+    "miasm": "Psora",
+    "notes": "Lack of detox through sweat contributes to fat retention"
+  },
+  {
+    "rubric": "Obesity with high cholesterol and fatty liver",
+    "grading": {
+      "high": ["Chelidonium", "Phosphorus", "Carduus marianus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Heaviness in right hypochondrium, yellow stools",
+    "miasm": "Psora-Sycosis",
+    "notes": "Lipid metabolism dysfunction adds to obesity"
+  },
+  {
+    "rubric": "Obesity with poor circulation and cold extremities",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": ["Silicea"],
+      "low": []
+    },
+    "modality": "Hands and feet cold to touch, sluggish blood flow",
+    "miasm": "Psora",
+    "notes": "Indicates lowered peripheral metabolism"
+  },
+  {
+    "rubric": "Obesity with inactivity in old age",
+    "grading": {
+      "high": ["Baryta carb", "Antimonium crudum"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Elderly, sedentary lifestyle, dull mind",
+    "miasm": "Psora-Sycosis",
+    "notes": "Degenerative aging metabolism leading to weight gain"
+  },
+  {
+    "rubric": "Obesity with emotional eating after trauma",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur", "Calcarea carb"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Eats to suppress grief, isolation, sadness",
+    "miasm": "Psora-Syphilis",
+    "notes": "Food becomes an emotional compensator"
+  },
+  {
+    "rubric": "Obesity from night shift work and circadian reversal",
+    "grading": {
+      "high": ["Nux vomica", "Kali carb", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Works at night, sleeps during the day",
+    "miasm": "Psora",
+    "notes": "Hormonal rhythms disrupted, metabolism slows"
+  },
+  {
+    "rubric": "Obesity with chronic constipation and bloating",
+    "grading": {
+      "high": ["Opium", "Alumina", "Lycopodium"],
+      "medium": ["Nux vomica"],
+      "low": []
+    },
+    "modality": "No urge for days, distended abdomen",
+    "miasm": "Psora",
+    "notes": "Digestive sluggishness adds to weight gain"
+  },
+  {
+    "rubric": "Obesity after frequent steroid use",
+    "grading": {
+      "high": ["Psorinum", "Thuja", "Graphites"],
+      "medium": ["Medorrhinum"],
+      "low": []
+    },
+    "modality": "Cushingoid appearance, puffiness, moon face",
+    "miasm": "Sycosis",
+    "notes": "Steroid-induced endocrine disruption"
+  },
+  {
+    "rubric": "Obesity with recurrent flares despite well-selected remedies",
+    "grading": {
+      "high": ["Carcinosinum", "Medorrhinum", "Psorinum"],
+      "medium": ["Tuberculinum", "Syphilinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Case relapses or moves to new joints over months",
+    "miasm": "Mixed Miasm",
+    "notes": "Requires intercurrent remedy to clear miasmatic block"
+  },
+  {
+    "rubric": "Obesity since birth or early childhood",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": ["Antimonium crudum"],
+      "low": []
+    },
+    "modality": "Child is fat despite moderate food intake",
+    "miasm": "Psora-Sycosis",
+    "notes": "Constitutional childhood obesity with sluggish growth and dullness"
+  },
+  {
+    "rubric": "Obesity with excessive hunger and thirst (diabetes risk)",
+    "grading": {
+      "high": ["Phosphorus", "Iodum", "Lycopodium"],
+      "medium": ["Sulphur", "Uranium nitricum"],
+      "low": []
+    },
+    "modality": "Eats large meals but still losing weight or not satisfied",
+    "miasm": "Psora-Syphilis",
+    "notes": "Diabetes-linked metabolic dysfunction or insulin resistance"
+  },
+  {
+    "rubric": "Obesity with intense lethargy and desire to lie down",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea carb", "Opium"],
+      "medium": ["Silicea"],
+      "low": []
+    },
+    "modality": "Always sleepy, heavy body, disinclined to move",
+    "miasm": "Psora",
+    "notes": "Low physical energy and sluggish nervous system"
+  },
+  {
+    "rubric": "Obesity in males with gynecomastia",
+    "grading": {
+      "high": ["Thuja", "Calcarea carb", "Sulphur"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Fat chest in boys/men with hormonal imbalance",
+    "miasm": "Sycosis",
+    "notes": "Male hormonal imbalance with fat distribution on chest"
+  },
+  {
+    "rubric": "Obesity linked to menopause",
+    "grading": {
+      "high": ["Sepia", "Lachesis", "Ammonium mur"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Weight gain in abdomen, hot flushes, irritability",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal shift post-menopause causes fat retention"
+  },
+  {
+    "rubric": "Obesity from prolonged grief without appetite change",
+    "grading": {
+      "high": ["Natrum mur", "Ignatia"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Withdrawn, emotional trauma, normal appetite",
+    "miasm": "Psora-Syphilis",
+    "notes": "Psychosomatic weight gain even without eating excess"
+  },
+  {
+    "rubric": "Obesity with offensive perspiration in skin folds",
+    "grading": {
+      "high": ["Sulphur", "Graphites", "Thuja"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Foul-smelling sweat in groin, armpits, breasts",
+    "miasm": "Psora-Sycosis",
+    "notes": "Toxins expelled via sweat, stagnant lymph drainage"
+  },
+  {
+    "rubric": "Obesity in children who are shy or timid",
+    "grading": {
+      "high": ["Baryta carb", "Pulsatilla", "Silicea"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Fearful, clingy, obese despite small appetite",
+    "miasm": "Psora",
+    "notes": "Mental-emotional constitution leading to weight gain"
+  },
+  {
+    "rubric": "Obesity with strong craving for sweets and bakery",
+    "grading": {
+      "high": ["Lycopodium", "Sulphur", "Phosphorus"],
+      "medium": ["Sepia", "Calcarea carb"],
+      "low": []
+    },
+    "modality": "Worse from bread, pastries, sugary snacks",
+    "miasm": "Psora",
+    "notes": "Sugar addiction and digestive strain increase weight"
+  },
+  {
+    "rubric": "Obesity with compulsive nighttime snacking",
+    "grading": {
+      "high": ["Nux vomica", "Ignatia", "Lycopodium"],
+      "medium": ["Anacardium"],
+      "low": []
+    },
+    "modality": "Gets up at night to eat, craves food when anxious",
+    "miasm": "Psora",
+    "notes": "Disrupted satiety and emotional triggers for food"
+  },
+  {
+    "rubric": "Obesity with poor sleep and late-night eating",
+    "grading": {
+      "high": ["Calcarea carb", "Nux vomica", "Lycopodium"],
+      "medium": ["Kali carb", "Phosphorus"],
+      "low": []
+    },
+    "modality": "Worse after staying awake late, irregular dinner times",
+    "miasm": "Psora",
+    "notes": "Disrupted circadian rhythm linked to metabolic slowdown"
+  },
+  {
+    "rubric": "Obesity with thyroid gland enlargement (goitre)",
+    "grading": {
+      "high": ["Iodum", "Thyroidinum", "Fucus vesiculosus"],
+      "medium": ["Calcarea carb", "Spongia"],
+      "low": []
+    },
+    "modality": "Associated with sluggish thyroid or visible neck swelling",
+    "miasm": "Psora-Sycosis",
+    "notes": "Common in hypothyroid-linked obesity cases"
+  },
+  {
+    "rubric": "Obesity with polycystic ovarian disease and infertility",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla", "Natrum mur"],
+      "medium": ["Thuja", "Apis"],
+      "low": []
+    },
+    "modality": "Missed periods, acne, unwanted hair growth",
+    "miasm": "Sycosis",
+    "notes": "Hormonal imbalance with obesity and anovulation"
+  },
+  {
+    "rubric": "Obesity with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium", "Nux vomica"],
+      "medium": ["Carduus marianus"],
+      "low": []
+    },
+    "modality": "Yellow tongue coating, poor digestion, bitter taste",
+    "miasm": "Psora-Sycosis",
+    "notes": "Liver-related metabolic stagnation contributing to fat retention"
+  },
+  {
+    "rubric": "Obesity after long-term stress or caregiving",
+    "grading": {
+      "high": ["Sepia", "Ignatia", "Calcarea carb"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Fatigue, loss of motivation, eats to cope",
+    "miasm": "Psora",
+    "notes": "Weight gain following emotional burnout or prolonged grief"
+  },
+  {
+    "rubric": "Obesity with craving for fried and spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur", "Calcarea carb"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Worse after spicy food binges or street food habits",
+    "miasm": "Psora",
+    "notes": "Strong cravings leading to digestive imbalance and fat gain"
+  },
+  {
+    "rubric": "Obesity with fluid retention before menses",
+    "grading": {
+      "high": ["Natrum mur", "Sepia", "Lachesis"],
+      "medium": ["Pulsatilla"],
+      "low": []
+    },
+    "modality": "Bloating, puffiness, emotional swings premenstrually",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal water retention mistaken as permanent weight gain"
+  },
+  {
+    "rubric": "Obesity with suppressed sweat and dry skin",
+    "grading": {
+      "high": ["Silicea", "Psorinum", "Sulphur"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Dry skin, offensive odor when sweat appears",
+    "miasm": "Psora",
+    "notes": "Lack of detox through sweat contributes to fat retention"
+  },
+  {
+    "rubric": "Obesity with high cholesterol and fatty liver",
+    "grading": {
+      "high": ["Chelidonium", "Phosphorus", "Carduus marianus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Heaviness in right hypochondrium, yellow stools",
+    "miasm": "Psora-Sycosis",
+    "notes": "Lipid metabolism dysfunction adds to obesity"
+  },
+  {
+    "rubric": "Obesity with poor circulation and cold extremities",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": ["Silicea"],
+      "low": []
+    },
+    "modality": "Hands and feet cold to touch, sluggish blood flow",
+    "miasm": "Psora",
+    "notes": "Indicates lowered peripheral metabolism"
+  },
+  {
+    "rubric": "Obesity with inactivity in old age",
+    "grading": {
+      "high": ["Baryta carb", "Antimonium crudum"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Elderly, sedentary lifestyle, dull mind",
+    "miasm": "Psora-Sycosis",
+    "notes": "Degenerative aging metabolism leading to weight gain"
+  },
+  {
+    "rubric": "Obesity with emotional eating after trauma",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur", "Calcarea carb"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Eats to suppress grief, isolation, sadness",
+    "miasm": "Psora-Syphilis",
+    "notes": "Food becomes an emotional compensator"
+  },
+  {
+    "rubric": "Obesity from night shift work and circadian reversal",
+    "grading": {
+      "high": ["Nux vomica", "Kali carb", "Lycopodium"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Works at night, sleeps during the day",
+    "miasm": "Psora",
+    "notes": "Hormonal rhythms disrupted, metabolism slows"
+  },
+  {
+    "rubric": "Obesity with chronic constipation and bloating",
+    "grading": {
+      "high": ["Opium", "Alumina", "Lycopodium"],
+      "medium": ["Nux vomica"],
+      "low": []
+    },
+    "modality": "No urge for days, distended abdomen",
+    "miasm": "Psora",
+    "notes": "Digestive sluggishness adds to weight gain"
+  },
+  {
+    "rubric": "Obesity after frequent steroid use",
+    "grading": {
+      "high": ["Psorinum", "Thuja", "Graphites"],
+      "medium": ["Medorrhinum"],
+      "low": []
+    },
+    "modality": "Cushingoid appearance, puffiness, moon face",
+    "miasm": "Sycosis",
+    "notes": "Steroid-induced endocrine disruption"
+  },
+  {
+    "rubric": "Obesity with recurrent flares despite well-selected remedies",
+    "grading": {
+      "high": ["Carcinosinum", "Medorrhinum", "Psorinum"],
+      "medium": ["Tuberculinum", "Syphilinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Case relapses or moves to new joints over months",
+    "miasm": "Mixed Miasm",
+    "notes": "Requires intercurrent remedy to clear miasmatic block"
+  },
+  {
+    "rubric": "Obesity since birth or early childhood",
+    "grading": {
+      "high": ["Calcarea carb", "Baryta carb"],
+      "medium": ["Antimonium crudum"],
+      "low": []
+    },
+    "modality": "Child is fat despite moderate food intake",
+    "miasm": "Psora-Sycosis",
+    "notes": "Constitutional childhood obesity with sluggish growth and dullness"
+  },
+  {
+    "rubric": "Obesity with excessive hunger and thirst (diabetes risk)",
+    "grading": {
+      "high": ["Phosphorus", "Iodum", "Lycopodium"],
+      "medium": ["Sulphur", "Uranium nitricum"],
+      "low": []
+    },
+    "modality": "Eats large meals but still losing weight or not satisfied",
+    "miasm": "Psora-Syphilis",
+    "notes": "Diabetes-linked metabolic dysfunction or insulin resistance"
+  },
+  {
+    "rubric": "Obesity with intense lethargy and desire to lie down",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea carb", "Opium"],
+      "medium": ["Silicea"],
+      "low": []
+    },
+    "modality": "Always sleepy, heavy body, disinclined to move",
+    "miasm": "Psora",
+    "notes": "Low physical energy and sluggish nervous system"
+  },
+  {
+    "rubric": "Obesity in males with gynecomastia",
+    "grading": {
+      "high": ["Thuja", "Calcarea carb", "Sulphur"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Fat chest in boys/men with hormonal imbalance",
+    "miasm": "Sycosis",
+    "notes": "Male hormonal imbalance with fat distribution on chest"
+  },
+  {
+    "rubric": "Obesity linked to menopause",
+    "grading": {
+      "high": ["Sepia", "Lachesis", "Ammonium mur"],
+      "medium": ["Calcarea carb"],
+      "low": []
+    },
+    "modality": "Weight gain in abdomen, hot flushes, irritability",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal shift post-menopause causes fat retention"
+  },
+  {
+    "rubric": "Obesity from prolonged grief without appetite change",
+    "grading": {
+      "high": ["Natrum mur", "Ignatia"],
+      "medium": ["Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Withdrawn, emotional trauma, normal appetite",
+    "miasm": "Psora-Syphilis",
+    "notes": "Psychosomatic weight gain even without eating excess"
+  },
+  {
+    "rubric": "Obesity with offensive perspiration in skin folds",
+    "grading": {
+      "high": ["Sulphur", "Graphites", "Thuja"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Foul-smelling sweat in groin, armpits, breasts",
+    "miasm": "Psora-Sycosis",
+    "notes": "Toxins expelled via sweat, stagnant lymph drainage"
+  },
+  {
+    "rubric": "Obesity in children who are shy or timid",
+    "grading": {
+      "high": ["Baryta carb", "Pulsatilla", "Silicea"],
+      "medium": [],
+      "low": []
+    },
+    "modality": "Fearful, clingy, obese despite small appetite",
+    "miasm": "Psora",
+    "notes": "Mental-emotional constitution leading to weight gain"
+  },
+  {
+    "rubric": "Obesity with strong craving for sweets and bakery",
+    "grading": {
+      "high": ["Lycopodium", "Sulphur", "Phosphorus"],
+      "medium": ["Sepia", "Calcarea carb"],
+      "low": []
+    },
+    "modality": "Worse from bread, pastries, sugary snacks",
+    "miasm": "Psora",
+    "notes": "Sugar addiction and digestive strain increase weight"
+  },
+  {
+    "rubric": "Obesity with compulsive nighttime snacking",
+    "grading": {
+      "high": ["Nux vomica", "Ignatia", "Lycopodium"],
+      "medium": ["Anacardium"],
+      "low": []
+    },
+    "modality": "Gets up at night to eat, craves food when anxious",
+    "miasm": "Psora",
+    "notes": "Disrupted satiety and emotional triggers for food"
+  },
+  {
+    "rubric": "Obesity from grief after loss of spouse or child",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Sudden weight gain following tragic emotional shock",
+    "miasm": "Psora-Syphilis",
+    "notes": "Obesity arises after deep grief; appetite may be variable"
+  },
+  {
+    "rubric": "Obesity with dry, cracked skin and aversion to bathing",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Obese patients with poor hygiene habits, dry eczema",
+    "miasm": "Psora",
+    "notes": "Skin signs show detox stagnation and psoric block"
+  },
+  {
+    "rubric": "Obesity with excessive salivation and foul breath",
+    "grading": {
+      "high": ["Merc sol", "Nux vomica"],
+      "medium": ["Kali bich", "Hepar sulph"],
+      "low": []
+    },
+    "modality": "Obese with mouth ulcers, craving for alcohol or meat",
+    "miasm": "Syphilis",
+    "notes": "Digestive toxicity and mucosal breakdown signs"
+  },
+  {
+    "rubric": "Obesity in girls with delayed puberty and scanty menses",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia", "Calcarea carb"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Chubby girls with shy nature, hormonal delay",
+    "miasm": "Psora-Sycosis",
+    "notes": "Obesity associated with late sexual development"
+  },
+  {
+    "rubric": "Obesity with craving for indigestible things (pica)",
+    "grading": {
+      "high": ["Alumina", "Calcarea carb", "China"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Desire to eat chalk, earth, raw rice, etc.",
+    "miasm": "Psora",
+    "notes": "Indicative of deep nutritional disturbance or anemia"
+  },
+  {
+    "rubric": "Obesity with varicose veins and hemorrhoids",
+    "grading": {
+      "high": ["Sulphur", "Hamamelis", "Calcarea fluor"],
+      "medium": ["Aesculus"],
+      "low": []
+    },
+    "modality": "Heaviness in legs, standing aggravates",
+    "miasm": "Psora-Sycosis",
+    "notes": "Circulatory and portal congestion contributing to weight"
+  },
+  {
+    "rubric": "Obesity in cold, chilly patients who can't tolerate winter",
+    "grading": {
+      "high": ["Silicea", "Calcarea carb", "Psorinum"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Obese but cold-sensitive, worse in cold wind",
+    "miasm": "Psora",
+    "notes": "Low thermal vitality and poor peripheral circulation"
+  },
+  {
+    "rubric": "Obesity with melancholic mood and social withdrawal",
+    "grading": {
+      "high": ["Aurum", "Natrum mur", "Ignatia"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Silent grief, avoids company, eats secretly",
+    "miasm": "Psora-Syphilis",
+    "notes": "Emotional repression expressed through overeating"
+  },
+  {
+    "rubric": "Obesity in diabetic patients with intense weakness",
+    "grading": {
+      "high": ["Phosphoric acid", "Syzygium", "Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Obese yet weak, tired after meals, craving sweets",
+    "miasm": "Psora-Syphilis",
+    "notes": "Diabetes-induced energy loss with poor fat control"
+  },
+  {
+    "rubric": "Obesity after childbirth with prolonged recovery",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": []
+    },
+    "modality": "Weight retained long after delivery, prolapse, back pain",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and pelvic sluggishness prevent fat mobilization"
+  },
+  {
+    "rubric": "Obesity from grief after loss of spouse or child",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Sudden weight gain following tragic emotional shock",
+    "miasm": "Psora-Syphilis",
+    "notes": "Obesity arises after deep grief; appetite may be variable"
+  },
+  {
+    "rubric": "Obesity with dry, cracked skin and aversion to bathing",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Obese patients with poor hygiene habits, dry eczema",
+    "miasm": "Psora",
+    "notes": "Skin signs show detox stagnation and psoric block"
+  },
+  {
+    "rubric": "Obesity with excessive salivation and foul breath",
+    "grading": {
+      "high": ["Merc sol", "Nux vomica"],
+      "medium": ["Kali bich", "Hepar sulph"],
+      "low": []
+    },
+    "modality": "Obese with mouth ulcers, craving for alcohol or meat",
+    "miasm": "Syphilis",
+    "notes": "Digestive toxicity and mucosal breakdown signs"
+  },
+  {
+    "rubric": "Obesity in girls with delayed puberty and scanty menses",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia", "Calcarea carb"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Chubby girls with shy nature, hormonal delay",
+    "miasm": "Psora-Sycosis",
+    "notes": "Obesity associated with late sexual development"
+  },
+  {
+    "rubric": "Obesity with craving for indigestible things (pica)",
+    "grading": {
+      "high": ["Alumina", "Calcarea carb", "China"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Desire to eat chalk, earth, raw rice, etc.",
+    "miasm": "Psora",
+    "notes": "Indicative of deep nutritional disturbance or anemia"
+  },
+  {
+    "rubric": "Obesity with varicose veins and hemorrhoids",
+    "grading": {
+      "high": ["Sulphur", "Hamamelis", "Calcarea fluor"],
+      "medium": ["Aesculus"],
+      "low": []
+    },
+    "modality": "Heaviness in legs, standing aggravates",
+    "miasm": "Psora-Sycosis",
+    "notes": "Circulatory and portal congestion contributing to weight"
+  },
+  {
+    "rubric": "Obesity in cold, chilly patients who can't tolerate winter",
+    "grading": {
+      "high": ["Silicea", "Calcarea carb", "Psorinum"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Obese but cold-sensitive, worse in cold wind",
+    "miasm": "Psora",
+    "notes": "Low thermal vitality and poor peripheral circulation"
+  },
+  {
+    "rubric": "Obesity with melancholic mood and social withdrawal",
+    "grading": {
+      "high": ["Aurum", "Natrum mur", "Ignatia"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Silent grief, avoids company, eats secretly",
+    "miasm": "Psora-Syphilis",
+    "notes": "Emotional repression expressed through overeating"
+  },
+  {
+    "rubric": "Obesity in diabetic patients with intense weakness",
+    "grading": {
+      "high": ["Phosphoric acid", "Syzygium", "Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Obese yet weak, tired after meals, craving sweets",
+    "miasm": "Psora-Syphilis",
+    "notes": "Diabetes-induced energy loss with poor fat control"
+  },
+  {
+    "rubric": "Obesity after childbirth with prolonged recovery",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": []
+    },
+    "modality": "Weight retained long after delivery, prolapse, back pain",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and pelvic sluggishness prevent fat mobilization"
+  },
+  {
+    "rubric": "Obesity with insulin resistance and dark neck folds",
+    "grading": {
+      "high": ["Thuja", "Syzygium", "Natrum sulph"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": []
+    },
+    "modality": "Acanthosis nigricans, fatigue after meals",
+    "miasm": "Sycosis",
+    "notes": "Insulin resistance presents with typical neck pigmentation"
+  },
+  {
+    "rubric": "Obesity with bloating and intolerance to tight clothing",
+    "grading": {
+      "high": ["Lycopodium", "Graphites", "Calcarea carb"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Worse from pressure on abdomen, flatulence after meals",
+    "miasm": "Psora",
+    "notes": "Digestive and hepatic sluggishness with abdominal obesity"
+  },
+  {
+    "rubric": "Obesity from grief after loss of spouse or child",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Sudden weight gain following tragic emotional shock",
+    "miasm": "Psora-Syphilis",
+    "notes": "Obesity arises after deep grief; appetite may be variable"
+  },
+  {
+    "rubric": "Obesity with dry, cracked skin and aversion to bathing",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Obese patients with poor hygiene habits, dry eczema",
+    "miasm": "Psora",
+    "notes": "Skin signs show detox stagnation and psoric block"
+  },
+  {
+    "rubric": "Obesity with excessive salivation and foul breath",
+    "grading": {
+      "high": ["Merc sol", "Nux vomica"],
+      "medium": ["Kali bich", "Hepar sulph"],
+      "low": []
+    },
+    "modality": "Obese with mouth ulcers, craving for alcohol or meat",
+    "miasm": "Syphilis",
+    "notes": "Digestive toxicity and mucosal breakdown signs"
+  },
+  {
+    "rubric": "Obesity in girls with delayed puberty and scanty menses",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia", "Calcarea carb"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Chubby girls with shy nature, hormonal delay",
+    "miasm": "Psora-Sycosis",
+    "notes": "Obesity associated with late sexual development"
+  },
+  {
+    "rubric": "Obesity with craving for indigestible things (pica)",
+    "grading": {
+      "high": ["Alumina", "Calcarea carb", "China"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Desire to eat chalk, earth, raw rice, etc.",
+    "miasm": "Psora",
+    "notes": "Indicative of deep nutritional disturbance or anemia"
+  },
+  {
+    "rubric": "Obesity with varicose veins and hemorrhoids",
+    "grading": {
+      "high": ["Sulphur", "Hamamelis", "Calcarea fluor"],
+      "medium": ["Aesculus"],
+      "low": []
+    },
+    "modality": "Heaviness in legs, standing aggravates",
+    "miasm": "Psora-Sycosis",
+    "notes": "Circulatory and portal congestion contributing to weight"
+  },
+  {
+    "rubric": "Obesity in cold, chilly patients who can't tolerate winter",
+    "grading": {
+      "high": ["Silicea", "Calcarea carb", "Psorinum"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Obese but cold-sensitive, worse in cold wind",
+    "miasm": "Psora",
+    "notes": "Low thermal vitality and poor peripheral circulation"
+  },
+  {
+    "rubric": "Obesity with melancholic mood and social withdrawal",
+    "grading": {
+      "high": ["Aurum", "Natrum mur", "Ignatia"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Silent grief, avoids company, eats secretly",
+    "miasm": "Psora-Syphilis",
+    "notes": "Emotional repression expressed through overeating"
+  },
+  {
+    "rubric": "Obesity in diabetic patients with intense weakness",
+    "grading": {
+      "high": ["Phosphoric acid", "Syzygium", "Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Obese yet weak, tired after meals, craving sweets",
+    "miasm": "Psora-Syphilis",
+    "notes": "Diabetes-induced energy loss with poor fat control"
+  },
+  {
+    "rubric": "Obesity after childbirth with prolonged recovery",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": []
+    },
+    "modality": "Weight retained long after delivery, prolapse, back pain",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and pelvic sluggishness prevent fat mobilization"
+  },
+  {
+    "rubric": "Obesity with insulin resistance and dark neck folds",
+    "grading": {
+      "high": ["Thuja", "Syzygium", "Natrum sulph"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": []
+    },
+    "modality": "Acanthosis nigricans, fatigue after meals",
+    "miasm": "Sycosis",
+    "notes": "Insulin resistance presents with typical neck pigmentation"
+  },
+  {
+    "rubric": "Obesity with bloating and intolerance to tight clothing",
+    "grading": {
+      "high": ["Lycopodium", "Graphites", "Calcarea carb"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Worse from pressure on abdomen, flatulence after meals",
+    "miasm": "Psora",
+    "notes": "Digestive and hepatic sluggishness with abdominal obesity"
+  },
+  {
+    "rubric": "Obesity with strong craving for alcohol or meat",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Phosphorus", "Argentum nitricum"],
+      "low": []
+    },
+    "modality": "Alcohol dependence with increased belly fat",
+    "miasm": "Psora-Sycosis",
+    "notes": "Addictive food/drink patterns fueling obesity"
+  },
+  {
+    "rubric": "Obesity with aggravation during pregnancy",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Lachesis"],
+      "low": []
+    },
+    "modality": "Weight gain excessive for pregnancy stage",
+    "miasm": "Psora-Sycosis",
+    "notes": "Pregnancy-related hormonal and fluid changes"
+  },
+  {
+    "rubric": "Obesity from grief after loss of spouse or child",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Sudden weight gain following tragic emotional shock",
+    "miasm": "Psora-Syphilis",
+    "notes": "Obesity arises after deep grief; appetite may be variable"
+  },
+  {
+    "rubric": "Obesity with dry, cracked skin and aversion to bathing",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Obese patients with poor hygiene habits, dry eczema",
+    "miasm": "Psora",
+    "notes": "Skin signs show detox stagnation and psoric block"
+  },
+  {
+    "rubric": "Obesity with excessive salivation and foul breath",
+    "grading": {
+      "high": ["Merc sol", "Nux vomica"],
+      "medium": ["Kali bich", "Hepar sulph"],
+      "low": []
+    },
+    "modality": "Obese with mouth ulcers, craving for alcohol or meat",
+    "miasm": "Syphilis",
+    "notes": "Digestive toxicity and mucosal breakdown signs"
+  },
+  {
+    "rubric": "Obesity in girls with delayed puberty and scanty menses",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia", "Calcarea carb"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Chubby girls with shy nature, hormonal delay",
+    "miasm": "Psora-Sycosis",
+    "notes": "Obesity associated with late sexual development"
+  },
+  {
+    "rubric": "Obesity with craving for indigestible things (pica)",
+    "grading": {
+      "high": ["Alumina", "Calcarea carb", "China"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Desire to eat chalk, earth, raw rice, etc.",
+    "miasm": "Psora",
+    "notes": "Indicative of deep nutritional disturbance or anemia"
+  },
+  {
+    "rubric": "Obesity with varicose veins and hemorrhoids",
+    "grading": {
+      "high": ["Sulphur", "Hamamelis", "Calcarea fluor"],
+      "medium": ["Aesculus"],
+      "low": []
+    },
+    "modality": "Heaviness in legs, standing aggravates",
+    "miasm": "Psora-Sycosis",
+    "notes": "Circulatory and portal congestion contributing to weight"
+  },
+  {
+    "rubric": "Obesity in cold, chilly patients who can't tolerate winter",
+    "grading": {
+      "high": ["Silicea", "Calcarea carb", "Psorinum"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Obese but cold-sensitive, worse in cold wind",
+    "miasm": "Psora",
+    "notes": "Low thermal vitality and poor peripheral circulation"
+  },
+  {
+    "rubric": "Obesity with melancholic mood and social withdrawal",
+    "grading": {
+      "high": ["Aurum", "Natrum mur", "Ignatia"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Silent grief, avoids company, eats secretly",
+    "miasm": "Psora-Syphilis",
+    "notes": "Emotional repression expressed through overeating"
+  },
+  {
+    "rubric": "Obesity in diabetic patients with intense weakness",
+    "grading": {
+      "high": ["Phosphoric acid", "Syzygium", "Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Obese yet weak, tired after meals, craving sweets",
+    "miasm": "Psora-Syphilis",
+    "notes": "Diabetes-induced energy loss with poor fat control"
+  },
+  {
+    "rubric": "Obesity after childbirth with prolonged recovery",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": []
+    },
+    "modality": "Weight retained long after delivery, prolapse, back pain",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and pelvic sluggishness prevent fat mobilization"
+  },
+  {
+    "rubric": "Obesity with insulin resistance and dark neck folds",
+    "grading": {
+      "high": ["Thuja", "Syzygium", "Natrum sulph"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": []
+    },
+    "modality": "Acanthosis nigricans, fatigue after meals",
+    "miasm": "Sycosis",
+    "notes": "Insulin resistance presents with typical neck pigmentation"
+  },
+  {
+    "rubric": "Obesity with bloating and intolerance to tight clothing",
+    "grading": {
+      "high": ["Lycopodium", "Graphites", "Calcarea carb"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Worse from pressure on abdomen, flatulence after meals",
+    "miasm": "Psora",
+    "notes": "Digestive and hepatic sluggishness with abdominal obesity"
+  },
+  {
+    "rubric": "Obesity with strong craving for alcohol or meat",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Phosphorus", "Argentum nitricum"],
+      "low": []
+    },
+    "modality": "Alcohol dependence with increased belly fat",
+    "miasm": "Psora-Sycosis",
+    "notes": "Addictive food/drink patterns fueling obesity"
+  },
+  {
+    "rubric": "Obesity with aggravation during pregnancy",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Lachesis"],
+      "low": []
+    },
+    "modality": "Weight gain excessive for pregnancy stage",
+    "miasm": "Psora-Sycosis",
+    "notes": "Pregnancy-related hormonal and fluid changes"
+  },
+  {
+    "rubric": "Obesity with suppressed sexual desire and pelvic congestion",
+    "grading": {
+      "high": ["Sepia", "Graphites"],
+      "medium": ["Natrum mur", "Pulsatilla"],
+      "low": []
+    },
+    "modality": "Irritability, worse before menses, dull pelvic heaviness",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and venous stagnation in lower abdomen"
+  },
+  {
+    "rubric": "Obesity from grief after loss of spouse or child",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Sudden weight gain following tragic emotional shock",
+    "miasm": "Psora-Syphilis",
+    "notes": "Obesity arises after deep grief; appetite may be variable"
+  },
+  {
+    "rubric": "Obesity with dry, cracked skin and aversion to bathing",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Obese patients with poor hygiene habits, dry eczema",
+    "miasm": "Psora",
+    "notes": "Skin signs show detox stagnation and psoric block"
+  },
+  {
+    "rubric": "Obesity with excessive salivation and foul breath",
+    "grading": {
+      "high": ["Merc sol", "Nux vomica"],
+      "medium": ["Kali bich", "Hepar sulph"],
+      "low": []
+    },
+    "modality": "Obese with mouth ulcers, craving for alcohol or meat",
+    "miasm": "Syphilis",
+    "notes": "Digestive toxicity and mucosal breakdown signs"
+  },
+  {
+    "rubric": "Obesity in girls with delayed puberty and scanty menses",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia", "Calcarea carb"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Chubby girls with shy nature, hormonal delay",
+    "miasm": "Psora-Sycosis",
+    "notes": "Obesity associated with late sexual development"
+  },
+  {
+    "rubric": "Obesity with craving for indigestible things (pica)",
+    "grading": {
+      "high": ["Alumina", "Calcarea carb", "China"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Desire to eat chalk, earth, raw rice, etc.",
+    "miasm": "Psora",
+    "notes": "Indicative of deep nutritional disturbance or anemia"
+  },
+  {
+    "rubric": "Obesity with varicose veins and hemorrhoids",
+    "grading": {
+      "high": ["Sulphur", "Hamamelis", "Calcarea fluor"],
+      "medium": ["Aesculus"],
+      "low": []
+    },
+    "modality": "Heaviness in legs, standing aggravates",
+    "miasm": "Psora-Sycosis",
+    "notes": "Circulatory and portal congestion contributing to weight"
+  },
+  {
+    "rubric": "Obesity in cold, chilly patients who can't tolerate winter",
+    "grading": {
+      "high": ["Silicea", "Calcarea carb", "Psorinum"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Obese but cold-sensitive, worse in cold wind",
+    "miasm": "Psora",
+    "notes": "Low thermal vitality and poor peripheral circulation"
+  },
+  {
+    "rubric": "Obesity with melancholic mood and social withdrawal",
+    "grading": {
+      "high": ["Aurum", "Natrum mur", "Ignatia"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Silent grief, avoids company, eats secretly",
+    "miasm": "Psora-Syphilis",
+    "notes": "Emotional repression expressed through overeating"
+  },
+  {
+    "rubric": "Obesity in diabetic patients with intense weakness",
+    "grading": {
+      "high": ["Phosphoric acid", "Syzygium", "Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Obese yet weak, tired after meals, craving sweets",
+    "miasm": "Psora-Syphilis",
+    "notes": "Diabetes-induced energy loss with poor fat control"
+  },
+  {
+    "rubric": "Obesity after childbirth with prolonged recovery",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": []
+    },
+    "modality": "Weight retained long after delivery, prolapse, back pain",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and pelvic sluggishness prevent fat mobilization"
+  },
+  {
+    "rubric": "Obesity with insulin resistance and dark neck folds",
+    "grading": {
+      "high": ["Thuja", "Syzygium", "Natrum sulph"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": []
+    },
+    "modality": "Acanthosis nigricans, fatigue after meals",
+    "miasm": "Sycosis",
+    "notes": "Insulin resistance presents with typical neck pigmentation"
+  },
+  {
+    "rubric": "Obesity with bloating and intolerance to tight clothing",
+    "grading": {
+      "high": ["Lycopodium", "Graphites", "Calcarea carb"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Worse from pressure on abdomen, flatulence after meals",
+    "miasm": "Psora",
+    "notes": "Digestive and hepatic sluggishness with abdominal obesity"
+  },
+  {
+    "rubric": "Obesity with strong craving for alcohol or meat",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Phosphorus", "Argentum nitricum"],
+      "low": []
+    },
+    "modality": "Alcohol dependence with increased belly fat",
+    "miasm": "Psora-Sycosis",
+    "notes": "Addictive food/drink patterns fueling obesity"
+  },
+  {
+    "rubric": "Obesity with aggravation during pregnancy",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Lachesis"],
+      "low": []
+    },
+    "modality": "Weight gain excessive for pregnancy stage",
+    "miasm": "Psora-Sycosis",
+    "notes": "Pregnancy-related hormonal and fluid changes"
+  },
+  {
+    "rubric": "Obesity with suppressed sexual desire and pelvic congestion",
+    "grading": {
+      "high": ["Sepia", "Graphites"],
+      "medium": ["Natrum mur", "Pulsatilla"],
+      "low": []
+    },
+    "modality": "Irritability, worse before menses, dull pelvic heaviness",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and venous stagnation in lower abdomen"
+  },
+  {
+    "rubric": "Obesity from grief after loss of spouse or child",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Sudden weight gain following tragic emotional shock",
+    "miasm": "Psora-Syphilis",
+    "notes": "Obesity arises after deep grief; appetite may be variable"
+  },
+  {
+    "rubric": "Obesity with dry, cracked skin and aversion to bathing",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Obese patients with poor hygiene habits, dry eczema",
+    "miasm": "Psora",
+    "notes": "Skin signs show detox stagnation and psoric block"
+  },
+  {
+    "rubric": "Obesity with excessive salivation and foul breath",
+    "grading": {
+      "high": ["Merc sol", "Nux vomica"],
+      "medium": ["Kali bich", "Hepar sulph"],
+      "low": []
+    },
+    "modality": "Obese with mouth ulcers, craving for alcohol or meat",
+    "miasm": "Syphilis",
+    "notes": "Digestive toxicity and mucosal breakdown signs"
+  },
+  {
+    "rubric": "Obesity in girls with delayed puberty and scanty menses",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia", "Calcarea carb"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Chubby girls with shy nature, hormonal delay",
+    "miasm": "Psora-Sycosis",
+    "notes": "Obesity associated with late sexual development"
+  },
+  {
+    "rubric": "Obesity with craving for indigestible things (pica)",
+    "grading": {
+      "high": ["Alumina", "Calcarea carb", "China"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Desire to eat chalk, earth, raw rice, etc.",
+    "miasm": "Psora",
+    "notes": "Indicative of deep nutritional disturbance or anemia"
+  },
+  {
+    "rubric": "Obesity with varicose veins and hemorrhoids",
+    "grading": {
+      "high": ["Sulphur", "Hamamelis", "Calcarea fluor"],
+      "medium": ["Aesculus"],
+      "low": []
+    },
+    "modality": "Heaviness in legs, standing aggravates",
+    "miasm": "Psora-Sycosis",
+    "notes": "Circulatory and portal congestion contributing to weight"
+  },
+  {
+    "rubric": "Obesity in cold, chilly patients who can't tolerate winter",
+    "grading": {
+      "high": ["Silicea", "Calcarea carb", "Psorinum"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Obese but cold-sensitive, worse in cold wind",
+    "miasm": "Psora",
+    "notes": "Low thermal vitality and poor peripheral circulation"
+  },
+  {
+    "rubric": "Obesity with melancholic mood and social withdrawal",
+    "grading": {
+      "high": ["Aurum", "Natrum mur", "Ignatia"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Silent grief, avoids company, eats secretly",
+    "miasm": "Psora-Syphilis",
+    "notes": "Emotional repression expressed through overeating"
+  },
+  {
+    "rubric": "Obesity in diabetic patients with intense weakness",
+    "grading": {
+      "high": ["Phosphoric acid", "Syzygium", "Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Obese yet weak, tired after meals, craving sweets",
+    "miasm": "Psora-Syphilis",
+    "notes": "Diabetes-induced energy loss with poor fat control"
+  },
+  {
+    "rubric": "Obesity after childbirth with prolonged recovery",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": []
+    },
+    "modality": "Weight retained long after delivery, prolapse, back pain",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and pelvic sluggishness prevent fat mobilization"
+  },
+  {
+    "rubric": "Obesity with insulin resistance and dark neck folds",
+    "grading": {
+      "high": ["Thuja", "Syzygium", "Natrum sulph"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": []
+    },
+    "modality": "Acanthosis nigricans, fatigue after meals",
+    "miasm": "Sycosis",
+    "notes": "Insulin resistance presents with typical neck pigmentation"
+  },
+  {
+    "rubric": "Obesity with bloating and intolerance to tight clothing",
+    "grading": {
+      "high": ["Lycopodium", "Graphites", "Calcarea carb"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Worse from pressure on abdomen, flatulence after meals",
+    "miasm": "Psora",
+    "notes": "Digestive and hepatic sluggishness with abdominal obesity"
+  },
+  {
+    "rubric": "Obesity with strong craving for alcohol or meat",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Phosphorus", "Argentum nitricum"],
+      "low": []
+    },
+    "modality": "Alcohol dependence with increased belly fat",
+    "miasm": "Psora-Sycosis",
+    "notes": "Addictive food/drink patterns fueling obesity"
+  },
+  {
+    "rubric": "Obesity with aggravation during pregnancy",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Lachesis"],
+      "low": []
+    },
+    "modality": "Weight gain excessive for pregnancy stage",
+    "miasm": "Psora-Sycosis",
+    "notes": "Pregnancy-related hormonal and fluid changes"
+  },
+  {
+    "rubric": "Obesity with suppressed sexual desire and pelvic congestion",
+    "grading": {
+      "high": ["Sepia", "Graphites"],
+      "medium": ["Natrum mur", "Pulsatilla"],
+      "low": []
+    },
+    "modality": "Irritability, worse before menses, dull pelvic heaviness",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and venous stagnation in lower abdomen"
+  },
+  {
+    "rubric": "Obesity with snoring, disturbed sleep, and daytime drowsiness",
+    "grading": {
+      "high": ["Ammonium carb", "Lachesis"],
+      "medium": ["Kali carb", "Calcarea carb"],
+      "low": []
+    },
+    "modality": "Loud snoring, breathless on lying, obese neck",
+    "miasm": "Sycosis",
+    "notes": "Sleep apnea pattern often seen in central obesity"
+  },
+  {
+    "rubric": "Obesity from grief after loss of spouse or child",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Aurum", "Phosphoric acid"],
+      "low": []
+    },
+    "modality": "Sudden weight gain following tragic emotional shock",
+    "miasm": "Psora-Syphilis",
+    "notes": "Obesity arises after deep grief; appetite may be variable"
+  },
+  {
+    "rubric": "Obesity with dry, cracked skin and aversion to bathing",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Obese patients with poor hygiene habits, dry eczema",
+    "miasm": "Psora",
+    "notes": "Skin signs show detox stagnation and psoric block"
+  },
+  {
+    "rubric": "Obesity with excessive salivation and foul breath",
+    "grading": {
+      "high": ["Merc sol", "Nux vomica"],
+      "medium": ["Kali bich", "Hepar sulph"],
+      "low": []
+    },
+    "modality": "Obese with mouth ulcers, craving for alcohol or meat",
+    "miasm": "Syphilis",
+    "notes": "Digestive toxicity and mucosal breakdown signs"
+  },
+  {
+    "rubric": "Obesity in girls with delayed puberty and scanty menses",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia", "Calcarea carb"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Chubby girls with shy nature, hormonal delay",
+    "miasm": "Psora-Sycosis",
+    "notes": "Obesity associated with late sexual development"
+  },
+  {
+    "rubric": "Obesity with craving for indigestible things (pica)",
+    "grading": {
+      "high": ["Alumina", "Calcarea carb", "China"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Desire to eat chalk, earth, raw rice, etc.",
+    "miasm": "Psora",
+    "notes": "Indicative of deep nutritional disturbance or anemia"
+  },
+  {
+    "rubric": "Obesity with varicose veins and hemorrhoids",
+    "grading": {
+      "high": ["Sulphur", "Hamamelis", "Calcarea fluor"],
+      "medium": ["Aesculus"],
+      "low": []
+    },
+    "modality": "Heaviness in legs, standing aggravates",
+    "miasm": "Psora-Sycosis",
+    "notes": "Circulatory and portal congestion contributing to weight"
+  },
+  {
+    "rubric": "Obesity in cold, chilly patients who can't tolerate winter",
+    "grading": {
+      "high": ["Silicea", "Calcarea carb", "Psorinum"],
+      "medium": ["Baryta carb"],
+      "low": []
+    },
+    "modality": "Obese but cold-sensitive, worse in cold wind",
+    "miasm": "Psora",
+    "notes": "Low thermal vitality and poor peripheral circulation"
+  },
+  {
+    "rubric": "Obesity with melancholic mood and social withdrawal",
+    "grading": {
+      "high": ["Aurum", "Natrum mur", "Ignatia"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Silent grief, avoids company, eats secretly",
+    "miasm": "Psora-Syphilis",
+    "notes": "Emotional repression expressed through overeating"
+  },
+  {
+    "rubric": "Obesity in diabetic patients with intense weakness",
+    "grading": {
+      "high": ["Phosphoric acid", "Syzygium", "Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": []
+    },
+    "modality": "Obese yet weak, tired after meals, craving sweets",
+    "miasm": "Psora-Syphilis",
+    "notes": "Diabetes-induced energy loss with poor fat control"
+  },
+  {
+    "rubric": "Obesity after childbirth with prolonged recovery",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": []
+    },
+    "modality": "Weight retained long after delivery, prolapse, back pain",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and pelvic sluggishness prevent fat mobilization"
+  },
+  {
+    "rubric": "Obesity with insulin resistance and dark neck folds",
+    "grading": {
+      "high": ["Thuja", "Syzygium", "Natrum sulph"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": []
+    },
+    "modality": "Acanthosis nigricans, fatigue after meals",
+    "miasm": "Sycosis",
+    "notes": "Insulin resistance presents with typical neck pigmentation"
+  },
+  {
+    "rubric": "Obesity with bloating and intolerance to tight clothing",
+    "grading": {
+      "high": ["Lycopodium", "Graphites", "Calcarea carb"],
+      "medium": ["Sepia"],
+      "low": []
+    },
+    "modality": "Worse from pressure on abdomen, flatulence after meals",
+    "miasm": "Psora",
+    "notes": "Digestive and hepatic sluggishness with abdominal obesity"
+  },
+  {
+    "rubric": "Obesity with strong craving for alcohol or meat",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Phosphorus", "Argentum nitricum"],
+      "low": []
+    },
+    "modality": "Alcohol dependence with increased belly fat",
+    "miasm": "Psora-Sycosis",
+    "notes": "Addictive food/drink patterns fueling obesity"
+  },
+  {
+    "rubric": "Obesity with aggravation during pregnancy",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb", "Pulsatilla"],
+      "medium": ["Lachesis"],
+      "low": []
+    },
+    "modality": "Weight gain excessive for pregnancy stage",
+    "miasm": "Psora-Sycosis",
+    "notes": "Pregnancy-related hormonal and fluid changes"
+  },
+  {
+    "rubric": "Obesity with suppressed sexual desire and pelvic congestion",
+    "grading": {
+      "high": ["Sepia", "Graphites"],
+      "medium": ["Natrum mur", "Pulsatilla"],
+      "low": []
+    },
+    "modality": "Irritability, worse before menses, dull pelvic heaviness",
+    "miasm": "Psora-Sycosis",
+    "notes": "Hormonal and venous stagnation in lower abdomen"
+  },
+  {
+    "rubric": "Obesity with snoring, disturbed sleep, and daytime drowsiness",
+    "grading": {
+      "high": ["Ammonium carb", "Lachesis"],
+      "medium": ["Kali carb", "Calcarea carb"],
+      "low": []
+    },
+    "modality": "Loud snoring, breathless on lying, obese neck",
+    "miasm": "Sycosis",
+    "notes": "Sleep apnea pattern often seen in central obesity"
+  },
+  {
+    "rubric": "Obesity with inability to lose weight despite efforts",
+    "grading": {
+      "high": ["Graphites", "Sepia"],
+      "medium": ["Calcarea carb", "Thyroidinum"],
+      "low": []
+    },
+    "modality": "Dieting or exercise fails to reduce weight",
+    "miasm": "Psora-Sycosis",
+    "notes": "Metabolic resistance and hormonal imbalance present"
+  },
+  {
+    "rubric": "Obesity with extreme lethargy and desire to lie down",
+    "grading": {
+      "high": ["Antimonium crudum", "Calcarea carb"],
+      "medium": ["Psorinum"],
+      "low": []
+    },
+    "modality": "Heaviness of limbs, hates movement",
+    "miasm": "Psora",
+    "notes": "Marked physical inertia in obese patients"
+  }
+]

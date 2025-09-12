@@ -1,0 +1,436 @@
+[
+  {
+    "disease": "Thyroid Disorders (Hypothyroidism, Hyperthyroidism, Hashimoto's)",
+    "tags": [
+      "CommonChronic",
+      "Endocrine",
+      "Hormonal",
+      "Metabolism",
+      "Autoimmune",
+      "Psora",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Sluggishness, fatigue and drowsiness < morning (Hypothyroid)",
+        "grading": {
+          "high": ["Calcarea carb", "Sepia", "Graphites"],
+          "medium": ["Phosphoric acid", "Lycopodium"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< morning, < cold weather",
+        "miasm": "Psora",
+        "notes": "Classic early hypothyroid rubric"
+      },
+      {
+        "rubric": "Weight gain despite low appetite; puffy face (Hypothyroid)",
+        "grading": {
+          "high": ["Graphites", "Calcarea carb", "Sepia"],
+          "medium": ["Antimonium crudum", "Lycopodium"],
+          "low": ["Thuja"]
+        },
+        "modality": "Low BMR, slow digestion",
+        "miasm": "Psora-Sycosis",
+        "notes": "Thyroidal metabolic slowing"
+      },
+      {
+        "rubric": "Dry rough skin with hair fall; cold intolerance",
+        "grading": {
+          "high": ["Silicea", "Calcarea carb", "Graphites"],
+          "medium": ["Psorinum", "Thuja"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< cold air, < bathing",
+        "miasm": "Psora",
+        "notes": "Thyroid-skin-hair axis"
+      },
+      {
+        "rubric": "Irregular or delayed menses with hypothyroidism",
+        "grading": {
+          "high": ["Sepia", "Lachesis", "Graphites"],
+          "medium": ["Pulsatilla", "Nat mur"],
+          "low": ["Ignatia"]
+        },
+        "modality": "< stress, < cold, < fatigue",
+        "miasm": "Psora",
+        "notes": "Gonad-thyroid interaction disturbance"
+      },
+      {
+        "rubric": "Low mood, depression with forgetfulness; fear of failure",
+        "grading": {
+          "high": ["Natrum mur", "Phosphoric acid", "Calc carb"],
+          "medium": ["Sepia", "Ignatia"],
+          "low": ["Aurum mur"]
+        },
+        "modality": "< morning, < criticism",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Thyroid–mind suppression axis"
+      },
+      {
+        "rubric": "Palpitations with restlessness, heat and weight loss (Hyperthyroid)",
+        "grading": {
+          "high": ["Lachesis", "Iodum", "Phosphorus"],
+          "medium": ["Spongia", "Nat mur"],
+          "low": ["Sepia"]
+        },
+        "modality": "< night, < emotional stress, < lying down",
+        "miasm": "Sycosis-Syphilitic",
+        "notes": "Hyperfunctioning thyroid symptoms"
+      },
+      {
+        "rubric": "Exophthalmic eyes with staring expression (Graves')",
+        "grading": {
+          "high": ["Iodum", "Spongia", "Lycopus"],
+          "medium": ["Belladonna", "Apis"],
+          "low": ["Natrum mur"]
+        },
+        "modality": "< excitement, < heat, < fright",
+        "miasm": "Syphilitic",
+        "notes": "Thyroid-associated orbitopathy"
+      },
+      {
+        "rubric": "Thyroid enlargement (goitre), hard or soft swelling in neck",
+        "grading": {
+          "high": ["Iodum", "Spongia", "Calcarea fluor"],
+          "medium": ["Lycopus", "Silicea"],
+          "low": ["Thuja"]
+        },
+        "modality": "< pressure, < menstruation, < mental strain",
+        "miasm": "Psora-Sycosis",
+        "notes": "Structure + function distortion of thyroid gland"
+      },
+      {
+        "rubric": "Anxiety, heat, irritability during hyperthyroid state",
+        "grading": {
+          "high": ["Lachesis", "Iodum", "Phosphorus"],
+          "medium": ["Nux vomica", "Coffea"],
+          "low": ["Aconite"]
+        },
+        "modality": "< noise, < rush, < night",
+        "miasm": "Sycosis",
+        "notes": "Overactive thyroid affects mind speed"
+      },
+      {
+        "rubric": "Hashimoto’s thyroiditis with emotional lability, autoimmune background",
+        "grading": {
+          "high": ["Sepia", "Lycopodium", "Thuja"],
+          "medium": ["Natrum mur", "Medorrhinum"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< before menses, < suppressed anger",
+        "miasm": "Psora-Sycosis",
+        "notes": "Autoimmune emotional + hormonal layer"
+      }
+    ]
+  },
+  {
+    "deep_additions": [
+      {
+        "rubric": "Thyroid disorders after suppression of skin eruptions",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Carcinosinum"],
+          "medium": ["Graphites", "Thuja"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< after ointments, < suppressed eruptions",
+        "miasm": "Psora-Sycosis",
+        "notes": "Miasmatic block leads to internal thyroid dysfunction"
+      },
+      {
+        "rubric": "Thyroid disorders from long-term grief, emotional suppression",
+        "grading": {
+          "high": ["Natrum mur", "Ignatia", "Aurum mur"],
+          "medium": ["Staphysagria", "Sepia"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< after grief, < insult, < disappointment",
+        "miasm": "Psora",
+        "notes": "Mind-origin etiology; hormonal axis disturbed post trauma"
+      },
+      {
+        "rubric": "Goitre with stony hardness, scirrhous swelling",
+        "grading": {
+          "high": ["Baryta iodata", "Carbo animalis", "Iodum"],
+          "medium": ["Silicea", "Calc fluor"],
+          "low": ["Baryta carb"]
+        },
+        "modality": "< touch, < winter, < night",
+        "miasm": "Syphilitic",
+        "notes": "Fibrosis, chronic scarring, deep tissue involvement"
+      },
+      {
+        "rubric": "Hashimoto’s with family history of auto-immune diseases (RA, lupus)",
+        "grading": {
+          "high": ["Carcinosinum", "Medorrhinum", "Tuberculinum"],
+          "medium": ["Sepia", "Silicea"],
+          "low": ["Nat mur"]
+        },
+        "modality": "< menses, < suppressed immune responses",
+        "miasm": "Mixed (Syco-Syphilitic)",
+        "notes": "Autoimmune miasmatic terrain inherited or acquired"
+      },
+      {
+        "rubric": "Childhood goitre or thyroid issues with delayed development",
+        "grading": {
+          "high": ["Baryta carb", "Calcarea carb", "Silicea"],
+          "medium": ["Phosphorus", "Tuberculinum"],
+          "low": ["Iodum"]
+        },
+        "modality": "Thyroid-linked growth delay",
+        "miasm": "Psora",
+        "notes": "Pediatric hormonal-retardation stage"
+      },
+      {
+        "rubric": "Thyroid dysfunction with alternating physical and mental complaints",
+        "grading": {
+          "high": ["Lachesis", "Sepia", "Natrum mur"],
+          "medium": ["Ignatia", "Silicea"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< emotional strain → physical collapse → mental again",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Alternating states suggest constitutionally blocked remedy"
+      },
+      {
+        "rubric": "Excessive perspiration from neck and scalp region (thyroid heat)",
+        "grading": {
+          "high": ["Iodum", "Lachesis", "Sulphur"],
+          "medium": ["Natrum mur", "Sepia"],
+          "low": ["Fluoric acid"]
+        },
+        "modality": "< night, < nervousness",
+        "miasm": "Sycosis",
+        "notes": "Increased thyroid activity or anxiety-linked hypermetabolism"
+      },
+      {
+        "rubric": "Sleeplessness in hyperthyroid cases with heat, restlessness",
+        "grading": {
+          "high": ["Coffea", "Lachesis", "Arsenicum alb"],
+          "medium": ["Phosphorus", "Iodum"],
+          "low": ["Calcarea phos"]
+        },
+        "modality": "< after midnight, < mental overactivity",
+        "miasm": "Sycosis-Syphilitic",
+        "notes": "Mind-body hyperdrive in overactive thyroid states"
+      },
+      {
+        "rubric": "Thyroid complaints alternating with uterine/ovarian issues",
+        "grading": {
+          "high": ["Sepia", "Lachesis", "Pulsatilla"],
+          "medium": ["Ignatia", "Murex"],
+          "low": ["Thuja"]
+        },
+        "modality": "< hormonal shift, < menses",
+        "miasm": "Psora-Sycosis",
+        "notes": "Hormone axis instability between thyroid and pelvis"
+      },
+      {
+        "rubric": "Thyroid dysfunction with strong cravings for eggs, indigestible things",
+        "grading": {
+          "high": ["Calcarea carb", "Iodum", "Sepia"],
+          "medium": ["Silicea", "Nat mur"],
+          "low": ["Fluoric acid"]
+        },
+        "modality": "Cravings or aversions revealing thyroid-calc metabolism",
+        "miasm": "Psora",
+        "notes": "Used for deep constitutional remedy selection"
+      }
+    ]
+  },
+  {
+    "final_deep_additions": [
+      {
+        "rubric": "Thyroid disorder after long use of hormonal pills or contraceptives",
+        "grading": {
+          "high": ["Thuja", "Sepia", "Nat mur"],
+          "medium": ["Medorrhinum", "Ignatia"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "< after OCP use, < suppression of menses",
+        "miasm": "Sycosis",
+        "notes": "Artificial hormone input suppresses thyroid–ovary axis"
+      },
+      {
+        "rubric": "Thyroid dysfunction after vaccination",
+        "grading": {
+          "high": ["Thuja", "Silicea", "Carcinosinum"],
+          "medium": ["Tuberculinum", "Nat mur"],
+          "low": ["Ant crud"]
+        },
+        "modality": "< post-vaccine fatigue or swellings in neck",
+        "miasm": "Sycosis–Syphilitic",
+        "notes": "Immunological trigger leads to thyroiditis"
+      },
+      {
+        "rubric": "Thyroid issues with excessive guilt, self-blame, and perfectionism",
+        "grading": {
+          "high": ["Carcinosinum", "Nat mur", "Aurum mur"],
+          "medium": ["Ignatia", "Silicea"],
+          "low": ["Phos acid"]
+        },
+        "modality": "< slightest failure, < alone, < duty pressure",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Seen in autoimmune Hashimoto's or slow-burn hypo cases"
+      },
+      {
+        "rubric": "Thyroid with aversion to company but fear of being alone",
+        "grading": {
+          "high": ["Lachesis", "Nat mur", "Phosphorus"],
+          "medium": ["Sepia", "Pulsatilla"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "Ambivalent social state → hormonal disturbance",
+        "miasm": "Mixed",
+        "notes": "Typical of thyroid-pituitary axis disharmony"
+      },
+      {
+        "rubric": "Thyroid swelling alternates sides or shifts sides",
+        "grading": {
+          "high": ["Lachesis", "Lycopodium", "Ignatia"],
+          "medium": ["Calc carb", "Belladonna"],
+          "low": ["Silicea"]
+        },
+        "modality": "First left, then right or vice versa",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Useful in unstable goitrous state"
+      },
+      {
+        "rubric": "Menstrual cycles cease with thyroid drop; chilly, weight gain, apathy",
+        "grading": {
+          "high": ["Graphites", "Sepia", "Calc carb"],
+          "medium": ["Lachesis", "Pulsatilla"],
+          "low": ["Ignatia"]
+        },
+        "modality": "< cold, < mental dullness, < inactivity",
+        "miasm": "Psora-Sycosis",
+        "notes": "Female axis shutdown, especially perimenopausal"
+      },
+      {
+        "rubric": "Thyroid with burning in spine, heat up the back",
+        "grading": {
+          "high": ["Sulphur", "Phosphorus", "Lachesis"],
+          "medium": ["Psorinum", "Nat mur"],
+          "low": ["Calc fluor"]
+        },
+        "modality": "< 3am, < lying on back",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Burning heat from overactivity or auto-inflammatory reaction"
+      },
+      {
+        "rubric": "Hypothyroidism with memory loss and slowness of expression",
+        "grading": {
+          "high": ["Baryta carb", "Phosphoric acid", "Sepia"],
+          "medium": ["Nat mur", "Kali phos"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< exams, < mental tasks, < evening",
+        "miasm": "Psora",
+        "notes": "Cognitive slowdown linked to low thyroid"
+      },
+      {
+        "rubric": "Chronic fatigue syndrome with underlying thyroid pathology",
+        "grading": {
+          "high": ["Phos acid", "Sepia", "Psorinum"],
+          "medium": ["Silicea", "Calc carb"],
+          "low": ["Lactic acid"]
+        },
+        "modality": "< slightest exertion, < noise, < stress",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Functional burnout despite rest"
+      },
+      {
+        "rubric": "Old case of thyroid pathology where no remedy acts (blocked case)",
+        "grading": {
+          "high": ["Psorinum", "Carcinosinum", "Tuberculinum"],
+          "medium": ["Sulphur", "Thuja"],
+          "low": ["Syphilinum"]
+        },
+        "modality": "History of suppression, poor vitality, multiple remedy failures",
+        "miasm": "Mixed (All 3)",
+        "notes": "Needs intercurrent or anti-miasmatic unlock"
+      }
+    ]
+  },
+  {
+    "final_rare_clinical_additions": [
+      {
+        "rubric": "Thyroid dysfunction with craving for indigestible things (chalk, slate, earth)",
+        "grading": {
+          "high": ["Calcarea carb", "Alumina", "Sepia"],
+          "medium": ["Silicea", "Phosphorus"],
+          "low": ["Pica remedies"]
+        },
+        "modality": "< pregnancy, < childhood",
+        "miasm": "Psora",
+        "notes": "Indicative of calcium/phosphorus metabolism disturbance"
+      },
+      {
+        "rubric": "History of tuberculosis or family history in thyroid cases",
+        "grading": {
+          "high": ["Tuberculinum", "Iodum", "Phosphorus"],
+          "medium": ["Baryta carb", "Calcarea phos"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< winter, < damp, < change of weather",
+        "miasm": "Tubercular miasm (Psora–Syphilitic)",
+        "notes": "Tubercular diathesis predisposing to thyroid damage"
+      },
+      {
+        "rubric": "Goitre in girls at puberty; thyroid dysfunction at menarche",
+        "grading": {
+          "high": ["Baryta carb", "Lycopodium", "Sepia"],
+          "medium": ["Pulsatilla", "Calcarea phos"],
+          "low": ["Murex"]
+        },
+        "modality": "< during hormonal changes (first menses)",
+        "miasm": "Psora-Sycosis",
+        "notes": "Adolescent hormonal axis triggering thyroid imbalance"
+      },
+      {
+        "rubric": "Thyroid affections alternating with chronic tonsillitis or sore throat",
+        "grading": {
+          "high": ["Lachesis", "Baryta carb", "Tuberculinum"],
+          "medium": ["Hepar sulph", "Psorinum"],
+          "low": ["Kali bich"]
+        },
+        "modality": "Alternating glandular pathologies",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Classic glandular shifting indicating deep remedy needed"
+      },
+      {
+        "rubric": "Cold sensation in thyroid region or icy cold hands in thyroid patients",
+        "grading": {
+          "high": ["Silicea", "Calcarea carb", "Psorinum"],
+          "medium": ["Sepia", "Nat mur"],
+          "low": ["Hepar sulph"]
+        },
+        "modality": "< cold weather, < evening",
+        "miasm": "Psoric",
+        "notes": "Autonomic dysfunction of temperature regulation"
+      },
+      {
+        "rubric": "Thyroid disorders with alternate diarrhea and constipation",
+        "grading": {
+          "high": ["Lycopodium", "Graphites", "Sulphur"],
+          "medium": ["Sepia", "Ignatia"],
+          "low": ["Nat mur"]
+        },
+        "modality": "Digestive irregularity from endocrine dysfunction",
+        "miasm": "Psora",
+        "notes": "Alternating bowel rhythm common in thyroid"
+      },
+      {
+        "rubric": "Extreme emotional oversensitivity in thyroid cases (to reprimand, music, insult)",
+        "grading": {
+          "high": ["Ignatia", "Nat mur", "Phosphorus"],
+          "medium": ["Carcinosinum", "Pulsatilla"],
+          "low": ["Staphysagria"]
+        },
+        "modality": "< consolation, < being corrected, < excitement",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Key in autoimmune thyroid (Hashimoto’s)"
+      }
+    ]
+  }
+]

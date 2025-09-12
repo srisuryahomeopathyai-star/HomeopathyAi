@@ -1,0 +1,332 @@
+[
+  {
+    "disease": "Cerebrovascular Accident (Stroke) – Acute & Post-CVA Rehab",
+    "tags": [
+      "CommonChronic",
+      "Neurology",
+      "Rehab",
+      "Hemiplegia",
+      "Speech",
+      "Miasm",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Sudden paralysis of one side of the body (Hemiplegia), especially right side",
+        "grading": {
+          "high": ["Aurum met", "Lachesis", "Nux vomica"],
+          "medium": ["Gelsemium", "Causticum"],
+          "low": ["Belladonna"]
+        },
+        "modality": "< anger, < exertion, > heat",
+        "miasm": "Syphilitic",
+        "notes": "Acute CVA with right hemiplegia and emotional etiology"
+      },
+      {
+        "rubric": "Left-sided paralysis with mental dullness or apathy",
+        "grading": {
+          "high": ["Plumbum", "Opium", "Conium"],
+          "medium": ["Gelsemium", "Baryta carb"],
+          "low": ["Secale"]
+        },
+        "modality": "< cold, < motion, > rest",
+        "miasm": "Syphilitic",
+        "notes": "Left CVA with cognitive and personality changes"
+      },
+      {
+        "rubric": "Loss of speech (aphasia) with preserved understanding",
+        "grading": {
+          "high": ["Baryta carb", "Anacardium", "Causticum"],
+          "medium": ["Belladonna", "Zincum"],
+          "low": ["Opium"]
+        },
+        "modality": "< attempt to speak, < anxiety, > patience",
+        "miasm": "Syphilitic–Psora",
+        "notes": "Broca’s aphasia post-CVA"
+      },
+      {
+        "rubric": "Complete speech loss with dullness and memory confusion",
+        "grading": {
+          "high": ["Opium", "Helleborus", "Baryta mur"],
+          "medium": ["Gelsemium", "Conium"],
+          "low": ["Alumina"]
+        },
+        "modality": "< thinking, < effort, > silence",
+        "miasm": "Syphilitic",
+        "notes": "Global aphasia with mental fog"
+      },
+      {
+        "rubric": "Weakness in limbs with coldness, tingling, and numbness post-stroke",
+        "grading": {
+          "high": ["Plumbum", "Causticum", "Secale"],
+          "medium": ["Zincum", "Gelsemium"],
+          "low": ["Conium"]
+        },
+        "modality": "< cold, < rest, > massage",
+        "miasm": "Syphilitic",
+        "notes": "Neurovascular sequelae of stroke"
+      },
+      {
+        "rubric": "Facial paralysis with inability to close eyes or move lips",
+        "grading": {
+          "high": ["Causticum", "Belladonna", "Plumbum"],
+          "medium": ["Conium", "Gelsemium"],
+          "low": ["Agaricus"]
+        },
+        "modality": "< cold, < damp, > heat",
+        "miasm": "Syphilitic",
+        "notes": "Bell’s palsy or facial palsy post-CVA"
+      },
+      {
+        "rubric": "CVA with trembling and tremors in limbs after initial paralysis",
+        "grading": {
+          "high": ["Zincum", "Gelsemium", "Agaricus"],
+          "medium": ["Plumbum", "Causticum"],
+          "low": ["Ignatia"]
+        },
+        "modality": "< movement, < cold, > sleep",
+        "miasm": "Syphilitic–Tubercular",
+        "notes": "Tremors during recovery phase"
+      },
+      {
+        "rubric": "Post-stroke depression with desire to die, loss of interest",
+        "grading": {
+          "high": ["Aurum met", "Ignatia", "Natrum mur"],
+          "medium": ["Phosphoric acid", "Staphysagria"],
+          "low": ["Sepia"]
+        },
+        "modality": "< silence, < night, < indoors",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Common mental sequelae of stroke"
+      },
+      {
+        "rubric": "Dementia and memory loss after stroke or TIA",
+        "grading": {
+          "high": ["Anacardium", "Baryta carb", "Alumina"],
+          "medium": ["Opium", "Plumbum"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< mental effort, < talking, > passive state",
+        "miasm": "Syphilitic",
+        "notes": "Vascular dementia post-CVA"
+      },
+      {
+        "rubric": "Post-stroke stiffness of limbs with slow gait and fear of falling",
+        "grading": {
+          "high": ["Plumbum", "Conium", "Alumina"],
+          "medium": ["Causticum", "Agaricus"],
+          "low": ["Gelsemium"]
+        },
+        "modality": "< motion, < morning, > heat",
+        "miasm": "Syphilitic",
+        "notes": "Muscular rigidity after long-term stroke"
+      },
+      {
+        "rubric": "CVA in hypertensive individuals with history of suppressed anger",
+        "grading": {
+          "high": ["Nux vomica", "Lachesis", "Aurum met"],
+          "medium": ["Staphysagria", "Natrum mur"],
+          "low": ["Ignatia"]
+        },
+        "modality": "< bottled emotions, < mental stress, > venting",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Root cause-focused constitutional support"
+      },
+      {
+        "rubric": "Silent stroke or unnoticed CVA with later sudden behavior change",
+        "grading": {
+          "high": ["Helleborus", "Anacardium", "Opium"],
+          "medium": ["Zincum", "Aurum mur"],
+          "low": ["Gelsemium"]
+        },
+        "modality": "< sudden loss of mental power, < motion, > routine",
+        "miasm": "Syphilitic",
+        "notes": "Micro-infarct or unnoticed CVA resulting in dullness"
+      },
+      {
+        "rubric": "Post-stroke intercurrent blockage — no improvement with similimum",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Syphilinum"],
+          "medium": ["Sulphur", "Medorrhinum"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< long-term suppression, < deep miasm, > when intercurrent given",
+        "miasm": "Mixed",
+        "notes": "Intercurrent to unblock remedy action in chronic stroke states"
+      }
+    ]
+  },
+  {
+    "additional_rubrics": [
+      {
+        "rubric": "Post-stroke spastic gait; legs stiff and crossing while walking",
+        "grading": {
+          "high": ["Plumbum", "Agaricus", "Conium"],
+          "medium": ["Causticum", "Alumina"],
+          "low": ["Gelsemium"]
+        },
+        "modality": "< first motion, < cold, > warmth",
+        "miasm": "Syphilitic",
+        "notes": "Spastic paraparesis during post-CVA rehab phase"
+      },
+      {
+        "rubric": "Dragging of foot while walking with numbness post-stroke",
+        "grading": {
+          "high": ["Plumbum", "Causticum", "Alumina"],
+          "medium": ["Secale", "Zincum"],
+          "low": ["Opium"]
+        },
+        "modality": "< left side, < morning, > massage",
+        "miasm": "Syphilitic",
+        "notes": "Motor cortex damage or corticospinal involvement"
+      },
+      {
+        "rubric": "Post-stroke diplopia or blurred vision",
+        "grading": {
+          "high": ["Gelsemium", "Phosphorus", "Argentum nitricum"],
+          "medium": ["Causticum", "Nux vomica"],
+          "low": ["Belladonna"]
+        },
+        "modality": "< exertion, < light, > closing eyes",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Occipital or cranial nerve involvement in stroke"
+      },
+      {
+        "rubric": "Hemianopia (half-field visual loss) after stroke",
+        "grading": {
+          "high": ["Phosphorus", "Opium", "Zincum"],
+          "medium": ["Plumbum", "Helleborus"],
+          "low": ["Gelsemium"]
+        },
+        "modality": "< turning head, < bright light",
+        "miasm": "Syphilitic",
+        "notes": "Occipital infarct consequence"
+      },
+      {
+        "rubric": "Emotional instability after stroke; crying or laughing inappropriately",
+        "grading": {
+          "high": ["Ignatia", "Belladonna", "Hyoscyamus"],
+          "medium": ["Stramonium", "Opium"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< alone, < suppressed emotion",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Pseudobulbar affect (common in frontal stroke)"
+      },
+      {
+        "rubric": "Fear of falling or loss of balance while walking",
+        "grading": {
+          "high": ["Gelsemium", "Conium", "Alumina"],
+          "medium": ["Argentum nitricum", "Silicea"],
+          "low": ["Agaricus"]
+        },
+        "modality": "< crowds, < uneven ground, > holding support",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Vestibular + proprioceptive dysfunction post-CVA"
+      },
+      {
+        "rubric": "Post-stroke seizures or jerking limbs during recovery",
+        "grading": {
+          "high": ["Cicuta virosa", "Stramonium", "Cuprum met"],
+          "medium": ["Zincum", "Opium"],
+          "low": ["Belladonna"]
+        },
+        "modality": "< during sleep, < stress, > calm",
+        "miasm": "Tubercular–Syphilitic",
+        "notes": "Epileptiform activity in scarred brain areas"
+      },
+      {
+        "rubric": "Incontinence of urine or stool after stroke",
+        "grading": {
+          "high": ["Causticum", "Plumbum", "Opium"],
+          "medium": ["Conium", "Secale"],
+          "low": ["Zincum"]
+        },
+        "modality": "< coughing, < standing, > lying down",
+        "miasm": "Syphilitic",
+        "notes": "Loss of pelvic floor control in CVA"
+      },
+      {
+        "rubric": "Post-CVA mental confusion with altered time and space orientation",
+        "grading": {
+          "high": ["Helleborus", "Anacardium", "Baryta mur"],
+          "medium": ["Zincum", "Opium"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< talking, < bright lights, > calm",
+        "miasm": "Syphilitic",
+        "notes": "Disorientation and cortical disconnect"
+      }
+    ]
+  },
+  {
+    "final_layer": [
+      {
+        "rubric": "Loss of personal identity or sense of self after stroke",
+        "grading": {
+          "high": ["Anacardium", "Helleborus", "Baryta mur"],
+          "medium": ["Stramonium", "Plumbum"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< questioning, < unfamiliar surroundings",
+        "miasm": "Syphilitic",
+        "notes": "Seen in advanced cortical damage, right parietal lesions"
+      },
+      {
+        "rubric": "Stroke in senile, atherosclerotic patients with mental decline",
+        "grading": {
+          "high": ["Baryta carb", "Alumina", "Opium"],
+          "medium": ["Phosphorus", "Plumbum"],
+          "low": ["Gelsemium"]
+        },
+        "modality": "< aging, < mental effort, > silence",
+        "miasm": "Syphilitic–Psora",
+        "notes": "Atherosclerotic cerebral stroke in dementia-prone patients"
+      },
+      {
+        "rubric": "Stroke following suppressed grief, emotional trauma, or long-standing fear",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur", "Gelsemium"],
+          "medium": ["Aurum met", "Phosphoric acid"],
+          "low": ["Opium"]
+        },
+        "modality": "< unexpressed sorrow, < suppressed crying, > consolation",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Common in widows/widowers or shock trauma cases"
+      },
+      {
+        "rubric": "Silent stroke in diabetic or hypertensive patients",
+        "grading": {
+          "high": ["Plumbum", "Syphilinum", "Baryta mur"],
+          "medium": ["Sulphur", "Zincum"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< chronic suppression, < morning confusion",
+        "miasm": "Mixed",
+        "notes": "TIA or micro-infarcts showing later behavioral changes"
+      },
+      {
+        "rubric": "Childlike or regressive behavior after stroke",
+        "grading": {
+          "high": ["Baryta carb", "Stramonium", "Opium"],
+          "medium": ["Bufo", "Agaricus"],
+          "low": ["Ambra grisea"]
+        },
+        "modality": "< alone, < scolding, > soft music",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Frontal lobe degeneration symptoms post-CVA"
+      },
+      {
+        "rubric": "CVA with long-standing remedy blockage despite similimum",
+        "grading": {
+          "high": ["Psorinum", "Carcinosinum", "Syphilinum"],
+          "medium": ["Sulphur", "Medorrhinum"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< after acute suppression, < intercurrent miasm",
+        "miasm": "All miasms",
+        "notes": "Intercurrent remedy stage when case is non-responsive"
+      }
+    ]
+  }
+]

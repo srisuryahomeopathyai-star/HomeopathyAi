@@ -1,0 +1,292 @@
+[
+  {
+    "rubric": "Nausea and vomiting of pregnancy",
+    "grading": {
+      "High": ["Sep", "Nux-v", "Ipec"],
+      "Medium": ["Cocculus", "Colch"],
+      "Low": ["Symphor", "Kreos"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Morning sickness, often worse from smell or motion"
+  },
+  {
+    "rubric": "Exhaustion and sleepiness early pregnancy",
+    "grading": {
+      "High": ["Sep", "Sulph", "Calc"],
+      "Medium": ["Cimic", "Puls"],
+      "Low": ["Gels", "Phos"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Low vitality, need to lie down constantly"
+  },
+  {
+    "rubric": "Aversion to sex during early pregnancy",
+    "grading": {
+      "High": ["Sep", "Con", "Graph"],
+      "Medium": ["Ign", "Calc"],
+      "Low": ["Lyc", "Nat-m"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Often with emotional withdrawal, pelvic heaviness"
+  },
+  {
+    "rubric": "Fear of miscarriage – anxiety in early pregnancy",
+    "grading": {
+      "High": ["Calc", "Kali-c", "Gels"],
+      "Medium": ["Ign", "Ars"],
+      "Low": ["Phos", "Cimic"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Seen in recurrent miscarriage or IVF patients"
+  },
+  {
+    "rubric": "Backache in pregnancy",
+    "grading": {
+      "High": ["Kali-c", "Sep", "Aesculus"],
+      "Medium": ["Bell", "Nux-v"],
+      "Low": ["Rhus-t", "Calc"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Lumbosacral pain, worse standing, better pressure"
+  },
+  {
+    "rubric": "Craving and aversions during pregnancy",
+    "grading": {
+      "High": ["Puls", "Calc", "Sep"],
+      "Medium": ["Phos", "Sulph"],
+      "Low": ["Lyc", "Ign"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Desires for sour, pickles, indigestible things"
+  },
+  {
+    "rubric": "Mental irritability during pregnancy",
+    "grading": {
+      "High": ["Nux-v", "Sep", "Lach"],
+      "Medium": ["Ign", "Cham"],
+      "Low": ["Staph", "Sulph"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Snappy, sensitive to contradiction"
+  },
+  {
+    "rubric": "False labor pains – ineffective contractions",
+    "grading": {
+      "High": ["Cimic", "Puls", "Caul"],
+      "Medium": ["Sep", "Nux-v"],
+      "Low": ["Bell", "Ign"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Irregular, non-progressing uterine pains"
+  },
+  {
+    "rubric": "Labor pains weak or absent",
+    "grading": {
+      "High": ["Caul", "Cimic", "Sec"],
+      "Medium": ["Gels", "Puls"],
+      "Low": ["Ign", "Kali-c"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Failure to dilate; uterus exhausted"
+  },
+  {
+    "rubric": "Fear of labor, nervousness before delivery",
+    "grading": {
+      "High": ["Gels", "Acon", "Arg-n"],
+      "Medium": ["Cimic", "Puls"],
+      "Low": ["Ign", "Phos"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Stage fright; trembling, loose stools, choking sensation"
+  },
+  {
+    "rubric": "Retention of placenta / bleeding after delivery",
+    "grading": {
+      "High": ["Sec", "Sabin", "Caul"],
+      "Medium": ["Bell", "Ars"],
+      "Low": ["China", "Ipec"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Hemorrhage, faintness, poor uterine tone"
+  },
+  {
+    "rubric": "Depression after childbirth",
+    "grading": {
+      "High": ["Sep", "Ign", "Aurum"],
+      "Medium": ["Kali-p", "Phos"],
+      "Low": ["Nat-m", "Puls"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Melancholy, guilt, crying spells"
+  },
+  {
+    "rubric": "Milk suppression or poor lactation",
+    "grading": {
+      "High": ["Urtica-ur", "Lac-can", "Calc"],
+      "Medium": ["Puls", "Phos-ac"],
+      "Low": ["Ign", "Bell"]
+    },
+    "miasm": ["Psora"],
+    "notes": "No milk or poor letdown reflex; can be emotional"
+  },
+  {
+    "rubric": "Agalactia with sadness or rejection of child",
+    "grading": {
+      "High": ["Sep", "Lac-d", "Ign"],
+      "Medium": ["Nat-m", "Aurum"],
+      "Low": ["Phos", "Sil"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Aversion to child, feelings of failure"
+  },
+  {
+    "rubric": "After pains (cramps after delivery)",
+    "grading": {
+      "High": ["Bell", "Cham", "Puls"],
+      "Medium": ["Sep", "Mag-p"],
+      "Low": ["Caul", "Nux-v"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Cramping uterus with restlessness"
+  },
+  {
+    "rubric": "Threatened abortion – early pregnancy bleeding",
+    "grading": {
+      "High": ["Sabina", "Secale", "Viburnum"],
+      "Medium": ["Bell", "Croc"],
+      "Low": ["Apis", "China"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Bleeding with back pain; Sabina = pain from sacrum to pubis"
+  },
+  {
+    "rubric": "Miscarriage habitual – tendency to abort",
+    "grading": {
+      "High": ["Sep", "Calc", "Nat-c"],
+      "Medium": ["Kali-c", "Sil"],
+      "Low": ["Med", "Ars"]
+    },
+    "miasm": ["Syphilis", "Psora"],
+    "notes": "Repeated early pregnancy loss; uterine weakness or immune issue"
+  },
+  {
+    "rubric": "Miscarriage after fright or grief",
+    "grading": {
+      "High": ["Ign", "Acon", "Gels"],
+      "Medium": ["Nat-m", "Sep"],
+      "Low": ["Bell", "Cimic"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Emotional trigger leads to uterine spasm, shock"
+  },
+  {
+    "rubric": "Retained placenta after delivery or abortion",
+    "grading": {
+      "High": ["Secale", "Caul", "Sabina"],
+      "Medium": ["Bell", "Puls"],
+      "Low": ["Cinchona", "Ars"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Poor uterine contractility; bleeding may follow"
+  },
+  {
+    "rubric": "Weak uterine muscles – unable to expel contents",
+    "grading": {
+      "High": ["Caul", "Cimic", "Sec"],
+      "Medium": ["Gels", "Calc"],
+      "Low": ["Ign", "Mag-p"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "False labor, post-delivery flaccid uterus"
+  },
+  {
+    "rubric": "UTI during pregnancy",
+    "grading": {
+      "High": ["Canth", "Staph", "Sars"],
+      "Medium": ["Sep", "Apis"],
+      "Low": ["Berb-v", "Puls"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Burning urination, pressure in bladder, worse during/after urination"
+  },
+  {
+    "rubric": "Vaginal thrush during pregnancy (Candida)",
+    "grading": {
+      "High": ["Borax", "Kreos", "Sep"],
+      "Medium": ["Merc", "Graph"],
+      "Low": ["Hydr", "Sulph"]
+    },
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "White discharge, itching, excoriation; Borax if vulva extremely sensitive"
+  },
+  {
+    "rubric": "Vaginal discharge offensive during pregnancy",
+    "grading": {
+      "High": ["Kreos", "Crot-t", "Nit-ac"],
+      "Medium": ["Sep", "Graph"],
+      "Low": ["Merc", "Puls"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Purulent, acrid, erodes tissue"
+  },
+  {
+    "rubric": "Viral fevers during pregnancy (influenza-like)",
+    "grading": {
+      "High": ["Gels", "Eup-per", "Bapt"],
+      "Medium": ["Bry", "Rhus-t"],
+      "Low": ["Ars", "Phos"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Flu-like, malaise, chills; Gels = dull, trembling; Eup = bone pain"
+  },
+  {
+    "rubric": "Threatened miscarriage from infection",
+    "grading": {
+      "High": ["Secale", "Sabin", "Merc"],
+      "Medium": ["Crot-h", "Sulph"],
+      "Low": ["Cinch", "Kali-c"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Fever + bleeding + odor → must consider septic state"
+  },
+  {
+    "rubric": "Irritability during pregnancy",
+    "grading": {
+      "High": ["Nux-v", "Sep", "Lach"],
+      "Medium": ["Cham", "Cimic"],
+      "Low": ["Ign", "Sulph"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Easily offended, snapping, oversensitive"
+  },
+  {
+    "rubric": "Fear of death during pregnancy",
+    "grading": {
+      "High": ["Acon", "Ars", "Gels"],
+      "Medium": ["Calc", "Ign"],
+      "Low": ["Phos", "Cimic"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Sudden panic at thought of childbirth or danger to baby"
+  },
+  {
+    "rubric": "Weeping without cause – emotional lability",
+    "grading": {
+      "High": ["Ign", "Puls", "Sep"],
+      "Medium": ["Nat-m", "Cimic"],
+      "Low": ["Lach", "Graph"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Mood changes rapidly, better consolation"
+  },
+  {
+    "rubric": "Aversion to husband or family during pregnancy",
+    "grading": {
+      "High": ["Sep", "Lach", "Con"],
+      "Medium": ["Ign", "Nat-m"],
+      "Low": ["Staph", "Sil"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Wants solitude, feels estranged, detached"
+  }
+]

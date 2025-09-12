@@ -1,0 +1,311 @@
+[
+  {
+    "HairSigns": [
+      {
+        "rubric": "Hair - Falling out in handfuls",
+        "grading": {
+          "high": ["Fluor-ac", "Phos", "Lyc"],
+          "medium": ["Nat-m", "Sep", "Graph"],
+          "low": ["Sil", "Calc-p"]
+        },
+        "modality": "Worse from stress, grief, childbirth, anemia",
+        "miasm": "Psora-Syphilis",
+        "notes": "Phosphorus and Fluoric acid for rapid, alarming hair loss. Nat-m and Sep for chronic loss after grief or hormonal causes."
+      },
+      {
+        "rubric": "Hair - Greasy / oily scalp",
+        "grading": {
+          "high": ["Thuja", "Nat-m", "Psor"],
+          "medium": ["Sulph", "Calc-s", "Lyc"],
+          "low": ["Graph", "Puls"]
+        },
+        "modality": "Worse from heat, during puberty, hormonal imbalance",
+        "miasm": "Sycosis",
+        "notes": "Oily seborrheic scalp with pimples or itching. Nat-m and Thuja are key in young patients."
+      },
+      {
+        "rubric": "Hair - Dry, brittle, splits easily",
+        "grading": {
+          "high": ["Sil", "Graph", "Fluor-ac"],
+          "medium": ["Calc", "Psor", "Phos"],
+          "low": ["Lyc", "Sep"]
+        },
+        "modality": "Worse with nutritional deficiencies, sun, washing",
+        "miasm": "Psora",
+        "notes": "Dry and split hair from poor assimilation. Silicea and Graphites for structural weakness."
+      },
+      {
+        "rubric": "Hair - Dandruff",
+        "grading": {
+          "high": ["Graph", "Psor", "Sulph"],
+          "medium": ["Lyc", "Thuja", "Mez"],
+          "low": ["Petrol", "Phos", "Ars"]
+        },
+        "modality": "Worse in winter, after illness, with itching",
+        "miasm": "Psora",
+        "notes": "Scalp itching with scaling. Psorinum and Graphites are classic. Mezereum when crusts form."
+      },
+      {
+        "rubric": "Hair - Alopecia areata (patchy loss)",
+        "grading": {
+          "high": ["Fluor-ac", "Phos", "Sep"],
+          "medium": ["Graph", "Syph", "Lyc"],
+          "low": ["Sil", "Calc", "Carc"]
+        },
+        "modality": "Worse from grief, thyroid imbalance, autoimmune conditions",
+        "miasm": "Syphilis",
+        "notes": "Patchy bald spots, often round. Fluoric acid and Phosphorus help regenerate follicles."
+      },
+      {
+        "rubric": "Hair - Premature graying",
+        "grading": {
+          "high": ["Phos", "Lyc", "Sil"],
+          "medium": ["Nat-m", "Sep", "Fluor-ac"],
+          "low": ["Psor", "Calc-p"]
+        },
+        "modality": "Worse after fright, grief, stress, puberty",
+        "miasm": "Psora-Syphilis",
+        "notes": "Graying in teens or early 20s. Often linked with nervous weakness or family history."
+      },
+      {
+        "rubric": "Hair - Offensive odor from scalp",
+        "grading": {
+          "high": ["Psor", "Mez", "Sulph"],
+          "medium": ["Calc", "Petrol", "Graph"],
+          "low": ["Thuja", "Hepar"]
+        },
+        "modality": "Worse from sweating, heat, dirty habits",
+        "miasm": "Psora",
+        "notes": "Psorinum scalp has dirty, offensive smell despite washing. Mezereum in weepy, crusty scalp with bad odor."
+      },
+      {
+        "rubric": "Hair - Baldness in young age",
+        "grading": {
+          "high": ["Fluor-ac", "Phos", "Sil"],
+          "medium": ["Nat-m", "Calc-p", "Lyc"],
+          "low": ["Psor", "Baryta-c"]
+        },
+        "modality": "Worse after typhoid, stress, early puberty",
+        "miasm": "Syphilis",
+        "notes": "Silicea and Fluoric acid for early onset baldness. Baryta-carb when linked with mental backwardness."
+      },
+      {
+        "rubric": "Hair - Thick growth in unwanted areas (hirsutism)",
+        "grading": {
+          "high": ["Thuja", "Oophorinum", "Nat-m"],
+          "medium": ["Sep", "Calc", "Lyc"],
+          "low": ["Sulph", "Puls"]
+        },
+        "modality": "Worse during PCOD, puberty, hormonal imbalance",
+        "miasm": "Sycosis",
+        "notes": "Facial or body hair in women. Thuja, Oophorinum target hormonal roots. Sepia in uterine imbalance."
+      }
+    ]
+  },
+  {
+    "HairSigns": [
+      {
+        "rubric": "Hair - Falling out in handfuls",
+        "grading": {
+          "high": ["Fluor-ac", "Phos", "Lyc"],
+          "medium": ["Nat-m", "Sep", "Graph"],
+          "low": ["Sil", "Calc-p"]
+        },
+        "modality": "Worse from stress, grief, childbirth, anemia",
+        "miasm": "Psora-Syphilis",
+        "notes": "Phosphorus and Fluoric acid for rapid, alarming hair loss. Nat-m and Sep for chronic loss after grief or hormonal causes."
+      },
+      {
+        "rubric": "Hair - Diffuse thinning all over scalp",
+        "grading": {
+          "high": ["Phos", "Sil", "Nat-m"],
+          "medium": ["Lyc", "Sep", "Graph"],
+          "low": ["Calc-p", "Ferr"]
+        },
+        "modality": "Worse from hormonal shifts, post-fever, diet deficiencies",
+        "miasm": "Psora",
+        "notes": "Diffuse hair loss from hormonal or nutritional imbalance. Common after fevers and anemia."
+      },
+      {
+        "rubric": "Hair - Bald patches with smooth scalp (Alopecia areata)",
+        "grading": {
+          "high": ["Fluor-ac", "Phos", "Sep"],
+          "medium": ["Graph", "Syph", "Lyc"],
+          "low": ["Sil", "Calc", "Carc"]
+        },
+        "modality": "Worse from grief, thyroid issues, autoimmune disorders",
+        "miasm": "Syphilis",
+        "notes": "Patchy baldness, round areas with clean scalp. Phosphorus and Fluoric acid stimulate regrowth."
+      },
+      {
+        "rubric": "Hair - Hair loss after childbirth",
+        "grading": {
+          "high": ["Sep", "Phos", "Nat-m"],
+          "medium": ["Calc", "Puls", "Sil"],
+          "low": ["Kali-c", "Lac-m"]
+        },
+        "modality": "Postpartum period",
+        "miasm": "Psora",
+        "notes": "Hair falls out 1–3 months after delivery. Sepia for hormonal readjustment; Nat-m if associated with grief."
+      },
+      {
+        "rubric": "Hair - Hair loss from thyroid imbalance",
+        "grading": {
+          "high": ["Iodum", "Nat-m", "Lyc"],
+          "medium": ["Phos", "Calc", "Sep"],
+          "low": ["Spong", "Thyroidinum"]
+        },
+        "modality": "Worse from hypothyroid or hyperthyroid states",
+        "miasm": "Psora-Syphilis",
+        "notes": "Hair becomes thin, dry, falls in bunches. Iodum for hyperthyroid wasting, Nat-m for dry scalp in hypo cases."
+      },
+      {
+        "rubric": "Hair - Hair fall during menopause or hormonal change",
+        "grading": {
+          "high": ["Sep", "Lach", "Nat-m"],
+          "medium": ["Puls", "Phos", "Sulph"],
+          "low": ["Oophorinum", "Calc"]
+        },
+        "modality": "Menopausal phase or hormonal withdrawal",
+        "miasm": "Psora-Sycosis",
+        "notes": "Sepia and Lachesis for female hormonal changes. Oophorinum supports in estrogen withdrawal."
+      },
+      {
+        "rubric": "Hair - Hair fall from stress or mental shock",
+        "grading": {
+          "high": ["Nat-m", "Phos-ac", "Ign"],
+          "medium": ["Phos", "Sep", "Sil"],
+          "low": ["Staph", "Calc-p"]
+        },
+        "modality": "After grief, disappointment, acute stress",
+        "miasm": "Psora",
+        "notes": "Sudden grief or loss leads to hair fall. Nat-m and Ignatia for silent grief; Phos-ac for emotional exhaustion."
+      },
+      {
+        "rubric": "Hair - Hair fall from chronic illness or fever",
+        "grading": {
+          "high": ["China", "Phos", "Calc-p"],
+          "medium": ["Ferr", "Sil", "Nat-m"],
+          "low": ["Ars", "Lyc"]
+        },
+        "modality": "After typhoid, malaria, COVID, influenza",
+        "miasm": "Psora",
+        "notes": "Common in convalescence. China and Calc-p restore vitality and regrow hair post-debilitating fevers."
+      },
+      {
+        "rubric": "Hair - Baldness in young age",
+        "grading": {
+          "high": ["Fluor-ac", "Phos", "Sil"],
+          "medium": ["Nat-m", "Calc-p", "Lyc"],
+          "low": ["Psor", "Baryta-c"]
+        },
+        "modality": "Worse after typhoid, stress, early puberty",
+        "miasm": "Syphilis",
+        "notes": "Silicea and Fluoric acid for early onset baldness. Baryta-carb when linked with mental backwardness."
+      },
+      {
+        "rubric": "Hair - Hair fall due to PCOS or hirsutism",
+        "grading": {
+          "high": ["Thuja", "Oophorinum", "Nat-m"],
+          "medium": ["Sep", "Calc", "Lyc"],
+          "low": ["Sulph", "Puls"]
+        },
+        "modality": "Worse during PCOD, hormonal disorder, acne",
+        "miasm": "Sycosis",
+        "notes": "Facial or body hair in women; scalp loss with hormonal acne. Thuja, Oophorinum address root imbalance."
+      }
+    ]
+  },
+  {
+    "HairSigns": [
+      {
+        "rubric": "Hair - Hair loss with crusty eruptions on scalp",
+        "grading": {
+          "high": ["Mez", "Graph", "Hep-s"],
+          "medium": ["Sulph", "Calc", "Psor"],
+          "low": ["Petrol", "Merc"]
+        },
+        "modality": "Worse in winter, after scratching, dirty scalp",
+        "miasm": "Psora-Syphilis",
+        "notes": "Hair falls with oozing crusts on scalp. Mezereum and Graphites are top remedies."
+      },
+      {
+        "rubric": "Hair - Hair falls after washing",
+        "grading": {
+          "high": ["Sil", "Sep", "Kali-carb"],
+          "medium": ["Nat-m", "Phos", "Sulph"],
+          "low": ["Calc", "Psor"]
+        },
+        "modality": "Worse from hair wash, bathing, wet scalp",
+        "miasm": "Psora",
+        "notes": "Silicea loses hair even after light shampooing. Kali-carb in menopausal types."
+      },
+      {
+        "rubric": "Hair - Hair falls from sun or heat",
+        "grading": {
+          "high": ["Nat-m", "Glonoin", "Phos"],
+          "medium": ["Bell", "Sulph", "Lyc"],
+          "low": ["Ferr", "Sep"]
+        },
+        "modality": "Worse in summer, after sun exposure",
+        "miasm": "Psora",
+        "notes": "Heat of the sun aggravates scalp condition; Nat-m and Glonoin are top for heat sensitivity."
+      },
+      {
+        "rubric": "Hair - Thin and sparse since childhood",
+        "grading": {
+          "high": ["Baryta-c", "Calc-p", "Sil"],
+          "medium": ["Nat-m", "Psor", "Tub"],
+          "low": ["Carc", "Calc"]
+        },
+        "modality": "Never developed thick hair constitutionally",
+        "miasm": "Psora-Syphilis",
+        "notes": "Thin, scanty hair from birth. Often linked with poor nutrition or endocrine delay."
+      },
+      {
+        "rubric": "Hair - Hair pulled out (trichotillomania)",
+        "grading": {
+          "high": ["Ars", "Syph", "Stram"],
+          "medium": ["Tub", "Hyos", "Verat"],
+          "low": ["Ign", "Sil"]
+        },
+        "modality": "Obsessive pulling of hair, during stress or seizures",
+        "miasm": "Syphilis",
+        "notes": "Compulsive hair pulling, linked with mental disturbance or epilepsy. Syphilinum and Stramonium are important."
+      },
+      {
+        "rubric": "Hair - Hair loss during dentition",
+        "grading": {
+          "high": ["Calc-c", "Cham", "Sil"],
+          "medium": ["Bell", "Mag-p", "Cina"],
+          "low": ["Phos", "Puls"]
+        },
+        "modality": "During teething phase in infants and toddlers",
+        "miasm": "Psora",
+        "notes": "Calcarea carbonica and Chamomilla are common for scalp thinning during teething."
+      },
+      {
+        "rubric": "Hair - Hair fall associated with nasal allergy",
+        "grading": {
+          "high": ["Nat-m", "Psor", "Kali-s"],
+          "medium": ["Sulph", "Ars", "Calc"],
+          "low": ["Sabad", "Euphrasia"]
+        },
+        "modality": "With sinusitis, post-nasal drip, allergy",
+        "miasm": "Psora-Sycosis",
+        "notes": "Hair loss linked with allergy or sinus; Nat-m and Kali-s key in allergic constitutions."
+      },
+      {
+        "rubric": "Hair - Fragile curly hair",
+        "grading": {
+          "high": ["Nat-m", "Phos", "Sep"],
+          "medium": ["Calc", "Sil", "Thuja"],
+          "low": ["Graph", "Sulph"]
+        },
+        "modality": "Curly hair type, brittle and dry",
+        "miasm": "Psora",
+        "notes": "Thin curly hair that breaks or tangles easily. Nat-m and Sepia for delicate hair constitutions."
+      }
+    ]
+  }
+]

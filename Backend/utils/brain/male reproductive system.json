@@ -1,0 +1,1907 @@
+[
+  {
+    "rubric": "Erections absent or weak during coition",
+    "grading": {
+      "High": ["Agn", "Lyc", "Selen"],
+      "Medium": ["Staph", "Con", "Calad"],
+      "Low": ["Baryta", "Carbn-s", "Phos"]
+    },
+    "modality": "Fails during act despite desire",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Functional impotence; often from anticipatory anxiety or sexual suppression"
+  },
+  {
+    "rubric": "Involuntary erections at night or in morning",
+    "grading": {
+      "High": ["Selen", "Phos", "Calad"],
+      "Medium": ["Lyc", "Nux-v", "Cann-i"],
+      "Low": ["Med", "Sulph"]
+    },
+    "modality": "Uncontrolled, especially in bed",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Often seen in excess sexual fantasy or suppression"
+  },
+  {
+    "rubric": "Painful erections (priapism)",
+    "grading": {
+      "High": ["Canth", "Pic-ac", "Tereb"],
+      "Medium": ["Sabal", "Ph-ac"],
+      "Low": ["Lach", "Con"]
+    },
+    "modality": "Painful prolonged erections without relief",
+    "miasm": ["Syphilis"],
+    "notes": "Seen in spinal irritation, gonorrhea, or drug toxicity"
+  },
+  {
+    "rubric": "Erections without sexual desire",
+    "grading": {
+      "High": ["Phos", "Selen", "Calad"],
+      "Medium": ["Agn", "Sulph"],
+      "Low": ["Cann-i", "Lach"]
+    },
+    "modality": "Mechanical arousal without mental excitation",
+    "miasm": ["Psora"],
+    "notes": "Nerve sensitivity or local irritation; not true libido"
+  },
+  {
+    "rubric": "Erections disappear during coition",
+    "grading": {
+      "High": ["Agn", "Con", "Staph"],
+      "Medium": ["Selen", "Lyc"],
+      "Low": ["Phos", "Baryta"]
+    },
+    "modality": "Loss of power during act",
+    "miasm": ["Sycosis"],
+    "notes": "Emotional repression or mental performance fear"
+  },
+  {
+    "rubric": "Too frequent erections with burning in urethra",
+    "grading": {
+      "High": ["Ph-ac", "Selen", "Nux-v"],
+      "Medium": ["Lyc", "Canth"],
+      "Low": ["Sulph", "Petros"]
+    },
+    "modality": "Followed by weakness and seminal loss",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Hyperexcitability; often post-masturbation or high libido"
+  },
+  {
+    "rubric": "Sexual desire increased excessively",
+    "grading": {
+      "High": ["Phos", "Canth", "Selen"],
+      "Medium": ["Lyc", "Nux-v", "Med"],
+      "Low": ["Sulph", "Calc", "Mosch"]
+    },
+    "modality": "Worse at night, from sexual thoughts",
+    "miasm": ["Sycosis"],
+    "notes": "Often linked with masturbation, fantasy, suppressed outlets"
+  },
+  {
+    "rubric": "Sexual desire diminished or lost",
+    "grading": {
+      "High": ["Agn", "Con", "Calc"],
+      "Medium": ["Staph", "Sep", "Lyc"],
+      "Low": ["Ph-ac", "Baryta", "Graph"]
+    },
+    "modality": "From emotional strain, fatigue, grief",
+    "miasm": ["Psora"],
+    "notes": "Functional sexual weakness or endocrine depression"
+  },
+  {
+    "rubric": "Aversion to sexual activity",
+    "grading": {
+      "High": ["Staph", "Con", "Agn"],
+      "Medium": ["Graph", "Ign", "Sep"],
+      "Low": ["Baryta", "Nat-m"]
+    },
+    "modality": "From mental shock or past trauma",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Usually psychogenic origin; suppression, fear, past guilt"
+  },
+  {
+    "rubric": "Sexual desire increased, with mental disturbance",
+    "grading": {
+      "High": ["Canth", "Med", "Hyos"],
+      "Medium": ["Stram", "Lach", "Tarent"],
+      "Low": ["Verat", "Anac"]
+    },
+    "modality": "Lasciviousness with mania, inappropriate behavior",
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Often seen in psychiatric conditions or suppressed desires"
+  },
+  {
+    "rubric": "Sexual desire lost after masturbation",
+    "grading": {
+      "High": ["Ph-ac", "Staph", "Calc"],
+      "Medium": ["Selen", "Lyc"],
+      "Low": ["Agn", "Sulph"]
+    },
+    "modality": "Mental and physical fatigue after emissions",
+    "miasm": ["Psora"],
+    "notes": "Classic post-excessive emission debility state"
+  },
+  {
+    "rubric": "Sexual desire alternating with aversion",
+    "grading": {
+      "High": ["Lyc", "Sep", "Calc"],
+      "Medium": ["Graph", "Ign"],
+      "Low": ["Med", "Mosch"]
+    },
+    "modality": "Changeable state with mood shifts",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Often linked with hormonal or emotional disturbances"
+  },
+  {
+    "rubric": "Premature ejaculation",
+    "grading": {
+      "High": ["Selen", "Staph", "Calc"],
+      "Medium": ["Ph-ac", "Lyc", "Agn"],
+      "Low": ["Con", "Sulph", "Nux-v"]
+    },
+    "modality": "Before full erection or penetration",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Often psychogenic; anticipatory tension or weakness of nerves"
+  },
+  {
+    "rubric": "Ejaculation delayed or absent",
+    "grading": {
+      "High": ["Con", "Agn", "Phos"],
+      "Medium": ["Selen", "Calad", "Lyc"],
+      "Low": ["Graph", "Staph"]
+    },
+    "modality": "Even with full arousal; exhaustion or depression",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Seen in performance anxiety, drug-induced cases"
+  },
+  {
+    "rubric": "Painful ejaculation",
+    "grading": {
+      "High": ["Canth", "Thuja", "Sabal"],
+      "Medium": ["Tereb", "Con", "Berb-v"],
+      "Low": ["Lach", "Med"]
+    },
+    "modality": "Burning pain during or after emission",
+    "miasm": ["Syphilis"],
+    "notes": "May be linked to prostatitis or urethritis"
+  },
+  {
+    "rubric": "Emissions during sleep (nocturnal)",
+    "grading": {
+      "High": ["Selen", "Ph-ac", "Calc"],
+      "Medium": ["Staph", "Lyc", "Nux-v"],
+      "Low": ["Agn", "Carbn-s"]
+    },
+    "modality": "With dreams or without awareness",
+    "miasm": ["Psora"],
+    "notes": "Common in adolescence or suppressed sexual expression"
+  },
+  {
+    "rubric": "Loss of semen during urination or stool",
+    "grading": {
+      "High": ["Ph-ac", "Selen", "Con"],
+      "Medium": ["Calc", "Staph", "Agn"],
+      "Low": ["Sulph", "Kali-ph"]
+    },
+    "modality": "Involuntary; with weakness",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Sign of seminal debility or nerve exhaustion"
+  },
+  {
+    "rubric": "Bloody ejaculation (hematospermia)",
+    "grading": {
+      "High": ["Canth", "Thuja", "Nit-ac"],
+      "Medium": ["Tereb", "Sabal"],
+      "Low": ["Lach", "Con"]
+    },
+    "modality": "Acute or chronic, often post-infection or tumor",
+    "miasm": ["Syphilis"],
+    "notes": "Serious condition, consider urological exam"
+  },
+  {
+    "rubric": "Enlarged prostate with frequent urging to urinate",
+    "grading": {
+      "High": ["Sabal", "Con", "Baryta-carb"],
+      "Medium": ["Chimaph", "Thuja", "Populus-t"],
+      "Low": ["Staph", "Ferr-p", "Pareira"]
+    },
+    "modality": "Worse at night; dribbling after urination",
+    "miasm": ["Sycosis"],
+    "notes": "Benign Prostatic Hyperplasia (BPH); incomplete emptying"
+  },
+  {
+    "rubric": "Pain in prostate after ejaculation",
+    "grading": {
+      "High": ["Con", "Thuja", "Staph"],
+      "Medium": ["Sabal", "Digitalis"],
+      "Low": ["Nux-v", "Lyc"]
+    },
+    "modality": "Worse from pressure, sitting",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Often due to chronic prostatitis or vesiculitis"
+  },
+  {
+    "rubric": "Prostate pain radiating to perineum or thighs",
+    "grading": {
+      "High": ["Thuja", "Sabal", "Pareira"],
+      "Medium": ["Con", "Ferr-p"],
+      "Low": ["Berb-v", "Puls"]
+    },
+    "modality": "Worse while urinating or sitting long",
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Indicative of neuralgic or compressive inflammation"
+  },
+  {
+    "rubric": "Burning pain in prostate with tenesmus",
+    "grading": {
+      "High": ["Canth", "Tereb", "Sabal"],
+      "Medium": ["Nux-v", "Pareira"],
+      "Low": ["Med", "Thuja"]
+    },
+    "modality": "After urination or coition",
+    "miasm": ["Syphilis"],
+    "notes": "Common in acute prostatitis, especially post-infection"
+  },
+  {
+    "rubric": "Dribbling of urine after urination due to prostate",
+    "grading": {
+      "High": ["Sabal", "Baryta-c", "Con"],
+      "Medium": ["Nux-v", "Caust", "Lyc"],
+      "Low": ["Sulph", "Ferr-p"]
+    },
+    "modality": "Worse with age; worse at night",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Common in aging men; incomplete detrusor contraction"
+  },
+  {
+    "rubric": "Sexual weakness from prostatic affections",
+    "grading": {
+      "High": ["Sabal", "Con", "Staph"],
+      "Medium": ["Agn", "Calc", "Lyc"],
+      "Low": ["Ph-ac", "Selen"]
+    },
+    "modality": "After coition or in older men",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Glandular dysfunction affecting erection & emission"
+  },
+  {
+    "rubric": "Mental depression from chronic prostate disease",
+    "grading": {
+      "High": ["Staph", "Con", "Nux-v"],
+      "Medium": ["Sabal", "Lyc"],
+      "Low": ["Sulph", "Ign"]
+    },
+    "modality": "Worse at night or after sexual thoughts",
+    "miasm": ["Psora"],
+    "notes": "Mind-body link: loss of confidence, hopelessness"
+  },
+  {
+    "rubric": "Retracted or cold penis",
+    "grading": {
+      "High": ["Con", "Sil", "Camph"],
+      "Medium": ["Baryta-c", "Lyc"],
+      "Low": ["Agn", "Graph"]
+    },
+    "modality": "Cold weather, nervous excitement",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Seen in hypogonadism or testicular underdevelopment"
+  },
+  {
+    "rubric": "Itching or burning of penis",
+    "grading": {
+      "High": ["Canth", "Sulph", "Thuja"],
+      "Medium": ["Petros", "Med", "Nit-ac"],
+      "Low": ["Lach", "Sep"]
+    },
+    "modality": "After urination, from sexual excitement",
+    "miasm": ["Sycosis"],
+    "notes": "Irritation from infections, urethral inflammation"
+  },
+  {
+    "rubric": "Warts or condylomata on penis",
+    "grading": {
+      "High": ["Thuja", "Nit-ac", "Caust"],
+      "Medium": ["Dulc", "Med", "Cinnab"],
+      "Low": ["Lyc", "Sabal"]
+    },
+    "modality": "Worse with moisture, coition",
+    "miasm": ["Sycosis"],
+    "notes": "Often linked to HPV or suppressed gonorrheal discharge"
+  },
+  {
+    "rubric": "Ulceration of glans or foreskin",
+    "grading": {
+      "High": ["Merc", "Nit-ac", "Cinnab"],
+      "Medium": ["Thuja", "Sulph"],
+      "Low": ["Lach", "Kali-i"]
+    },
+    "modality": "Worse at night, after coition",
+    "miasm": ["Syphilis"],
+    "notes": "Common in venereal diseases or chronic balanitis"
+  },
+  {
+    "rubric": "Drawing pain in testicles",
+    "grading": {
+      "High": ["Spong", "Puls", "Berb-v"],
+      "Medium": ["Ham", "Aur", "Agn"],
+      "Low": ["Staph", "Con"]
+    },
+    "modality": "Worse after coition or walking",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Often post-sexual exertion or unresolved desire"
+  },
+  {
+    "rubric": "Swollen testicles (orchitis)",
+    "grading": {
+      "High": ["Ham", "Puls", "Spong"],
+      "Medium": ["Rhod", "Aur", "Apis"],
+      "Low": ["Bell", "Staph"]
+    },
+    "modality": "Worse from jar, touch, motion",
+    "miasm": ["Sycosis"],
+    "notes": "Acute orchitis or trauma; may follow mumps"
+  },
+  {
+    "rubric": "Hard, atrophied testicles",
+    "grading": {
+      "High": ["Con", "Aur", "Sabal"],
+      "Medium": ["Iod", "Sil", "Phos"],
+      "Low": ["Baryta-c", "Agra"]
+    },
+    "modality": "After suppressed inflammation or trauma",
+    "miasm": ["Syphilis"],
+    "notes": "Degenerative change; loss of function"
+  },
+  {
+    "rubric": "Hydrocele or fluid around testicle",
+    "grading": {
+      "High": ["Apis", "Rhod", "Ars"],
+      "Medium": ["Graph", "Aur"],
+      "Low": ["Calc", "Sil"]
+    },
+    "modality": "Worse during motion or touch",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Painless swelling, commonly in children or elderly"
+  },
+  {
+    "rubric": "Undescended testes (cryptorchidism)",
+    "grading": {
+      "High": ["Baryta-c", "Con", "Calc"],
+      "Medium": ["Iod", "Agn"],
+      "Low": ["Lyc", "Aur"]
+    },
+    "modality": "Congenital or hormonal origin",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Developmental disorder; early detection key"
+  },
+  {
+    "rubric": "Burning in urethra during urination",
+    "grading": {
+      "High": ["Canth", "Sars", "Apis"],
+      "Medium": ["Nux-v", "Equis", "Berb-v"],
+      "Low": ["Sulph", "Petros"]
+    },
+    "modality": "Worse at beginning or during urination",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Common in urethritis or bladder irritation"
+  },
+  {
+    "rubric": "Discharge from urethra (gonorrheal or non-specific)",
+    "grading": {
+      "High": ["Cann-i", "Thuja", "Med"],
+      "Medium": ["Puls", "Petros", "Nit-ac"],
+      "Low": ["Sulph", "Sars"]
+    },
+    "modality": "Worse at night, from beer or spices",
+    "miasm": ["Sycosis"],
+    "notes": "Useful in chronic or suppressed gonorrhea"
+  },
+  {
+    "rubric": "Stricture of urethra",
+    "grading": {
+      "High": ["Clem", "Thuja", "Nit-ac"],
+      "Medium": ["Petros", "Sulph", "Cann-s"],
+      "Low": ["Staph", "Con"]
+    },
+    "modality": "Worse after suppressed discharges",
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Post-gonorrheal or surgical stricture"
+  },
+  {
+    "rubric": "Frequent urging to urinate at night",
+    "grading": {
+      "High": ["Sabal", "Equis", "Caust"],
+      "Medium": ["Con", "Baryta-c", "Lyc"],
+      "Low": ["Ferr-p", "Sars"]
+    },
+    "modality": "Worse when lying down or from cold",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Common in BPH, cystitis, irritable bladder"
+  },
+  {
+    "rubric": "Interrupted urine stream",
+    "grading": {
+      "High": ["Con", "Sabal", "Caust"],
+      "Medium": ["Nux-v", "Tereb", "Lyc"],
+      "Low": ["Sulph", "Sep"]
+    },
+    "modality": "Worse at start or midway; prostate origin",
+    "miasm": ["Sycosis"],
+    "notes": "Often due to prostate pressure or neuromuscular dysfunction"
+  },
+  {
+    "rubric": "Pain in urethra after urination",
+    "grading": {
+      "High": ["Berb-v", "Canth", "Sars"],
+      "Medium": ["Petros", "Sulph", "Nux-v"],
+      "Low": ["Equis", "Sep"]
+    },
+    "modality": "Burning or stinging; worse from pressure",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Indicates urethral inflammation or infection"
+  },
+  {
+    "rubric": "Sensation of drop remaining in urethra",
+    "grading": {
+      "High": ["Petros", "Cann-i", "Sulph"],
+      "Medium": ["Med", "Nux-v", "Thuja"],
+      "Low": ["Sars", "Lyc"]
+    },
+    "modality": "After urination, during walking",
+    "miasm": ["Sycosis"],
+    "notes": "Prostatic dribble or incomplete evacuation feeling"
+  },
+  {
+    "rubric": "Mind – Shame – sexual acts",
+    "grading": {
+      "High": ["Staph", "Nat-m", "Ign"],
+      "Medium": ["Thuja", "Sil", "Sep"],
+      "Low": ["Lach", "Calc"]
+    },
+    "modality": "Worse after coition or exposure",
+    "miasm": ["Psora"],
+    "notes": "Suppresses sexual expression; leads to guilt, neurosis"
+  },
+  {
+    "rubric": "Mind – Remorse after masturbation",
+    "grading": {
+      "High": ["Staph", "Ph-ac", "Ign"],
+      "Medium": ["Nat-m", "Calc", "Sulph"],
+      "Low": ["Agn", "Nux-v"]
+    },
+    "modality": "Worse at night; religious guilt",
+    "miasm": ["Psora"],
+    "notes": "Strong in patients with moral suppression or strict upbringing"
+  },
+  {
+    "rubric": "Fear – Sexual failure / impotence",
+    "grading": {
+      "High": ["Lyc", "Gels", "Agn"],
+      "Medium": ["Staph", "Con", "Selen"],
+      "Low": ["Phos", "Sil"]
+    },
+    "modality": "Before intercourse, in public relationships",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Linked to performance anxiety or past trauma"
+  },
+  {
+    "rubric": "Mind – Aversion to sex due to guilt or trauma",
+    "grading": {
+      "High": ["Nat-m", "Staph", "Ign"],
+      "Medium": ["Con", "Thuja", "Calc"],
+      "Low": ["Sil", "Lach"]
+    },
+    "modality": "Worse from approach or physical affection",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Often results from abuse or religious repression"
+  },
+  {
+    "rubric": "Mind – Dwells on sexual thoughts",
+    "grading": {
+      "High": ["Anac", "Lach", "Phos"],
+      "Medium": ["Selenium", "Med", "Agn"],
+      "Low": ["Cann-i", "Nux-v"]
+    },
+    "modality": "Worse at night, during idleness",
+    "miasm": ["Sycosis"],
+    "notes": "Hyperfixation leads to mental fatigue and self-reproach"
+  },
+  {
+    "rubric": "Mind – Hysteria in males after sexual suppression",
+    "grading": {
+      "High": ["Ign", "Mosch", "Ph-ac"],
+      "Medium": ["Lach", "Staph", "Hyos"],
+      "Low": ["Nux-v", "Agn"]
+    },
+    "modality": "After prolonged abstinence or grief",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Suppressed passion turns into emotional collapse"
+  },
+  {
+    "rubric": "Mind – Religious affections exaggerated; suppression of desire",
+    "grading": {
+      "High": ["Sep", "Ign", "Nat-m"],
+      "Medium": ["Sil", "Puls", "Staph"],
+      "Low": ["Calc", "Thuja"]
+    },
+    "modality": "Worse from sexual thoughts or urges",
+    "miasm": ["Psora"],
+    "notes": "Classical repression from belief conflict"
+  },
+  {
+    "rubric": "Semen – low sperm count",
+    "grading": {
+      "High": ["Agn", "Selenium", "Con"],
+      "Medium": ["Ph-ac", "Calc", "Staph"],
+      "Low": ["Lyc", "Nat-m"]
+    },
+    "modality": "Worse after sexual excess or chronic illness",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Affects fertility; linked to debility or glandular failure"
+  },
+  {
+    "rubric": "Semen – thick, viscid, sticky",
+    "grading": {
+      "High": ["Med", "Kali-br", "Calc"],
+      "Medium": ["Phos", "Con", "Sars"],
+      "Low": ["Lyc", "Puls"]
+    },
+    "modality": "Worse after suppressed eruption or prolonged abstinence",
+    "miasm": ["Sycosis"],
+    "notes": "Often seen with prostate dysfunction or sluggish metabolism"
+  },
+  {
+    "rubric": "Semen – involuntary loss (day or night)",
+    "grading": {
+      "High": ["Ph-ac", "Staph", "Agn"],
+      "Medium": ["Selenium", "China", "Con"],
+      "Low": ["Ign", "Calc"]
+    },
+    "modality": "Worse during stool, urination, sleep",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Nervous or exhausted states with leakage"
+  },
+  {
+    "rubric": "Testosterone deficiency / impotency with desire",
+    "grading": {
+      "High": ["Agn", "Con", "Selenium"],
+      "Medium": ["Lyc", "Nux-v", "Staph"],
+      "Low": ["Sil", "Phos"]
+    },
+    "modality": "Worse from fatigue, age, or grief",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Desire exists but function fails; constitutional remedies vital"
+  },
+  {
+    "rubric": "Sexual debility from masturbation",
+    "grading": {
+      "High": ["Staph", "Ph-ac", "Agn"],
+      "Medium": ["Selenium", "Con", "China"],
+      "Low": ["Calc", "Ign"]
+    },
+    "modality": "After repeated indulgence or abuse",
+    "miasm": ["Psora"],
+    "notes": "Mental exhaustion + glandular exhaustion pattern"
+  },
+  {
+    "rubric": "Sterility with normal sexual power",
+    "grading": {
+      "High": ["Selenium", "Agn", "Con"],
+      "Medium": ["Staph", "Phos", "Calc"],
+      "Low": ["Sil", "Kali-br"]
+    },
+    "modality": "Idiopathic infertility; worse from stress",
+    "miasm": ["Sycosis"],
+    "notes": "Fertility problem despite active libido and coition"
+  },
+  {
+    "rubric": "Sperm – abnormal shape / motility",
+    "grading": {
+      "High": ["Selenium", "Agn", "Calc"],
+      "Medium": ["Lyc", "Ph-ac"],
+      "Low": ["Con", "Sulph"]
+    },
+    "modality": "Worse from heat, radiation, medications",
+    "miasm": ["Sycosis"],
+    "notes": "Clinical symptom requiring long-term constitutional therapy"
+  },
+  {
+    "rubric": "Genitals – Warts, condylomata",
+    "grading": {
+      "High": ["Thuja", "Nit-ac", "Caust"],
+      "Medium": ["Dulc", "Med", "Cinnab"],
+      "Low": ["Lyc", "Sabal"]
+    },
+    "modality": "Worse from moisture, coition, suppressed gonorrhea",
+    "miasm": ["Sycosis"],
+    "notes": "Classical remedy group for HPV and sycotic excrescences"
+  },
+  {
+    "rubric": "Genitals – Herpetic eruptions",
+    "grading": {
+      "High": ["Graph", "Nat-m", "Sep"],
+      "Medium": ["Petros", "Croton-t", "Mez"],
+      "Low": ["Sulph", "Rhus-t"]
+    },
+    "modality": "Worse from coition, heat, before menses (in females too)",
+    "miasm": ["Syphilis", "Psora"],
+    "notes": "Painful vesicles on glans or labia with itching/burning"
+  },
+  {
+    "rubric": "Genitals – Ulcers – syphilitic",
+    "grading": {
+      "High": ["Merc", "Nit-ac", "Cinnab"],
+      "Medium": ["Kali-i", "Aur", "Hepar"],
+      "Low": ["Thuja", "Lach"]
+    },
+    "modality": "Worse at night, touch, coition",
+    "miasm": ["Syphilis"],
+    "notes": "Deep, destructive chancres or mucosal breakdown"
+  },
+  {
+    "rubric": "Genitals – Offensive discharges",
+    "grading": {
+      "High": ["Thuja", "Merc", "Nit-ac"],
+      "Medium": ["Sulph", "Kreos", "Psor"],
+      "Low": ["Med", "Petros"]
+    },
+    "modality": "Worse at night, after intercourse, during urination",
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Typically in advanced infection or chronic venereal history"
+  },
+  {
+    "rubric": "Genitals – Eczema, dry scaly eruptions",
+    "grading": {
+      "High": ["Graph", "Psor", "Sulph"],
+      "Medium": ["Petros", "Sep", "Mez"],
+      "Low": ["Rhus-t", "Calc"]
+    },
+    "modality": "Worse from washing, friction, winter",
+    "miasm": ["Psora"],
+    "notes": "Skin cracks, itching around scrotum and glans"
+  },
+  {
+    "rubric": "Sexual excess – effects of",
+    "grading": {
+      "High": ["Ph-ac", "Staph", "Agn"],
+      "Medium": ["Selenium", "China", "Con"],
+      "Low": ["Ign", "Calc"]
+    },
+    "modality": "Worse after loss of semen, night emissions",
+    "miasm": ["Psora"],
+    "notes": "Key rubric in deep exhaustion, endocrine drain"
+  },
+  {
+    "rubric": "Mind – prostration of mind after coition",
+    "grading": {
+      "High": ["Ph-ac", "Staph", "Selenium"],
+      "Medium": ["Ign", "Con", "Calc"],
+      "Low": ["Nat-m", "Agn"]
+    },
+    "modality": "Worse after repeated emission or indulgence",
+    "miasm": ["Psora"],
+    "notes": "Mental dullness, brain fog, low ambition after sexual drain"
+  },
+  {
+    "rubric": "Weakness – after coition",
+    "grading": {
+      "High": ["Ph-ac", "China", "Staph"],
+      "Medium": ["Selenium", "Agn", "Con"],
+      "Low": ["Sil", "Calc"]
+    },
+    "modality": "Worse after even slight sexual activity",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Muscular and general collapse from sexual depletion"
+  },
+  {
+    "rubric": "Forgetfulness after seminal loss",
+    "grading": {
+      "High": ["Ph-ac", "Selenium", "Con"],
+      "Medium": ["Staph", "Ign", "Calc"],
+      "Low": ["Lyc", "Sulph"]
+    },
+    "modality": "Associated with involuntary emissions or masturbation",
+    "miasm": ["Psora"],
+    "notes": "Cognitive clouding linked to glandular exhaustion"
+  },
+  {
+    "rubric": "Mind – despair from sexual weakness",
+    "grading": {
+      "High": ["Staph", "Agn", "Ph-ac"],
+      "Medium": ["Ign", "Nat-m", "Selenium"],
+      "Low": ["Sil", "Calc"]
+    },
+    "modality": "Feels unworthy, depressed, avoids company",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Mental-emotional collapse tied to sexual inadequacy"
+  },
+  {
+    "rubric": "Vital weakness with sexual symptoms",
+    "grading": {
+      "High": ["Ph-ac", "Selenium", "China"],
+      "Medium": ["Staph", "Agn", "Calc"],
+      "Low": ["Ign", "Sil"]
+    },
+    "modality": "Worse from slightest exertion; looks drained",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Constitutional burnout state, needs deep replenishment"
+  },
+  {
+    "rubric": "Delusion – he is failing / will fail",
+    "grading": {
+      "High": ["Lyc", "Sil", "Nat-m"],
+      "Medium": ["Calc", "Gels", "Psor"],
+      "Low": ["Phos", "Ign"]
+    },
+    "modality": "Worse before exams, presentations, sexual performance",
+    "miasm": ["Psora"],
+    "notes": "Linked to fear of inadequacy; Lycopodium and Silicea often seen"
+  },
+  {
+    "rubric": "Mind – Sensitive to reprimands",
+    "grading": {
+      "High": ["Staph", "Ign", "Sil"],
+      "Medium": ["Nat-m", "Puls", "Phos"],
+      "Low": ["Calc", "Lach"]
+    },
+    "modality": "Worse from criticism or public insult",
+    "miasm": ["Psora"],
+    "notes": "Wounded ego leads to withdrawal, especially in sexual matters"
+  },
+  {
+    "rubric": "Mind – Mortification – ailments from",
+    "grading": {
+      "High": ["Staph", "Nat-m", "Ign"],
+      "Medium": ["Lyc", "Calc", "Nux-v"],
+      "Low": ["Phos", "Sil"]
+    },
+    "modality": "Worse after rejection, betrayal",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Common trigger for chronic male emotional illness"
+  },
+  {
+    "rubric": "Mind – Delusion – not man enough / unfit",
+    "grading": {
+      "High": ["Nat-m", "Sil", "Agn"],
+      "Medium": ["Ign", "Lyc", "Ph-ac"],
+      "Low": ["Calc", "Sep"]
+    },
+    "modality": "Worse after failure, heartbreak",
+    "miasm": ["Psora"],
+    "notes": "Male identity collapse; needs deep constitutional support"
+  },
+  {
+    "rubric": "Mind – Dictatorial / control-seeking",
+    "grading": {
+      "High": ["Lyc", "Nux-v", "Plat"],
+      "Medium": ["Sulph", "Verat", "Stram"],
+      "Low": ["Bell", "Phos"]
+    },
+    "modality": "Worse when opposed or contradicted",
+    "miasm": ["Sycosis"],
+    "notes": "Masculine overcompensation for deeper fears"
+  },
+  {
+    "rubric": "Mind – Confusion of identity / role",
+    "grading": {
+      "High": ["Med", "Cann-i", "Thuja"],
+      "Medium": ["Phos", "Lach", "Puls"],
+      "Low": ["Sep", "Sil"]
+    },
+    "modality": "Worse during puberty, breakups",
+    "miasm": ["Syphilis", "Psora"],
+    "notes": "Sexual or role confusion; often follows suppression or trauma"
+  },
+  {
+    "remedy": "Lycopodium",
+    "temperament": "Nervo-bilious, intellectual yet insecure",
+    "mental_traits": [
+      "Fear of failure",
+      "Dictatorial at home, timid outside",
+      "Poor confidence with strangers"
+    ],
+    "sexual_traits": [
+      "Impotency with strong desire",
+      "Premature emission",
+      "Performance anxiety"
+    ],
+    "food_cravings_aversions": {
+      "cravings": ["Sweets", "Warm food", "Alcohol"],
+      "aversions": ["Oysters", "Bread"]
+    },
+    "modalities": "Worse 4-8 pm, from pressure; Better after urination, warm food",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Top male remedy for insecurity masked by arrogance or bossiness"
+  },
+  {
+    "remedy": "Nux vomica",
+    "temperament": "Choleric, ambitious, irritable",
+    "mental_traits": [
+      "Irritability from contradiction",
+      "Hardworking, overdriven",
+      "Anger from obstruction"
+    ],
+    "sexual_traits": [
+      "Strong desire",
+      "Overindulgence",
+      "Erectile dysfunction from stimulants"
+    ],
+    "food_cravings_aversions": {
+      "cravings": ["Spices", "Alcohol", "Stimulants"],
+      "aversions": ["Water", "Bland food"]
+    },
+    "modalities": "Worse in morning, from noise, stimulants; Better in evening, from rest",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Urban male remedy; commonly seen in overworked professionals"
+  },
+  {
+    "remedy": "Staphysagria",
+    "temperament": "Sensitive, emotional, refined",
+    "mental_traits": [
+      "Suppressed anger",
+      "Quietly resentful",
+      "Feels insulted easily"
+    ],
+    "sexual_traits": [
+      "History of masturbation",
+      "Sexual weakness from guilt",
+      "Prostatic pain after coition"
+    ],
+    "food_cravings_aversions": {
+      "cravings": ["Tobacco", "Milk"],
+      "aversions": ["Fatty food"]
+    },
+    "modalities": "Worse from indignation, touch, sexual excess; Better from warmth",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Ideal for suppressed males with past sexual shame or emotional abuse"
+  },
+  {
+    "remedy": "Selenium",
+    "temperament": "Weak, slow, exhausted yet hopeful",
+    "mental_traits": [
+      "Mental dullness after coition",
+      "Memory loss",
+      "Despair of recovery"
+    ],
+    "sexual_traits": [
+      "Sexual debility from loss of semen",
+      "Emissions without erections",
+      "High desire but collapse after act"
+    ],
+    "food_cravings_aversions": {
+      "cravings": ["Alcohol", "Cold drinks"],
+      "aversions": ["Fatty food"]
+    },
+    "modalities": "Worse from sun, sexual excess, exertion; Better after sleep",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Deeply tired males with glandular and sexual collapse"
+  },
+  {
+    "remedy": "Agnus castus",
+    "temperament": "Depressed, indifferent",
+    "mental_traits": [
+      "Loss of memory",
+      "Sadness with hopelessness",
+      "No interest in life or sex"
+    ],
+    "sexual_traits": ["Complete impotence", "Penis cold, relaxed", "No desire"],
+    "food_cravings_aversions": {
+      "cravings": ["None noted"],
+      "aversions": ["Food in general (anorexia)"]
+    },
+    "modalities": "Worse from sexual excess, sadness; Better from distraction",
+    "miasm": ["Psora"],
+    "notes": "Collapsed masculinity – mind and body both indifferent"
+  },
+  {
+    "rubric": "Hypothyroidism – complaints of",
+    "grading": {
+      "High": ["Calc", "Sep", "Graph"],
+      "Medium": ["Lyc", "Thyroidinum", "Phos"],
+      "Low": ["Psor", "Sil"]
+    },
+    "modality": "Worse in winter, from exertion, mental dullness",
+    "miasm": ["Psora"],
+    "notes": "Fatigue, weight gain, depression, cold intolerance – slow endocrine rhythm"
+  },
+  {
+    "rubric": "Sexual weakness – testes – atrophy",
+    "grading": {
+      "High": ["Selenium", "Agn", "Con"],
+      "Medium": ["Staph", "Ph-ac", "Lyc"],
+      "Low": ["Sil", "Calc"]
+    },
+    "modality": "Worse from masturbation, old age, suppressed desire",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Testosterone-linked energy and desire loss; key in infertility"
+  },
+  {
+    "rubric": "Breasts – enlargement – males in",
+    "grading": {
+      "High": ["Oestrogenum", "Thyroidinum", "Lyc"],
+      "Medium": ["Calc", "Selenium", "Con"],
+      "Low": ["Agn", "Med"]
+    },
+    "modality": "Worse during puberty, hormone suppression",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Hormonal imbalance rubrics indicating estrogen/testosterone dysregulation"
+  },
+  {
+    "rubric": "Fatigue – from testicular weakness",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Agn"],
+      "Medium": ["Staph", "Con", "Calc"],
+      "Low": ["Lyc", "Sil"]
+    },
+    "modality": "Worse after coition, physical effort, glandular disease",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Often seen in low-T men, burnout cases"
+  },
+  {
+    "rubric": "Mind – Despair – with sexual weakness",
+    "grading": {
+      "High": ["Staph", "Selenium", "Ph-ac"],
+      "Medium": ["Ign", "Agn", "Sil"],
+      "Low": ["Calc", "Con"]
+    },
+    "modality": "Worse from failure, sexual collapse, humiliation",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Hormone-linked mental dullness, hopelessness after sexual depletion"
+  },
+  {
+    "rubric": "Endocrine disorders – general",
+    "grading": {
+      "High": ["Thyroidinum", "Pituitrinum", "Calc"],
+      "Medium": ["Lyc", "Sep", "Con"],
+      "Low": ["Graph", "Phos"]
+    },
+    "modality": "Worse from hormonal disruption or suppressed glandular function",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Overall endocrine tone remedy indicators for AI-based analysis"
+  },
+  {
+    "rubric": "Fear – coition",
+    "grading": {
+      "High": ["Gels", "Agn", "Staph"],
+      "Medium": ["Ph-ac", "Ign", "Lyc"],
+      "Low": ["Sil", "Calc"]
+    },
+    "modality": "Worse before intercourse, from past failure or shame",
+    "miasm": ["Psora"],
+    "notes": "Common in performance anxiety; anticipatory fear shuts down arousal"
+  },
+  {
+    "rubric": "Impotence – from fear",
+    "grading": {
+      "High": ["Gels", "Agn", "Ph-ac"],
+      "Medium": ["Staph", "Lyc", "Ign"],
+      "Low": ["Sil", "Nat-m"]
+    },
+    "modality": "After anxiety episodes or emotional trauma",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Mind-body disconnect during sexual act due to fear"
+  },
+  {
+    "rubric": "Remorse – sexual excess",
+    "grading": {
+      "High": ["Staph", "Ign", "Ph-ac"],
+      "Medium": ["Agn", "Calc", "Sil"],
+      "Low": ["Sep", "Nat-m"]
+    },
+    "modality": "Worse after masturbation or affairs",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Linked with self-blame and suppression of sexual expression"
+  },
+  {
+    "rubric": "Fear – women – of",
+    "grading": {
+      "High": ["Stram", "Puls", "Sil"],
+      "Medium": ["Gels", "Ign", "Med"],
+      "Low": ["Thuja", "Lyc"]
+    },
+    "modality": "Worse with unfamiliar women, intimacy, or trauma history",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Seen in timid males or post-rejection trauma"
+  },
+  {
+    "rubric": "Aversion – women – to",
+    "grading": {
+      "High": ["Sep", "Ign", "Agn"],
+      "Medium": ["Sil", "Puls", "Cann-i"],
+      "Low": ["Ph-ac", "Thuja"]
+    },
+    "modality": "From past relationship trauma, guilt, or spiritual suppression",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Subconscious avoidance rooted in pain or confusion"
+  },
+  {
+    "rubric": "Heart – palpitations – from sexual excitement",
+    "grading": {
+      "High": ["Gels", "Nux-v", "Phos"],
+      "Medium": ["Staph", "Ign", "Calc"],
+      "Low": ["Sil", "Puls"]
+    },
+    "modality": "Worse during intimacy or foreplay",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Somatic signal of emotional-sexual anxiety overload"
+  },
+  {
+    "rubric": "Masturbation – ailments from",
+    "grading": {
+      "High": ["Ph-ac", "Staph", "Selenium"],
+      "Medium": ["Agn", "Calc", "Sil"],
+      "Low": ["Lyc", "Con"]
+    },
+    "modality": "Worse with frequent sexual indulgence, alone at night",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Core rubric for teenage debility and mental-emotional exhaustion"
+  },
+  {
+    "rubric": "Mind – Shame – from masturbation",
+    "grading": {
+      "High": ["Staph", "Sil", "Ph-ac"],
+      "Medium": ["Calc", "Ign", "Nat-m"],
+      "Low": ["Agn", "Sep"]
+    },
+    "modality": "Worse after sexual dreams or emissions",
+    "miasm": ["Psora"],
+    "notes": "Self-condemnation after self-pleasure; blocks emotional growth"
+  },
+  {
+    "rubric": "Emissions – from slight excitement",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Staph"],
+      "Medium": ["Lyc", "Agn", "Con"],
+      "Low": ["Sil", "Nux-v"]
+    },
+    "modality": "Worse from thoughts, touch, dreams",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Weak sexual control, often seen in early puberty"
+  },
+  {
+    "rubric": "Mind – Timidity – in boys",
+    "grading": {
+      "High": ["Sil", "Baryta", "Puls"],
+      "Medium": ["Calc", "Phos", "Ign"],
+      "Low": ["Nat-m", "Con"]
+    },
+    "modality": "Worse in school, public, or group settings",
+    "miasm": ["Psora"],
+    "notes": "Fearful, shy adolescent profile with poor self-worth"
+  },
+  {
+    "rubric": "Mind – Delusion – he has sinned",
+    "grading": {
+      "High": ["Ign", "Staph", "Ph-ac"],
+      "Medium": ["Sil", "Agn", "Calc"],
+      "Low": ["Nat-m", "Puls"]
+    },
+    "modality": "Worse after sexual dreams or masturbation",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Religious guilt or moral confusion after sexual exploration"
+  },
+  {
+    "rubric": "Mind – Aversion – to opposite sex",
+    "grading": {
+      "High": ["Agn", "Sil", "Sep"],
+      "Medium": ["Ph-ac", "Cann-i", "Ign"],
+      "Low": ["Thuja", "Puls"]
+    },
+    "modality": "Worse after early heartbreak or failure",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Often seen in sexually confused, withdrawn adolescents"
+  },
+  {
+    "rubric": "Impotence – with desire",
+    "grading": {
+      "High": ["Agn", "Selenium", "Ph-ac"],
+      "Medium": ["Staph", "Lyc", "Con"],
+      "Low": ["Sil", "Nux-v"]
+    },
+    "modality": "Worse from anticipation, shame, or guilt",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Strong desire but inability to perform — often functional ED"
+  },
+  {
+    "rubric": "Penis – relaxed – during coition",
+    "grading": {
+      "High": ["Agn", "Selenium", "Staph"],
+      "Medium": ["Ph-ac", "Calc", "Lyc"],
+      "Low": ["Sil", "Con"]
+    },
+    "modality": "Worse during act itself; mind-body disconnect",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Performance drops at critical moment due to mental or glandular weakness"
+  },
+  {
+    "rubric": "No emission – during orgasm (Dry orgasm)",
+    "grading": {
+      "High": ["Con", "Selenium", "Ph-ac"],
+      "Medium": ["Agn", "Lyc", "Staph"],
+      "Low": ["Calc", "Sil"]
+    },
+    "modality": "After repeated sexual activity or nervous debility",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Orgasm felt but no semen ejected; often linked with prostate or glandular dysfunction"
+  },
+  {
+    "rubric": "Failure – coition – at critical moment",
+    "grading": {
+      "High": ["Gels", "Agn", "Staph"],
+      "Medium": ["Selenium", "Ph-ac", "Ign"],
+      "Low": ["Sil", "Lyc"]
+    },
+    "modality": "Worse with new partner or fear of failure",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Anxiety-driven failure right before penetration"
+  },
+  {
+    "rubric": "Erections – lost after partial stiffness",
+    "grading": {
+      "High": ["Selenium", "Staph", "Ph-ac"],
+      "Medium": ["Agn", "Con", "Calc"],
+      "Low": ["Sil", "Lyc"]
+    },
+    "modality": "Worse from fatigue or repeated efforts",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Erection does not sustain — linked to weakness, mental distractions"
+  },
+  {
+    "rubric": "Penis – cold, numb – during attempt",
+    "grading": {
+      "High": ["Agn", "Con", "Selenium"],
+      "Medium": ["Calc", "Sil", "Ph-ac"],
+      "Low": ["Ign", "Staph"]
+    },
+    "modality": "Worse after suppressed desire or long celibacy",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Poor circulation and vitality; physical and emotional suppression"
+  },
+  {
+    "rubric": "Seminal emissions – involuntary – at night",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Staph"],
+      "Medium": ["Calc", "Sil", "Lyc"],
+      "Low": ["Con", "Agn"]
+    },
+    "modality": "Worse during sleep, without dreams or after dreams",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Frequent night-time emissions, especially in youth or weakness"
+  },
+  {
+    "rubric": "Dreams – sexual – followed by weakness",
+    "grading": {
+      "High": ["Ph-ac", "Selenium", "Staph"],
+      "Medium": ["Sil", "Calc", "Ign"],
+      "Low": ["Agn", "Con"]
+    },
+    "modality": "Worse after nights of emotional or erotic tension",
+    "miasm": ["Psora"],
+    "notes": "Sexual dreams leading to next-day weakness, loss of vitality"
+  },
+  {
+    "rubric": "Dreams – amorous / lascivious",
+    "grading": {
+      "High": ["Selenium", "Phos", "Calc"],
+      "Medium": ["Staph", "Lyc", "Ign"],
+      "Low": ["Agn", "Med"]
+    },
+    "modality": "Worse during celibacy or sexual suppression",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Unconscious sexual outlet — linked to suppression or hormonal excess"
+  },
+  {
+    "rubric": "Weakness – after emissions",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Staph"],
+      "Medium": ["Calc", "Ign", "Sil"],
+      "Low": ["Agn", "Lyc"]
+    },
+    "modality": "Worse after night emissions or sexual dreams",
+    "miasm": ["Psora"],
+    "notes": "Fatigue, trembling, irritability after involuntary seminal loss"
+  },
+  {
+    "rubric": "Dreams – guilt – sexual",
+    "grading": {
+      "High": ["Ign", "Staph", "Sil"],
+      "Medium": ["Calc", "Ph-ac", "Nat-m"],
+      "Low": ["Sep", "Puls"]
+    },
+    "modality": "Worse after suppression or religious fear",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Guilt-ridden sexual dreams, often with moral or religious themes"
+  },
+  {
+    "rubric": "Mind – Delusion – he has committed a sin – after sexual dreams",
+    "grading": {
+      "High": ["Ign", "Staph", "Ph-ac"],
+      "Medium": ["Sil", "Calc", "Agn"],
+      "Low": ["Nat-m", "Puls"]
+    },
+    "modality": "Worse in sensitive, moralistic constitutions",
+    "miasm": ["Syphilis", "Psora"],
+    "notes": "Deep shame and moral conflict following night emissions or dreams"
+  },
+  {
+    "rubric": "Sperm – lack of vitality",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Con"],
+      "Medium": ["Calc", "Staph", "Lyc"],
+      "Low": ["Agn", "Sil"]
+    },
+    "modality": "Worse from chronic illness, nervous debility, overwork",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Sperm are present but weak, slow, or non-motile"
+  },
+  {
+    "rubric": "Semen – watery / dead",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Staph"],
+      "Medium": ["Con", "Agn", "Sil"],
+      "Low": ["Lyc", "Calc"]
+    },
+    "modality": "Worse after repeated emissions, chronic gonorrhea history",
+    "miasm": ["Sycosis"],
+    "notes": "Visibly poor quality semen with non-viable sperm"
+  },
+  {
+    "rubric": "Infertility – males – despite coition and desire",
+    "grading": {
+      "High": ["Selenium", "Agn", "Ph-ac"],
+      "Medium": ["Staph", "Con", "Calc"],
+      "Low": ["Sil", "Nat-m"]
+    },
+    "modality": "Worse after long suppressed emotions or sexual excess",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Coition occurs but conception fails due to male factor"
+  },
+  {
+    "rubric": "Orgasm – without emission",
+    "grading": {
+      "High": ["Con", "Selenium", "Staph"],
+      "Medium": ["Agn", "Calc", "Ph-ac"],
+      "Low": ["Sil", "Lyc"]
+    },
+    "modality": "After exhaustion or glandular weakness",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Dry orgasm – often seen in prostate or vas deferens pathology"
+  },
+  {
+    "rubric": "Sexual weakness – from loss of fluids",
+    "grading": {
+      "High": ["Ph-ac", "Selenium", "Staph"],
+      "Medium": ["Calc", "Ign", "Sil"],
+      "Low": ["Con", "Lyc"]
+    },
+    "modality": "Worse after masturbation, night emissions, sweating, diarrhea",
+    "miasm": ["Psora"],
+    "notes": "General debility affecting sexual strength and fertility"
+  },
+  {
+    "rubric": "Ailments from – suppressed gonorrhoea – infertility",
+    "grading": {
+      "High": ["Med", "Thuja", "Nat-s"],
+      "Medium": ["Sars", "Nit-ac", "Sep"],
+      "Low": ["Selenium", "Sil"]
+    },
+    "modality": "History of suppressed urethral discharge or improper treatment",
+    "miasm": ["Sycosis"],
+    "notes": "Chronic infertility due to deep-seated miasmatic suppression"
+  },
+  {
+    "rubric": "Azoospermia – complete absence of sperm",
+    "grading": {
+      "High": ["Selenium", "Con", "Med"],
+      "Medium": ["Agn", "Calad", "Nat-s"],
+      "Low": ["Staph", "Ph-ac"]
+    },
+    "modality": "Chronic gonorrhea, mumps, or genetic defects; worse after suppression",
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Severe male infertility; often linked to deep-seated miasm"
+  },
+  {
+    "rubric": "Oligospermia – low sperm count",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Con"],
+      "Medium": ["Agn", "Calad", "Staph"],
+      "Low": ["Sil", "Lyc"]
+    },
+    "modality": "Worse after chronic illness, emotional suppression, or over-indulgence",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Milder form of male infertility; responsive to constitutional treatment"
+  },
+  {
+    "rubric": "Impotence – at first attempt",
+    "grading": {
+      "High": ["Gels", "Agn", "Staph"],
+      "Medium": ["Ign", "Ph-ac", "Sil"],
+      "Low": ["Con", "Lyc"]
+    },
+    "modality": "Worse during honeymoon or new relationship; anticipatory fear",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Typical newlywed anxiety resulting in failure of erection"
+  },
+  {
+    "rubric": "Coition – failure – from fear",
+    "grading": {
+      "High": ["Gels", "Ign", "Ph-ac"],
+      "Medium": ["Staph", "Lyc", "Agn"],
+      "Low": ["Sil", "Calc"]
+    },
+    "modality": "Worse in inexperienced men or with demanding partners",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Mental block overrides physical desire — performance collapse"
+  },
+  {
+    "rubric": "Mind – Fear – of women – sexual context",
+    "grading": {
+      "High": ["Stram", "Gels", "Sil"],
+      "Medium": ["Puls", "Ign", "Med"],
+      "Low": ["Thuja", "Lyc"]
+    },
+    "modality": "Worse during intimacy, especially with dominant women",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Timidity, avoidance, or freeze response during intimacy"
+  },
+  {
+    "rubric": "Coition – aversion – despite desire",
+    "grading": {
+      "High": ["Agn", "Sep", "Sil"],
+      "Medium": ["Ign", "Cann-i", "Calc"],
+      "Low": ["Ph-ac", "Thuja"]
+    },
+    "modality": "Worse with emotional blocks, shyness, or past trauma",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Sexual repression or conflict despite physical readiness"
+  },
+  {
+    "rubric": "Mind – Anxiety – before coition",
+    "grading": {
+      "High": ["Gels", "Agn", "Ign"],
+      "Medium": ["Ph-ac", "Sil", "Staph"],
+      "Low": ["Calc", "Lyc"]
+    },
+    "modality": "Worse in unfamiliar situations or fear of failure",
+    "miasm": ["Psora"],
+    "notes": "Often anticipatory anxiety in newly married men"
+  },
+  {
+    "rubric": "Mind – Bashful – men – sexually",
+    "grading": {
+      "High": ["Sil", "Baryta", "Calc"],
+      "Medium": ["Ign", "Puls", "Lyc"],
+      "Low": ["Nat-m", "Sep"]
+    },
+    "modality": "Worse when expected to initiate or during exposure",
+    "miasm": ["Psora"],
+    "notes": "Extreme modesty or withdrawal in intimate scenarios"
+  },
+  {
+    "rubric": "Delusion – he will fail sexually",
+    "grading": {
+      "High": ["Ign", "Gels", "Ph-ac"],
+      "Medium": ["Sil", "Staph", "Agn"],
+      "Low": ["Con", "Calc"]
+    },
+    "modality": "Worse before act or after past embarrassment",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Self-hypnotic belief in sexual inadequacy"
+  },
+  {
+    "rubric": "Desire – increased – compulsive",
+    "grading": {
+      "High": ["Med", "Hyos", "Nux-v"],
+      "Medium": ["Lach", "Cann-i", "Verat"],
+      "Low": ["Sulph", "Phos"]
+    },
+    "modality": "Worse at night, with alcohol, or suppression",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Uncontrolled urge to seek sex; often with reckless behavior"
+  },
+  {
+    "rubric": "Masturbation – irresistible",
+    "grading": {
+      "High": ["Ph-ac", "Selenium", "Hyos"],
+      "Medium": ["Med", "Nux-v", "Con"],
+      "Low": ["Calc", "Sil"]
+    },
+    "modality": "Worse from loneliness, shame, stress",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Addictive self-stimulation, often linked with exhaustion or guilt"
+  },
+  {
+    "rubric": "Thoughts – sexual – perverted / unnatural",
+    "grading": {
+      "High": ["Anac", "Med", "Hyos"],
+      "Medium": ["Cann-i", "Verat", "Thuja"],
+      "Low": ["Stram", "Sulph"]
+    },
+    "modality": "Worse at night, religious repression, or mental illness",
+    "miasm": ["Syphilis", "Sycosis"],
+    "notes": "Persistent distorted fantasies – may involve violence or taboo"
+  },
+  {
+    "rubric": "Mind – Thoughts – sexual – persistent",
+    "grading": {
+      "High": ["Cann-i", "Med", "Anac"],
+      "Medium": ["Phos", "Hyos", "Sulph"],
+      "Low": ["Verat", "Nux-v"]
+    },
+    "modality": "Worse during rest or boredom; relieved by expression",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Sex dominates mental space; can’t focus on normal tasks"
+  },
+  {
+    "rubric": "Mind – Lascivious – hidden",
+    "grading": {
+      "High": ["Med", "Cann-i", "Lach"],
+      "Medium": ["Hyos", "Phos", "Sulph"],
+      "Low": ["Puls", "Thuja"]
+    },
+    "modality": "Shame-based, dual personality – outward modesty, inner lust",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Secret obsession with sex despite moral persona"
+  },
+  {
+    "rubric": "Behavior – obscene – sexually",
+    "grading": {
+      "High": ["Hyos", "Verat", "Anac"],
+      "Medium": ["Med", "Cann-i", "Stram"],
+      "Low": ["Sulph", "Lach"]
+    },
+    "modality": "Seen in mania, intoxication, or suppressed sexuality",
+    "miasm": ["Syphilis"],
+    "notes": "Open vulgarity or inappropriate sexual behavior"
+  },
+  {
+    "rubric": "Delusion – he is sinful sexually",
+    "grading": {
+      "High": ["Ign", "Staph", "Ph-ac"],
+      "Medium": ["Sil", "Med", "Thuja"],
+      "Low": ["Nat-m", "Puls"]
+    },
+    "modality": "Worse after masturbation or religious conflict",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Moral despair or guilt after sexual activity or thoughts"
+  },
+  {
+    "rubric": "Mind – Religious affections – conflicting with sexual desire",
+    "grading": {
+      "High": ["Ign", "Med", "Staph"],
+      "Medium": ["Cann-i", "Sil", "Ph-ac"],
+      "Low": ["Thuja", "Sulph"]
+    },
+    "modality": "Worse when sexual instinct fights spiritual beliefs",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Split between devotion and desire; leads to guilt, withdrawal"
+  },
+  {
+    "rubric": "Desire – diminished – in aged men",
+    "grading": {
+      "High": ["Con", "Ph-ac", "Selenium"],
+      "Medium": ["Agn", "Calc", "Lyc"],
+      "Low": ["Sil", "Sep"]
+    },
+    "modality": "Worse with chronic illness, grief, loss of vitality",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Low libido due to aging or endocrine exhaustion"
+  },
+  {
+    "rubric": "Erections – weak – in elderly",
+    "grading": {
+      "High": ["Selenium", "Con", "Agn"],
+      "Medium": ["Ph-ac", "Calc", "Lyc"],
+      "Low": ["Sil", "Staph"]
+    },
+    "modality": "Worse after urination, fatigue, or prostate trouble",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Physiological failure despite desire; often vascular or hormonal"
+  },
+  {
+    "rubric": "Impotence – with prostate complaints",
+    "grading": {
+      "High": ["Sabal", "Con", "Selenium"],
+      "Medium": ["Agn", "Staph", "Calc"],
+      "Low": ["Lyc", "Baryta"]
+    },
+    "modality": "Worse with enlarged prostate or pressure in pelvis",
+    "miasm": ["Sycosis"],
+    "notes": "Sexual power drops due to mechanical or glandular obstruction"
+  },
+  {
+    "rubric": "Sexual function – fails – after long celibacy",
+    "grading": {
+      "High": ["Con", "Selenium", "Staph"],
+      "Medium": ["Ph-ac", "Agn", "Sil"],
+      "Low": ["Calc", "Lyc"]
+    },
+    "modality": "Worse with emotional suppression or religious guilt",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Functional failure due to lack of activity over time"
+  },
+  {
+    "rubric": "Aversion – coition – in aged men",
+    "grading": {
+      "High": ["Sep", "Sil", "Calc"],
+      "Medium": ["Con", "Ph-ac", "Agn"],
+      "Low": ["Lyc", "Selenium"]
+    },
+    "modality": "Worse after illness, hormonal changes, emotional closure",
+    "miasm": ["Psora"],
+    "notes": "Physical or emotional disinterest in sex late in life"
+  },
+  {
+    "rubric": "No enjoyment – during coition – in elderly",
+    "grading": {
+      "High": ["Ph-ac", "Agn", "Con"],
+      "Medium": ["Selenium", "Calc", "Sil"],
+      "Low": ["Staph", "Lyc"]
+    },
+    "modality": "Worse with prostate discomfort or lack of sensation",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Loss of pleasure or connection during sex despite physical capacity"
+  },
+  {
+    "rubric": "Sexual weakness – from old age",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Agn"],
+      "Medium": ["Con", "Calc", "Lyc"],
+      "Low": ["Sil", "Staph"]
+    },
+    "modality": "Worse after prostate symptoms, grief, or chronic fatigue",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "General exhaustion affecting sexual performance in aging males"
+  },
+  {
+    "rubric": "Ailments from – sexual abuse",
+    "grading": {
+      "High": ["Staph", "Nat-m", "Ign"],
+      "Medium": ["Sil", "Sep", "Phos"],
+      "Low": ["Puls", "Con"]
+    },
+    "modality": "Worse when reminded of the incident; touch, intimacy",
+    "miasm": ["Syphilis", "Psora"],
+    "notes": "Deep sexual and emotional shutdown from abuse or forced acts"
+  },
+  {
+    "rubric": "Mind – Fear – of coition – from past trauma",
+    "grading": {
+      "High": ["Staph", "Sil", "Ign"],
+      "Medium": ["Nat-m", "Con", "Calc"],
+      "Low": ["Ph-ac", "Puls"]
+    },
+    "modality": "Worse with new partners, forced intimacy, or reminders",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Avoidance of sex due to emotional or physical trauma"
+  },
+  {
+    "rubric": "Impotence – after disappointment in love",
+    "grading": {
+      "High": ["Ign", "Nat-m", "Staph"],
+      "Medium": ["Phos", "Calc", "Sil"],
+      "Low": ["Agn", "Con"]
+    },
+    "modality": "Triggered by grief, betrayal, or heartbreak",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Mental disappointment manifests as sexual block or failure"
+  },
+  {
+    "rubric": "Aversion to sex – after grief or loss",
+    "grading": {
+      "High": ["Nat-m", "Ign", "Sil"],
+      "Medium": ["Ph-ac", "Calc", "Puls"],
+      "Low": ["Staph", "Sep"]
+    },
+    "modality": "Worse after death of a partner, breakup, or miscarriage",
+    "miasm": ["Psora"],
+    "notes": "Emotional wounds suppress physical desire"
+  },
+  {
+    "rubric": "Erections – lost – after emotional trauma",
+    "grading": {
+      "High": ["Ign", "Staph", "Sil"],
+      "Medium": ["Calc", "Con", "Phos"],
+      "Low": ["Agn", "Nat-m"]
+    },
+    "modality": "Worse when recalling trauma or during intimacy",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Mental scars directly block physical sexual function"
+  },
+  {
+    "rubric": "Mind – Shame – sexual failure",
+    "grading": {
+      "High": ["Ign", "Staph", "Nat-m"],
+      "Medium": ["Sil", "Con", "Ph-ac"],
+      "Low": ["Calc", "Sep"]
+    },
+    "modality": "Worse after one-time failure, criticism, or public rejection",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Loss of confidence after real or perceived failure"
+  },
+  {
+    "rubric": "Delusion – unworthy as partner",
+    "grading": {
+      "High": ["Nat-m", "Ign", "Sil"],
+      "Medium": ["Ph-ac", "Calc", "Staph"],
+      "Low": ["Con", "Puls"]
+    },
+    "modality": "Triggered by rejection, poor self-image, or shame",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Low self-worth causes sexual shutdown or withdrawal"
+  },
+  {
+    "rubric": "Mind – Anticipation – sexual – fear with trembling",
+    "grading": {
+      "High": ["Gels", "Ign", "Sil"],
+      "Medium": ["Staph", "Con", "Ph-ac"],
+      "Low": ["Agn", "Nat-m"]
+    },
+    "modality": "Worse before attempt; better if relaxed or reassured",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "PTSD-like pre-coition freeze; common in trauma cases"
+  },
+  {
+    "rubric": "Delusion – he is of opposite sex",
+    "grading": {
+      "High": ["Anac", "Med", "Stram"],
+      "Medium": ["Lach", "Thuja", "Sil"],
+      "Low": ["Cann-i", "Puls"]
+    },
+    "modality": "Worse during adolescence or suppression of true identity",
+    "miasm": ["Syphilis", "Psora"],
+    "notes": "Persistent misidentification with opposite gender; psychosexual confusion"
+  },
+  {
+    "rubric": "Mind – Confusion – sexual identity",
+    "grading": {
+      "High": ["Anac", "Med", "Cann-i"],
+      "Medium": ["Thuja", "Lach", "Sil"],
+      "Low": ["Phos", "Puls"]
+    },
+    "modality": "Worse after trauma, religious repression, or failed intimacy",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Inner struggle with orientation or gender identity; may appear in dreams or thoughts"
+  },
+  {
+    "rubric": "Mind – Aversion – coition – with opposite sex",
+    "grading": {
+      "High": ["Med", "Sil", "Ign"],
+      "Medium": ["Anac", "Cann-i", "Staph"],
+      "Low": ["Thuja", "Puls"]
+    },
+    "modality": "With hidden same-sex attraction or after trauma",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Discomfort with heterosexual intimacy; unspoken preference or trauma-related block"
+  },
+  {
+    "rubric": "Desire – same sex – hidden",
+    "grading": {
+      "High": ["Med", "Cann-i", "Anac"],
+      "Medium": ["Stram", "Lach", "Sil"],
+      "Low": ["Thuja", "Puls"]
+    },
+    "modality": "Suppressed due to social fear or moral anxiety",
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Secret sexual longing toward same sex; often unconfessed"
+  },
+  {
+    "rubric": "Mind – Guilt – sexual orientation",
+    "grading": {
+      "High": ["Ign", "Staph", "Med"],
+      "Medium": ["Sil", "Nat-m", "Cann-i"],
+      "Low": ["Thuja", "Puls"]
+    },
+    "modality": "Worse after masturbation, rejection, or social judgment",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Internalized shame due to real or perceived orientation conflict"
+  },
+  {
+    "rubric": "Mind – Religious affections – conflicting with sexual tendency",
+    "grading": {
+      "High": ["Ign", "Staph", "Med"],
+      "Medium": ["Sil", "Thuja", "Cann-i"],
+      "Low": ["Puls", "Anac"]
+    },
+    "modality": "Worse when moral teachings contradict personal sexual experience",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Split between spiritual guilt and instinctual desires"
+  },
+  {
+    "rubric": "Mind – Delusion – he has sinned sexually",
+    "grading": {
+      "High": ["Ign", "Staph", "Ph-ac"],
+      "Medium": ["Sil", "Cann-i", "Thuja"],
+      "Low": ["Nat-m", "Puls"]
+    },
+    "modality": "Worse after erotic dreams or masturbation",
+    "miasm": ["Syphilis", "Psora"],
+    "notes": "Self-condemnation after imagined or real sexual acts"
+  },
+  {
+    "rubric": "Mind – Fear – of being exposed – sexually",
+    "grading": {
+      "High": ["Sil", "Med", "Cann-i"],
+      "Medium": ["Ign", "Thuja", "Anac"],
+      "Low": ["Puls", "Stram"]
+    },
+    "modality": "Worse in social settings, religious background, or closeted lifestyle",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Constant fear that true sexual tendencies will be discovered"
+  },
+  {
+    "rubric": "Sexual function – ceased – from grief or disappointment",
+    "grading": {
+      "High": ["Ign", "Nat-m", "Staph"],
+      "Medium": ["Sil", "Ph-ac", "Con"],
+      "Low": ["Puls", "Calc"]
+    },
+    "modality": "Worse after romantic loss, family death, or emotional blow",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Sudden loss of sexual drive or function despite physical health"
+  },
+  {
+    "rubric": "Erection fails – though organs healthy",
+    "grading": {
+      "High": ["Agn", "Gels", "Ign"],
+      "Medium": ["Con", "Sil", "Calc"],
+      "Low": ["Lyc", "Ph-ac"]
+    },
+    "modality": "Worse from anticipatory anxiety, past trauma, or self-doubt",
+    "miasm": ["Psora"],
+    "notes": "Typical psychosomatic impotence; mind blocks physical response"
+  },
+  {
+    "rubric": "Aversion – coition – with guilt or fear",
+    "grading": {
+      "High": ["Sil", "Staph", "Ign"],
+      "Medium": ["Ph-ac", "Puls", "Nat-m"],
+      "Low": ["Cann-i", "Con"]
+    },
+    "modality": "Worse from upbringing, religion, past failure",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Subconscious rejection of sex due to moral or emotional burden"
+  },
+  {
+    "rubric": "Fear – coition – will fail",
+    "grading": {
+      "High": ["Gels", "Ign", "Staph"],
+      "Medium": ["Sil", "Ph-ac", "Calc"],
+      "Low": ["Lyc", "Agn"]
+    },
+    "modality": "Worse before act; anticipatory nervousness leads to failure",
+    "miasm": ["Psora"],
+    "notes": "Performance anxiety blocks erection or ejaculation"
+  },
+  {
+    "rubric": "Anxiety – before sex – with trembling",
+    "grading": {
+      "High": ["Gels", "Sil", "Ign"],
+      "Medium": ["Staph", "Ph-ac", "Calc"],
+      "Low": ["Puls", "Lyc"]
+    },
+    "modality": "Worse with new partner, guilt, or history of failure",
+    "miasm": ["Psora"],
+    "notes": "Mental tension builds up before coition; often ends in withdrawal"
+  },
+  {
+    "rubric": "Mind – Indifference – to sex – after trauma",
+    "grading": {
+      "High": ["Ph-ac", "Sil", "Ign"],
+      "Medium": ["Nat-m", "Sep", "Staph"],
+      "Low": ["Con", "Puls"]
+    },
+    "modality": "Worse after abuse, rape, heartbreak, or guilt",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Emotional numbness replaces desire; sexual detachment"
+  },
+  {
+    "rubric": "Mind – Will – paralyzed – for intimacy",
+    "grading": {
+      "High": ["Staph", "Ign", "Sil"],
+      "Medium": ["Ph-ac", "Con", "Cann-i"],
+      "Low": ["Lyc", "Puls"]
+    },
+    "modality": "Worse when required to initiate; passive shutdown",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Psychological resistance or freeze despite inner desire"
+  },
+  {
+    "rubric": "Sexual desire – increased – when anxious",
+    "grading": {
+      "High": ["Nux-v", "Med", "Lach"],
+      "Medium": ["Cann-i", "Hyos", "Sulph"],
+      "Low": ["Phos", "Verat"]
+    },
+    "modality": "Worse with stress, pressure, or performance anxiety",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Anxiety paradoxically increases sexual urge"
+  },
+  {
+    "rubric": "Sexual desire – decreased – but still masturbates",
+    "grading": {
+      "High": ["Ph-ac", "Selenium", "Sil"],
+      "Medium": ["Con", "Agn", "Calc"],
+      "Low": ["Lyc", "Puls"]
+    },
+    "modality": "Worse from loneliness or guilt",
+    "miasm": ["Psora"],
+    "notes": "Involuntary or habitual masturbation despite low libido"
+  },
+  {
+    "rubric": "Sexual function – better – after coition",
+    "grading": {
+      "High": ["Nat-m", "Sep", "Calc"],
+      "Medium": ["Lyc", "Phos", "Sulph"],
+      "Low": ["Staph", "Ign"]
+    },
+    "modality": "Sexual activity relieves mental/emotional tension",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Confirms remedy if patient feels emotionally clear after sex"
+  },
+  {
+    "rubric": "Sexual desire – suppressed – leads to mental issues",
+    "grading": {
+      "High": ["Staph", "Con", "Sil"],
+      "Medium": ["Ign", "Ph-ac", "Thuja"],
+      "Low": ["Calc", "Lyc"]
+    },
+    "modality": "Mental dullness or aggression develops when sex is denied",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Suppressed sexuality converts into psychosomatic symptoms"
+  },
+  {
+    "rubric": "Sadness – after coition",
+    "grading": {
+      "High": ["Nat-m", "Ph-ac", "Staph"],
+      "Medium": ["Sil", "Calc", "Ign"],
+      "Low": ["Lyc", "Puls"]
+    },
+    "modality": "Follows coition; emotionally vulnerable afterward",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Patient feels lonely, empty or morally disturbed post-intercourse"
+  },
+  {
+    "rubric": "Emission – without erection",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Con"],
+      "Medium": ["Agn", "Sil", "Calc"],
+      "Low": ["Ign", "Lyc"]
+    },
+    "modality": "Occurs during dreams or with anxiety",
+    "miasm": ["Sycosis"],
+    "notes": "Important in prostate dysfunction and spermatorrhea"
+  },
+  {
+    "rubric": "Sexual desire – with coldness of genitals",
+    "grading": {
+      "High": ["Con", "Calc", "Sep"],
+      "Medium": ["Ph-ac", "Sil", "Agn"],
+      "Low": ["Lyc", "Staph"]
+    },
+    "modality": "Unusual polarity: desire exists despite numb or cold genitals",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Good physical keynote when present"
+  },
+  {
+    "rubric": "Dreams – sexual – with emission – without pleasure",
+    "grading": {
+      "High": ["Selenium", "Ph-ac", "Ign"],
+      "Medium": ["Sil", "Calc", "Agn"],
+      "Low": ["Con", "Puls"]
+    },
+    "modality": "Worse during exhaustion or emotional suppression",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Reflects empty sexual functioning or emotional absence"
+  },
+  {
+    "rubric": "Irritability – if no sex",
+    "grading": {
+      "High": ["Nux-v", "Lach", "Med"],
+      "Medium": ["Sulph", "Phos", "Cann-i"],
+      "Low": ["Lyc", "Ign"]
+    },
+    "modality": "Restless, short-tempered when celibate too long",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Sexual release acts as pressure valve for anger"
+  }
+]

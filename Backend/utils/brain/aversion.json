@@ -1,0 +1,662 @@
+[
+  {
+    "rubric": "Aversion to food in general",
+    "grading": {
+      "high": ["Sepia", "Nux vomica", "Lycopodium"],
+      "medium": ["Antimonium crudum", "Ignatia", "Pulsatilla"],
+      "low": ["Natrum muriaticum", "China", "Sulphur"]
+    },
+    "modality": "During pregnancy; after grief; in morning",
+    "miasm": "Psora, Syco-psora",
+    "notes": "Often linked to hormonal imbalance, liver dysfunction, or emotional suppression"
+  },
+  {
+    "rubric": "Aversion to meat",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Calcarea carbonica", "Sulphur"],
+      "low": ["Lycopodium", "Phosphorus"]
+    },
+    "modality": "During fever; in children; after fatty foods",
+    "miasm": "Psora",
+    "notes": "Seen in gastric disturbance and hepatic issues; often found in Pulsatilla constitutions"
+  },
+  {
+    "rubric": "Aversion to milk",
+    "grading": {
+      "high": ["Calcarea carbonica", "Sulphur"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Magnesia carbonica", "Natrum muriaticum"]
+    },
+    "modality": "After weaning; in children; when sick",
+    "miasm": "Psora",
+    "notes": "Often related to intolerance or digestive weakness"
+  },
+  {
+    "rubric": "Aversion to bread",
+    "grading": {
+      "high": [],
+      "medium": ["Sulphur", "Nux vomica"],
+      "low": ["Pulsatilla", "Lycopodium"]
+    },
+    "modality": "In morning; when constipated",
+    "miasm": "Psora",
+    "notes": "Can indicate intolerance to gluten or dryness"
+  },
+  {
+    "rubric": "Aversion to sweets",
+    "grading": {
+      "high": ["Lycopodium", "Sulphur"],
+      "medium": ["Sepia", "Nux vomica"],
+      "low": ["Ignatia", "Natrum muriaticum"]
+    },
+    "modality": "After excessive intake; during liver complaints",
+    "miasm": "Psora",
+    "notes": "Opposite of craving; common in liver and GI cases"
+  },
+  {
+    "rubric": "Aversion to salt",
+    "grading": {
+      "high": [],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Ignatia", "Natrum muriaticum"]
+    },
+    "modality": "During menses; in pregnancy",
+    "miasm": "Psora",
+    "notes": "Rare; often with nausea or emotional disturbance"
+  },
+  {
+    "rubric": "Aversion to fat, fatty food",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Nux vomica", "Lycopodium"],
+      "low": ["China", "Sulphur"]
+    },
+    "modality": "After fatty food; during nausea",
+    "miasm": "Psora",
+    "notes": "Classical Pulsatilla keynote"
+  },
+  {
+    "rubric": "Aversion to water",
+    "grading": {
+      "high": [],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Veratrum album", "Stramonium"]
+    },
+    "modality": "During high fever; in children",
+    "miasm": "Psora, Acute miasm",
+    "notes": "May signal delirium or mental disturbance"
+  },
+  {
+    "rubric": "Aversion to warm food",
+    "grading": {
+      "high": [],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Lycopodium", "Pulsatilla"]
+    },
+    "modality": "In chronic liver conditions",
+    "miasm": "Psora",
+    "notes": "Rare modality suggesting constitutional heat aggravation"
+  },
+  {
+    "rubric": "Aversion to sour things",
+    "grading": {
+      "high": ["Sepia", "Phosphorus"],
+      "medium": ["Calcarea carbonica", "Sulphur"],
+      "low": ["Ignatia", "China"]
+    },
+    "modality": "In pregnancy; in liver affections",
+    "miasm": "Psora",
+    "notes": "Useful in nausea and vomiting during pregnancy"
+  },
+  {
+    "rubric": "Aversion to fruits",
+    "grading": {
+      "high": ["Lycopodium", "Nux vomica"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Pulsatilla", "China"]
+    },
+    "modality": "After gastric upset; in summer; during liver disorders",
+    "miasm": "Psora",
+    "notes": "Common in patients with weak digestion and acidity"
+  },
+  {
+    "rubric": "Aversion to vegetables",
+    "grading": {
+      "high": ["Calcarea carbonica"],
+      "medium": ["Sulphur", "Lycopodium"],
+      "low": ["Nux vomica", "Sepia"]
+    },
+    "modality": "In children; during convalescence",
+    "miasm": "Psora",
+    "notes": "Seen in sluggish appetite and constitutional aversion to greens"
+  },
+  {
+    "rubric": "Aversion to eggs",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla"],
+      "medium": ["Sulphur", "Lycopodium"],
+      "low": ["Calcarea carb", "Antimonium crudum"]
+    },
+    "modality": "After breakfast; during pregnancy; with nausea",
+    "miasm": "Psora",
+    "notes": "Often indicates intolerance or nausea from egg smell"
+  },
+  {
+    "rubric": "Aversion to onions",
+    "grading": {
+      "high": ["Thuja", "Phosphorus"],
+      "medium": ["Pulsatilla", "Lycopodium"],
+      "low": ["Sulphur", "Nux vomica"]
+    },
+    "modality": "During gastric troubles; after smelling raw onions",
+    "miasm": "Psora, Sycotic",
+    "notes": "Rare but useful in gastric and liver complaints"
+  },
+  {
+    "rubric": "Aversion to garlic",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sulphur", "Lycopodium"],
+      "low": ["Pulsatilla", "Sepia"]
+    },
+    "modality": "From smell; in hot weather",
+    "miasm": "Psora",
+    "notes": "Often associated with liver heat and intolerance"
+  },
+  {
+    "rubric": "Aversion to coffee",
+    "grading": {
+      "high": ["Chamomilla", "Nux vomica"],
+      "medium": ["Ignatia", "Sepia"],
+      "low": ["Sulphur", "Phosphorus"]
+    },
+    "modality": "When nervous; in morning; during headaches",
+    "miasm": "Psora, Sycotic",
+    "notes": "Nux dislikes due to overstimulation, Chamomilla for irritability"
+  },
+  {
+    "rubric": "Aversion to tea",
+    "grading": {
+      "high": ["Phosphoric acid", "Nux vomica"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Sulphur", "Ignatia"]
+    },
+    "modality": "In nervous exhaustion; after emotional strain",
+    "miasm": "Psora, Tubercular",
+    "notes": "May indicate mental fatigue or sensitivity to stimulants"
+  },
+  {
+    "rubric": "Aversion to alcohol",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Sepia", "Phosphorus"],
+      "low": ["Pulsatilla", "Lycopodium"]
+    },
+    "modality": "After liver complaints; during fever",
+    "miasm": "Psora, Sycotic",
+    "notes": "Useful in liver disease, especially in habitual drinkers who now feel aversion"
+  },
+  {
+    "rubric": "Aversion to cold drinks",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Sepia", "Sulphur"],
+      "low": ["Ignatia", "Pulsatilla"]
+    },
+    "modality": "During gastritis; after fever; in elderly",
+    "miasm": "Psora",
+    "notes": "Often linked to gastric inflammation or chilliness"
+  },
+  {
+    "rubric": "Aversion to warm drinks",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Pulsatilla", "Lycopodium"],
+      "low": ["Sepia", "Nux vomica"]
+    },
+    "modality": "In overheated state; during liver issues",
+    "miasm": "Psora",
+    "notes": "Contrasts with common desire for warmth; shows inner heat"
+  },
+  {
+    "rubric": "Aversion to fish",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Sulphur", "Nux vomica"],
+      "low": ["Lycopodium", "Calcarea carb"]
+    },
+    "modality": "From smell; during pregnancy; in hot weather",
+    "miasm": "Psora, Sycotic",
+    "notes": "Often causes nausea; especially in Pulsatilla and Sepia constitutions"
+  },
+  {
+    "rubric": "Aversion to butter",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia", "Sulphur"],
+      "low": ["Nux vomica", "Lycopodium"]
+    },
+    "modality": "After fatty food; in children; during nausea",
+    "miasm": "Psora",
+    "notes": "Seen in weak digestion or bile disorders"
+  },
+  {
+    "rubric": "Aversion to spicy food",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Lycopodium", "Sepia"],
+      "low": ["Pulsatilla", "Ignatia"]
+    },
+    "modality": "With acidity; during pregnancy; in hot climate",
+    "miasm": "Psora",
+    "notes": "Useful in chronic acidity and liver complaints"
+  },
+  {
+    "rubric": "Aversion to sour food",
+    "grading": {
+      "high": ["Sepia", "Phosphorus"],
+      "medium": ["Calcarea carb", "Sulphur"],
+      "low": ["Ignatia", "China"]
+    },
+    "modality": "In pregnancy; after emotional shock",
+    "miasm": "Psora",
+    "notes": "Contrasts with craving for sour; often indicates nausea or hepatic issues"
+  },
+  {
+    "rubric": "Aversion to oily food",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Nux vomica", "Lycopodium"],
+      "low": ["Sulphur", "Phosphorus"]
+    },
+    "modality": "After rich meals; in evening; during liver complaints",
+    "miasm": "Psora",
+    "notes": "Classic keynote in indigestion and gallbladder disorders"
+  },
+  {
+    "rubric": "Aversion to farinaceous food (bread, pasta, etc.)",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Nux vomica", "Lycopodium"],
+      "low": ["Pulsatilla", "Sepia"]
+    },
+    "modality": "In morning; when constipated",
+    "miasm": "Psora",
+    "notes": "Suggests intolerance to refined carbohydrates"
+  },
+  {
+    "rubric": "Aversion to boiled food",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Lycopodium", "Ignatia"]
+    },
+    "modality": "In children; during chronic liver issues",
+    "miasm": "Psora",
+    "notes": "Indicates dislike for bland or soft textures"
+  },
+  {
+    "rubric": "Aversion to sweets after eating",
+    "grading": {
+      "high": ["Lycopodium", "Sepia"],
+      "medium": ["Nux vomica", "Sulphur"],
+      "low": ["Ignatia", "Phosphorus"]
+    },
+    "modality": "After meals; during fullness",
+    "miasm": "Psora",
+    "notes": "May indicate bloating, acidity, or liver dysfunction"
+  },
+  {
+    "rubric": "Aversion to eggs after eating them",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla"],
+      "medium": ["Calcarea carb", "Sulphur"],
+      "low": ["Antimonium crudum", "Phosphorus"]
+    },
+    "modality": "With nausea; after breakfast; in hot weather",
+    "miasm": "Psora",
+    "notes": "Egg intolerance often produces nausea or bloating"
+  },
+  {
+    "rubric": "Aversion to cooked food",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Lycopodium", "Pulsatilla"],
+      "low": ["Ignatia", "Sepia"]
+    },
+    "modality": "After emotional upset; in heat; in children",
+    "miasm": "Psora",
+    "notes": "Linked with disturbed appetite and mental aversion"
+  },
+  {
+    "rubric": "Aversion to cold food",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Sepia", "Sulphur"],
+      "low": ["Ignatia", "Pulsatilla"]
+    },
+    "modality": "During gastritis; after fever; in elderly",
+    "miasm": "Psora",
+    "notes": "Common when digestion is weak or with internal chilliness"
+  },
+  {
+    "rubric": "Aversion to warm food",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Pulsatilla", "Lycopodium"],
+      "low": ["Sepia", "Nux vomica"]
+    },
+    "modality": "In hot weather; during liver disorders",
+    "miasm": "Psora",
+    "notes": "Constitutionally warm individuals often dislike warm food"
+  },
+  {
+    "rubric": "Aversion to milk products (cheese, curd, cream)",
+    "grading": {
+      "high": ["Calcarea carbonica", "Pulsatilla"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Antimonium crudum", "Nux vomica"]
+    },
+    "modality": "After weaning; with gastric troubles",
+    "miasm": "Psora",
+    "notes": "Lactose intolerance or dislike for heavy dairy"
+  },
+  {
+    "rubric": "Aversion to smoking or tobacco",
+    "grading": {
+      "high": ["Ignatia", "Phosphorus"],
+      "medium": ["Nux vomica", "Sulphur"],
+      "low": ["Pulsatilla", "Lycopodium"]
+    },
+    "modality": "From smell; in morning; with nausea",
+    "miasm": "Psora, Sycotic",
+    "notes": "Important in respiratory or sensitive constitutions"
+  },
+  {
+    "rubric": "Aversion to beer",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Sepia", "Phosphorus"],
+      "low": ["Lycopodium", "Pulsatilla"]
+    },
+    "modality": "After overuse; in gastric or liver complaints",
+    "miasm": "Psora, Sycotic",
+    "notes": "In chronic beer drinkers who now dislike it; may indicate liver degeneration"
+  },
+  {
+    "rubric": "Aversion to wine",
+    "grading": {
+      "high": ["Sulphur", "Nux vomica"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Pulsatilla", "Ignatia"]
+    },
+    "modality": "With headache; in menstrual periods",
+    "miasm": "Psora",
+    "notes": "Alcohol sensitivity or intolerance"
+  },
+  {
+    "rubric": "Aversion to hot drinks",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Sepia", "Lycopodium"],
+      "low": ["Pulsatilla", "Ignatia"]
+    },
+    "modality": "In warm climate; during hot flushes",
+    "miasm": "Psora",
+    "notes": "May reflect internal heat or aversion to stimulation"
+  },
+  {
+    "rubric": "Aversion to sour drinks",
+    "grading": {
+      "high": ["Sepia", "Phosphorus"],
+      "medium": ["Sulphur", "Calcarea carbonica"],
+      "low": ["Ignatia", "China"]
+    },
+    "modality": "In liver affections; in pregnancy",
+    "miasm": "Psora",
+    "notes": "Typical in nausea, especially during pregnancy"
+  },
+  {
+    "rubric": "Aversion to cold water",
+    "grading": {
+      "high": ["Arsenicum album"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Phosphorus", "Ignatia"]
+    },
+    "modality": "During fever; after chill; in children",
+    "miasm": "Psora, Acute",
+    "notes": "Linked with internal coldness, even when thirst is present"
+  },
+  {
+    "rubric": "Aversion to food smell (any)",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla"],
+      "medium": ["Nux vomica", "Ignatia"],
+      "low": ["Sulphur", "Lycopodium"]
+    },
+    "modality": "During pregnancy; in headaches; with nausea",
+    "miasm": "Psora",
+    "notes": "Marked in sensitive, nauseated constitutions especially in early pregnancy"
+  },
+  {
+    "rubric": "Aversion to shellfish",
+    "grading": {
+      "high": ["Natrum mur", "Calcarea carb"],
+      "medium": ["Sulphur", "Lycopodium"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "With itching, after seafood meals, in skin complaints",
+    "miasm": "Sycotic",
+    "notes": "Often linked to food intolerance and allergic diathesis"
+  },
+  {
+    "rubric": "Aversion to chocolate",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Pulsatilla", "Ignatia"],
+      "low": ["Sulphur"]
+    },
+    "modality": "In headaches; after overeating; in hormonal imbalance",
+    "miasm": "Psora",
+    "notes": "Useful in cases with modern diet intolerance and liver overload"
+  },
+  {
+    "rubric": "Aversion to cold meat",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla"],
+      "medium": ["Sulphur", "Calcarea carb"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "In morning; after fatty foods",
+    "miasm": "Psora",
+    "notes": "Linked to bile issues, nausea and weak digestion"
+  },
+  {
+    "rubric": "Aversion to cooked vegetables",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Calcarea carb", "Lycopodium"],
+      "low": ["Sepia", "Ignatia"]
+    },
+    "modality": "In children; with bloating; during digestive upset",
+    "miasm": "Psora",
+    "notes": "Common in children and those with sluggish GI tract"
+  },
+  {
+    "rubric": "Aversion to food during fever",
+    "grading": {
+      "high": ["Gelsemium", "Apis", "Belladonna"],
+      "medium": ["Pulsatilla", "Bryonia"],
+      "low": ["Arsenicum alb", "Rhus tox"]
+    },
+    "modality": "With heat, headache, malaise",
+    "miasm": "Acute",
+    "notes": "Important observation during acute infections or viral fevers"
+  },
+  {
+    "rubric": "Aversion to food from emotional cause",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Sepia", "Pulsatilla"],
+      "low": ["Staphysagria", "Phosphoric acid"]
+    },
+    "modality": "After grief, insult, disappointment",
+    "miasm": "Psora, Tubercular",
+    "notes": "Mental-emotional link to anorexia or food refusal"
+  },
+  {
+    "rubric": "Aversion to food during headache",
+    "grading": {
+      "high": ["Iris versicolor", "Sanguinaria"],
+      "medium": ["Belladonna", "Nux vomica"],
+      "low": ["Sepia", "Ignatia"]
+    },
+    "modality": "With nausea; in migraine; in morning",
+    "miasm": "Psora",
+    "notes": "Keynote in migraine-type gastritis combination"
+  },
+  {
+    "rubric": "Aversion to meat from smell",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Ignatia", "Nux vomica"],
+      "low": ["Phosphorus", "Sulphur"]
+    },
+    "modality": "During nausea; in pregnancy; with hypersensitivity",
+    "miasm": "Psora",
+    "notes": "Distaste from olfactory hypersensitivity especially during hormonal states"
+  },
+  {
+    "rubric": "Aversion to fat from smell or sight",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Sulphur", "Antimonium crudum"],
+      "low": ["Ignatia", "Calcarea carb"]
+    },
+    "modality": "During nausea or early pregnancy",
+    "miasm": "Psora",
+    "notes": "Seen in weak gastric conditions and pregnancy-related hypersensitivity"
+  },
+  {
+    "rubric": "Aversion to all food - total anorexia",
+    "grading": {
+      "high": ["Sepia", "China", "Arsenicum alb"],
+      "medium": ["Phosphoric acid", "Ignatia"],
+      "low": ["Nux vomica", "Sulphur"]
+    },
+    "modality": "After loss, grief, long illness, exhaustion",
+    "miasm": "Psora, Tubercular",
+    "notes": "Useful in deep fatigue, cachexia, and psychological causes of anorexia"
+  },
+  {
+    "rubric": "Aversion to salt",
+    "grading": {
+      "high": [],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Ignatia", "Natrum mur"]
+    },
+    "modality": "During pregnancy; in hormonal imbalance",
+    "miasm": "Psora",
+    "notes": "Rare aversion; usually contrasts the Natrum mur craving"
+  },
+  {
+    "rubric": "Aversion to food during menstruation",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Pulsatilla", "Ignatia"],
+      "low": ["Nux vomica", "Lachesis"]
+    },
+    "modality": "At onset of menses; with mood swings; with pelvic pain",
+    "miasm": "Psora",
+    "notes": "Important in hormonal and uterine cases with anorexia"
+  },
+  {
+    "rubric": "Aversion to food from smell alone",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla"],
+      "medium": ["Ignatia", "Nux vomica"],
+      "low": ["Sulphur", "Phosphorus"]
+    },
+    "modality": "During pregnancy; with nausea; in morning",
+    "miasm": "Psora",
+    "notes": "Key observation in pregnancy and hyper-sensitive constitutions"
+  },
+  {
+    "rubric": "Aversion to mother's milk (in infants)",
+    "grading": {
+      "high": ["Aethusa", "Silicea"],
+      "medium": ["Calcarea carb", "Chamomilla"],
+      "low": ["Antimonium crudum", "Podophyllum"]
+    },
+    "modality": "In infants with vomiting; after nursing",
+    "miasm": "Psora, Tubercular",
+    "notes": "Very important in infant diarrhea and vomiting after feeding"
+  },
+  {
+    "rubric": "Aversion to solid food (prefers liquids)",
+    "grading": {
+      "high": ["Phosphorus", "Arsenicum album"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Ignatia", "China"]
+    },
+    "modality": "In febrile states; when weak; in elderly",
+    "miasm": "Psora",
+    "notes": "Reflects difficulty chewing, swallowing, or digesting solids"
+  },
+  {
+    "rubric": "Aversion to food with desire to drink only water",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Veratrum album", "Bryonia"],
+      "low": ["China", "Sulphur"]
+    },
+    "modality": "During acute illness; in fever; with diarrhea",
+    "miasm": "Psora, Acute",
+    "notes": "Useful in dehydration states, infections, and enteric fevers"
+  },
+  {
+    "rubric": "Aversion to breakfast",
+    "grading": {
+      "high": ["Sepia", "Nux vomica"],
+      "medium": ["Lycopodium", "Ignatia"],
+      "low": ["Sulphur", "Phosphorus"]
+    },
+    "modality": "In morning; with nausea; in liver complaints",
+    "miasm": "Psora",
+    "notes": "Strong keynote in Sepia with marked morning nausea"
+  },
+  {
+    "rubric": "Aversion to lunch",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Nux vomica", "Phosphorus"],
+      "low": ["Sepia"]
+    },
+    "modality": "Midday aggravation; during business stress",
+    "miasm": "Psora, Sycotic",
+    "notes": "Lycopodium dislikes mid-day food; often bloated"
+  },
+  {
+    "rubric": "Aversion to dinner (evening meal)",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Lycopodium", "Sepia"],
+      "low": ["Ignatia", "Pulsatilla"]
+    },
+    "modality": "After stress; with liver congestion; in heat",
+    "miasm": "Psora",
+    "notes": "Important in those with suppressed hunger after fatigue"
+  },
+  {
+    "rubric": "Aversion to food during emotional upset (acute)",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Sepia", "Phosphoric acid"],
+      "low": ["Pulsatilla", "Staphysagria"]
+    },
+    "modality": "After quarrel; grief; fear; anticipation",
+    "miasm": "Psora, Tubercular",
+    "notes": "Very confirmatory in psychosomatic and grief-induced anorexia"
+  }
+]

@@ -1,0 +1,1980 @@
+[
+  {
+    "disease": "Systemic Lupus Erythematosus (SLE)",
+    "tags": ["Autoimmune", "Chronic", "Rheumatology", "CommonChronic"],
+    "rubrics": [
+      {
+        "rubric": "Butterfly-shaped facial rash < sun exposure",
+        "grading": {
+          "high": ["Sepia", "Sulphur", "Natrum mur"],
+          "medium": ["Phosphorus", "Lycopodium"],
+          "low": ["Bovista", "Calcarea carb"]
+        },
+        "modality": "< sun, < heat, > cool air",
+        "miasm": "Psora–Sycosis",
+        "notes": "Classic malar rash seen in SLE"
+      },
+      {
+        "rubric": "Severe fatigue and body pain with no apparent cause",
+        "grading": {
+          "high": ["Phosphoric acid", "Gelsemium", "Picric acid"],
+          "medium": ["Calcarea phos", "Psorinum"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "< morning, < exertion, > rest",
+        "miasm": "Psoric",
+        "notes": "Constitutional exhaustion from autoimmune reaction"
+      },
+      {
+        "rubric": "Joint pain migrating from one joint to another",
+        "grading": {
+          "high": ["Pulsatilla", "Rhododendron", "Bryonia"],
+          "medium": ["Caulophyllum", "Kalmia"],
+          "low": ["Apis"]
+        },
+        "modality": "< rest, > motion (Puls), or < motion (Bry)",
+        "miasm": "Psora–Sycosis",
+        "notes": "Arthralgia of autoimmune origin"
+      },
+      {
+        "rubric": "Mind: Irritability, sensitivity, suppressed emotions triggering flare",
+        "grading": {
+          "high": ["Natrum mur", "Staphysagria", "Ignatia"],
+          "medium": ["Sepia", "Lachesis"],
+          "low": ["Cimicifuga"]
+        },
+        "modality": "< insult, < suppressed grief, > emotional release",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Common emotional triggering background in SLE"
+      },
+      {
+        "rubric": "Mouth ulcers recurring with joint or skin symptoms",
+        "grading": {
+          "high": ["Borax", "Mercurius", "Nitric acid"],
+          "medium": ["Kali bich", "Natrum mur"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "< acidic food, < menses, > cool drinks",
+        "miasm": "Syphilitic",
+        "notes": "Autoimmune mucosal breakdown"
+      },
+      {
+        "rubric": "Hair fall in patches during flare-ups",
+        "grading": {
+          "high": ["Fluoric acid", "Phosphorus", "Natrum mur"],
+          "medium": ["Lycopodium", "Thuja"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "< brushing, < stress, > oiling",
+        "miasm": "Sycosis–Psora",
+        "notes": "Alopecia areata during autoimmune activity"
+      },
+      {
+        "rubric": "Low-grade fever recurring daily with chills and weakness",
+        "grading": {
+          "high": ["Arsenicum", "Natrum mur", "Phosphorus"],
+          "medium": ["Ferrum phos", "Tuberculinum"],
+          "low": ["China"]
+        },
+        "modality": "< evening, < change of weather",
+        "miasm": "Tubercular",
+        "notes": "Autoimmune pyrexia during active flares"
+      },
+      {
+        "rubric": "Swelling of legs or facial puffiness (renal involvement)",
+        "grading": {
+          "high": ["Apis", "Arsenicum", "Lycopodium"],
+          "medium": ["Digitalis", "Berberis"],
+          "low": ["Merc sol"]
+        },
+        "modality": "< heat, < lying flat, > cold applications",
+        "miasm": "Sycosis",
+        "notes": "Lupus nephritis stage"
+      },
+      {
+        "rubric": "SLE with history of suppressed skin eruptions or vaccines",
+        "grading": {
+          "high": ["Thuja", "Sulphur", "Psorinum"],
+          "medium": ["Carcinosinum", "Medorrhinum"],
+          "low": ["Vaccininum"]
+        },
+        "modality": "< after vaccinations, < suppressed discharges",
+        "miasm": "Sycosis–Mixed",
+        "notes": "Etiological background useful for intercurrent prescription"
+      },
+      {
+        "rubric": "SLE with remedy blockage despite similimum",
+        "grading": {
+          "high": ["Psorinum", "Carcinosinum", "Syphilinum"],
+          "medium": ["Tuberculinum", "Sulphur"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< chronic suppression, < never-well-since grief",
+        "miasm": "All miasms",
+        "notes": "When deeper intercurrents are needed to unblock pathology"
+      }
+    ]
+  },
+  {
+    "additional_rubrics": [
+      {
+        "rubric": "Lupus with memory loss, mental confusion, or personality change (CNS Lupus)",
+        "grading": {
+          "high": ["Anacardium", "Helleborus", "Baryta mur"],
+          "medium": ["Opium", "Zincum"],
+          "low": ["Gelsemium"]
+        },
+        "modality": "< stress, < heat, > sleep",
+        "miasm": "Syphilitic",
+        "notes": "Neuropsychiatric lupus with mental dullness or altered behavior"
+      },
+      {
+        "rubric": "Lupus with seizure tendency or twitching in limbs",
+        "grading": {
+          "high": ["Cuprum met", "Cicuta", "Stramonium"],
+          "medium": ["Zincum", "Opium"],
+          "low": ["Agaricus"]
+        },
+        "modality": "< during fever, < excitement",
+        "miasm": "Syphilitic",
+        "notes": "Autoimmune epilepsy or brain inflammation"
+      },
+      {
+        "rubric": "Pleuritic chest pain with Lupus — worse deep inspiration",
+        "grading": {
+          "high": ["Bryonia", "Kali carb", "Arsenicum"],
+          "medium": ["Ranunculus bulbosus", "Sulphur"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< breathing, < motion, > lying on painful side",
+        "miasm": "Psora–Sycosis",
+        "notes": "Serositis in Lupus"
+      },
+      {
+        "rubric": "Lupus with inflammation of heart lining (pericarditis)",
+        "grading": {
+          "high": ["Spigelia", "Kalmia", "Digitalis"],
+          "medium": ["Cactus grand", "Arsenicum"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< night, < lying down, > sitting bent forward",
+        "miasm": "Sycosis–Syphilitic",
+        "notes": "Chest pain + palpitations with pericardial rub"
+      },
+      {
+        "rubric": "Lupus with anemia and extreme weakness",
+        "grading": {
+          "high": ["Ferrum phos", "China", "Natrum mur"],
+          "medium": ["Calcarea phos", "Sepia"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< menses, < exertion, > rest",
+        "miasm": "Psora",
+        "notes": "Autoimmune hemolytic anemia associated with SLE"
+      },
+      {
+        "rubric": "Lupus with easy bleeding, petechiae or thrombocytopenia",
+        "grading": {
+          "high": ["Crotalus", "Lachesis", "Hamamelis"],
+          "medium": ["Phosphorus", "Secale"],
+          "low": ["Sulphur"]
+        },
+        "modality": "< slightest trauma, < night",
+        "miasm": "Syphilitic",
+        "notes": "Platelet dysfunction with lupus activity"
+      },
+      {
+        "rubric": "Lupus developing after deep grief, abuse, or suppressed trauma",
+        "grading": {
+          "high": ["Natrum mur", "Staphysagria", "Ignatia"],
+          "medium": ["Sepia", "Aur met"],
+          "low": ["Cimicifuga"]
+        },
+        "modality": "< never well since grief, < insult",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Emotional suppression as trigger for immune collapse"
+      },
+      {
+        "rubric": "Lupus with recurring infections (UTIs, sinusitis, boils)",
+        "grading": {
+          "high": ["Silicea", "Psorinum", "Sulphur"],
+          "medium": ["Hepar sulph", "Merc sol"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< cold, < antibiotics, > warmth",
+        "miasm": "Psora–Tubercular",
+        "notes": "Immunosuppressive aspect of SLE"
+      },
+      {
+        "rubric": "Lupus with positive ANA, autoimmune tendency from childhood",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Medorrhinum"],
+          "medium": ["Calcarea carb", "Thuja"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< chronic suppression, < vaccine history",
+        "miasm": "Mixed",
+        "notes": "Constitutional miasmatic background"
+      }
+    ]
+  },
+  {
+    "rare_extensions": [
+      {
+        "rubric": "Lupus with extreme aversion to consolation and company",
+        "grading": {
+          "high": ["Natrum mur", "Sepia", "Ignatia"],
+          "medium": ["Silicea", "Staphysagria"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< consolation, < emotional touch, > solitude",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Inner withdrawal post chronic emotional suffering"
+      },
+      {
+        "rubric": "Lupus with alternating flare and remission cycles very rapidly",
+        "grading": {
+          "high": ["Sulphur", "Psorinum", "Tuberculinum"],
+          "medium": ["Medorrhinum", "Natrum mur"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< weather change, < suppressed eruptions",
+        "miasm": "Tubercular",
+        "notes": "Rapid variation; suggests strong miasmatic instability"
+      },
+      {
+        "rubric": "Lupus in patients with obsession for cleanliness, guilt, perfection",
+        "grading": {
+          "high": ["Carcinosinum", "Natrum mur", "Arsenicum"],
+          "medium": ["Sulphur", "Lycopodium"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "< failure, < anticipation, > approval",
+        "miasm": "Psora–Cancerinic",
+        "notes": "Compulsive constitutional background often found in autoimmune profiles"
+      },
+      {
+        "rubric": "Lupus in women with menstrual irregularities or suppressed menses",
+        "grading": {
+          "high": ["Sepia", "Lachesis", "Pulsatilla"],
+          "medium": ["Natrum mur", "Conium"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "< before menses, < heat, > flow onset",
+        "miasm": "Sycosis–Psora",
+        "notes": "Gynae–immune hormonal interconnection in female lupus cases"
+      },
+      {
+        "rubric": "Lupus with sensation of internal burning or inflammation",
+        "grading": {
+          "high": ["Sulphur", "Arsenicum", "Phosphorus"],
+          "medium": ["Psorinum", "Lachesis"],
+          "low": ["Calcarea sulph"]
+        },
+        "modality": "< heat, < evening, > uncovering",
+        "miasm": "Syphilitic",
+        "notes": "Burning sensation is a hallmark of cellular auto-destruction"
+      },
+      {
+        "rubric": "Lupus with suicidal thoughts but cannot express due to guilt or pride",
+        "grading": {
+          "high": ["Aur met", "Natrum mur", "Ignatia"],
+          "medium": ["Staphysagria", "Lachesis"],
+          "low": ["Anacardium"]
+        },
+        "modality": "< alone, < sunset, > silent prayer",
+        "miasm": "Syphilitic",
+        "notes": "Rare but important rubric in deeply sensitive lupus patients"
+      },
+      {
+        "rubric": "Lupus after long-term corticosteroid suppression or allopathic drug suppression",
+        "grading": {
+          "high": ["Thuja", "Sulphur", "Psorinum"],
+          "medium": ["Tuberculinum", "Carcinosinum"],
+          "low": ["Syphilinum"]
+        },
+        "modality": "< drug suppression, < antibiotic overuse",
+        "miasm": "Mixed",
+        "notes": "Indicates need for intercurrent detox or de-layering"
+      },
+      {
+        "rubric": "Lupus with sensation of being poisoned or mistrust of doctors",
+        "grading": {
+          "high": ["Hyoscyamus", "Stramonium", "Anacardium"],
+          "medium": ["Lachesis", "Veratrum album"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< authority, < medical setup, > alternative therapies",
+        "miasm": "Syphilitic",
+        "notes": "Delusional layer often seen after diagnostic trauma or over-treatment"
+      }
+    ]
+  },
+  {
+    "disease": "Sjögren’s Syndrome",
+    "tags": ["Autoimmune", "Chronic", "Rheumatology", "CommonChronic"],
+    "rubrics": [
+      {
+        "rubric": "Dry eyes with gritty, burning sensation",
+        "grading": {
+          "high": ["Euphrasia", "Sulphur", "Arsenicum"],
+          "medium": ["Belladonna", "Phosphorus"],
+          "low": ["Merc sol"]
+        },
+        "modality": "< wind, < sunlight, > cool compress",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Keratoconjunctivitis sicca is primary symptom"
+      },
+      {
+        "rubric": "Dry mouth with difficulty swallowing and cracked tongue",
+        "grading": {
+          "high": ["Bryonia", "Nux moschata", "Natrum mur"],
+          "medium": ["Belladonna", "Arsenicum"],
+          "low": ["Mercurius"]
+        },
+        "modality": "< night, < speaking, > cold water",
+        "miasm": "Psora–Sycosis",
+        "notes": "Salivary gland auto-destruction"
+      },
+      {
+        "rubric": "Joint pain with dryness in mucous membranes",
+        "grading": {
+          "high": ["Rhus tox", "Pulsatilla", "Kali bich"],
+          "medium": ["Ledum", "Ruta"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< rest, > motion, > wet weather",
+        "miasm": "Sycosis",
+        "notes": "Overlap syndrome with rheumatoid features"
+      },
+      {
+        "rubric": "Extreme fatigue with brain fog and dry body sensation",
+        "grading": {
+          "high": ["Phosphoric acid", "Gelsemium", "Sepia"],
+          "medium": ["Silicea", "Psorinum"],
+          "low": ["China"]
+        },
+        "modality": "< morning, < after sleep, > gentle exercise",
+        "miasm": "Psoric",
+        "notes": "Autoimmune fatigue syndrome"
+      },
+      {
+        "rubric": "Burning in vagina with dryness and dyspareunia",
+        "grading": {
+          "high": ["Sepia", "Kreosotum", "Graphites"],
+          "medium": ["Belladonna", "Lachesis"],
+          "low": ["Natrum mur"]
+        },
+        "modality": "< intercourse, < evening, > washing with water",
+        "miasm": "Syphilitic–Psoric",
+        "notes": "Often underreported in female cases"
+      },
+      {
+        "rubric": "History of emotional suppression or abandonment",
+        "grading": {
+          "high": ["Natrum mur", "Ignatia", "Staphysagria"],
+          "medium": ["Carcinosinum", "Pulsatilla"],
+          "low": ["Sepia"]
+        },
+        "modality": "< grief, < disappointment, > emotional release",
+        "miasm": "Psoric",
+        "notes": "Core mind theme triggering immune collapse"
+      },
+      {
+        "rubric": "Sjögren’s with strong miasmatic or drug suppression history",
+        "grading": {
+          "high": ["Psorinum", "Carcinosinum", "Thuja"],
+          "medium": ["Sulphur", "Tuberculinum"],
+          "low": ["Syphilinum"]
+        },
+        "modality": "< suppression, < antibiotics, > intercurrent remedy",
+        "miasm": "Mixed",
+        "notes": "Consider de-layering or drainage remedies"
+      }
+    ]
+  },
+  {
+    "rare_extensions": [
+      {
+        "rubric": "Sensation of internal dryness despite drinking water",
+        "grading": {
+          "high": ["Nux moschata", "Bryonia", "Sulphur"],
+          "medium": ["Natrum mur", "Arsenicum"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< fasting, < warm weather, > cool sips",
+        "miasm": "Psora–Sycosis",
+        "notes": "Mucosal dehydration not relieved by fluids; hallmark of exocrine gland failure"
+      },
+      {
+        "rubric": "Loss of taste or altered taste with dry mouth",
+        "grading": {
+          "high": ["Merc sol", "Natrum mur", "Kali bich"],
+          "medium": ["Phosphorus", "Calcarea carb"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< morning, < brushing teeth",
+        "miasm": "Syphilitic",
+        "notes": "Glossitis or salivary gland destruction leading to dysgeusia"
+      },
+      {
+        "rubric": "Cracked tongue with burning and geographic patches",
+        "grading": {
+          "high": ["Nitric acid", "Arsenicum", "Borax"],
+          "medium": ["Lycopodium", "Natrum mur"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "< spicy food, < evening",
+        "miasm": "Syphilitic",
+        "notes": "Seen in mid-stage mucosal degeneration"
+      },
+      {
+        "rubric": "Sjögren’s in menopausal or perimenopausal women",
+        "grading": {
+          "high": ["Sepia", "Lachesis", "Sulphur"],
+          "medium": ["Pulsatilla", "Kreosotum"],
+          "low": ["Graphites"]
+        },
+        "modality": "< hormonal change, > open air",
+        "miasm": "Psora–Sycosis",
+        "notes": "Frequently diagnosed post-menopause"
+      },
+      {
+        "rubric": "Depressed, introverted patient; dry emotionally and physically",
+        "grading": {
+          "high": ["Natrum mur", "Staphysagria", "Sepia"],
+          "medium": ["Ignatia", "Carcinosinum"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< emotional neglect, < isolation",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Psychosomatic dryness with autoimmune overlay"
+      },
+      {
+        "rubric": "Sjögren’s with fear of being alone or abandoned",
+        "grading": {
+          "high": ["Pulsatilla", "Carcinosinum", "Natrum mur"],
+          "medium": ["Stramonium", "Ignatia"],
+          "low": ["Silicea"]
+        },
+        "modality": "< twilight, < separation",
+        "miasm": "Psoric",
+        "notes": "Childhood abandonment often precedes onset"
+      },
+      {
+        "rubric": "Sjögren’s patients prone to recurrent dental caries or oral ulcers",
+        "grading": {
+          "high": ["Merc sol", "Borax", "Kreosotum"],
+          "medium": ["Silicea", "Fluoric acid"],
+          "low": ["Thuja"]
+        },
+        "modality": "< night, < sweets, > rinsing",
+        "miasm": "Syphilitic",
+        "notes": "Dental issues arise from xerostomia"
+      },
+      {
+        "rubric": "Dryness + hormonal or thyroid autoimmune overlap (Hashimoto link)",
+        "grading": {
+          "high": ["Sepia", "Lycopodium", "Natrum mur"],
+          "medium": ["Calcarea carb", "Graphites"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< stress, < thyroid dysfunction",
+        "miasm": "Psora–Sycosis",
+        "notes": "Hashimoto + Sjögren's often coexist"
+      }
+    ]
+  },
+  {
+    "final_extensions": [
+      {
+        "rubric": "Sjögren’s with neurological symptoms: numbness, tingling, crawling sensation",
+        "grading": {
+          "high": ["Agaricus", "Plumbum", "Hypericum"],
+          "medium": ["Zincum", "Phosphorus"],
+          "low": ["Arsenicum"]
+        },
+        "modality": "< rest, < night, > warmth",
+        "miasm": "Syphilitic",
+        "notes": "Peripheral neuropathy or small fiber nerve dysfunction in autoimmune inflammation"
+      },
+      {
+        "rubric": "Sjögren’s with recurrent bladder infections due to mucosal dryness",
+        "grading": {
+          "high": ["Staphysagria", "Sepia", "Cannabis sativa"],
+          "medium": ["Sarsaparilla", "Equisetum"],
+          "low": ["Borax"]
+        },
+        "modality": "< after coition, < cold drinks",
+        "miasm": "Sycosis",
+        "notes": "Mucosal dryness alters bladder flora → UTI risk increases"
+      },
+      {
+        "rubric": "Chronic low-grade fever in Sjögren’s with sweating and prostration",
+        "grading": {
+          "high": ["China", "Phosphoric acid", "Arsenicum"],
+          "medium": ["Gelsemium", "Natrum mur"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< evening, < exertion, > lying down",
+        "miasm": "Tubercular–Psoric",
+        "notes": "Systemic inflammatory signs — fatigue fever triad"
+      },
+      {
+        "rubric": "Delusion: she is not loved or appreciated",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur", "Staphysagria"],
+          "medium": ["Carcinosinum", "Sepia"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "< silent grief, < suppression of anger",
+        "miasm": "Psoric–Cancerinic",
+        "notes": "Emotionally dry theme → autoimmune correlate"
+      },
+      {
+        "rubric": "Marked aggravation after vaccines, particularly HPV or hepatitis",
+        "grading": {
+          "high": ["Thuja", "Silicea", "Carcinosinum"],
+          "medium": ["Vaccininum", "Sulphur"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< after vaccines, < suppressed discharges",
+        "miasm": "Sycosis–Mixed",
+        "notes": "Etiological correlation seen in post-vaccine autoimmunity cases"
+      },
+      {
+        "rubric": "Sensation as if mucosa is shrinking inside body",
+        "grading": {
+          "high": ["Nux moschata", "Phosphorus", "Bryonia"],
+          "medium": ["Silicea", "Kali bich"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< air, < fasting, > moisture",
+        "miasm": "Psora",
+        "notes": "Autoimmune destruction of mucosa leads to subjective shrinking dryness"
+      },
+      {
+        "rubric": "Inability to cry emotionally though tears are deficient physically",
+        "grading": {
+          "high": ["Natrum mur", "Ignatia", "Sepia"],
+          "medium": ["Staphysagria", "Phosphoric acid"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< emotional loss, < insult, > solitude",
+        "miasm": "Psoric",
+        "notes": "Tearlessness of body and emotion — parallel dryness"
+      },
+      {
+        "rubric": "Early morning aggravation of dryness and joint stiffness",
+        "grading": {
+          "high": ["Rhus tox", "Bryonia", "Sulphur"],
+          "medium": ["Causticum", "Ruta"],
+          "low": ["Kali carb"]
+        },
+        "modality": "< before sunrise, < cold, > motion",
+        "miasm": "Psora–Sycosis",
+        "notes": "Circadian-linked autoimmune symptoms"
+      }
+    ]
+  },
+  {
+    "deepest_extensions": [
+      {
+        "rubric": "Sjögren’s with aversion to speaking due to dry throat or emotional detachment",
+        "grading": {
+          "high": ["Nux moschata", "Sepia", "Ignatia"],
+          "medium": ["Natrum mur", "Silicea"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< conversation, < public situations, > silence",
+        "miasm": "Psoric–Cancerinic",
+        "notes": "Mind-body interface; both emotional and glandular 'shutting down'"
+      },
+      {
+        "rubric": "Sensation of burning dryness extending to esophagus and stomach",
+        "grading": {
+          "high": ["Arsenicum", "Sulphur", "Phosphorus"],
+          "medium": ["Carbo veg", "Nux vomica"],
+          "low": ["Iris versicolor"]
+        },
+        "modality": "< night, < warm drinks, > cold milk",
+        "miasm": "Syphilitic",
+        "notes": "GI mucosa involvement in chronic Sjögren’s"
+      },
+      {
+        "rubric": "History of chronic suppressed skin eruptions before onset of Sjögren’s",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Tuberculinum"],
+          "medium": ["Thuja", "Graphites"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< suppression, < ointments, > open eruption",
+        "miasm": "Psora–Mixed",
+        "notes": "Typical suppression layer seen in autoimmune conditions"
+      },
+      {
+        "rubric": "Tendency to develop dryness of lungs or vocal cords (Sjögren’s + respiratory overlap)",
+        "grading": {
+          "high": ["Bryonia", "Spongia", "Stannum"],
+          "medium": ["Phosphorus", "Drosera"],
+          "low": ["Hepar sulph"]
+        },
+        "modality": "< dry air, < talking, > humidifier",
+        "miasm": "Psora–Sycosis",
+        "notes": "Advanced cases may mimic dry asthma"
+      },
+      {
+        "rubric": "Chronic autoimmune syndrome in perfectionistic, oversensitive patients",
+        "grading": {
+          "high": ["Carcinosinum", "Natrum mur", "Arsenicum"],
+          "medium": ["Silicea", "Ignatia"],
+          "low": ["Staphysagria"]
+        },
+        "modality": "< failure, < criticism, > reassurance",
+        "miasm": "Cancerinic",
+        "notes": "Personality trait pattern common in Sjögren’s women"
+      },
+      {
+        "rubric": "Sjögren’s with slow healing of ulcers, injuries or mouth sores",
+        "grading": {
+          "high": ["Silicea", "Fluoric acid", "Graphites"],
+          "medium": ["Merc sol", "Calendula"],
+          "low": ["Hepar sulph"]
+        },
+        "modality": "< brushing, < sour food",
+        "miasm": "Syphilitic",
+        "notes": "Poor repair in mucosa and glands"
+      },
+      {
+        "rubric": "Family history of autoimmune diseases or cancer",
+        "grading": {
+          "high": ["Carcinosinum", "Thuja", "Psorinum"],
+          "medium": ["Sulphur", "Medorrhinum"],
+          "low": ["Calcarea fluor"]
+        },
+        "modality": "< genetic stress, > nosode usage",
+        "miasm": "Mixed miasms",
+        "notes": "Nosode-based intercurrent needed in many chronic layers"
+      },
+      {
+        "rubric": "Marked desire for salt or cold drinks in Sjögren’s",
+        "grading": {
+          "high": ["Natrum mur", "Phosphorus", "Sulphur"],
+          "medium": ["Carbo veg", "Lycopodium"],
+          "low": ["Silicea"]
+        },
+        "modality": "< fasting, < summer, > sipping cold water",
+        "miasm": "Psora–Tubercular",
+        "notes": "Salt craving often matches dryness constitution"
+      }
+    ]
+  },
+  {
+    "disease": "Multiple Sclerosis",
+    "tags": ["Autoimmune", "Neurology", "ChronicNeurological", "Demyelination"],
+    "rubrics": [
+      {
+        "rubric": "Paralysis or weakness of lower limbs with heaviness and numbness",
+        "grading": {
+          "high": ["Causticum", "Plumbum", "Argentum nitricum"],
+          "medium": ["Gelsemium", "Conium"],
+          "low": ["Zincum met"]
+        },
+        "modality": "< exertion, < morning, > massage",
+        "miasm": "Syphilitic",
+        "notes": "Classic motor weakness seen in progressive MS"
+      },
+      {
+        "rubric": "Tingling, formication, crawling sensation in spine or extremities",
+        "grading": {
+          "high": ["Agaricus", "Plumbum", "Phosphorus"],
+          "medium": ["Causticum", "Zincum met"],
+          "low": ["Arsenicum"]
+        },
+        "modality": "< cold, < fatigue, > rest",
+        "miasm": "Syphilitic",
+        "notes": "Indicates nerve sheath damage — early sensory sign"
+      },
+      {
+        "rubric": "Unsteady gait with imbalance, falls, staggering",
+        "grading": {
+          "high": ["Argentum nitricum", "Gelsemium", "Alumina"],
+          "medium": ["Phosphorus", "Cimicifuga"],
+          "low": ["Sulphur"]
+        },
+        "modality": "< dark rooms, < heat, > holding walls",
+        "miasm": "Syphilitic–Tubercular",
+        "notes": "Cerebellar or dorsal column demyelination"
+      },
+      {
+        "rubric": "Optic neuritis or blurred vision with eye pain",
+        "grading": {
+          "high": ["Phosphorus", "Paris quadrifolia", "Belladonna"],
+          "medium": ["Physostigma", "Zincum met"],
+          "low": ["Euphrasia"]
+        },
+        "modality": "< light, < motion, > rest",
+        "miasm": "Syphilitic",
+        "notes": "Visual disturbance common in initial flare"
+      },
+      {
+        "rubric": "Chronic fatigue not better by rest",
+        "grading": {
+          "high": ["Phosphoric acid", "Gelsemium", "Picric acid"],
+          "medium": ["Silicea", "Calcarea phos"],
+          "low": ["China"]
+        },
+        "modality": "< morning, < mental exertion, > lying down",
+        "miasm": "Psoric–Tubercular",
+        "notes": "Debilitating fatigue, often worse in summer"
+      },
+      {
+        "rubric": "Heat aggravates all symptoms (Uhthoff’s phenomenon)",
+        "grading": {
+          "high": ["Phosphorus", "Sulphur", "Glonoinum"],
+          "medium": ["Gelsemium", "Causticum"],
+          "low": ["Belladonna"]
+        },
+        "modality": "< hot weather, < hot bath, > cold room",
+        "miasm": "Tubercular",
+        "notes": "Key modality for MS diagnosis"
+      },
+      {
+        "rubric": "Memory weakness with slowness of comprehension",
+        "grading": {
+          "high": ["Anacardium", "Phosphoric acid", "Baryta carb"],
+          "medium": ["Cannabis indica", "Gelsemium"],
+          "low": ["Kali phos"]
+        },
+        "modality": "< conversation, < pressure to perform",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Cognitive slowing often seen in progressive MS"
+      },
+      {
+        "rubric": "Emotional lability: sudden laughing or crying without reason",
+        "grading": {
+          "high": ["Ignatia", "Aurum met", "Phosphorus"],
+          "medium": ["Causticum", "Nux moschata"],
+          "low": ["Crocus"]
+        },
+        "modality": "< contradiction, < alone, > support",
+        "miasm": "Syphilitic–Cancerinic",
+        "notes": "Pseudobulbar affect — important emotional marker"
+      }
+    ]
+  },
+  {
+    "deep_extensions": [
+      {
+        "rubric": "Bladder weakness: incontinence or retention in MS",
+        "grading": {
+          "high": ["Causticum", "Kali bromatum", "Equisetum"],
+          "medium": ["Merc sol", "Belladonna"],
+          "low": ["Sepia"]
+        },
+        "modality": "< night, < cold, < before urination",
+        "miasm": "Syphilitic",
+        "notes": "Neurogenic bladder due to spinal cord plaques"
+      },
+      {
+        "rubric": "Diplopia or double vision during MS attack",
+        "grading": {
+          "high": ["Gelsemium", "Physostigma", "Paris quadrifolia"],
+          "medium": ["Phosphorus", "Belladonna"],
+          "low": ["Cicuta"]
+        },
+        "modality": "< light, < motion, > closing eyes",
+        "miasm": "Syphilitic",
+        "notes": "Brainstem demyelination; early clue to MS"
+      },
+      {
+        "rubric": "Difficulty in speech (dysarthria, slurred words)",
+        "grading": {
+          "high": ["Baryta carb", "Causticum", "Cannabis indica"],
+          "medium": ["Belladonna", "Hyoscyamus"],
+          "low": ["Stramonium"]
+        },
+        "modality": "< public speaking, < evening, > silence",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Cerebellar/cranial nerve impairment sign"
+      },
+      {
+        "rubric": "Chilly but heat aggravates the MS state",
+        "grading": {
+          "high": ["Silicea", "Phosphorus", "Calcarea carb"],
+          "medium": ["Sulphur", "Psorinum"],
+          "low": ["Kali carb"]
+        },
+        "modality": "< exertion, < warm room, > fanning",
+        "miasm": "Psora–Tubercular",
+        "notes": "Paradoxical modality typical in autoimmune states"
+      },
+      {
+        "rubric": "MS after long-standing guilt, grief, or humiliation",
+        "grading": {
+          "high": ["Aurum met", "Natrum mur", "Staphysagria"],
+          "medium": ["Ignatia", "Carcinosinum"],
+          "low": ["Sepia"]
+        },
+        "modality": "< suppressed grief, < loneliness",
+        "miasm": "Psoric–Cancerinic",
+        "notes": "Frequently seen in female MS patients"
+      },
+      {
+        "rubric": "Attacks triggered by vaccination or viral illness",
+        "grading": {
+          "high": ["Thuja", "Silicea", "Sulphur"],
+          "medium": ["Carcinosinum", "Vaccininum"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< after vaccines, < suppressed eruptions",
+        "miasm": "Sycosis–Mixed",
+        "notes": "Common etiological layer in relapsing MS"
+      },
+      {
+        "rubric": "MS with recurring attacks followed by long weakness",
+        "grading": {
+          "high": ["Phosphoric acid", "Gelsemium", "Picric acid"],
+          "medium": ["Conium", "Zincum"],
+          "low": ["China"]
+        },
+        "modality": "< heat, < minimal exertion, > deep sleep",
+        "miasm": "Tubercular–Psoric",
+        "notes": "Relapsing-remitting MS pattern"
+      },
+      {
+        "rubric": "Craving for cold drinks and open air in MS",
+        "grading": {
+          "high": ["Phosphorus", "Sulphur", "Natrum mur"],
+          "medium": ["Carbo veg", "Lycopodium"],
+          "low": ["Silicea"]
+        },
+        "modality": "< warmth, < crowded rooms, > cold drinks",
+        "miasm": "Psora–Tubercular",
+        "notes": "Often overlaps with phosphorus-like constitutions"
+      },
+      {
+        "rubric": "Worse in morning on waking, stiff, uncoordinated",
+        "grading": {
+          "high": ["Rhus tox", "Causticum", "Bryonia"],
+          "medium": ["Gelsemium", "Conium"],
+          "low": ["Sulphur"]
+        },
+        "modality": "< first motion, < cold morning air, > continued motion",
+        "miasm": "Psoric–Sycosis",
+        "notes": "Axonal stiffness + brain–muscle miscoordination"
+      },
+      {
+        "rubric": "Intercurrent remedy needed to unblock progress in chronic MS",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Medorrhinum"],
+          "medium": ["Tuberculinum", "Syphilinum"],
+          "low": ["Sulphur"]
+        },
+        "modality": "< suppression, < hereditary load",
+        "miasm": "Mixed miasm",
+        "notes": "Useful when constitutional fails repeatedly"
+      }
+    ]
+  },
+  {
+    "mental_extensions": [
+      {
+        "rubric": "Delusion: body is breaking down or falling apart",
+        "grading": {
+          "high": ["Syphilinum", "Phosphorus", "Anacardium"],
+          "medium": ["Aur met", "Stramonium"],
+          "low": ["Cannabis indica"]
+        },
+        "modality": "< alone, < twilight",
+        "miasm": "Syphilitic",
+        "notes": "Severe body-image distortion in degenerative states"
+      },
+      {
+        "rubric": "Hopelessness about recovery; believes disease is incurable",
+        "grading": {
+          "high": ["Psorinum", "Aurum met", "Carcinosinum"],
+          "medium": ["Ignatia", "Silicea"],
+          "low": ["Sepia"]
+        },
+        "modality": "< silence, < nights",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Seen in advanced MS with frequent relapses"
+      },
+      {
+        "rubric": "Sensation of being disconnected from body or surroundings",
+        "grading": {
+          "high": ["Cannabis indica", "Anacardium", "Agaricus"],
+          "medium": ["Stramonium", "Phosphoric acid"],
+          "low": ["Kali phos"]
+        },
+        "modality": "< night, < overstimulation",
+        "miasm": "Tubercular–Syphilitic",
+        "notes": "Neuro-psychiatric overlap; early CNS degeneration"
+      },
+      {
+        "rubric": "Suppressed anger or inability to express grief for years",
+        "grading": {
+          "high": ["Staphysagria", "Natrum mur", "Ignatia"],
+          "medium": ["Aurum met", "Sepia"],
+          "low": ["Phos acid"]
+        },
+        "modality": "< reprimand, < disappointment, > solitude",
+        "miasm": "Psoric–Cancerinic",
+        "notes": "Common emotional background in autoimmune MS"
+      },
+      {
+        "rubric": "Desire to be magnetized or influenced by external forces",
+        "grading": {
+          "high": ["Phosphorus", "Medorrhinum", "Silicea"],
+          "medium": ["Pulsatilla", "Stramonium"],
+          "low": ["Agaricus"]
+        },
+        "modality": "< moon phases, < touch, > prayer",
+        "miasm": "Sycosis–Tubercular",
+        "notes": "Energetic disorientation seen in long-term MS"
+      },
+      {
+        "rubric": "Marked craving for stimulants (coffee, chocolate, wine)",
+        "grading": {
+          "high": ["Phosphorus", "Nux vomica", "Sulphur"],
+          "medium": ["Carcinosinum", "Lachesis"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "< long fatigue, > short excitement",
+        "miasm": "Psoric–Tubercular",
+        "notes": "Attempt to self-correct chronic energy collapse"
+      },
+      {
+        "rubric": "Childhood trauma or bullying precedes disease onset",
+        "grading": {
+          "high": ["Carcinosinum", "Staphysagria", "Natrum mur"],
+          "medium": ["Ignatia", "Silicea"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< suppressed emotions, < authority abuse",
+        "miasm": "Psoric–Cancerinic",
+        "notes": "Common trauma-linked personality found in autoimmunity"
+      },
+      {
+        "rubric": "Marked improvement in ocean, open air, or mountains",
+        "grading": {
+          "high": ["Phosphorus", "Medorrhinum", "Tuberculinum"],
+          "medium": ["Sulphur", "Carcinosinum"],
+          "low": ["Psorinum"]
+        },
+        "modality": "> ocean air, > mountain trips",
+        "miasm": "Tubercular",
+        "notes": "Constitutional hint when choosing deep-acting remedy"
+      }
+    ]
+  },
+  {
+    "disease": "Autoimmune Hepatitis",
+    "tags": ["Liver", "Autoimmune", "ChronicInflammation", "Hepatic"],
+    "rubrics": [
+      {
+        "rubric": "Liver inflammation with chronic fatigue and right hypochondriac pain",
+        "grading": {
+          "high": ["Chelidonium", "Lycopodium", "Carduus marianus"],
+          "medium": ["Chionanthus", "Nux vomica"],
+          "low": ["Bryonia"]
+        },
+        "modality": "< pressure, < lying on right side, > hot drinks",
+        "miasm": "Psora–Sycosis",
+        "notes": "Hepatomegaly with tiredness and subacute inflammation"
+      },
+      {
+        "rubric": "Jaundice with dull aching liver pain",
+        "grading": {
+          "high": ["Chelidonium", "Mercurius", "Phosphorus"],
+          "medium": ["Berberis", "Myristica"],
+          "low": ["Taraxacum"]
+        },
+        "modality": "< morning, < fatty food, > warm compress",
+        "miasm": "Syphilitic",
+        "notes": "Slow progressing jaundice in immune liver cases"
+      },
+      {
+        "rubric": "Burning in liver region with anxiety or mental unrest",
+        "grading": {
+          "high": ["Phosphorus", "Arsenicum", "Iodum"],
+          "medium": ["Lycopodium", "Sulphur"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "< night, < alone, > cold drinks",
+        "miasm": "Tubercular–Syphilitic",
+        "notes": "Autoimmune liver inflammation often presents with heat/burning"
+      },
+      {
+        "rubric": "Hormonal disturbances: irregular menses or amenorrhea with liver dysfunction",
+        "grading": {
+          "high": ["Sepia", "Pulsatilla", "Lycopodium"],
+          "medium": ["Sulphur", "Ignatia"],
+          "low": ["Cyclamen"]
+        },
+        "modality": "< heat, < suppressed emotions, > exercise",
+        "miasm": "Psoric–Sycosis",
+        "notes": "Estrogen metabolism altered due to liver immune pathology"
+      },
+      {
+        "rubric": "Emotional suppression or grief before liver disease onset",
+        "grading": {
+          "high": ["Natrum mur", "Ignatia", "Staphysagria"],
+          "medium": ["Phosphoric acid", "Sepia"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< silent grief, < insult, > counseling",
+        "miasm": "Psoric–Cancerinic",
+        "notes": "Strong correlation with long-standing emotional conflict"
+      },
+      {
+        "rubric": "Worse from suppression of skin eruptions before onset of hepatitis",
+        "grading": {
+          "high": ["Sulphur", "Psorinum", "Thuja"],
+          "medium": ["Graphites", "Silicea"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< suppressions, < topical steroids, > skin expression",
+        "miasm": "Psora–Sycosis",
+        "notes": "Classic layer indicating miasmatic blockage"
+      },
+      {
+        "rubric": "Autoimmune hepatitis after vaccination or viral infection",
+        "grading": {
+          "high": ["Thuja", "Silicea", "Sulphur"],
+          "medium": ["Carcinosinum", "Phosphorus"],
+          "low": ["Syphilinum"]
+        },
+        "modality": "< post-vaccine, < cold weather, < grief",
+        "miasm": "Sycosis–Mixed",
+        "notes": "Etiological correlation with vaccines (e.g., Hep-B)"
+      },
+      {
+        "rubric": "Liver dysfunction with constipation and bloating",
+        "grading": {
+          "high": ["Lycopodium", "Nux vomica", "Chelidonium"],
+          "medium": ["Sulphur", "Hydrastis"],
+          "low": ["Taraxacum"]
+        },
+        "modality": "< after meals, < sweets, > motion",
+        "miasm": "Psora",
+        "notes": "GI sluggishness due to hepatic congestion"
+      }
+    ]
+  },
+  {
+    "deep_extensions": [
+      {
+        "rubric": "Delusion: something is wrong with internal organs, fear of liver disease",
+        "grading": {
+          "high": ["Phosphorus", "Aurum muriaticum", "Anacardium"],
+          "medium": ["Nux vomica", "Ignatia"],
+          "low": ["Calcarea sulph"]
+        },
+        "modality": "< evening, < after food, > reassurance",
+        "miasm": "Syphilitic",
+        "notes": "Hypochondriacal focus on liver — seen in early autoimmune liver decline"
+      },
+      {
+        "rubric": "Chronic autoimmune hepatitis in perfectionistic, overly responsible individuals",
+        "grading": {
+          "high": ["Carcinosinum", "Natrum mur", "Phosphoric acid"],
+          "medium": ["Silicea", "Sepia"],
+          "low": ["Staphysagria"]
+        },
+        "modality": "< stress, < criticism, > calm and creative activity",
+        "miasm": "Cancerinic",
+        "notes": "Constitutional trait seen in silent autoimmune inflammation cases"
+      },
+      {
+        "rubric": "Hepatitis after suppression of menses, eruptions, or emotional expression",
+        "grading": {
+          "high": ["Sulphur", "Psorinum", "Thuja"],
+          "medium": ["Lachesis", "Pulsatilla"],
+          "low": ["Sepia"]
+        },
+        "modality": "< suppressed discharge or grief, > physical expression (crying, eruption)",
+        "miasm": "Psora–Sycosis",
+        "notes": "Suppression → autoimmune trigger; classical layer"
+      },
+      {
+        "rubric": "Marked aversion to fats and alcohol with liver heat",
+        "grading": {
+          "high": ["Chelidonium", "Phosphorus", "Nux vomica"],
+          "medium": ["Carduus marianus", "China"],
+          "low": ["Taraxacum"]
+        },
+        "modality": "< fatty meals, < spicy food, > bland food",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Liver metabolic sensitivity common in autoimmune forms"
+      },
+      {
+        "rubric": "Desire for sour things and cold drinks with liver heat",
+        "grading": {
+          "high": ["Phosphorus", "Sulphur", "Lycopodium"],
+          "medium": ["Pulsatilla", "Iodum"],
+          "low": ["Natrum mur"]
+        },
+        "modality": "< warm room, < mental exertion, > cold drinks",
+        "miasm": "Tubercular",
+        "notes": "Cravings guiding deep remedy in hepatic autoimmune state"
+      },
+      {
+        "rubric": "Family history of autoimmune disease or suppressed skin conditions",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Medorrhinum"],
+          "medium": ["Thuja", "Sulphur"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< genetic stress, < suppressed family history",
+        "miasm": "Mixed miasms",
+        "notes": "Nosode often needed when chronic remedy fails"
+      },
+      {
+        "rubric": "Liver disease after hepatitis vaccination or typhoid vaccination",
+        "grading": {
+          "high": ["Thuja", "Silicea", "Sulphur"],
+          "medium": ["Vaccininum", "Phosphorus"],
+          "low": ["Syphilinum"]
+        },
+        "modality": "< post-vaccine, < winter, > constitutional detox",
+        "miasm": "Sycosis–Mixed",
+        "notes": "Important intercurrent block for treatment in suppressed liver patients"
+      },
+      {
+        "rubric": "Chronic autoimmune hepatitis with spiritual detachment or metaphysical fear",
+        "grading": {
+          "high": ["Phosphorus", "Carcinosinum", "Aurum mur"],
+          "medium": ["Cannabis indica", "Anacardium"],
+          "low": ["Stramonium"]
+        },
+        "modality": "< isolation, < twilight, > prayer or guided meditation",
+        "miasm": "Cancerinic–Syphilitic",
+        "notes": "Constitutional guidance in long autoimmune journey"
+      }
+    ]
+  },
+  {
+    "miasmatic_interpretation": [
+      {
+        "miasm": "Psora",
+        "features": "Functional disturbance, mild inflammation, sluggish liver function, slow onset with general fatigue.",
+        "rubric_examples": [
+          "Liver dysfunction with constipation and bloating",
+          "Hormonal disturbances with irregular menses",
+          "Aversion to fatty foods with heaviness after meals"
+        ],
+        "top_remedies": ["Lycopodium", "Nux vomica", "Sepia"],
+        "ai_notes": "Select this miasm if the case shows slowness, non-destructive changes, or early functional issues."
+      },
+      {
+        "miasm": "Sycosis",
+        "features": "Proliferative pathology, glandular swelling, history of suppression (skin/menses/vaccine).",
+        "rubric_examples": [
+          "Autoimmune hepatitis after vaccination or viral infection",
+          "Suppressed menses with liver symptoms",
+          "Worse from suppression of eruptions"
+        ],
+        "top_remedies": ["Thuja", "Sulphur", "Pulsatilla"],
+        "ai_notes": "Consider when there is history of suppression, hormonal overlap, or past gonorrheal history."
+      },
+      {
+        "miasm": "Syphilitic",
+        "features": "Degenerative, destructive liver changes, jaundice, cirrhosis, hopelessness or delusions about death.",
+        "rubric_examples": [
+          "Delusion something is wrong with liver",
+          "Chronic jaundice with pain",
+          "Fear liver will fail or cancer will develop"
+        ],
+        "top_remedies": ["Phosphorus", "Merc sol", "Aurum muriaticum"],
+        "ai_notes": "Use in advanced liver disease, cirrhosis signs, emotional despair, or degenerative imaging findings."
+      },
+      {
+        "miasm": "Tubercular",
+        "features": "Alternating acute/chronic liver flares, exhaustion, craving for sour/cold, heat aggravates.",
+        "rubric_examples": [
+          "Burning liver with anxiety",
+          "Marked craving for sour things",
+          "Relapsing attacks with fatigue"
+        ],
+        "top_remedies": ["Phosphorus", "Sulphur", "Tuberculinum"],
+        "ai_notes": "Suggest in relapsing autoimmune hepatitis or patients with strong craving patterns and mental restlessness."
+      },
+      {
+        "miasm": "Cancerinic",
+        "features": "Silent grief, perfectionism, suppressed trauma, liver involvement without strong rubrics.",
+        "rubric_examples": [
+          "Perfectionistic person with liver inflammation",
+          "Hepatitis after long emotional suppression",
+          "Family history of autoimmune diseases"
+        ],
+        "top_remedies": ["Carcinosinum", "Ignatia", "Natrum mur"],
+        "ai_notes": "Use when no rubrics are strong, but strong emotional background or perfectionist personality is present."
+      },
+      {
+        "miasm": "Mixed",
+        "features": "Multiple miasmatic overlaps: suppressed emotions + destructive pathology + hormonal issues.",
+        "rubric_examples": [
+          "Autoimmune hepatitis post vaccine",
+          "History of hormonal block + skin suppression",
+          "Genetic predisposition to autoimmunity"
+        ],
+        "top_remedies": ["Sulphur", "Psorinum", "Carcinosinum", "Medorrhinum"],
+        "ai_notes": "Mixed miasms need nosode intercurrents, then constitutional remedies. Useful in stuck cases."
+      }
+    ]
+  },
+  {
+    "disease": "Inflammatory Bowel Disease (Crohn's & Ulcerative Colitis)",
+    "tags": [
+      "IBD",
+      "Crohn",
+      "UlcerativeColitis",
+      "Gastrointestinal",
+      "Autoimmune",
+      "ChronicDiarrhea"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Abdominal pain with chronic diarrhea and weakness",
+        "grading": {
+          "high": ["Phosphorus", "China", "Podophyllum"],
+          "medium": ["Sulphur", "Arsenicum alb"],
+          "low": ["Aloe", "Gambogia"]
+        },
+        "modality": "< morning, < before stool, > rest",
+        "miasm": "Psora–Tubercular",
+        "notes": "Main rubric in both Crohn's and UC with early energy depletion"
+      },
+      {
+        "rubric": "Bloody mucus stool with urgent desire and incomplete evacuation",
+        "grading": {
+          "high": ["Mercurius corrosivus", "Nux vomica", "Aloe"],
+          "medium": ["Nitric acid", "Colocynthis"],
+          "low": ["Sulphur"]
+        },
+        "modality": "< night, < cold drinks, < anxiety",
+        "miasm": "Syphilitic",
+        "notes": "Common in ulcerative colitis during active phase"
+      },
+      {
+        "rubric": "Colicky pain before stool with marked irritability",
+        "grading": {
+          "high": ["Colocynthis", "Nux vomica", "Chamomilla"],
+          "medium": ["Mag phos", "Dioscorea"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "< pressure, < touch, > bending double",
+        "miasm": "Psoric–Sycosis",
+        "notes": "Emotional sensitivity and gut–nerve axis in IBD"
+      },
+      {
+        "rubric": "Tenesmus with burning and raw sensation in rectum",
+        "grading": {
+          "high": ["Merc sol", "Cantharis", "Nitric acid"],
+          "medium": ["Ratanhia", "Capsicum"],
+          "low": ["Aesculus"]
+        },
+        "modality": "< after stool, < walking, > hot sitz bath",
+        "miasm": "Syphilitic",
+        "notes": "Deep mucosal inflammation in UC; also seen in proctitis stage"
+      },
+      {
+        "rubric": "Chronic IBD with exhaustion and craving for cold drinks",
+        "grading": {
+          "high": ["Phosphorus", "Veratrum album", "Sulphur"],
+          "medium": ["China", "Podophyllum"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "< night, < exertion, > rest and cold drinks",
+        "miasm": "Tubercular–Psoric",
+        "notes": "Tubercular pattern of chronic exhaustion with intestinal fluid loss"
+      },
+      {
+        "rubric": "IBD flares after emotional shocks, grief, or humiliation",
+        "grading": {
+          "high": ["Staphysagria", "Natrum mur", "Ignatia"],
+          "medium": ["Phosphoric acid", "Carcinosinum"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "< suppressed emotions, < insult, > consolation",
+        "miasm": "Psoric–Cancerinic",
+        "notes": "Mind–gut axis trigger commonly found in IBD onset"
+      },
+      {
+        "rubric": "Diarrhea after suppressing skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum", "Thuja"],
+          "medium": ["Graphites", "Lycopodium"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< skin suppression, < suppression of sweat",
+        "miasm": "Psora–Sycosis",
+        "notes": "Skin–gut axis imbalance especially in psoric-sycotic mixed cases"
+      },
+      {
+        "rubric": "IBD with alternating diarrhea and constipation",
+        "grading": {
+          "high": ["Lycopodium", "Nux vomica", "Sulphur"],
+          "medium": ["Ignatia", "Nat mur"],
+          "low": ["Calc carb"]
+        },
+        "modality": "< morning, < emotions, > calm activity",
+        "miasm": "Psoric–Tubercular",
+        "notes": "Fluctuating bowel pattern in remittent IBD with anxiety"
+      }
+    ]
+  },
+  {
+    "miasmatic_interpretation": [
+      {
+        "miasm": "Psora",
+        "features": "Functional gut complaints, bloating, food intolerance, early IBS-like symptoms",
+        "rubric_examples": [
+          "Abdominal pain with diarrhea and weakness",
+          "IBD with alternating constipation and diarrhea"
+        ],
+        "top_remedies": ["Lycopodium", "Nux vomica", "Pulsatilla"],
+        "ai_notes": "Choose when early stage, fatigue, and GI irregularity dominate"
+      },
+      {
+        "miasm": "Sycosis",
+        "features": "Thickened mucosa, chronic inflammatory tendency, suppressed eruptions",
+        "rubric_examples": [
+          "IBD after skin suppression",
+          "Flare after antibiotics or vaccine"
+        ],
+        "top_remedies": ["Thuja", "Medorrhinum", "Graphites"],
+        "ai_notes": "Choose when pathology is suppressed, recurring, and deep-seated"
+      },
+      {
+        "miasm": "Syphilitic",
+        "features": "Ulceration, bleeding, destruction of mucosa, hopelessness, delusions of decay",
+        "rubric_examples": [
+          "Bloody mucus stool with tenesmus",
+          "Delusion of damaged bowels"
+        ],
+        "top_remedies": ["Merc sol", "Nitric acid", "Phosphorus"],
+        "ai_notes": "Use in destructive UC/Crohn’s phases with bleeding and degeneration"
+      },
+      {
+        "miasm": "Tubercular",
+        "features": "Flaring nature, exhaustion, food cravings, alternating phases",
+        "rubric_examples": [
+          "IBD with chronic weakness and desire for cold food",
+          "Diarrhea with exhaustion"
+        ],
+        "top_remedies": ["Phosphorus", "Sulphur", "Podophyllum"],
+        "ai_notes": "Useful when relapse-remission and exhaustion cycles dominate"
+      },
+      {
+        "miasm": "Cancerinic",
+        "features": "Emotionally suppressed, perfectionist, autoimmune tendency, family history",
+        "rubric_examples": [
+          "IBD flares after humiliation or grief",
+          "Family history of autoimmunity"
+        ],
+        "top_remedies": ["Carcinosinum", "Ignatia", "Staphysagria"],
+        "ai_notes": "Constitutional support needed in deep autoimmune terrain"
+      }
+    ]
+  },
+  {
+    "intercurrent_layers": [
+      {
+        "rubric": "IBD with relapses after suppression of eruptions or vaccinations",
+        "nosodes": ["Psorinum", "Medorrhinum", "Tuberculinum", "Carcinosinum"],
+        "modality": "< skin suppression, < vaccine, > expression (discharge)",
+        "notes": "When indicated remedies fail or healing is blocked, nosodes restore receptivity"
+      },
+      {
+        "rubric": "IBD with deep syphilitic tendencies and mucosal degeneration",
+        "nosodes": ["Syphilinum", "Merc sol", "Nitric acid"],
+        "modality": "< night, < bleeding, < mental despair",
+        "notes": "Use when destructive ulceration or hopeless states dominate, esp. in UC"
+      },
+      {
+        "rubric": "IBD cases with family history of cancer or autoimmune syndromes",
+        "nosodes": ["Carcinosinum", "Bacillinum"],
+        "modality": "< stress, < anticipation, > rest",
+        "notes": "Cancerinic state blocks deep healing in emotionally repressed individuals"
+      },
+      {
+        "rubric": "IBD with alternating physical and mental complaints (skin → gut → mind)",
+        "nosodes": ["Psorinum", "Sulphur", "Lycopodium", "Thuja"],
+        "modality": "< emotions, < change of weather, > warmth",
+        "notes": "These states often present with alternating mental/emotional and GI crises"
+      }
+    ],
+    "remedy_states": [
+      {
+        "remedy": "Phosphorus",
+        "state": "Sensitive, fearful, craving cold drinks, burning diarrhea, anxious when alone",
+        "key_modalities": "< evening, < fasting, > cold food",
+        "use_when": "IBD with bleeding, weakness, and nervous exhaustion"
+      },
+      {
+        "remedy": "Sulphur",
+        "state": "Hot, offensive discharges, skin-gut link, intellectually active, poor hygiene",
+        "key_modalities": "< bathing, < 11am, > open air",
+        "use_when": "Chronic IBD cases with skin history, offensiveness, craving sweets"
+      },
+      {
+        "remedy": "Mercurius corrosivus",
+        "state": "Intense rectal tenesmus, frequent bleeding stools, destructive inflammation",
+        "key_modalities": "< night, < cold, < touch",
+        "use_when": "Ulcerative colitis with mucosal erosion and hemorrhage"
+      },
+      {
+        "remedy": "Nux vomica",
+        "state": "Irritable, sedentary lifestyle, alcoholic history, ineffectual urging for stool",
+        "key_modalities": "< morning, < spicy food, > rest",
+        "use_when": "IBD with colic, constipation-diarrhea alternation, stress-driven"
+      },
+      {
+        "remedy": "Staphysagria",
+        "state": "Mild externally, suppressed anger, grief, post-humiliation illness",
+        "key_modalities": "< insult, < after quarrel, > expression",
+        "use_when": "IBD after emotional trauma or shame, esp. with IBS-like features"
+      },
+      {
+        "remedy": "Aloe",
+        "state": "Weak anal sphincter, involuntary stool, morning urgency, gurgling diarrhea",
+        "key_modalities": "< heat, < standing, > lying down",
+        "use_when": "IBD with involuntary mucus stools and hemorrhoids"
+      }
+    ]
+  },
+  {
+    "disease": "Hashimoto's Thyroiditis / Autoimmune Hypothyroidism",
+    "tags": [
+      "Thyroid",
+      "Hashimoto",
+      "Autoimmune",
+      "Hormonal",
+      "ChronicFatigue",
+      "Hypothyroid"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Chronic fatigue with cold intolerance and thyroid dysfunction",
+        "grading": {
+          "high": ["Calcarea carbonica", "Sepia", "Phosphoric acid"],
+          "medium": ["Silicea", "Graphites"],
+          "low": ["Lycopodium", "Psorinum"]
+        },
+        "modality": "< cold, < morning, > warmth, > rest",
+        "miasm": "Psoric–Tubercular",
+        "notes": "Base layer in sluggish thyroid function due to chronic inflammation"
+      },
+      {
+        "rubric": "Hair fall with thyroid issues and emotional sensitivity",
+        "grading": {
+          "high": ["Fluoric acid", "Phosphorus", "Natrum mur"],
+          "medium": ["Sepia", "Calc carb"],
+          "low": ["Thyroidinum"]
+        },
+        "modality": "< after grief or suppression, < brushing hair, > mental relief",
+        "miasm": "Cancerinic–Psoric",
+        "notes": "Hair loss often precedes or parallels thyroid imbalance"
+      },
+      {
+        "rubric": "Weight gain despite low appetite and sluggish metabolism",
+        "grading": {
+          "high": ["Graphites", "Calcarea carb", "Sepia"],
+          "medium": ["Antimonium crudum", "Lycopodium"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< inactivity, < cold air, > motion",
+        "miasm": "Psoric–Sycosis",
+        "notes": "Hypothyroid basal state of metabolic stagnation"
+      },
+      {
+        "rubric": "Sadness or indifference with hormonal imbalance (especially menses-related)",
+        "grading": {
+          "high": ["Sepia", "Ignatia", "Natrum mur"],
+          "medium": ["Lachesis", "Pulsatilla"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< before menses, < consolation, > crying or alone",
+        "miasm": "Cancerinic–Psoric",
+        "notes": "Classic hormonal–emotional rubrics in thyroid autoimmunity"
+      },
+      {
+        "rubric": "Throat swelling or fullness, globus sensation in thyroid cases",
+        "grading": {
+          "high": ["Lachesis", "Spongia", "Iodum"],
+          "medium": ["Lycopodium", "Thyroidinum"],
+          "low": ["Bromium"]
+        },
+        "modality": "< touch, < pressure, < heat, > cold drinks",
+        "miasm": "Sycosis–Tubercular",
+        "notes": "Hashimoto’s with glandular hypertrophy or fibrotic nodules"
+      },
+      {
+        "rubric": "Thyroid dysfunction after childbirth, hormonal shock or vaccine",
+        "grading": {
+          "high": ["Sepia", "Carcinosinum", "Silicea"],
+          "medium": ["Ignatia", "Thyroidinum"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< postpartum, < after vaccine, < emotional shock",
+        "miasm": "Sycosis–Cancerinic",
+        "notes": "Key etiology for autoimmune thyroiditis in women"
+      },
+      {
+        "rubric": "Slow memory, mental dullness with hypothyroid states",
+        "grading": {
+          "high": ["Baryta carb", "Phosphoric acid", "Calc carb"],
+          "medium": ["Lycopodium", "Silicea"],
+          "low": ["Thyroidinum"]
+        },
+        "modality": "< mental exertion, < evening, > rest",
+        "miasm": "Psoric",
+        "notes": "Cognitive fog and reduced focus from hormonal dysregulation"
+      }
+    ]
+  },
+  {
+    "deep_extensions": [
+      {
+        "rubric": "Hypothyroidism with prolonged grief, suppression of emotions",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur", "Sepia"],
+          "medium": ["Carcinosinum", "Pulsatilla"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< alone, < consolation, > sobbing or sleep",
+        "miasm": "Cancerinic–Psoric",
+        "notes": "Emotional etiology in many female Hashimoto’s cases"
+      },
+      {
+        "rubric": "Thyroid autoimmunity after humiliation, betrayal, or suppressed anger",
+        "grading": {
+          "high": ["Staphysagria", "Lachesis", "Carcinosinum"],
+          "medium": ["Sepia", "Natrum mur"],
+          "low": ["Aurum mur"]
+        },
+        "modality": "< after insult, < suppressed expression, > release of emotion",
+        "miasm": "Cancerinic–Sycosis",
+        "notes": "Suppressed emotional trauma as autoimmune trigger"
+      },
+      {
+        "rubric": "Chronic anxiety about health or future with hormonal imbalance",
+        "grading": {
+          "high": ["Argentum nitricum", "Calc carb", "Lycopodium"],
+          "medium": ["Phosphorus", "Ignatia"],
+          "low": ["Thyroidinum"]
+        },
+        "modality": "< anticipation, < before appointments, > reassurance",
+        "miasm": "Psora–Tubercular",
+        "notes": "Seen in intelligent, perfectionist thyroid personalities"
+      },
+      {
+        "rubric": "Fear of cancer or death due to thyroid nodules or swelling",
+        "grading": {
+          "high": ["Phosphorus", "Lachesis", "Aurum mur"],
+          "medium": ["Sepia", "Thyroidinum"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< night, < alone, < palpitation",
+        "miasm": "Syphilitic–Cancerinic",
+        "notes": "Seen in hyper-aware or health-conscious women"
+      }
+    ]
+  },
+  {
+    "intercurrent_layers": [
+      {
+        "rubric": "Hashimoto’s with deep autoimmune inheritance or childhood suppression",
+        "nosodes": ["Carcinosinum", "Psorinum", "Medorrhinum"],
+        "notes": "Use when hormonal therapy is stuck or remedy action blocked"
+      },
+      {
+        "rubric": "Thyroid imbalance after vaccination or repeated antibiotics",
+        "nosodes": ["Thuja", "Silicea", "Carcinosinum"],
+        "notes": "Common in vaccine-triggered autoimmune thyroid flares"
+      },
+      {
+        "rubric": "Hashimoto’s with recurrent sore throats, tonsillitis, or post-viral onset",
+        "nosodes": ["Tuberculinum", "Bacillinum", "Thyroidinum"],
+        "notes": "Glandular axis nosodes when inflammation or fibrosis dominate"
+      }
+    ]
+  },
+  {
+    "miasmatic_interpretation": [
+      {
+        "miasm": "Psora",
+        "features": "Functional slowness, fatigue, poor memory, cold intolerance",
+        "rubric_examples": ["Fatigue + cold", "Slow mental function"],
+        "top_remedies": ["Calc carb", "Phos acid", "Thyroidinum"],
+        "ai_notes": "Use in early hypothyroid without destructive change"
+      },
+      {
+        "miasm": "Sycosis",
+        "features": "Glandular swelling, weight gain, water retention",
+        "rubric_examples": ["Weight gain without appetite", "Throat swelling"],
+        "top_remedies": ["Graphites", "Sepia", "Silicea"],
+        "ai_notes": "Use in sluggish metabolism with glandular buildup"
+      },
+      {
+        "miasm": "Syphilitic",
+        "features": "Nodular fibrosis, fear of degeneration, insomnia, hopelessness",
+        "rubric_examples": ["Fear of cancer", "Memory loss"],
+        "top_remedies": ["Phosphorus", "Aurum mur", "Lachesis"],
+        "ai_notes": "Use when destructive or degenerative thyroid pathology is present"
+      },
+      {
+        "miasm": "Cancerinic",
+        "features": "Perfectionism, silent grief, autoimmune family history",
+        "rubric_examples": [
+          "Grief with thyroid imbalance",
+          "After betrayal or abuse"
+        ],
+        "top_remedies": ["Carcinosinum", "Ignatia", "Staphysagria"],
+        "ai_notes": "Use in chronic stuck Hashimoto’s cases with emotional triggers"
+      },
+      {
+        "miasm": "Tubercular",
+        "features": "Fluctuating thyroid states, heat sensitivity, hormonal sensitivity",
+        "rubric_examples": [
+          "Anxiety with craving sour",
+          "Alternating cold/hot phases"
+        ],
+        "top_remedies": ["Phosphorus", "Lycopodium", "Tuberculinum"],
+        "ai_notes": "Use in alternating hyper-hypo or mixed metabolic types"
+      }
+    ]
+  },
+  {
+    "remedy_states": [
+      {
+        "remedy": "Sepia",
+        "state": "Indifferent to family, chilly, irritable before menses, hormonal dullness",
+        "key_modalities": "< before menses, < consolation, > vigorous exercise",
+        "use_when": "Classic hormonal case with thyroid + menses link"
+      },
+      {
+        "remedy": "Graphites",
+        "state": "Obese, sluggish, constipated, chilly, sad but unable to cry",
+        "key_modalities": "< cold, < morning, > heat, > eating",
+        "use_when": "Hashimoto's with dryness, eczema, weight gain"
+      },
+      {
+        "remedy": "Calcarea carbonica",
+        "state": "Chilly, anxious about health, sweats on head, sluggish digestion",
+        "key_modalities": "< exertion, < cold, > warmth",
+        "use_when": "Hypothyroid cases with strong psoric and childhood constitutional pattern"
+      },
+      {
+        "remedy": "Thyroidinum",
+        "state": "Used as organ remedy in thyroid disorders with metabolic depression",
+        "key_modalities": "General < exertion, < mental effort",
+        "use_when": "When symptoms are strongly gland-based but poorly defined"
+      },
+      {
+        "remedy": "Lachesis",
+        "state": "Talkative, jealous, left-sided swelling, heat intolerance, vivid dreams",
+        "key_modalities": "< heat, < touch, > discharges",
+        "use_when": "Thyroid with fibrotic, syphilitic or post-menopausal tendency"
+      }
+    ]
+  },
+  {
+    "disease": "Celiac Disease (Autoimmune Gluten Sensitivity)",
+    "tags": ["Celiac", "IBD", "Autoimmune", "Gut", "Skin", "FoodAllergy"],
+    "rubrics": [
+      {
+        "rubric": "Chronic diarrhea with bloating, flatulence, and malabsorption",
+        "grading": {
+          "high": ["China", "Aloe socotrina", "Natrum sulph"],
+          "medium": ["Podophyllum", "Phosphorus"],
+          "low": ["Silicea"]
+        },
+        "modality": "< wheat/gluten, < morning, > lying on abdomen",
+        "miasm": "Tubercular–Sycosis",
+        "notes": "Key gut symptoms in celiac"
+      },
+      {
+        "rubric": "Dermatitis herpetiformis or itchy rashes from gluten intolerance",
+        "grading": {
+          "high": ["Sulphur", "Arsenicum album", "Graphites"],
+          "medium": ["Rhus tox", "Natrum mur"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< heat, < night, > cold washing",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Autoimmune skin–gut axis symptom"
+      },
+      {
+        "rubric": "Malnourishment despite eating, emaciation in children",
+        "grading": {
+          "high": ["Tuberculinum", "Calcarea phos", "Phosphorus"],
+          "medium": ["Natrum mur", "Abrotanum"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "< after milk/wheat, < activity, > rest",
+        "miasm": "Tubercular–Psoric",
+        "notes": "Classic in pediatric celiac or weak constitutions"
+      },
+      {
+        "rubric": "Cravings and aggravations from bread, wheat, farinaceous food",
+        "grading": {
+          "high": ["Natrum sulph", "Calcarea carb", "Lycopodium"],
+          "medium": ["Ignatia", "China"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "< farinaceous food, < sweet bread, > fasting",
+        "miasm": "Sycosis–Psoric",
+        "notes": "Confirms food-sensitivity link"
+      },
+      {
+        "rubric": "Irritability, sensitivity, and aversion to being contradicted",
+        "grading": {
+          "high": ["Lycopodium", "Nux vomica", "Sulphur"],
+          "medium": ["Phosphorus", "Carcinosinum"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< contradiction, < morning, > praise or alone",
+        "miasm": "Cancerinic–Psoric",
+        "notes": "Celiac temperament when untreated"
+      }
+    ],
+    "nosodes_and_intercurrents": [
+      {
+        "rubric": "Celiac cases with suppressed eruptions or family autoimmune history",
+        "nosodes": ["Carcinosinum", "Psorinum", "Tuberculinum"],
+        "notes": "Used as intercurrents for blocked response or slow progress"
+      },
+      {
+        "rubric": "Celiac with skin + emotional suppression history",
+        "nosodes": ["Sulphur", "Natrum mur", "Thuja"],
+        "notes": "Combine with miasmatic and emotional constitutional layers"
+      }
+    ],
+    "remedy_states": [
+      {
+        "remedy": "Natrum sulphuricum",
+        "state": "Sensitive to weather, intolerant of wheat, digestive disturbances with emotional dullness",
+        "key_modalities": "< damp weather, < bread, < morning",
+        "use_when": "Top remedy in confirmed gluten sensitivity with bilious stool"
+      },
+      {
+        "remedy": "Sulphur",
+        "state": "Hot, dirty, irritable, craving sweets, itchy skin with gut complaints",
+        "key_modalities": "< heat, < bathing, < night",
+        "use_when": "Celiac with itchy skin, poor digestion, and psoric layers"
+      },
+      {
+        "remedy": "Lycopodium",
+        "state": "Bloating, gas, hunger with irritability, craving sweets/bread",
+        "key_modalities": "< 4–8pm, < bread, < emotional suppression",
+        "use_when": "Celiac with GI + ego sensitivity"
+      },
+      {
+        "remedy": "Phosphorus",
+        "state": "Sensitive, thirst, craving cold drinks, rapid emaciation",
+        "key_modalities": "< talking, < cold, < emotional conflict",
+        "use_when": "Childhood celiac with systemic depletion"
+      },
+      {
+        "remedy": "Carcinosinum",
+        "state": "Suppressed, perfectionist, oversensitive child with food intolerance",
+        "key_modalities": "< reprimand, < expectations, > dancing or sympathy",
+        "use_when": "Autoimmune sensitivity with emotion–gut link"
+      }
+    ]
+  },
+  {
+    "deep_extensions": [
+      {
+        "rubric": "Aversion to bread; nausea or diarrhea after wheat",
+        "grading": {
+          "high": ["Natrum sulph", "Thuja"],
+          "medium": ["China", "Agaricus"],
+          "low": ["Antimonium crudum"]
+        },
+        "modality": "< bread, < farinaceous food, > plain food",
+        "miasm": "Sycosis–Psora",
+        "notes": "Core confirmatory symptom in celiac"
+      },
+      {
+        "rubric": "Diarrhea alternating with constipation in nervous children",
+        "grading": {
+          "high": ["Calcarea phos", "Phosphorus"],
+          "medium": ["Silicea", "Tuberculinum"],
+          "low": ["Zincum met"]
+        },
+        "modality": "< after fright, < milk, < bread",
+        "miasm": "Tubercular",
+        "notes": "Common in undiagnosed pediatric celiac"
+      },
+      {
+        "rubric": "Colicky pain and distension after eating wheat products",
+        "grading": {
+          "high": ["Colocynth", "Aloe", "Natrum sulph"],
+          "medium": ["Lycopodium", "China"],
+          "low": ["Ferrum phos"]
+        },
+        "modality": "< after farinaceous food, > bending double, > flatus",
+        "miasm": "Psora–Sycosis",
+        "notes": "Celiac variant with colicky gastritis pattern"
+      },
+      {
+        "rubric": "Emotional trauma or suppressed anger after food poisoning",
+        "grading": {
+          "high": ["Staphysagria", "Ignatia", "Carcinosinum"],
+          "medium": ["Natrum mur", "Lycopodium"],
+          "low": ["Anacardium"]
+        },
+        "modality": "< emotional suppression, < past abuse, < wheat",
+        "miasm": "Cancerinic–Sycosis",
+        "notes": "Deep constitutional links in autoimmune gut disorders"
+      },
+      {
+        "rubric": "Itching vesicular eruptions on elbows or knees (gluten rash)",
+        "grading": {
+          "high": ["Rhus tox", "Graphites", "Sulphur"],
+          "medium": ["Petroleum", "Ant crud"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< night, < scratching, > hot water",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Seen in dermatitis herpetiformis (autoimmune gluten skin reaction)"
+      }
+    ],
+    "remedy_additions": [
+      {
+        "remedy": "Abrotanum",
+        "state": "Marasmus in children with wormy look, emaciation despite good appetite",
+        "key_modalities": "< cold, < fasting, > eating",
+        "use_when": "Celiac with rapid weight loss and gut atrophy"
+      },
+      {
+        "remedy": "Agaricus",
+        "state": "Spasmodic gut issues with nervous symptoms and flatulence",
+        "key_modalities": "< cold, < touch, > motion",
+        "use_when": "Rare but useful when nerve–gut axis is involved"
+      },
+      {
+        "remedy": "Antimonium crudum",
+        "state": "Thick white-coated tongue, irritable, bread aggravates all complaints",
+        "key_modalities": "< bread, < overheating, > rest",
+        "use_when": "Celiac with skin + GI complaints + food aggravations"
+      },
+      {
+        "remedy": "Calcarea phos",
+        "state": "Thin, growing children with abdominal bloating and low assimilation",
+        "key_modalities": "< change of weather, < mental exertion",
+        "use_when": "Celiac in kids with poor growth and malnourishment"
+      }
+    ]
+  },
+  {
+    "disease": "Graves' Disease (Autoimmune Hyperthyroidism)",
+    "tags": ["Hyperthyroid", "Graves", "Autoimmune", "Endocrine", "Metabolic"],
+    "rubrics": [
+      {
+        "rubric": "Palpitations with trembling and anxiety < night",
+        "grading": {
+          "high": ["Phosphorus", "Lachesis", "Argentum nitricum"],
+          "medium": ["Spongia", "Gelsemium"],
+          "low": ["Kali phos"]
+        },
+        "modality": "< lying down, < heat, > open air",
+        "miasm": "Tubercular–Sycosis",
+        "notes": "Core rubric for hyperthyroid mental-physical axis"
+      },
+      {
+        "rubric": "Weight loss despite increased appetite",
+        "grading": {
+          "high": ["Iodum", "Natrum mur", "Phosphorus"],
+          "medium": ["Calcarea phos", "Sepia"],
+          "low": ["Syzygium jambolanum"]
+        },
+        "modality": "< physical exertion, < stress, > eating",
+        "miasm": "Tubercular",
+        "notes": "Common in young females with metabolic acceleration"
+      },
+      {
+        "rubric": "Heat intolerance, excessive sweating, < sun",
+        "grading": {
+          "high": ["Sulphur", "Lachesis", "Glonoinum"],
+          "medium": ["Nat mur", "Belladonna"],
+          "low": ["Fluoric acid"]
+        },
+        "modality": "< sun, < heat, > cold room",
+        "miasm": "Psora–Sycosis",
+        "notes": "Thermal modality marker of Graves"
+      },
+      {
+        "rubric": "Exophthalmic protrusion (thyroid eye disease)",
+        "grading": {
+          "high": ["Lycopodium", "Spongia", "Lachesis"],
+          "medium": ["Belladonna", "Phosphorus"],
+          "low": ["Iodum"]
+        },
+        "modality": "< light, < morning, > closing eyes",
+        "miasm": "Syphilitic–Cancerinic",
+        "notes": "Specific pathology-related rubric"
+      },
+      {
+        "rubric": "Restlessness and oversensitivity to emotions",
+        "grading": {
+          "high": ["Argentum nitricum", "Ignatia", "Phosphorus"],
+          "medium": ["Pulsatilla", "Nux vomica"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< anticipation, < contradiction, > company",
+        "miasm": "Cancerinic–Psora",
+        "notes": "Mind–glandular constitutional traits"
+      }
+    ],
+    "nosodes_and_intercurrents": [
+      {
+        "rubric": "Autoimmune hyperthyroidism with emotional suppression or post-vaccination",
+        "nosodes": ["Carcinosinum", "Thuja", "Medorrhinum"],
+        "notes": "Intercurrent nosodes helpful for reset or blocked response"
+      },
+      {
+        "rubric": "Graves’ with suppressed skin eruptions or miasmatic tendency",
+        "nosodes": ["Psorinum", "Tuberculinum"],
+        "notes": "Indicated when thermal imbalance + emotional link exists"
+      }
+    ],
+    "remedy_states": [
+      {
+        "remedy": "Iodum",
+        "state": "Restless, always eating but emaciating, overheated, anxious",
+        "key_modalities": "< heat, < fasting, > eating",
+        "use_when": "Specific for hyperthyroid state with mental + physical excess"
+      },
+      {
+        "remedy": "Lachesis",
+        "state": "Talkative, hot, jealousy, palpitations, worse on waking",
+        "key_modalities": "< left side, < heat, < tight clothes",
+        "use_when": "Emotional Graves’ state with oversensitivity and rush of blood"
+      },
+      {
+        "remedy": "Phosphorus",
+        "state": "Sensitive, burning, bleeding tendency, rapid breakdown",
+        "key_modalities": "< twilight, < emotions, > cold drinks",
+        "use_when": "Graves with nervous exhaustion and rapid metabolism"
+      },
+      {
+        "remedy": "Argentum nitricum",
+        "state": "Anxiety, tremor, hurried, digestive issues, fear of heights",
+        "key_modalities": "< anticipation, < sweets, < heat",
+        "use_when": "Nervous and anticipatory state seen in thyroid flare-ups"
+      },
+      {
+        "remedy": "Spongia tosta",
+        "state": "Dry cough, choking, thyroid gland swollen, tension in neck",
+        "key_modalities": "< lying down, > eating or warm drinks",
+        "use_when": "Useful for thyroid goitre and eye involvement"
+      }
+    ]
+  }
+]

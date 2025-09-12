@@ -1,0 +1,488 @@
+[
+  {
+    "disease": "Renal Calculi (Kidney Stones) - Core Rubrics",
+    "tags": [
+      "CommonChronic",
+      "RenalCalculi",
+      "Urinary",
+      "Colic",
+      "PainModalities",
+      "Miasmatic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Renal colic: Pain from kidney to bladder (radiating downward)",
+        "grading": {
+          "high": ["Berberis vulgaris", "Colocynthis"],
+          "medium": ["Cantharis", "Pareira brava"],
+          "low": ["Sarsaparilla", "Lycopodium"]
+        },
+        "modality": "Dragging or shooting pain from loin to urethra",
+        "miasm": "Psora-Sycosis",
+        "notes": "Pathognomonic of ureteric stone movement"
+      },
+      {
+        "rubric": "Pain in kidney region < motion, > pressure or lying on painful side",
+        "grading": {
+          "high": ["Bryonia", "Belladonna"],
+          "medium": ["Berberis", "Colocynthis"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Aggravated by walking or jerky movements",
+        "miasm": "Psora",
+        "notes": "Mechanical aggravation confirms calculus"
+      },
+      {
+        "rubric": "Burning urination with sharp cutting pain at end of urination",
+        "grading": {
+          "high": ["Cantharis", "Sarsaparilla"],
+          "medium": ["Berberis", "Nitric acid"],
+          "low": ["Apis", "Causticum"]
+        },
+        "modality": "Pain peaks after urine passes",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Bladder/urethra irritated by sharp calculi fragments"
+      },
+      {
+        "rubric": "Red or brick-dust sediment in urine (gravel)",
+        "grading": {
+          "high": ["Lycopodium", "Berberis"],
+          "medium": ["Sarsaparilla", "Nux vomica"],
+          "low": ["Sepia"]
+        },
+        "modality": "Urine cloudy or sandy, offensive odor",
+        "miasm": "Sycosis",
+        "notes": "Classic physical marker of uric acid stones"
+      },
+      {
+        "rubric": "Frequent urging with scanty urination and great pain",
+        "grading": {
+          "high": ["Cantharis", "Equisetum"],
+          "medium": ["Apis", "Berberis"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Patient feels incomplete emptying of bladder",
+        "miasm": "Psora",
+        "notes": "Urethral irritation and obstruction by calculi"
+      },
+      {
+        "rubric": "Renal colic > warm applications; < cold drinks",
+        "grading": {
+          "high": ["Colocynthis", "Berberis"],
+          "medium": ["Belladonna", "Cantharis"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Local heat soothes spasmodic pain",
+        "miasm": "Psora",
+        "notes": "Differentiating modality in acute cases"
+      },
+      {
+        "rubric": "Renal pain with nausea, vomiting or faintness",
+        "grading": {
+          "high": ["Tabacum", "Colocynthis"],
+          "medium": ["Veratrum album", "Berberis"],
+          "low": ["Ipecac", "Cuprum met"]
+        },
+        "modality": "Pain so intense it affects stomach and nerves",
+        "miasm": "Syphilitic",
+        "notes": "Renal crisis with vagal collapse picture"
+      },
+      {
+        "rubric": "Renal calculi in right kidney",
+        "grading": {
+          "high": ["Lycopodium", "Belladonna"],
+          "medium": ["Berberis", "Nux vomica"],
+          "low": ["Sarsaparilla"]
+        },
+        "modality": "Pain localised or referred to right groin",
+        "miasm": "Psora",
+        "notes": "Side preference used for remedy filtering"
+      },
+      {
+        "rubric": "Renal calculi in left kidney",
+        "grading": {
+          "high": ["Berberis", "Colocynthis"],
+          "medium": ["Belladonna", "Cantharis"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Pain in left loin and ureter, left thigh",
+        "miasm": "Psora",
+        "notes": "Left-sided predominance key in remedy choice"
+      },
+      {
+        "rubric": "Renal pain alternating with sciatica or lower limb pain",
+        "grading": {
+          "high": ["Berberis", "Colocynthis"],
+          "medium": ["Lycopodium", "Nux vomica"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Sciatica settles → kidney pain starts",
+        "miasm": "Psora-Sycosis",
+        "notes": "Pressure shift in urinary vs. nerve pathway"
+      }
+    ]
+  },
+  {
+    "disease": "Renal Calculi (Rare & Metabolic Rubrics)",
+    "tags": [
+      "CommonChronic",
+      "RenalCalculi",
+      "Emotional",
+      "UricAcid",
+      "SuppressionBased",
+      "RareModalities",
+      "Miasmatic",
+      "Diabetes"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Renal colic following suppression of skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Sepia"],
+          "low": ["Calcarea sulph"]
+        },
+        "modality": "H/O long use of ointments before onset of stones",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Suppressed excretory function redirects via kidneys"
+      },
+      {
+        "rubric": "Renal pain after anger, humiliation, or suppressed emotions",
+        "grading": {
+          "high": ["Staphysagria", "Nux vomica"],
+          "medium": ["Lycopodium", "Natrum mur"],
+          "low": ["Colocynthis"]
+        },
+        "modality": "Patient unable to express or release tension",
+        "miasm": "Psora-Sycosis",
+        "notes": "Mind–urinary organ axis critical in chronic cases"
+      },
+      {
+        "rubric": "Renal calculi alternating with urticaria or eczema",
+        "grading": {
+          "high": ["Sulphur", "Calcarea carb"],
+          "medium": ["Lycopodium", "Sepia"],
+          "low": ["Natrum sulph"]
+        },
+        "modality": "Skin clears up → renal colic starts",
+        "miasm": "Psora",
+        "notes": "Alternating miasmatic shift between skin and kidneys"
+      },
+      {
+        "rubric": "Renal stones in diabetic patients with acidity",
+        "grading": {
+          "high": ["Phosphorus", "Lycopodium"],
+          "medium": ["Uranium nitricum", "Nux vomica"],
+          "low": ["Argentum nitricum"]
+        },
+        "modality": "Stone attacks in metabolically compromised patients",
+        "miasm": "Sycosis",
+        "notes": "Metabolic stress → poor renal filtration"
+      },
+      {
+        "rubric": "Renal colic alternating with gastric or hepatic complaints",
+        "grading": {
+          "high": ["Lycopodium", "Chelidonium"],
+          "medium": ["Nux vomica", "Berberis"],
+          "low": ["Graphites"]
+        },
+        "modality": "When digestion improves, kidney pain appears",
+        "miasm": "Psora",
+        "notes": "Liver–kidney–gut cycle with miasmatic axis"
+      },
+      {
+        "rubric": "Renal calculi with chronic uric acid diathesis",
+        "grading": {
+          "high": ["Colchicum", "Benzoic acid"],
+          "medium": ["Lycopodium", "Berberis"],
+          "low": ["Sarsaparilla"]
+        },
+        "modality": "Uric acid crystals seen in urine or blood",
+        "miasm": "Sycosis",
+        "notes": "Gouty tendency with kidney involvement"
+      },
+      {
+        "rubric": "Renal colic preceded by fear, fright, or emotional shock",
+        "grading": {
+          "high": ["Aconite", "Gelsemium"],
+          "medium": ["Ignatia", "Phosphoric acid"],
+          "low": ["Argentum nitricum"]
+        },
+        "modality": "Fear triggers spasmodic kidney pain",
+        "miasm": "Psora-Tubercular",
+        "notes": "Emotional causation key in acute attack cases"
+      },
+      {
+        "rubric": "Renal stone pain in thin, sensitive, chilly persons",
+        "grading": {
+          "high": ["Phosphorus", "Silicea"],
+          "medium": ["Ignatia", "Pulsatilla"],
+          "low": ["Natrum carb"]
+        },
+        "modality": "Better warmth, emotional validation",
+        "miasm": "Tubercular",
+        "notes": "Constitutional guidance for long-term remedy"
+      },
+      {
+        "rubric": "Renal colic with strong family history of kidney stones",
+        "grading": {
+          "high": ["Calcarea carb", "Lycopodium"],
+          "medium": ["Berberis", "Sarsaparilla"],
+          "low": ["Silicea"]
+        },
+        "modality": "Early age, recurrent tendency",
+        "miasm": "Sycosis",
+        "notes": "Inherent metabolic type needing chronic remedy"
+      },
+      {
+        "rubric": "Kidney stone pain with sensation of sand or gravel passing",
+        "grading": {
+          "high": ["Sarsaparilla", "Berberis"],
+          "medium": ["Cantharis", "Lycopodium"],
+          "low": ["Equisetum"]
+        },
+        "modality": "Burning at meatus with fine sandy urine",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Classic passage-phase symptom"
+      }
+    ]
+  },
+  {
+    "disease": "Renal Calculi (Kidney Stones)",
+    "tags": [
+      "CommonChronic",
+      "RenalCalculi",
+      "Urinary",
+      "Colic",
+      "PainModalities",
+      "RareModalities",
+      "UricAcid",
+      "Diabetes",
+      "SuppressionBased",
+      "Emotional",
+      "Miasmatic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Renal colic: Pain from kidney to bladder (radiating downward)",
+        "grading": {
+          "high": ["Berberis vulgaris", "Colocynthis"],
+          "medium": ["Cantharis", "Pareira brava"],
+          "low": ["Sarsaparilla", "Lycopodium"]
+        },
+        "modality": "Dragging or shooting pain from loin to urethra",
+        "miasm": "Psora-Sycosis",
+        "notes": "Pathognomonic of ureteric stone movement"
+      },
+      {
+        "rubric": "Pain in kidney region < motion, > pressure or lying on painful side",
+        "grading": {
+          "high": ["Bryonia", "Belladonna"],
+          "medium": ["Berberis", "Colocynthis"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Aggravated by walking or jerky movements",
+        "miasm": "Psora",
+        "notes": "Mechanical aggravation confirms calculus"
+      },
+      {
+        "rubric": "Burning urination with sharp cutting pain at end of urination",
+        "grading": {
+          "high": ["Cantharis", "Sarsaparilla"],
+          "medium": ["Berberis", "Nitric acid"],
+          "low": ["Apis", "Causticum"]
+        },
+        "modality": "Pain peaks after urine passes",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Bladder/urethra irritated by sharp calculi fragments"
+      },
+      {
+        "rubric": "Red or brick-dust sediment in urine (gravel)",
+        "grading": {
+          "high": ["Lycopodium", "Berberis"],
+          "medium": ["Sarsaparilla", "Nux vomica"],
+          "low": ["Sepia"]
+        },
+        "modality": "Urine cloudy or sandy, offensive odor",
+        "miasm": "Sycosis",
+        "notes": "Classic physical marker of uric acid stones"
+      },
+      {
+        "rubric": "Frequent urging with scanty urination and great pain",
+        "grading": {
+          "high": ["Cantharis", "Equisetum"],
+          "medium": ["Apis", "Berberis"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Patient feels incomplete emptying of bladder",
+        "miasm": "Psora",
+        "notes": "Urethral irritation and obstruction by calculi"
+      },
+      {
+        "rubric": "Renal colic > warm applications; < cold drinks",
+        "grading": {
+          "high": ["Colocynthis", "Berberis"],
+          "medium": ["Belladonna", "Cantharis"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Local heat soothes spasmodic pain",
+        "miasm": "Psora",
+        "notes": "Differentiating modality in acute cases"
+      },
+      {
+        "rubric": "Renal pain with nausea, vomiting or faintness",
+        "grading": {
+          "high": ["Tabacum", "Colocynthis"],
+          "medium": ["Veratrum album", "Berberis"],
+          "low": ["Ipecac", "Cuprum met"]
+        },
+        "modality": "Pain so intense it affects stomach and nerves",
+        "miasm": "Syphilitic",
+        "notes": "Renal crisis with vagal collapse picture"
+      },
+      {
+        "rubric": "Renal calculi in right kidney",
+        "grading": {
+          "high": ["Lycopodium", "Belladonna"],
+          "medium": ["Berberis", "Nux vomica"],
+          "low": ["Sarsaparilla"]
+        },
+        "modality": "Pain localised or referred to right groin",
+        "miasm": "Psora",
+        "notes": "Side preference used for remedy filtering"
+      },
+      {
+        "rubric": "Renal calculi in left kidney",
+        "grading": {
+          "high": ["Berberis", "Colocynthis"],
+          "medium": ["Belladonna", "Cantharis"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Pain in left loin and ureter, left thigh",
+        "miasm": "Psora",
+        "notes": "Left-sided predominance key in remedy choice"
+      },
+      {
+        "rubric": "Renal pain alternating with sciatica or lower limb pain",
+        "grading": {
+          "high": ["Berberis", "Colocynthis"],
+          "medium": ["Lycopodium", "Nux vomica"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Sciatica settles → kidney pain starts",
+        "miasm": "Psora-Sycosis",
+        "notes": "Pressure shift in urinary vs. nerve pathway"
+      },
+      {
+        "rubric": "Renal colic following suppression of skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Sepia"],
+          "low": ["Calcarea sulph"]
+        },
+        "modality": "H/O long use of ointments before onset of stones",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Suppressed excretory function redirects via kidneys"
+      },
+      {
+        "rubric": "Renal pain after anger, humiliation, or suppressed emotions",
+        "grading": {
+          "high": ["Staphysagria", "Nux vomica"],
+          "medium": ["Lycopodium", "Natrum mur"],
+          "low": ["Colocynthis"]
+        },
+        "modality": "Patient unable to express or release tension",
+        "miasm": "Psora-Sycosis",
+        "notes": "Mind–urinary organ axis critical in chronic cases"
+      },
+      {
+        "rubric": "Renal calculi alternating with urticaria or eczema",
+        "grading": {
+          "high": ["Sulphur", "Calcarea carb"],
+          "medium": ["Lycopodium", "Sepia"],
+          "low": ["Natrum sulph"]
+        },
+        "modality": "Skin clears up → renal colic starts",
+        "miasm": "Psora",
+        "notes": "Alternating miasmatic shift between skin and kidneys"
+      },
+      {
+        "rubric": "Renal stones in diabetic patients with acidity",
+        "grading": {
+          "high": ["Phosphorus", "Lycopodium"],
+          "medium": ["Uranium nitricum", "Nux vomica"],
+          "low": ["Argentum nitricum"]
+        },
+        "modality": "Stone attacks in metabolically compromised patients",
+        "miasm": "Sycosis",
+        "notes": "Metabolic stress → poor renal filtration"
+      },
+      {
+        "rubric": "Renal colic alternating with gastric or hepatic complaints",
+        "grading": {
+          "high": ["Lycopodium", "Chelidonium"],
+          "medium": ["Nux vomica", "Berberis"],
+          "low": ["Graphites"]
+        },
+        "modality": "When digestion improves, kidney pain appears",
+        "miasm": "Psora",
+        "notes": "Liver–kidney–gut cycle with miasmatic axis"
+      },
+      {
+        "rubric": "Renal calculi with chronic uric acid diathesis",
+        "grading": {
+          "high": ["Colchicum", "Benzoic acid"],
+          "medium": ["Lycopodium", "Berberis"],
+          "low": ["Sarsaparilla"]
+        },
+        "modality": "Uric acid crystals seen in urine or blood",
+        "miasm": "Sycosis",
+        "notes": "Gouty tendency with kidney involvement"
+      },
+      {
+        "rubric": "Renal colic preceded by fear, fright, or emotional shock",
+        "grading": {
+          "high": ["Aconite", "Gelsemium"],
+          "medium": ["Ignatia", "Phosphoric acid"],
+          "low": ["Argentum nitricum"]
+        },
+        "modality": "Fear triggers spasmodic kidney pain",
+        "miasm": "Psora-Tubercular",
+        "notes": "Emotional causation key in acute attack cases"
+      },
+      {
+        "rubric": "Renal stone pain in thin, sensitive, chilly persons",
+        "grading": {
+          "high": ["Phosphorus", "Silicea"],
+          "medium": ["Ignatia", "Pulsatilla"],
+          "low": ["Natrum carb"]
+        },
+        "modality": "Better warmth, emotional validation",
+        "miasm": "Tubercular",
+        "notes": "Constitutional guidance for long-term remedy"
+      },
+      {
+        "rubric": "Renal colic with sensation of sand or gravel passing",
+        "grading": {
+          "high": ["Sarsaparilla", "Berberis"],
+          "medium": ["Cantharis", "Lycopodium"],
+          "low": ["Equisetum"]
+        },
+        "modality": "Burning at meatus with fine sandy urine",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Classic passage-phase symptom"
+      },
+      {
+        "rubric": "Renal colic with strong family history of kidney stones",
+        "grading": {
+          "high": ["Calcarea carb", "Lycopodium"],
+          "medium": ["Berberis", "Sarsaparilla"],
+          "low": ["Silicea"]
+        },
+        "modality": "Early age, recurrent tendency",
+        "miasm": "Sycosis",
+        "notes": "Inherent metabolic type needing chronic remedy"
+      }
+    ]
+  }
+]

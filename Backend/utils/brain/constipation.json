@@ -1,0 +1,300 @@
+[
+  {
+    "disease": "Constipation",
+    "tags": ["CommonChronic", "Gastrointestinal"],
+    "rubrics": [
+      {
+        "rubric": "Ineffectual urging for stool",
+        "grading": {
+          "high": ["Nux vomica", "Silicea"],
+          "medium": ["Aloe", "Bryonia"],
+          "low": ["Sepia", "Lycopodium"]
+        },
+        "modality": "Frequent urge with little/no result",
+        "miasm": "Psora",
+        "notes": "Classic rectal weakness pattern"
+      },
+      {
+        "rubric": "Constipation with hard, dry, knotty stool",
+        "grading": {
+          "high": ["Bryonia", "Alumina"],
+          "medium": ["Nux vomica", "Graphites"],
+          "low": ["Plumbum", "Sulphur"]
+        },
+        "modality": "Dryness and sluggish peristalsis",
+        "miasm": "Psora",
+        "notes": "Ball-like stool, great dryness"
+      },
+      {
+        "rubric": "No urge for stool at all",
+        "grading": {
+          "high": ["Opium", "Alumina"],
+          "medium": ["Plumbum", "Sepia"],
+          "low": ["Bryonia", "Nux moschata"]
+        },
+        "modality": "Atony of bowel; long intervals without urge",
+        "miasm": "Sycosis",
+        "notes": "Habitual constipation in old age or chronic suppression"
+      },
+      {
+        "rubric": "Constipation with flatulence and bloating",
+        "grading": {
+          "high": ["Lycopodium", "China"],
+          "medium": ["Nux vomica", "Sulphur"],
+          "low": ["Carbo veg", "Alumina"]
+        },
+        "modality": "Distension after meals with delayed stool",
+        "miasm": "Psora",
+        "notes": "Gas doesn't pass easily; relief after flatus"
+      },
+      {
+        "rubric": "Constipation in infants or children",
+        "grading": {
+          "high": ["Calcarea carb", "Magnesia mur"],
+          "medium": ["Chamomilla", "Alumina"],
+          "low": ["Silicea", "Opium"]
+        },
+        "modality": "Hard stool, crying while passing stool",
+        "miasm": "Psora",
+        "notes": "Developmental or milk-related constipation"
+      },
+      {
+        "rubric": "Constipation during pregnancy",
+        "grading": {
+          "high": ["Sepia", "Nux vomica"],
+          "medium": ["Pulsatilla", "Alumina"],
+          "low": ["Bryonia", "Calcarea carb"]
+        },
+        "modality": "Hormonal and venous stasis-related",
+        "miasm": "Psora-Sycosis",
+        "notes": "Sluggish bowel with heaviness and fullness"
+      },
+      {
+        "rubric": "Constipation alternating with diarrhea",
+        "grading": {
+          "high": ["Sulphur", "Nux vomica"],
+          "medium": ["Graphites", "Aloe"],
+          "low": ["Ignatia", "Lycopodium"]
+        },
+        "modality": "Unstable gut response, irritable bowel",
+        "miasm": "Psora-Sycosis",
+        "notes": "IBS pattern; sensitive bowel"
+      },
+      {
+        "rubric": "Painful stool with cracks or bleeding",
+        "grading": {
+          "high": ["Nitric acid", "Ratanhia"],
+          "medium": ["Aesculus", "Paeonia"],
+          "low": ["Nux vomica", "Graphites"]
+        },
+        "modality": "Dry stool tears anal lining",
+        "miasm": "Syphilis",
+        "notes": "Associated with fissures or hemorrhoids"
+      },
+      {
+        "rubric": "Constipation from travel or change of routine",
+        "grading": {
+          "high": ["Nux vomica", "Bryonia"],
+          "medium": ["Opium", "Lycopodium"],
+          "low": ["Sulphur", "Gelsemium"]
+        },
+        "modality": "Suppression from unfamiliar environment",
+        "miasm": "Psora",
+        "notes": "Businessmen, students, frequent travelers"
+      },
+      {
+        "rubric": "Constipation with ineffectual urging < morning",
+        "grading": {
+          "high": ["Nux vomica", "Natrum mur"],
+          "medium": ["Sulphur", "Silicea"],
+          "low": ["Ignatia", "Kali carb"]
+        },
+        "modality": "Long morning toilet time with no result",
+        "miasm": "Psora",
+        "notes": "Wakes early but can’t evacuate properly"
+      },
+      {
+        "rubric": "Constipation after suppression of emotions",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur"],
+          "medium": ["Nux vomica", "Sepia"],
+          "low": ["Gelsemium", "Alumina"]
+        },
+        "modality": "Stress or grief-related gut shutdown",
+        "miasm": "Psora",
+        "notes": "Functional bowel disorder post emotional trauma"
+      }
+    ]
+  },
+  {
+    "disease": "Constipation",
+    "tags": ["CommonChronic", "Gastrointestinal"],
+    "rubrics": [
+      {
+        "rubric": "Constipation < cold weather",
+        "grading": {
+          "high": ["Nux vomica", "Silicea"],
+          "medium": ["Graphites", "Alumina"],
+          "low": ["Sulphur", "Bryonia"]
+        },
+        "modality": "Worse in winter or after chill",
+        "miasm": "Psora",
+        "notes": "Dry mucous membranes, skin dryness common"
+      },
+      {
+        "rubric": "Constipation < after tea or coffee",
+        "grading": {
+          "high": ["Nux vomica", "Phosphorus"],
+          "medium": ["Ipecac", "Ignatia"],
+          "low": ["Graphites", "Natrum mur"]
+        },
+        "modality": "Stimulant worsens intestinal tone",
+        "miasm": "Psora-Sycosis",
+        "notes": "Common in sedentary habits with stimulants"
+      },
+      {
+        "rubric": "Constipation with no desire or sensation in rectum",
+        "grading": {
+          "high": ["Alumina", "Opium"],
+          "medium": ["Plumbum", "Sepia"],
+          "low": ["Silicea"]
+        },
+        "modality": "Even soft stool is retained",
+        "miasm": "Sycosis",
+        "notes": "Paralysis of rectum or nerve deficiency"
+      },
+      {
+        "rubric": "Constipation with anxiety before stool",
+        "grading": {
+          "high": ["Argentum nitricum", "Gelsemium"],
+          "medium": ["Nux vomica", "Ignatia"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Mental tension delays passage",
+        "miasm": "Psora",
+        "notes": "IBS-constipation variant with anticipatory anxiety"
+      },
+      {
+        "rubric": "Constipation in elderly people",
+        "grading": {
+          "high": ["Alumina", "Opium"],
+          "medium": ["Plumbum", "Sulphur"],
+          "low": ["Nux vomica", "Lycopodium"]
+        },
+        "modality": "Age-related sluggishness of gut",
+        "miasm": "Sycosis",
+        "notes": "Weak peristalsis, poor hydration"
+      },
+      {
+        "rubric": "Constipation from mental overwork",
+        "grading": {
+          "high": ["Nux vomica", "Picric acid"],
+          "medium": ["Gelsemium", "Phosphoric acid"],
+          "low": ["Lycopodium", "Alumina"]
+        },
+        "modality": "Brain fatigue weakens rectal tone",
+        "miasm": "Psora",
+        "notes": "Seen in students, professionals, exam stress"
+      },
+      {
+        "rubric": "Constipation after delivery",
+        "grading": {
+          "high": ["Sepia", "Pulsatilla"],
+          "medium": ["Calcarea carb", "Alumina"],
+          "low": ["Nux vomica", "Silicea"]
+        },
+        "modality": "Postpartum period with uterine pressure",
+        "miasm": "Psora-Sycosis",
+        "notes": "Hormonal, rectal insensitivity, weakness"
+      },
+      {
+        "rubric": "Constipation with lower backache",
+        "grading": {
+          "high": ["Aesculus", "Nux vomica"],
+          "medium": ["Sepia", "Bryonia"],
+          "low": ["Sulphur", "Graphites"]
+        },
+        "modality": "Lumbosacral heaviness before or during stool",
+        "miasm": "Psora",
+        "notes": "Associated with hemorrhoids/fissures"
+      },
+      {
+        "rubric": "Constipation during menses",
+        "grading": {
+          "high": ["Sepia", "Lachesis"],
+          "medium": ["Pulsatilla", "Graphites"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Hormonal bowel stasis",
+        "miasm": "Psora",
+        "notes": "Associated with dull pain, sluggish flow"
+      },
+      {
+        "rubric": "Rectum feels paralyzed",
+        "grading": {
+          "high": ["Alumina", "Plumbum"],
+          "medium": ["Sepia", "Opium"],
+          "low": ["Silicea"]
+        },
+        "modality": "Cannot expel stool despite straining",
+        "miasm": "Syphilis",
+        "notes": "Seen in neurological, elderly, post-surgical"
+      },
+      {
+        "rubric": "Stool partially passes, then slips back",
+        "grading": {
+          "high": ["Thuja", "Silicea"],
+          "medium": ["Nux vomica", "Alumina"],
+          "low": ["Graphites", "Calcarea carb"]
+        },
+        "modality": "Loss of expulsive power",
+        "miasm": "Sycosis",
+        "notes": "Classic key symptom for Thuja and Silicea"
+      },
+      {
+        "rubric": "Child afraid to pass stool",
+        "grading": {
+          "high": ["Phosphorus", "Magnesia mur"],
+          "medium": ["Chamomilla", "Silicea"],
+          "low": ["Nux vomica", "Opium"]
+        },
+        "modality": "Painful stool previously → fear now",
+        "miasm": "Psora",
+        "notes": "Child suppresses urge due to anal pain/fissure"
+      },
+      {
+        "rubric": "Constipation relieved by fruit diet",
+        "grading": {
+          "high": ["Graphites", "Pulsatilla"],
+          "medium": ["Alumina", "China"],
+          "low": ["Silicea"]
+        },
+        "modality": "High fiber relieves dryness/stool hardness",
+        "miasm": "Psora",
+        "notes": "Constitutional tendency improved with natural diet"
+      },
+      {
+        "rubric": "Constipation alternating with skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Lycopodium"],
+          "low": ["Sepia"]
+        },
+        "modality": "When eruptions vanish, constipation appears",
+        "miasm": "Psora",
+        "notes": "Suppressed skin = internal stagnation"
+      },
+      {
+        "rubric": "Constipation during migraine",
+        "grading": {
+          "high": ["Iris versicolor", "Sanguinaria"],
+          "medium": ["Nux vomica", "Gelsemium"],
+          "low": ["Belladonna", "Glonoinum"]
+        },
+        "modality": "Head–gut reflex dysfunction",
+        "miasm": "Psora",
+        "notes": "Often cyclical or hormonal headaches"
+      }
+    ]
+  }
+]

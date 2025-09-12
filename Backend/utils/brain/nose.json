@@ -1,0 +1,245 @@
+[
+  {
+    "NoseSigns": [
+      {
+        "rubric": "Nose - Discharge thick, yellow-green",
+        "grading": {
+          "high": ["Puls", "Kali-bi", "Hydr"],
+          "medium": ["Merc", "Sil", "Hep"],
+          "low": ["Calc", "Nat-s"]
+        },
+        "modality": "Worse in morning, in warm room",
+        "miasm": "Sycosis",
+        "notes": "Thick, stringy or mucopurulent nasal catarrh seen in sinusitis or chronic rhinitis. Kali bich and Hydrastis are key remedies."
+      },
+      {
+        "rubric": "Nose - Discharge thin, watery, acrid",
+        "grading": {
+          "high": ["Ars", "Allium-cepa", "Euphrasia"],
+          "medium": ["Sabad", "Gels", "Merc"],
+          "low": ["Nat-m", "Bell"]
+        },
+        "modality": "Worse in open air, evening, spring",
+        "miasm": "Psora",
+        "notes": "Common cold or hay fever with burning watery coryza. Allium cepa affects eyes and nose together."
+      },
+      {
+        "rubric": "Nose - Obstruction, can’t breathe through nose",
+        "grading": {
+          "high": ["Nux-v", "Am-c", "Samb"],
+          "medium": ["Puls", "Sil", "Calc"],
+          "low": ["Spig", "Lemna"]
+        },
+        "modality": "Worse at night, during sleep, in children",
+        "miasm": "Psora-Sycosis",
+        "notes": "Nasal blockage due to polyps, turbinate swelling, or allergic rhinitis. Sambucus especially in infants."
+      },
+      {
+        "rubric": "Nose - Bleeding, epistaxis",
+        "grading": {
+          "high": ["Ham", "Phos", "Carb-v"],
+          "medium": ["Bry", "China", "Ferr"],
+          "low": ["Bell", "Kali-n"]
+        },
+        "modality": "Worse during fever, in summer, after exertion",
+        "miasm": "Syphilis",
+        "notes": "Bleeding from nose, especially in anaemia, typhoid, or trauma. Hamamelis and Phosphorus help in passive bleeding."
+      },
+      {
+        "rubric": "Nose - Crusting, dry scabs inside",
+        "grading": {
+          "high": ["Kali-bi", "Graph", "Am-c"],
+          "medium": ["Petrol", "Nit-ac", "Sil"],
+          "low": ["Sulph", "Psor"]
+        },
+        "modality": "Worse in dry rooms, early morning",
+        "miasm": "Syphilis",
+        "notes": "Dry, bloody crusts inside nose; Kali bichromicum is a top remedy. Graphites when crusts alternate with skin eruptions."
+      },
+      {
+        "rubric": "Nose - Loss of smell (Anosmia)",
+        "grading": {
+          "high": ["Puls", "Nat-m", "Kali-bi"],
+          "medium": ["Thuja", "Phos", "Sil"],
+          "low": ["Con", "Carb-v"]
+        },
+        "modality": "After cold, sinusitis, or nasal polyps",
+        "miasm": "Sycosis",
+        "notes": "Anosmia after prolonged catarrh, polyp, or COVID. Kali bich and Natrum mur are commonly indicated."
+      },
+      {
+        "rubric": "Nose - Sneezing frequent, in paroxysms",
+        "grading": {
+          "high": ["Sabad", "Ars", "Allium-cepa"],
+          "medium": ["Euphrasia", "Nux-v", "Gels"],
+          "low": ["Sil", "Nat-m"]
+        },
+        "modality": "Worse in morning, spring, allergic weather",
+        "miasm": "Psora",
+        "notes": "Allergic rhinitis or hay fever; sneezing bouts often accompanied by acrid coryza."
+      }
+    ]
+  },
+  {
+    "NoseSigns": [
+      {
+        "rubric": "Nose - Discharge thick, yellow-green",
+        "grading": {
+          "high": ["Puls", "Kali-bi", "Hydr"],
+          "medium": ["Merc", "Sil", "Hep"],
+          "low": ["Calc", "Nat-s"]
+        },
+        "modality": "Worse in morning, in warm room",
+        "miasm": "Sycosis",
+        "notes": "Thick, stringy or mucopurulent nasal catarrh seen in sinusitis or chronic rhinitis. Kali bich and Hydrastis are key remedies."
+      },
+      {
+        "rubric": "Nose - Discharge thin, watery, acrid",
+        "grading": {
+          "high": ["Ars", "Allium-cepa", "Euphrasia"],
+          "medium": ["Sabad", "Gels", "Merc"],
+          "low": ["Nat-m", "Bell"]
+        },
+        "modality": "Worse in open air, evening, spring",
+        "miasm": "Psora",
+        "notes": "Common cold or hay fever with burning watery coryza. Allium cepa affects eyes and nose together."
+      },
+      {
+        "rubric": "Nose - Obstruction, can’t breathe through nose",
+        "grading": {
+          "high": ["Nux-v", "Am-c", "Samb"],
+          "medium": ["Puls", "Sil", "Calc"],
+          "low": ["Spig", "Lemna"]
+        },
+        "modality": "Worse at night, during sleep, in children",
+        "miasm": "Psora-Sycosis",
+        "notes": "Nasal blockage due to polyps, turbinate swelling, or allergic rhinitis. Sambucus especially in infants."
+      },
+      {
+        "rubric": "Nose - Bleeding, epistaxis",
+        "grading": {
+          "high": ["Ham", "Phos", "Carb-v"],
+          "medium": ["Bry", "China", "Ferr"],
+          "low": ["Bell", "Kali-n"]
+        },
+        "modality": "Worse during fever, in summer, after exertion",
+        "miasm": "Syphilis",
+        "notes": "Bleeding from nose, especially in anaemia, typhoid, or trauma. Hamamelis and Phosphorus help in passive bleeding."
+      },
+      {
+        "rubric": "Nose - Crusting, dry scabs inside",
+        "grading": {
+          "high": ["Kali-bi", "Graph", "Am-c"],
+          "medium": ["Petrol", "Nit-ac", "Sil"],
+          "low": ["Sulph", "Psor"]
+        },
+        "modality": "Worse in dry rooms, early morning",
+        "miasm": "Syphilis",
+        "notes": "Dry, bloody crusts inside nose; Kali bichromicum is a top remedy. Graphites when crusts alternate with skin eruptions."
+      },
+      {
+        "rubric": "Nose - Loss of smell (Anosmia)",
+        "grading": {
+          "high": ["Puls", "Nat-m", "Kali-bi"],
+          "medium": ["Thuja", "Phos", "Sil"],
+          "low": ["Con", "Carb-v"]
+        },
+        "modality": "After cold, sinusitis, or nasal polyps",
+        "miasm": "Sycosis",
+        "notes": "Anosmia after prolonged catarrh, polyp, or COVID. Kali bich and Natrum mur are commonly indicated."
+      },
+      {
+        "rubric": "Nose - Sneezing frequent, in paroxysms",
+        "grading": {
+          "high": ["Sabad", "Ars", "Allium-cepa"],
+          "medium": ["Euphrasia", "Nux-v", "Gels"],
+          "low": ["Sil", "Nat-m"]
+        },
+        "modality": "Worse in morning, spring, allergic weather",
+        "miasm": "Psora",
+        "notes": "Allergic rhinitis or hay fever; sneezing bouts often accompanied by acrid coryza."
+      },
+      {
+        "rubric": "Nose - Picking habitually",
+        "grading": {
+          "high": ["Tub", "Verat", "Sulph"],
+          "medium": ["Med", "Kali-br", "Psor"],
+          "low": ["Stram", "Tarent"]
+        },
+        "modality": "During boredom, stress, or in children",
+        "miasm": "Tubercular",
+        "notes": "Obsessive-compulsive nose picking, seen in restless or destructive children. Tuberculinum and Veratrum are commonly indicated."
+      },
+      {
+        "rubric": "Nose - Imaginary smell, phantom odors",
+        "grading": {
+          "high": ["Anac", "Sulph", "Kali-br"],
+          "medium": ["Agar", "Phos", "Stram"],
+          "low": ["Lach", "Nux-v"]
+        },
+        "modality": "Worse at night or during delirium",
+        "miasm": "Syphilis",
+        "notes": "Perceiving non-existent bad smells; seen in hysteria, psychosis, or high fevers. Anacardium and Kali bromatum are classic choices."
+      }
+    ]
+  },
+  {
+    "NoseSigns": [
+      {
+        "rubric": "Nose - Polyps obstructing breathing",
+        "grading": {
+          "high": ["Teucr", "Samb", "Kali-bi"],
+          "medium": ["Lemna", "Thuja", "Sang"],
+          "low": ["Phos", "Sil"]
+        },
+        "modality": "Worse in damp weather, lying down",
+        "miasm": "Sycosis",
+        "notes": "Obstructive nasal polyps with loss of smell or post-nasal dripping. Lemna minor and Teucrium marum are polyp-specific."
+      },
+      {
+        "rubric": "Nose - Deviated Nasal Septum (DNS)",
+        "grading": {
+          "high": ["Kali-s", "Calc", "Sil"],
+          "medium": ["Lemna", "Hepar", "Psor"],
+          "low": ["Spig", "Bell"]
+        },
+        "modality": "Worse at night, chronic nasal blockage",
+        "miasm": "Sycosis",
+        "notes": "Chronic obstruction due to DNS; Silicea and Kali sulph assist in mucosal healing and ventilation."
+      },
+      {
+        "rubric": "Nose - Enlarged adenoids, mouth breathing in children",
+        "grading": {
+          "high": ["Agraphis-n", "Calc-p", "Baryta-c"],
+          "medium": ["Tub", "Nat-m", "Samb"],
+          "low": ["Sil", "Psor"]
+        },
+        "modality": "Worse during sleep, with snoring",
+        "miasm": "Psora-Tubercular",
+        "notes": "Enlarged adenoids causing nasal speech, open-mouth sleep, or ear issues. Agraphis nutans and Calcarea phosphorica are well-indicated."
+      },
+      {
+        "rubric": "Nose - Sinusitis, frontal or maxillary",
+        "grading": {
+          "high": ["Kali-bi", "Hydr", "Merc"],
+          "medium": ["Puls", "Sil", "Spig"],
+          "low": ["Bell", "Hepar"]
+        },
+        "modality": "Worse in cold/damp, better with warmth",
+        "miasm": "Sycosis",
+        "notes": "Facial pain, post-nasal drip, thick discharge. Kali bichromicum and Hydrastis work well in chronic sinusitis."
+      },
+      {
+        "rubric": "Nose - Burning sensation inside",
+        "grading": {
+          "high": ["Ars", "Sulph", "Allium-cepa"],
+          "medium": ["Sabad", "Euphrasia", "Phos"],
+          "low": ["Bell", "Nat-m"]
+        },
+        "modality": "Worse from dust, allergies, cold air",
+        "miasm": "Psora",
+        "notes": "Burning, stinging sensation in nostrils during colds or allergic rhinitis. Arsenicum and Allium cepa often selected."
+      }
+    ]
+  }
+]

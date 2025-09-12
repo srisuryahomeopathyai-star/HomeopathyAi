@@ -1,0 +1,937 @@
+[
+  {
+    "rubric": "Desire for sweets",
+    "grading": {
+      "high": ["Argentum nitricum", "Lycopodium", "Sulphur"],
+      "medium": ["Phosphorus", "Sepia", "Nux vomica"],
+      "low": ["Pulsatilla", "Medorrhinum"]
+    },
+    "modality": "Worse after eating; during stress; before menses",
+    "miasm": "Psora, Sycotic",
+    "notes": "Lycopodium + sweets = bloating; Argent-n. craves sweets before exams"
+  },
+  {
+    "rubric": "Desire for salt",
+    "grading": {
+      "high": ["Natrum muriaticum", "Tuberculinum"],
+      "medium": ["Sepia", "Phosphorus"],
+      "low": ["Sulphur", "Pulsatilla"]
+    },
+    "modality": "With thirst; during headaches; in heat",
+    "miasm": "Sycotic, Tubercular",
+    "notes": "Keynote in Nat-mur; links to emotional repression"
+  },
+  {
+    "rubric": "Desire for eggs",
+    "grading": {
+      "high": ["Sulphur", "Calcarea carb"],
+      "medium": ["Psorinum", "Lycopodium"],
+      "low": ["Phosphorus", "Sepia"]
+    },
+    "modality": "In children; during weakness; in morning",
+    "miasm": "Psora",
+    "notes": "Often seen in psoric constitutions with digestive heat"
+  },
+  {
+    "rubric": "Desire for spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Phosphorus", "Lachesis"],
+      "low": ["Pulsatilla", "Medorrhinum"]
+    },
+    "modality": "In heat; after drinking; during irritability",
+    "miasm": "Psora, Sycotic",
+    "notes": "Spice craving = Nux & Sulphur keynotes"
+  },
+  {
+    "rubric": "Desire for cold drinks",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur", "Veratrum album"],
+      "medium": ["Arsenicum album", "Natrum mur"],
+      "low": ["Sepia", "Ignatia"]
+    },
+    "modality": "With dryness; during fever; in heat",
+    "miasm": "Psora",
+    "notes": "Phosphorus wants cold water even when vomiting"
+  },
+  {
+    "rubric": "Desire for milk",
+    "grading": {
+      "high": ["Calcarea carb", "Silicea"],
+      "medium": ["Phosphorus", "Pulsatilla"],
+      "low": ["Sulphur", "Natrum mur"]
+    },
+    "modality": "In children; during weakness; after activity",
+    "miasm": "Psora",
+    "notes": "Constitutional craving in Calcarea, Silicea"
+  },
+  {
+    "rubric": "Desire for beer",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Lachesis", "Phosphorus"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "In warm weather; in social settings",
+    "miasm": "Sycotic",
+    "notes": "Nux: strong craving for alcohol, beer; often with gastric effects"
+  },
+  {
+    "rubric": "Desire for meat",
+    "grading": {
+      "high": ["Phosphorus", "Nux vomica"],
+      "medium": ["Lachesis", "Sulphur"],
+      "low": ["Calcarea carb", "China"]
+    },
+    "modality": "During anemia; in weakness; cold weather",
+    "miasm": "Sycotic, Psora",
+    "notes": "Key craving in debilitated constitutions"
+  },
+  {
+    "rubric": "Desire for sour things",
+    "grading": {
+      "high": ["Sepia", "Phosphorus"],
+      "medium": ["Sulphur", "Antimonium crudum"],
+      "low": ["Ignatia", "Nux vomica"]
+    },
+    "modality": "In pregnancy; during nausea",
+    "miasm": "Psora",
+    "notes": "Sepia’s keynote; helps nausea in many pregnancy cases"
+  },
+  {
+    "rubric": "Desire for chocolate",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Pulsatilla", "Phosphorus"],
+      "low": ["Nux vomica", "Sepia"]
+    },
+    "modality": "During PMS; in emotional stress",
+    "miasm": "Sycotic, Psora",
+    "notes": "Lachesis + chocolate: strong emotional + hormonal craving"
+  },
+  {
+    "rubric": "Desire for ice",
+    "grading": {
+      "high": ["Phosphorus", "Pica cases", "Arsenicum album"],
+      "medium": ["Veratrum album", "Sulphur"],
+      "low": ["Calcarea carb", "Natrum mur"]
+    },
+    "modality": "In anemia; during fever; in summer",
+    "miasm": "Psora, Tubercular",
+    "notes": "Ice craving may indicate iron-deficiency anemia or deep psoric/tubercular state"
+  },
+  {
+    "rubric": "Desire for ice cream",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Pulsatilla", "Lycopodium"],
+      "low": ["Sepia", "Natrum mur"]
+    },
+    "modality": "In heat; in children; after emotional stress",
+    "miasm": "Psora",
+    "notes": "Seen in hot-blooded or emotionally stressed individuals"
+  },
+  {
+    "rubric": "Desire for fatty food",
+    "grading": {
+      "high": ["Sulphur", "Nux vomica"],
+      "medium": ["Lycopodium", "Phosphorus"],
+      "low": ["Calcarea carb", "Medorrhinum"]
+    },
+    "modality": "In cold weather; when weak; after alcohol",
+    "miasm": "Psora, Sycotic",
+    "notes": "Fat craving can be constitutional or compensation for vata"
+  },
+  {
+    "rubric": "Desire for fish",
+    "grading": {
+      "high": ["Lycopodium", "Sulphur"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Pulsatilla", "Medorrhinum"]
+    },
+    "modality": "In anemia; in cold weather",
+    "miasm": "Psora, Sycotic",
+    "notes": "Fish craving suggests protein need or liver-based constitutions"
+  },
+  {
+    "rubric": "Desire for farinaceous food",
+    "grading": {
+      "high": ["Sulphur", "Calcarea carb"],
+      "medium": ["Phosphorus", "Pulsatilla"],
+      "low": ["Lycopodium", "Nux vomica"]
+    },
+    "modality": "In children; after fasting; for comfort",
+    "miasm": "Psora",
+    "notes": "Farinaceous craving common in tubby, sluggish constitutions"
+  },
+  {
+    "rubric": "Desire for stimulants (coffee, tea)",
+    "grading": {
+      "high": ["Nux vomica", "Chamomilla"],
+      "medium": ["Phosphorus", "Lachesis"],
+      "low": ["Ignatia", "Sulphur"]
+    },
+    "modality": "During exhaustion; after mental strain",
+    "miasm": "Sycotic, Psora",
+    "notes": "Key in Nux: can’t function without stimulants"
+  },
+  {
+    "rubric": "Desire for alcoholic drinks",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Phosphorus", "Lachesis"],
+      "low": ["Pulsatilla", "Veratrum album"]
+    },
+    "modality": "After stress; in evening; when fatigued",
+    "miasm": "Sycotic, Psora",
+    "notes": "Nux has strong craving for alcohol with GI complaints"
+  },
+  {
+    "rubric": "Desire for pickles and sour things",
+    "grading": {
+      "high": ["Sepia", "Phosphorus"],
+      "medium": ["Nux vomica", "Sulphur"],
+      "low": ["Ignatia", "Pulsatilla"]
+    },
+    "modality": "During pregnancy; with nausea",
+    "miasm": "Psora",
+    "notes": "Sepia's keynote: craving pickles + aversion to husband"
+  },
+  {
+    "rubric": "Desire for cold food",
+    "grading": {
+      "high": ["Phosphorus", "Pulsatilla"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Ignatia", "Natrum mur"]
+    },
+    "modality": "In hot weather; during fever; when exhausted",
+    "miasm": "Psora",
+    "notes": "Useful in overheated or congested constitutions"
+  },
+  {
+    "rubric": "Desire for warm food",
+    "grading": {
+      "high": ["Arsenicum album", "Calcarea carb"],
+      "medium": ["Lycopodium", "Phosphorus"],
+      "low": ["Pulsatilla", "Sulphur"]
+    },
+    "modality": "During chill; when weak; in children",
+    "miasm": "Psora",
+    "notes": "Arsenicum’s classic craving during cold, anxious states"
+  },
+  {
+    "rubric": "Desire for cheese",
+    "grading": {
+      "high": ["Lycopodium", "Sulphur"],
+      "medium": ["Phosphorus", "Calcarea carb"],
+      "low": ["Pulsatilla", "Sepia"]
+    },
+    "modality": "In constipation; during bloating; in children",
+    "miasm": "Psora",
+    "notes": "Lycopodium craves cheese but is aggravated by it"
+  },
+  {
+    "rubric": "Desire for onions",
+    "grading": {
+      "high": ["Thuja", "Sulphur"],
+      "medium": ["Phosphorus", "Lachesis"],
+      "low": ["Pulsatilla", "Calcarea carb"]
+    },
+    "modality": "With appetite; in digestive issues; in women",
+    "miasm": "Sycotic, Psora",
+    "notes": "Often seen in energetic or sensitive constitutions"
+  },
+  {
+    "rubric": "Desire for garlic",
+    "grading": {
+      "high": ["Phosphorus", "Lachesis"],
+      "medium": ["Sulphur", "Nux vomica"],
+      "low": ["Pulsatilla", "Sepia"]
+    },
+    "modality": "During digestion; in heat; during detox",
+    "miasm": "Psora, Sycotic",
+    "notes": "Rarely seen, but notable when present with body odor or warmth"
+  },
+  {
+    "rubric": "Desire for coffee",
+    "grading": {
+      "high": ["Nux vomica", "Chamomilla"],
+      "medium": ["Phosphorus", "Lachesis"],
+      "low": ["Ignatia", "Sulphur"]
+    },
+    "modality": "With mental fatigue; in morning; during anxiety",
+    "miasm": "Sycotic, Psora",
+    "notes": "Nux and Chamomilla depend on coffee to function"
+  },
+  {
+    "rubric": "Desire for chocolate",
+    "grading": {
+      "high": ["Lachesis", "Phosphorus"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Nux vomica", "Ignatia"]
+    },
+    "modality": "During PMS; in emotional stress; post meals",
+    "miasm": "Sycotic",
+    "notes": "Chocolate craving is strong in hormonal imbalance"
+  },
+  {
+    "rubric": "Desire for earth (mud)",
+    "grading": {
+      "high": ["Alumina", "Cina"],
+      "medium": ["Calcarea carb", "Veratrum album"],
+      "low": ["Silicea", "Psorinum"]
+    },
+    "modality": "In children; in pregnancy; in anemia",
+    "miasm": "Psora, Tubercular",
+    "notes": "Pica condition; classic keynote of Alumina"
+  },
+  {
+    "rubric": "Desire for chalk",
+    "grading": {
+      "high": ["Alumina", "Cina"],
+      "medium": ["Calcarea carb", "Natrum mur"],
+      "low": ["Veratrum album", "Psorinum"]
+    },
+    "modality": "During anemia; in children; with worms",
+    "miasm": "Psora",
+    "notes": "Craving for non-food items = pica = constitutional indication"
+  },
+  {
+    "rubric": "Desire for raw rice",
+    "grading": {
+      "high": ["Cina"],
+      "medium": ["Calcarea carb", "Alumina"],
+      "low": ["Sepia"]
+    },
+    "modality": "In children; during worms; with grinding of teeth",
+    "miasm": "Psora",
+    "notes": "Raw rice desire often indicates helminthic infection"
+  },
+  {
+    "rubric": "Desire for raw food",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Lycopodium", "Medorrhinum"],
+      "low": ["Sepia"]
+    },
+    "modality": "In heat; during digestive sluggishness",
+    "miasm": "Psora",
+    "notes": "Desire for raw vegetables or uncooked items seen in heat-constitutions"
+  },
+  {
+    "rubric": "Desire to eat hair, cloth, paper, etc.",
+    "grading": {
+      "high": ["Alumina", "Cina"],
+      "medium": ["Veratrum album", "Calcarea carb"],
+      "low": ["Psorinum"]
+    },
+    "modality": "In mental retardation; childhood; worms",
+    "miasm": "Psora, Tubercular",
+    "notes": "Striking keynote of Alumina and Cina in developmental disorders"
+  },
+  {
+    "rubric": "Desire to eat at night (midnight hunger)",
+    "grading": {
+      "high": ["Lycopodium", "Phosphorus"],
+      "medium": ["Nux vomica", "Sulphur"],
+      "low": ["Calcarea carb", "Sepia"]
+    },
+    "modality": "Wakes from sleep to eat; in weak digestion",
+    "miasm": "Psora",
+    "notes": "Midnight hunger is a strong keynote of Lycopodium"
+  },
+  {
+    "rubric": "Desire for indigestible things during pregnancy",
+    "grading": {
+      "high": ["Alumina", "Cina"],
+      "medium": ["Sepia", "Calcarea carb"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "In early pregnancy; with nausea or anemia",
+    "miasm": "Psora, Tubercular",
+    "notes": "Pica during pregnancy often seen with Sepia, Alumina"
+  },
+  {
+    "rubric": "Desire to nibble constantly (snacking habit)",
+    "grading": {
+      "high": ["Ignatia", "Phosphorus"],
+      "medium": ["Sulphur", "Medorrhinum"],
+      "low": ["Nux vomica", "Sepia"]
+    },
+    "modality": "When anxious; while working; under stress",
+    "miasm": "Psora, Sycotic",
+    "notes": "Emotional eaters often show this pattern; linked with anxiety"
+  },
+  {
+    "rubric": "Desire to chew ice or cold objects",
+    "grading": {
+      "high": ["Phosphorus", "Alumina"],
+      "medium": ["Veratrum album", "Pulsatilla"],
+      "low": ["Sepia"]
+    },
+    "modality": "In anemia; during summer; during weakness",
+    "miasm": "Psora",
+    "notes": "May indicate iron deficiency or chronic internal heat"
+  },
+  {
+    "rubric": "Desire to eat frequently but little",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["China", "Sepia"],
+      "low": ["Nux vomica", "Lycopodium"]
+    },
+    "modality": "In hypoglycemia; during weakness; with irritability",
+    "miasm": "Psora",
+    "notes": "Useful in identifying Phosphorus when energy drops quickly"
+  },
+  {
+    "rubric": "Desire to eat fast",
+    "grading": {
+      "high": ["Nux vomica", "Veratrum album"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Phosphorus", "Ignatia"]
+    },
+    "modality": "In business types; with hurried temperament",
+    "miasm": "Sycotic",
+    "notes": "Important keynote in Nux with gastric disturbance"
+  },
+  {
+    "rubric": "Desire to eat slow and alone",
+    "grading": {
+      "high": ["Natrum mur", "Sepia"],
+      "medium": ["Ignatia", "Staphysagria"],
+      "low": ["Pulsatilla", "Phosphoric acid"]
+    },
+    "modality": "With grief; in reserved types; during silent mood",
+    "miasm": "Psora, Tubercular",
+    "notes": "Emotional withdrawal often shows in food behavior"
+  },
+  {
+    "rubric": "Desire to eat junk/processed food",
+    "grading": {
+      "high": ["Medorrhinum", "Tuberculinum"],
+      "medium": ["Nux vomica", "Phosphorus"],
+      "low": ["Sulphur", "Lycopodium"]
+    },
+    "modality": "In children; hyperactive states; rebellious types",
+    "miasm": "Sycotic, Tubercular",
+    "notes": "Seen in modern constitutional types; low vitality or overstimulation"
+  },
+  {
+    "rubric": "Desire to drink sips often",
+    "grading": {
+      "high": ["Arsenicum album"],
+      "medium": ["Phosphorus", "China"],
+      "low": ["Sulphur", "Ignatia"]
+    },
+    "modality": "During fever; in anxiety; with thirst",
+    "miasm": "Psora",
+    "notes": "Arsenicum classic keynote: frequent sips of cold water"
+  },
+  {
+    "rubric": "Desire for new and exotic foods",
+    "grading": {
+      "high": ["Medorrhinum", "Phosphorus"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Sepia", "Ignatia"]
+    },
+    "modality": "In travel; during restlessness; for change",
+    "miasm": "Tubercular, Sycotic",
+    "notes": "Useful in adventurous or novelty-seeking temperaments"
+  },
+  {
+    "rubric": "Desire for raw vegetables",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Medorrhinum", "Sepia"],
+      "low": ["Pulsatilla", "Lycopodium"]
+    },
+    "modality": "In heat; during detox; in restless temperaments",
+    "miasm": "Psora, Tubercular",
+    "notes": "Sulphur and Phosphorus desire raw food as cooling effect"
+  },
+  {
+    "rubric": "Desire for burnt food (charred/toasted items)",
+    "grading": {
+      "high": ["Arsenicum album"],
+      "medium": ["Sulphur", "Veratrum album"],
+      "low": ["Ignatia", "Phosphorus"]
+    },
+    "modality": "During anxiety; in obsessive types",
+    "miasm": "Psora, Sycotic",
+    "notes": "Burnt edge of toast, burnt rice — indicative of intense cravings in OCD tendencies"
+  },
+  {
+    "rubric": "Desire to eat snow",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Alumina", "Medorrhinum"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "During anemia; in hot climate; in children",
+    "miasm": "Psora, Tubercular",
+    "notes": "Rare but strongly confirmatory in Phosphorus"
+  },
+  {
+    "rubric": "Desire to chew rubber or sponge",
+    "grading": {
+      "high": ["Alumina", "Cina"],
+      "medium": ["Veratrum album"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "In pica; childhood; iron deficiency",
+    "miasm": "Psora",
+    "notes": "Seen in developmental delays and nutrient deficiencies"
+  },
+  {
+    "rubric": "Desire for pungent things (chili, mustard, horseradish)",
+    "grading": {
+      "high": ["Sulphur", "Nux vomica"],
+      "medium": ["Lachesis", "Phosphorus"],
+      "low": ["Sepia", "Pulsatilla"]
+    },
+    "modality": "During sluggish digestion; in hot climates",
+    "miasm": "Psora, Sycotic",
+    "notes": "Pungent food craving is a keynote of hot, active constitutions"
+  },
+  {
+    "rubric": "Desire for very hot food or drinks (temperature-wise)",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Sulphur", "Calcarea carb"],
+      "low": ["Pulsatilla", "Sepia"]
+    },
+    "modality": "During coldness; in elderly; after shock",
+    "miasm": "Psora",
+    "notes": "Arsenicum prefers boiling water or soup when ill"
+  },
+  {
+    "rubric": "Desire for bones or marrow",
+    "grading": {
+      "high": ["Silicea", "Calcarea carb"],
+      "medium": ["Phosphorus", "China"],
+      "low": ["Sulphur"]
+    },
+    "modality": "In deep weakness; post illness; during growth",
+    "miasm": "Psora, Tubercular",
+    "notes": "Seen in children with developmental delay or bone deficiency"
+  },
+  {
+    "rubric": "Desire for unusual smells (e.g., petrol, paint, kerosene)",
+    "grading": {
+      "high": ["Medorrhinum", "Veratrum album"],
+      "medium": ["Cina", "Lachesis"],
+      "low": ["Sulphur", "Phosphorus"]
+    },
+    "modality": "In disturbed children; OCD; ADHD",
+    "miasm": "Tubercular, Sycotic",
+    "notes": "Strong keynote in disturbed modern miasmatic types"
+  },
+  {
+    "rubric": "Desire to bite nails or objects (oral fixation)",
+    "grading": {
+      "high": ["Tuberculinum", "Medorrhinum"],
+      "medium": ["Sulphur", "Veratrum album"],
+      "low": ["Lycopodium", "Cina"]
+    },
+    "modality": "In anxiety; during boredom; ADHD children",
+    "miasm": "Tubercular, Sycotic",
+    "notes": "Linked to compulsion and emotional imbalance"
+  },
+  {
+    "rubric": "Desire to eat inedible items during high fever",
+    "grading": {
+      "high": ["Belladonna", "Stramonium"],
+      "medium": ["Veratrum album"],
+      "low": ["Alumina"]
+    },
+    "modality": "Delirium; high fever; meningitis; typhoid",
+    "miasm": "Acute",
+    "notes": "Very rare but striking; emergency or toxic state indication"
+  },
+  {
+    "rubric": "Desire for bananas",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Sulphur"]
+    },
+    "modality": "In children; during fever; during constipation",
+    "miasm": "Psora",
+    "notes": "Soft fruit craving commonly seen in Pulsatilla children"
+  },
+  {
+    "rubric": "Desire for curd/yogurt",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Pulsatilla", "Sulphur"],
+      "low": ["Sepia", "Nux vomica"]
+    },
+    "modality": "In summer; after spicy food; in acidity",
+    "miasm": "Psora",
+    "notes": "Useful when curd relieves acidity or nausea"
+  },
+  {
+    "rubric": "Desire for sugar in raw form (jaggery, cubes)",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "In children; during debility; for energy",
+    "miasm": "Psora",
+    "notes": "Seen in children with dull, flabby constitutions"
+  },
+  {
+    "rubric": "Desire for buttermilk",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Sulphur", "Ignatia"]
+    },
+    "modality": "In summer; after spicy food; in liver complaints",
+    "miasm": "Psora",
+    "notes": "Cooling effect; often beneficial after fatty aggravation"
+  },
+  {
+    "rubric": "Desire for biscuits/dry food",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Pulsatilla", "Calcarea carb"],
+      "low": ["Sepia"]
+    },
+    "modality": "With nausea; during travel; in children",
+    "miasm": "Psora",
+    "notes": "Useful in chronic nausea cases and during first trimester"
+  },
+  {
+    "rubric": "Desire for warm milk at night",
+    "grading": {
+      "high": ["Calcarea carb", "Silicea"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Pulsatilla", "Sulphur"]
+    },
+    "modality": "Before sleep; with anxiety or chill",
+    "miasm": "Psora",
+    "notes": "Calc carb needs warm milk for comfort and sleep"
+  },
+  {
+    "rubric": "Desire to eat fast food or hotel food",
+    "grading": {
+      "high": ["Medorrhinum", "Tuberculinum"],
+      "medium": ["Phosphorus", "Nux vomica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "In teens; when rebellious; craving change",
+    "miasm": "Sycotic, Tubercular",
+    "notes": "Seen in modern children with fast-paced, nontraditional habits"
+  },
+  {
+    "rubric": "Desire for carbonated drinks / soda",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Pulsatilla", "Lycopodium"],
+      "low": ["Sepia"]
+    },
+    "modality": "With gastric discomfort; in heat; in children",
+    "miasm": "Psora",
+    "notes": "Phosphorus often feels better with effervescent liquids"
+  },
+  {
+    "rubric": "Desire to chew/spit without swallowing (tobacco, pan habits)",
+    "grading": {
+      "high": ["Nux vomica", "Medorrhinum"],
+      "medium": ["Lachesis", "Sulphur"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "With anxiety; nervous habit; during constipation",
+    "miasm": "Sycotic, Psora",
+    "notes": "Associated with irritability, compulsion, or suppression"
+  },
+  {
+    "rubric": "Desire to eat standing or while walking",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Nux vomica", "Veratrum album"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "In hurried, irritable, business types",
+    "miasm": "Psora, Sycotic",
+    "notes": "Useful in hurried constitutions with low patience"
+  },
+  {
+    "rubric": "Thirstlessness in chronic complaints",
+    "grading": {
+      "high": ["Pulsatilla", "Silicea"],
+      "medium": ["Sepia", "Graphites"],
+      "low": ["Sulphur", "Calcarea carb"]
+    },
+    "modality": "In chronic skin or hormonal issues; in children",
+    "miasm": "Psora, Sycotic",
+    "notes": "Pulsatilla and Silicea prominently thirstless despite long-standing complaints"
+  },
+  {
+    "rubric": "Thirst increased during night",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Lycopodium", "Arsenicum album"],
+      "low": ["China", "Medorrhinum"]
+    },
+    "modality": "Wakes for water; in heat or fever; with dryness",
+    "miasm": "Psora",
+    "notes": "Sulphur has marked night thirst with heat or burning"
+  },
+  {
+    "rubric": "Thirst increased during day only",
+    "grading": {
+      "high": ["Natrum mur", "Bryonia"],
+      "medium": ["Nux vomica", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Better at night; worsens with speaking or heat",
+    "miasm": "Psora, Sycotic",
+    "notes": "Useful for differential diagnosis between Sulphur and Natrum mur"
+  },
+  {
+    "rubric": "Thirst before fever",
+    "grading": {
+      "high": ["Gelsemium", "China"],
+      "medium": ["Nux vomica", "Arsenicum album"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "During prodrome of infection or viral illness",
+    "miasm": "Acute, Psora",
+    "notes": "China and Gelsemium classically show pre-febrile thirst"
+  },
+  {
+    "rubric": "Thirst after fever",
+    "grading": {
+      "high": ["China", "Sulphur"],
+      "medium": ["Phosphorus", "Bryonia"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Post-acute phase; with weakness or dehydration",
+    "miasm": "Psora",
+    "notes": "China = classic post-illness remedy with thirst + debility"
+  },
+  {
+    "rubric": "Thirst for cold drinks, but vomits after",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Veratrum album", "Antimonium crudum"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "In gastric conditions; heat; dryness",
+    "miasm": "Psora",
+    "notes": "Phosphorus craves ice-cold water but cannot retain it"
+  },
+  {
+    "rubric": "Thirst with dryness of mouth without desire to drink",
+    "grading": {
+      "high": ["Nux moschata"],
+      "medium": ["Opium", "Bryonia"],
+      "low": ["Alumina"]
+    },
+    "modality": "With deep dryness; in neurological states",
+    "miasm": "Psora, Syphilitic",
+    "notes": "Keynote of Nux moschata — dry mouth, yet thirstless"
+  },
+  {
+    "rubric": "Thirst for warm drinks",
+    "grading": {
+      "high": ["Arsenicum album", "Hepar sulph"],
+      "medium": ["Lycopodium", "Calcarea carb"],
+      "low": ["Pulsatilla", "Phosphorus"]
+    },
+    "modality": "With chill; during sore throat or respiratory complaint",
+    "miasm": "Psora, Sycotic",
+    "notes": "Arsenicum classically desires warm water during illness"
+  },
+  {
+    "rubric": "Thirst for cold drinks even during chill",
+    "grading": {
+      "high": ["Phosphorus", "Veratrum album"],
+      "medium": ["Sulphur", "Medorrhinum"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "In paradoxical states; fever or chill",
+    "miasm": "Tubercular, Psora",
+    "notes": "Strong confirmatory sign of Phosphorus in fever states"
+  },
+  {
+    "rubric": "Thirst with desire for large quantities quickly",
+    "grading": {
+      "high": ["Bryonia", "Veratrum album"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "With dryness; acute dehydration; gastric distress",
+    "miasm": "Psora",
+    "notes": "Bryonia and Veratrum album have intense, rapid water intake"
+  },
+  {
+    "rubric": "Desire for milk",
+    "grading": {
+      "high": ["Sulphur", "Calcarea carb"],
+      "medium": ["Pulsatilla", "Silicea"],
+      "low": ["Phosphorus", "Sepia"]
+    },
+    "modality": "In children; during weakness; with craving for nourishment",
+    "miasm": "Psora",
+    "notes": "Calcarea and Sulphur classically crave milk despite aggravation"
+  },
+  {
+    "rubric": "Aversion to milk",
+    "grading": {
+      "high": ["Sepia", "Sulphur"],
+      "medium": ["Pulsatilla", "Silicea"],
+      "low": ["Phosphorus", "Calcarea phosphorica"]
+    },
+    "modality": "With nausea; in liver complaints; during menses",
+    "miasm": "Psora, Sycotic",
+    "notes": "Sepia and Pulsatilla both dislike milk especially in hormonal states"
+  },
+  {
+    "rubric": "Desire for beer",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Lachesis", "Phosphorus"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "After work; in heat; during digestion",
+    "miasm": "Sycotic",
+    "notes": "Nux is key for beer desire with gastric and liver issues"
+  },
+  {
+    "rubric": "Aggravation from beer",
+    "grading": {
+      "high": ["Lycopodium", "Nux vomica"],
+      "medium": ["Pulsatilla", "Calcarea carb"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Causes bloating, headache, or chilliness",
+    "miasm": "Psora, Sycotic",
+    "notes": "Lycopodium bloats severely from even small quantities"
+  },
+  {
+    "rubric": "Desire for fruit juices",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "In summer; during weakness or fever",
+    "miasm": "Psora",
+    "notes": "Seen in hot constitutions or those needing light nourishment"
+  },
+  {
+    "rubric": "Desire for carbonated / fizzy drinks",
+    "grading": {
+      "high": ["Phosphorus", "Medorrhinum"],
+      "medium": ["Sulphur", "Pulsatilla"],
+      "low": ["Sepia"]
+    },
+    "modality": "With indigestion; in hyper kids; during weakness",
+    "miasm": "Sycotic, Psora",
+    "notes": "Strong in modern, overstimulated constitutions"
+  },
+  {
+    "rubric": "Desire for warm water",
+    "grading": {
+      "high": ["Arsenicum album", "Hepar sulph"],
+      "medium": ["Calcarea carb", "Lycopodium"],
+      "low": ["Silicea"]
+    },
+    "modality": "During sore throat; cold; or respiratory issues",
+    "miasm": "Psora",
+    "notes": "Arsenicum and Hepar both find relief from warm water during illness"
+  },
+  {
+    "rubric": "Aversion to water (repelled by plain water)",
+    "grading": {
+      "high": ["Nux moschata"],
+      "medium": ["Alumina", "China"],
+      "low": ["Sulphur", "Sepia"]
+    },
+    "modality": "During fever; in hysterical or confused states",
+    "miasm": "Psora, Syphilitic",
+    "notes": "Nux moschata is especially dry but cannot tolerate water"
+  },
+  {
+    "rubric": "Thirst only for cold water",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Veratrum album", "Pulsatilla"],
+      "low": ["Nux vomica", "Sepia"]
+    },
+    "modality": "During heat; after exertion; with burning sensations",
+    "miasm": "Psora, Tubercular",
+    "notes": "Phosphorus and Sulphur frequently crave chilled water"
+  },
+  {
+    "rubric": "Thirst only for warm or hot fluids",
+    "grading": {
+      "high": ["Arsenicum album", "Hepar sulph"],
+      "medium": ["Lycopodium", "Sepia"],
+      "low": ["Calcarea carb", "Silicea"]
+    },
+    "modality": "During winter; respiratory affections; in chilly types",
+    "miasm": "Psora",
+    "notes": "Warm water provides soothing effect in chill-sensitive patients"
+  },
+  {
+    "rubric": "Desire for burnt match smell or gunpowder",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Veratrum album"],
+      "low": ["Sulphur"]
+    },
+    "modality": "In neurotic states; children with odd desires",
+    "miasm": "Sycotic, Tubercular",
+    "notes": "Seen in disturbed children or rebellious constitutions"
+  },
+  {
+    "rubric": "Desire for chalk, lime, or wall scrapings",
+    "grading": {
+      "high": ["Alumina", "Calcarea carb"],
+      "medium": ["Cina"],
+      "low": ["Silicea"]
+    },
+    "modality": "In pregnancy, rickets, or pica",
+    "miasm": "Psora",
+    "notes": "Common in pica with calcium deficiency or growth delay"
+  },
+  {
+    "rubric": "Desire for cold rice or leftover food",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Calcarea carb", "Medorrhinum"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Eats cold meals without heating; in lazy constitutions",
+    "miasm": "Psora",
+    "notes": "Sulphur sometimes neglects warming food, prefers eating as is"
+  },
+  {
+    "rubric": "Desire for unripe fruits or raw tamarind",
+    "grading": {
+      "high": ["Sepia", "Phosphoric acid"],
+      "medium": ["Sulphur", "Pulsatilla"],
+      "low": ["Ignatia"]
+    },
+    "modality": "In pregnancy; gastric complaints; menstrual imbalance",
+    "miasm": "Psora",
+    "notes": "Sepia craves sour and unripe fruits in hormonal disturbance"
+  },
+  {
+    "rubric": "Desire to chew soft cloth or cotton (non-food texture)",
+    "grading": {
+      "high": ["Alumina", "Cina"],
+      "medium": ["Calcarea carb"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "In mentally delayed children; iron deficiency; neurotic states",
+    "miasm": "Psora, Tubercular",
+    "notes": "Related to oral fixation, iron deficiency, and developmental issues"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "disease": "Heel Pain / Plantar Fasciitis",
+    "tags": [
+      "CommonChronic",
+      "HeelPain",
+      "PlantarFascia",
+      "JointPain",
+      "WeightBearingJoint",
+      "Sycosis",
+      "Syphilitic",
+      "Psora"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Heel pain on taking first steps in the morning",
+        "grading": {
+          "high": ["Rhus toxicodendron", "Calcarea fluor", "Pulsatilla"],
+          "medium": ["Ruta", "Sulphur"],
+          "low": ["Silicea"]
+        },
+        "modality": "< first step after rest, > continued walking or stretching",
+        "miasm": "Sycosis",
+        "notes": "Keynote rubric of plantar fasciitis"
+      },
+      {
+        "rubric": "Stitching or tearing pain in heels, especially at night or on long standing",
+        "grading": {
+          "high": ["Ammonium mur", "Ledum", "Arnica"],
+          "medium": ["Chamomilla", "Kali bich"],
+          "low": ["Sepia"]
+        },
+        "modality": "< standing long, < touch, < night",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Indicates inflammatory or overuse component"
+      },
+      {
+        "rubric": "Calcaneal spur with hard, bony outgrowth and pain",
+        "grading": {
+          "high": ["Calcarea fluor", "Hecla lava", "Silicea"],
+          "medium": ["Fluoric acid", "Ruta"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Sharp pain on pressure; heel feels hard",
+        "miasm": "Syphilitic",
+        "notes": "For bone spur-based heel pain"
+      },
+      {
+        "rubric": "Heel pain extending to Achilles tendon or sole",
+        "grading": {
+          "high": ["Ruta", "Rhus tox", "Causticum"],
+          "medium": ["Ledum", "Arnica"],
+          "low": ["Bellis perennis"]
+        },
+        "modality": "Pulling, extending pain; < dorsiflexion",
+        "miasm": "Sycosis",
+        "notes": "Soft tissue strain/plantar extension pattern"
+      },
+      {
+        "rubric": "Heel pain worse from cold floor or weather",
+        "grading": {
+          "high": ["Silicea", "Calcarea carb", "Dulcamara"],
+          "medium": ["Rhus tox", "Causticum"],
+          "low": ["Sepia"]
+        },
+        "modality": "< cold damp weather, < walking barefoot on cold floor",
+        "miasm": "Psora-Sycosis",
+        "notes": "Cold aggravation with chronicity"
+      },
+      {
+        "rubric": "Heel pain < touch and pressure, better by rest",
+        "grading": {
+          "high": ["Arnica", "Hecla lava", "Ledum"],
+          "medium": ["Ruta", "Bryonia"],
+          "low": ["Ferrum phos"]
+        },
+        "modality": "Sensitive heels, trauma or overstrain origin",
+        "miasm": "Sycosis",
+        "notes": "Post-injury or chronic fatigue cause"
+      },
+      {
+        "rubric": "Heel and foot pain after long-standing or running",
+        "grading": {
+          "high": ["Ruta", "Rhus tox", "Kali carb"],
+          "medium": ["Causticum", "Sulphur"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "< prolonged exertion or weight-bearing",
+        "miasm": "Psora-Sycosis",
+        "notes": "Strain after overuse — athletes, obese, elderly"
+      },
+      {
+        "rubric": "Burning soles and heel pain with heat sensation",
+        "grading": {
+          "high": ["Sulphur", "Sanguinaria", "Chamomilla"],
+          "medium": ["Medorrhinum", "Lachesis"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Wants to uncover feet; < evening or bed",
+        "miasm": "Psoric",
+        "notes": "Vital disturbance in nervous system"
+      }
+    ]
+  },
+  {
+    "disease": "Heel Pain / Plantar Fasciitis – Intercurrent & Miasmatic",
+    "tags": [
+      "Intercurrent",
+      "Miasmatic",
+      "HeelPain",
+      "CalcanealSpur",
+      "SuppressedComplaint",
+      "Psora",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Chronic heel pain in obese, rheumatic or uric-acid type patients",
+        "grading": {
+          "high": ["Benzoic acid", "Calcarea carbonica", "Graphites"],
+          "medium": ["Lycopodium", "Antimonium crudum"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Craves food; overloaded joints; heel pain after standing",
+        "miasm": "Sycosis",
+        "notes": "Metabolic miasm driving overuse and inflammation"
+      },
+      {
+        "rubric": "Heel pain with suppressed foot sweat, skin eruptions, or cortisone use",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Thuja"],
+          "medium": ["Graphites", "Petroleum"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "Heel pain starts after eczema suppression, dry feet, or steroids",
+        "miasm": "Psora-Sycosis",
+        "notes": "Very common in plantar fasciitis with miasmatic suppression"
+      },
+      {
+        "rubric": "Heel pain with old bone injury, callus, or spur formation",
+        "grading": {
+          "high": ["Hecla lava", "Calcarea fluor", "Silicea"],
+          "medium": ["Fluoric acid", "Phosphorus"],
+          "low": ["Symphytum"]
+        },
+        "modality": "Hard, stony heel, < pressure or long walk",
+        "miasm": "Syphilitic",
+        "notes": "Bone-forming tendency or past trauma not healing well"
+      },
+      {
+        "rubric": "Heel pain recurring after grief, humiliation, or deep emotional suppression",
+        "grading": {
+          "high": ["Ignatia", "Staphysagria", "Natrum mur"],
+          "medium": ["Sepia", "Phosphoric acid"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Onset linked to personal shock or emotional trauma",
+        "miasm": "Psora",
+        "notes": "Mind-body origin often neglected in chronic cases"
+      },
+      {
+        "rubric": "Heel pain alternating with or followed by urinary issues",
+        "grading": {
+          "high": ["Lycopodium", "Sarsaparilla", "Benzoic acid"],
+          "medium": ["Sulphur", "Berberis vulgaris"],
+          "low": ["Sepia"]
+        },
+        "modality": "Heel pain suppressed or changed into kidney or bladder complaints",
+        "miasm": "Psora-Sycosis",
+        "notes": "Clear sycotic suppression or internal shift of inflammation"
+      },
+      {
+        "rubric": "Recurring heel pain despite accurate remedy selection",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Medorrhinum"],
+          "medium": ["Tuberculinum", "Syphilinum"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Partial improvement followed by relapse in new spot or same foot",
+        "miasm": "Mixed Miasm",
+        "notes": "Requires intercurrent clearing for lasting effect"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7180 @@
+[
+  {
+    "rubric": "ABORTION – threatened",
+    "grading": {
+      "high": [
+        "Bell",
+        "Cham",
+        "Sec"
+      ],
+      "medium": [
+        "Cimic",
+        "Sabin"
+      ],
+      "low": [
+        "Aletris",
+        "Croc"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ABORTION – habitual",
+    "grading": {
+      "high": [
+        "Helon",
+        "Kali-c"
+      ],
+      "medium": [
+        "Sabin"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ABSCESS – suppurating",
+    "grading": {
+      "high": [
+        "Hep",
+        "Sil"
+      ],
+      "medium": [
+        "Merc"
+      ],
+      "low": [
+        "Fl-ac",
+        "Calc-s"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ABSCESS – chronic",
+    "grading": {
+      "high": [
+        "Sil"
+      ],
+      "medium": [
+        "Sulph"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ACIDITY – stomach",
+    "grading": {
+      "high": [
+        "Rob",
+        "Iris",
+        "Nux-v"
+      ],
+      "medium": [
+        "Phos",
+        "Carb-v"
+      ],
+      "low": [
+        "Puls",
+        "Ars"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ACNE – vulgaris",
+    "grading": {
+      "high": [
+        "Kali-br",
+        "Jug-r"
+      ],
+      "medium": [
+        "Sulph",
+        "Calc-s"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ACNE – indurated",
+    "grading": {
+      "high": [
+        "Sil",
+        "Hepar"
+      ],
+      "medium": [],
+      "low": [
+        "Calc",
+        "Merc"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ADDISON’S DISEASE – general",
+    "grading": {
+      "high": [
+        "Ars",
+        "Phos"
+      ],
+      "medium": [
+        "Tub"
+      ],
+      "low": [
+        "Adren",
+        "Nat-m"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "AFTERPAINS – severe",
+    "grading": {
+      "high": [
+        "Cham",
+        "Cimic",
+        "Bell"
+      ],
+      "medium": [
+        "Puls",
+        "Mag-p"
+      ],
+      "low": [
+        "Sec"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "AGUE – with chill and heat alternately",
+    "grading": {
+      "high": [
+        "Ars",
+        "Nux-v"
+      ],
+      "medium": [
+        "Ipec",
+        "Nat-m"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "AGUE – quotidian",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Chin"
+      ],
+      "medium": [
+        "Cedr",
+        "Eup-per"
+      ],
+      "low": [
+        "Ars",
+        "Carb-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ALOPECIA – areata",
+    "grading": {
+      "high": [
+        "Fl-ac",
+        "Graph"
+      ],
+      "medium": [
+        "Phos",
+        "Sep"
+      ],
+      "low": [
+        "Lyc"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ALOPECIA – with dandruff",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Phos"
+      ],
+      "medium": [
+        "Thuj",
+        "Vinc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "AMENORRHOEA – in young girls",
+    "grading": {
+      "high": [
+        "Puls",
+        "Sep"
+      ],
+      "medium": [
+        "Graph",
+        "Calc"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "AMENORRHOEA – from cold",
+    "grading": {
+      "high": [
+        "Puls",
+        "Dulc"
+      ],
+      "medium": [
+        "Calc",
+        "Cimic"
+      ],
+      "low": [
+        "Mag-p"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ANAEMIA – pernicious",
+    "grading": {
+      "high": [
+        "Pic-ac",
+        "Ferr",
+        "China"
+      ],
+      "medium": [
+        "Phos",
+        "Nat-m"
+      ],
+      "low": [
+        "Sec"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ANAEMIA – after acute disease",
+    "grading": {
+      "high": [
+        "China",
+        "Ferr"
+      ],
+      "medium": [
+        "Ars"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ANGINA PECTORIS – paroxysmal pain",
+    "grading": {
+      "high": [
+        "Acon",
+        "Lat",
+        "Spig"
+      ],
+      "medium": [
+        "Cact",
+        "Amyl",
+        "Glon"
+      ],
+      "low": [
+        "Tab",
+        "Kalm"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ANKLE JOINT – pain, swelling",
+    "grading": {
+      "high": [
+        "Led",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Bry",
+        "Apis"
+      ],
+      "low": [
+        "Ruta"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ANTHRAX – malignant pustule",
+    "grading": {
+      "high": [
+        "Anthracin",
+        "Ars"
+      ],
+      "medium": [
+        "Tarent"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ANURIA – with dropsy",
+    "grading": {
+      "high": [
+        "Apoc",
+        "Ars"
+      ],
+      "medium": [
+        "Dig",
+        "Helleb"
+      ],
+      "low": [
+        "Tereb"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "APHTHAE – in children",
+    "grading": {
+      "high": [
+        "Borax",
+        "Merc"
+      ],
+      "medium": [
+        "Kali-chl",
+        "Sulph-ac"
+      ],
+      "low": [
+        "Sulph",
+        "Nux-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "APPENDICITIS – early stage",
+    "grading": {
+      "high": [
+        "Bry",
+        "Bell"
+      ],
+      "medium": [
+        "Merc",
+        "Lach"
+      ],
+      "low": [
+        "Rhus-t"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "APPENDICITIS – with peritonitis",
+    "grading": {
+      "high": [
+        "Lach",
+        "Merc",
+        "Ars"
+      ],
+      "medium": [
+        "Sulph"
+      ],
+      "low": [
+        "Colch"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ASCITES – dropsy of abdomen",
+    "grading": {
+      "high": [
+        "Apoc",
+        "Helleb",
+        "Ars"
+      ],
+      "medium": [
+        "Dig",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ASTHENOPIA – weak vision with headache",
+    "grading": {
+      "high": [
+        "Ruta",
+        "Onosm",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Jabor",
+        "Nat-m"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ASTHMA – at night",
+    "grading": {
+      "high": [
+        "Ars",
+        "Med",
+        "Nux-v"
+      ],
+      "medium": [
+        "Ipec",
+        "Kali-c"
+      ],
+      "low": [
+        "Grind",
+        "Lob"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ASTHMA – from suppressed eruptions",
+    "grading": {
+      "high": [
+        "Psor",
+        "Sulph"
+      ],
+      "medium": [
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ATHEROMA – vessels, degeneration",
+    "grading": {
+      "high": [
+        "Baryta-m",
+        "Plumb"
+      ],
+      "medium": [
+        "Aur",
+        "Con"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BACKACHE – lumbar region",
+    "grading": {
+      "high": [
+        "Rhus-t",
+        "Kali-c"
+      ],
+      "medium": [
+        "Sep",
+        "Bry"
+      ],
+      "low": [
+        "Sulph",
+        "Puls"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BACKACHE – during menstruation",
+    "grading": {
+      "high": [
+        "Sep",
+        "Cimic"
+      ],
+      "medium": [
+        "Puls"
+      ],
+      "low": [
+        "Lach"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BALANITIS – inflammation of glans",
+    "grading": {
+      "high": [
+        "Merc",
+        "Canth"
+      ],
+      "medium": [
+        "Thuja"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BARBER’S ITCH – eruption on beard region",
+    "grading": {
+      "high": [
+        "Tell",
+        "Sep"
+      ],
+      "medium": [
+        "Sulph",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BILIOUSNESS – with headache",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Iris"
+      ],
+      "medium": [
+        "Bry",
+        "Puls"
+      ],
+      "low": [
+        "Chel"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BLEPHARITIS – with crusty lids",
+    "grading": {
+      "high": [
+        "Graph",
+        "Staph"
+      ],
+      "medium": [
+        "Calc",
+        "Petros"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BOILS – recurrent",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Hepar"
+      ],
+      "medium": [
+        "Sil",
+        "Calc-s"
+      ],
+      "low": [
+        "Echin"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BRIGHT’S DISEASE – chronic nephritis",
+    "grading": {
+      "high": [
+        "Ars",
+        "Phos",
+        "Tereb"
+      ],
+      "medium": [
+        "Apis",
+        "Merc"
+      ],
+      "low": [
+        "Kali-chl"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BRONCHITIS – acute",
+    "grading": {
+      "high": [
+        "Bry",
+        "Phos"
+      ],
+      "medium": [
+        "Ipec",
+        "Spong"
+      ],
+      "low": [
+        "Ant-t",
+        "Sulph"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BRONCHITIS – chronic",
+    "grading": {
+      "high": [
+        "Kali-bi",
+        "Ant-t"
+      ],
+      "medium": [
+        "Lob",
+        "Carb-v"
+      ],
+      "low": [
+        "Iod"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "BURNS – painful, superficial",
+    "grading": {
+      "high": [
+        "Canth",
+        "Urt-u"
+      ],
+      "medium": [
+        "Caust"
+      ],
+      "low": [
+        "Rhus-t"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CANCER – general",
+    "grading": {
+      "high": [
+        "Con",
+        "Carbo-an",
+        "Hydrast"
+      ],
+      "medium": [
+        "Thuja",
+        "Ars"
+      ],
+      "low": [
+        "Phos",
+        "Kali-c"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CANCER OF BREAST – scirrhous",
+    "grading": {
+      "high": [
+        "Con",
+        "Carcinosin"
+      ],
+      "medium": [
+        "Phyt",
+        "Sil"
+      ],
+      "low": [
+        "Hydrast"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CANCER OF STOMACH – painful",
+    "grading": {
+      "high": [
+        "Ars",
+        "Kali-bi"
+      ],
+      "medium": [
+        "Phos",
+        "Hydrast"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CATARRH – chronic nasal",
+    "grading": {
+      "high": [
+        "Kali-bi",
+        "Hydrast"
+      ],
+      "medium": [
+        "Puls",
+        "Sulph"
+      ],
+      "low": [
+        "Nux-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CATARACT – senile",
+    "grading": {
+      "high": [
+        "Calc",
+        "Caust"
+      ],
+      "medium": [
+        "Phos",
+        "Sil"
+      ],
+      "low": [
+        "Sep",
+        "Naphth"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CEREBRAL CONGESTION – apoplectic tendency",
+    "grading": {
+      "high": [
+        "Bell",
+        "Glon",
+        "Op"
+      ],
+      "medium": [
+        "Nux-v",
+        "Gels"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CHAPPED HANDS – from cold weather",
+    "grading": {
+      "high": [
+        "Petrol",
+        "Graph"
+      ],
+      "medium": [
+        "Calc",
+        "Sulph"
+      ],
+      "low": [
+        "Rhus-t"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CHEILITIS – cracked lips",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Graph"
+      ],
+      "medium": [
+        "Sulph",
+        "Petrol"
+      ],
+      "low": [
+        "Nit-ac"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CHICKENPOX – eruption suppressed",
+    "grading": {
+      "high": [
+        "Ant-t",
+        "Sulph"
+      ],
+      "medium": [
+        "Rhus-t"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CHILBLAINS – itching, bluish",
+    "grading": {
+      "high": [
+        "Agar",
+        "Petrol"
+      ],
+      "medium": [
+        "Rhus-t",
+        "Puls"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CHILLS – intermittent fever",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Ars",
+        "Chin"
+      ],
+      "medium": [
+        "Eup-per",
+        "Nux-v"
+      ],
+      "low": [
+        "Ipec",
+        "Carb-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CHOKING – on swallowing food",
+    "grading": {
+      "high": [
+        "Bell",
+        "Ign",
+        "Lach"
+      ],
+      "medium": [
+        "Glon",
+        "Ambra"
+      ],
+      "low": [
+        "Caust"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CHOLERA – collapse stage",
+    "grading": {
+      "high": [
+        "Camph",
+        "Verat",
+        "Ars"
+      ],
+      "medium": [
+        "Cupr",
+        "Sec"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CHOREA – in children",
+    "grading": {
+      "high": [
+        "Agar",
+        "Cimic",
+        "Caust"
+      ],
+      "medium": [
+        "Tarent",
+        "Zinc"
+      ],
+      "low": [
+        "Cupr"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CIRRHOSIS – of liver",
+    "grading": {
+      "high": [
+        "Phos",
+        "Card-m",
+        "Chel"
+      ],
+      "medium": [
+        "Merc",
+        "Sulph"
+      ],
+      "low": [
+        "Aur"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "COLIC – flatulent",
+    "grading": {
+      "high": [
+        "Coloc",
+        "Carb-v"
+      ],
+      "medium": [
+        "Cham",
+        "Lyc"
+      ],
+      "low": [
+        "Nux-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "COLLAPSE – with coldness and weakness",
+    "grading": {
+      "high": [
+        "Camph",
+        "Verat",
+        "Carb-v"
+      ],
+      "medium": [
+        "Ars",
+        "Sec"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CONSTIPATION – chronic",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Alum",
+        "Bry"
+      ],
+      "medium": [
+        "Op",
+        "Sulph"
+      ],
+      "low": [
+        "Graph"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CONSUMPTION – advanced stage",
+    "grading": {
+      "high": [
+        "Phos",
+        "Tub",
+        "Sil"
+      ],
+      "medium": [
+        "Sulph",
+        "Calc"
+      ],
+      "low": [
+        "Iod"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CONVULSIONS – in children",
+    "grading": {
+      "high": [
+        "Bell",
+        "Cham",
+        "Cic"
+      ],
+      "medium": [
+        "Cupr",
+        "Zinc"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CONVULSIONS – from teething",
+    "grading": {
+      "high": [
+        "Cham",
+        "Bell",
+        "Cic"
+      ],
+      "medium": [
+        "Zinc",
+        "Calc"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CORNS – painful, inflamed",
+    "grading": {
+      "high": [
+        "Ant-c",
+        "Ran-b",
+        "Sil"
+      ],
+      "medium": [
+        "Graph",
+        "Sulph"
+      ],
+      "low": [
+        "Nit-ac"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "COUGH – dry at night",
+    "grading": {
+      "high": [
+        "Hyos",
+        "Rumex",
+        "Phos"
+      ],
+      "medium": [
+        "Bell",
+        "Con"
+      ],
+      "low": [
+        "Nux-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "COUGH – with expectoration in morning",
+    "grading": {
+      "high": [
+        "Kali-bi",
+        "Puls",
+        "Hepar"
+      ],
+      "medium": [
+        "Calc",
+        "Lyc"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CRACKS – fingers",
+    "grading": {
+      "high": [
+        "Petrol",
+        "Graph"
+      ],
+      "medium": [
+        "Sulph",
+        "Nat-m"
+      ],
+      "low": [
+        "Sep"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CROUP – membranous",
+    "grading": {
+      "high": [
+        "Kali-bi",
+        "Spong",
+        "Hepar"
+      ],
+      "medium": [
+        "Brom",
+        "Acon"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "CYSTITIS – with burning urine",
+    "grading": {
+      "high": [
+        "Canth",
+        "Apis",
+        "Equis"
+      ],
+      "medium": [
+        "Sars",
+        "Bell"
+      ],
+      "low": [
+        "Nux-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DEAFNESS – after catarrh",
+    "grading": {
+      "high": [
+        "Kali-s",
+        "Puls"
+      ],
+      "medium": [
+        "Merc",
+        "Sulph"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DEBILITY – after acute disease",
+    "grading": {
+      "high": [
+        "China",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Calc",
+        "Ars"
+      ],
+      "low": [
+        "Nux-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DELIRIUM – in typhoid",
+    "grading": {
+      "high": [
+        "Hyos",
+        "Bell",
+        "Stram"
+      ],
+      "medium": [
+        "Op",
+        "Murat-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DENTITION – difficult, painful",
+    "grading": {
+      "high": [
+        "Cham",
+        "Calc",
+        "Bell"
+      ],
+      "medium": [
+        "Cic",
+        "Podoph"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DERMATITIS – eczema with itching",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Graph",
+        "Petrol"
+      ],
+      "medium": [
+        "Mez",
+        "Ars"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DIARRHOEA – in children",
+    "grading": {
+      "high": [
+        "Cham",
+        "Calc",
+        "Podoph"
+      ],
+      "medium": [
+        "Ars",
+        "Sulph"
+      ],
+      "low": [
+        "Aloe"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DIARRHOEA – early morning",
+    "grading": {
+      "high": [
+        "Aloe",
+        "Sulph"
+      ],
+      "medium": [
+        "Podoph",
+        "Bry"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DIPHTHERIA – malignant",
+    "grading": {
+      "high": [
+        "Merc-cy",
+        "Lac-c",
+        "Apis"
+      ],
+      "medium": [
+        "Kali-bi",
+        "Lach"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DIZZINESS – on rising",
+    "grading": {
+      "high": [
+        "Bry",
+        "Gels",
+        "Bell"
+      ],
+      "medium": [
+        "Phos",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DROPSY – general",
+    "grading": {
+      "high": [
+        "Helleb",
+        "Ars",
+        "Apoc"
+      ],
+      "medium": [
+        "Dig",
+        "China"
+      ],
+      "low": [
+        "Tereb"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DYSENTERY – with tenesmus",
+    "grading": {
+      "high": [
+        "Merc",
+        "Nux-v",
+        "Colch"
+      ],
+      "medium": [
+        "Aloe",
+        "Ipec"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DYSMENORRHOEA – membranous",
+    "grading": {
+      "high": [
+        "Kreos",
+        "Xanth",
+        "Ustil"
+      ],
+      "medium": [
+        "Cimic",
+        "Sep"
+      ],
+      "low": [
+        "Lach"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DYSMENORRHOEA – with backache",
+    "grading": {
+      "high": [
+        "Cimic",
+        "Sep",
+        "Puls"
+      ],
+      "medium": [
+        "Bell",
+        "Mag-p"
+      ],
+      "low": [
+        "Lach"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DYSPEPSIA – with flatulence",
+    "grading": {
+      "high": [
+        "Carb-v",
+        "Lyc",
+        "China"
+      ],
+      "medium": [
+        "Nux-v",
+        "Puls"
+      ],
+      "low": [
+        "Arg-n"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "DYSPEPSIA – from farinaceous food",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Calc",
+        "Lyc"
+      ],
+      "medium": [
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "EARACHE – acute, with inflammation",
+    "grading": {
+      "high": [
+        "Bell",
+        "Cham",
+        "Puls"
+      ],
+      "medium": [
+        "Hepar",
+        "Merc"
+      ],
+      "low": [
+        "Kali-bi"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ECZEMA – behind ears",
+    "grading": {
+      "high": [
+        "Graph",
+        "Petrol"
+      ],
+      "medium": [
+        "Mez",
+        "Calc"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "EMACIATION – with good appetite",
+    "grading": {
+      "high": [
+        "Iod",
+        "Nat-m",
+        "Abrot"
+      ],
+      "medium": [
+        "Tub",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ENURESIS – in children",
+    "grading": {
+      "high": [
+        "Caust",
+        "Sep",
+        "Equis"
+      ],
+      "medium": [
+        "Kreos",
+        "Bell"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ENTERITIS – acute inflammation of bowels",
+    "grading": {
+      "high": [
+        "Acon",
+        "Bell",
+        "Merc"
+      ],
+      "medium": [
+        "Colch",
+        "Ars"
+      ],
+      "low": [
+        "Ipec"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "EPISTAXIS – at night",
+    "grading": {
+      "high": [
+        "Bry",
+        "Ham",
+        "Phos"
+      ],
+      "medium": [
+        "Nit-ac",
+        "Kali-n"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "EPILEPSY – before menses",
+    "grading": {
+      "high": [
+        "Cupr",
+        "Calc",
+        "Sep"
+      ],
+      "medium": [
+        "Puls",
+        "Lach"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "EPILEPSY – after fright",
+    "grading": {
+      "high": [
+        "Op",
+        "Acon",
+        "Ign"
+      ],
+      "medium": [
+        "Bell",
+        "Hyos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ERYSIPELAS – face, bright red, burning",
+    "grading": {
+      "high": [
+        "Bell",
+        "Apis",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Canth",
+        "Lach"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "EXANTHEMATA – eruption suppressed",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Zinc",
+        "Ant-t"
+      ],
+      "medium": [
+        "Cupr",
+        "Bry"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "EYE – inflammation of lids",
+    "grading": {
+      "high": [
+        "Graph",
+        "Merc",
+        "Puls"
+      ],
+      "medium": [
+        "Staph",
+        "Sulph"
+      ],
+      "low": [
+        "Petrol"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "EYE – lachrymation, acrid",
+    "grading": {
+      "high": [
+        "Euphr",
+        "Merc",
+        "Ars"
+      ],
+      "medium": [
+        "Sulph",
+        "Calc"
+      ],
+      "low": [
+        "All-c"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "FACE – neuralgia, right side",
+    "grading": {
+      "high": [
+        "Mag-p",
+        "Spig",
+        "Bell"
+      ],
+      "medium": [
+        "Coloc",
+        "Verb"
+      ],
+      "low": [
+        "Kalm"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "FACE – eruption on lips",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Graph",
+        "Sep"
+      ],
+      "medium": [
+        "Petrol",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "FEAR – of death",
+    "grading": {
+      "high": [
+        "Acon",
+        "Ars",
+        "Phos"
+      ],
+      "medium": [
+        "Op",
+        "Lach"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "FEVER – intermittent, tertian",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Chin",
+        "Ars"
+      ],
+      "medium": [
+        "Ipec",
+        "Eup-per"
+      ],
+      "low": [
+        "Nux-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "FEVER – typhoid",
+    "grading": {
+      "high": [
+        "Bapt",
+        "Mur-ac",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Bry",
+        "Gels"
+      ],
+      "low": [
+        "Op"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "FLATULENCE – upper abdomen",
+    "grading": {
+      "high": [
+        "Carb-v",
+        "Lyc",
+        "China"
+      ],
+      "medium": [
+        "Arg-n",
+        "Puls"
+      ],
+      "low": [
+        "Nux-v"
+      ]
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "FRACTURES – delayed union",
+    "grading": {
+      "high": [
+        "Symph",
+        "Calc",
+        "Sil"
+      ],
+      "medium": [
+        "Fl-ac",
+        "Ruta"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "GASTRITIS – acute",
+    "grading": {
+      "high": [
+        "Ars",
+        "Ipec",
+        "Ant-c"
+      ],
+      "medium": [
+        "Phos",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "GIDDINESS – in the dark",
+    "grading": {
+      "high": [
+        "Con",
+        "Phos",
+        "Calc"
+      ],
+      "medium": [
+        "Gels",
+        "Bell"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "GLANDULAR SWELLINGS – cold, indurated",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Sil",
+        "Merc"
+      ],
+      "medium": [
+        "Calc",
+        "Hepar"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "GONORRHOEA – thick yellow discharge",
+    "grading": {
+      "high": [
+        "Cann-s",
+        "Merc",
+        "Puls"
+      ],
+      "medium": [
+        "Sulph",
+        "Thuja"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "GOUT – chronic, nodes in joints",
+    "grading": {
+      "high": [
+        "Colch",
+        "Led",
+        "Lyc"
+      ],
+      "medium": [
+        "Ant-c",
+        "Urt-u"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "GUMS – bleeding easily",
+    "grading": {
+      "high": [
+        "Merc",
+        "Phos",
+        "Carb-v"
+      ],
+      "medium": [
+        "Kali-chl",
+        "Nit-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "GUMS – spongy, receding",
+    "grading": {
+      "high": [
+        "Merc",
+        "Kali-chl",
+        "Phos"
+      ],
+      "medium": [
+        "Sil",
+        "Fl-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HAEMORRHAGE – bright red blood",
+    "grading": {
+      "high": [
+        "Acon",
+        "Ipec",
+        "Phos"
+      ],
+      "medium": [
+        "Ham",
+        "Mill"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HAEMORRHAGE – dark, clotted",
+    "grading": {
+      "high": [
+        "Croto-t",
+        "Sulph",
+        "China"
+      ],
+      "medium": [
+        "Sec",
+        "Kali-c"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HAEMORRHOIDS – bleeding piles",
+    "grading": {
+      "high": [
+        "Ham",
+        "Aesc",
+        "Sulph"
+      ],
+      "medium": [
+        "Nit-ac",
+        "Phos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HAEMORRHOIDS – blind piles",
+    "grading": {
+      "high": [
+        "Aesc",
+        "Nux-v",
+        "Sulph"
+      ],
+      "medium": [
+        "Coll",
+        "Aloe"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HEADACHE – morning on waking",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Bry",
+        "Gels"
+      ],
+      "medium": [
+        "Lach",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HEADACHE – right side",
+    "grading": {
+      "high": [
+        "Sanguin",
+        "Bell",
+        "Spig"
+      ],
+      "medium": [
+        "Iris",
+        "Gels"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HEADACHE – left side",
+    "grading": {
+      "high": [
+        "Spig",
+        "Sep",
+        "Lach"
+      ],
+      "medium": [
+        "Cycl",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HEART – palpitation on least exertion",
+    "grading": {
+      "high": [
+        "Phos",
+        "Digitalis",
+        "Gels"
+      ],
+      "medium": [
+        "Calc",
+        "Spig"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HEART – hypertrophy with dilatation",
+    "grading": {
+      "high": [
+        "Crataeg",
+        "Digitalis",
+        "Cactus"
+      ],
+      "medium": [
+        "Adon-v",
+        "Spig"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HEAT – flushes of",
+    "grading": {
+      "high": [
+        "Lach",
+        "Amyl-n",
+        "Sulph"
+      ],
+      "medium": [
+        "Sep",
+        "Bell"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HEPATITIS – chronic, with jaundice",
+    "grading": {
+      "high": [
+        "Chel",
+        "Card-m",
+        "Merc"
+      ],
+      "medium": [
+        "Phos",
+        "Bry"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HERPES – zoster (shingles)",
+    "grading": {
+      "high": [
+        "Ran-b",
+        "Mez",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Sulph",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HOARSENESS – worse in morning",
+    "grading": {
+      "high": [
+        "Caust",
+        "Carb-v",
+        "Phos"
+      ],
+      "medium": [
+        "Spong",
+        "Bell"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HYSTERIA – globus hystericus",
+    "grading": {
+      "high": [
+        "Ign",
+        "Asaf",
+        "Valer"
+      ],
+      "medium": [
+        "Plb",
+        "Mosch"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HYDROCELE – chronic, painless",
+    "grading": {
+      "high": [
+        "Graph",
+        "Sil",
+        "Puls"
+      ],
+      "medium": [
+        "Rhod",
+        "Aur"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HYDROPHOBIA – early stage",
+    "grading": {
+      "high": [
+        "Bell",
+        "Hyos",
+        "Stram"
+      ],
+      "medium": [
+        "Lach",
+        "Canth"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HYDROTHORAX – with oppression of chest",
+    "grading": {
+      "high": [
+        "Ars",
+        "Apoc",
+        "Dig"
+      ],
+      "medium": [
+        "Helleb",
+        "Merc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HYPERTROPHY – of heart",
+    "grading": {
+      "high": [
+        "Crataeg",
+        "Cact",
+        "Adon-v"
+      ],
+      "medium": [
+        "Spig",
+        "Kalm"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "HYSTERIC CONVULSIONS – with weeping",
+    "grading": {
+      "high": [
+        "Ign",
+        "Cimic",
+        "Valer"
+      ],
+      "medium": [
+        "Mosch",
+        "Asaf"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "IMPOTENCE – with nervous exhaustion",
+    "grading": {
+      "high": [
+        "Agn",
+        "Ph-ac",
+        "Calc"
+      ],
+      "medium": [
+        "China",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INDIGESTION – from milk",
+    "grading": {
+      "high": [
+        "Aeth",
+        "Calc",
+        "Mag-c"
+      ],
+      "medium": [
+        "Lac-d",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INDIGESTION – after farinaceous food",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Lyc",
+        "Nux-v"
+      ],
+      "medium": [
+        "Puls",
+        "China"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INFLAMMATION – chronic with suppuration",
+    "grading": {
+      "high": [
+        "Hepar",
+        "Sil",
+        "Merc"
+      ],
+      "medium": [
+        "Sulph",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INJURIES – from blunt instruments",
+    "grading": {
+      "high": [
+        "Arn",
+        "Bellis",
+        "Ruta"
+      ],
+      "medium": [
+        "Hyper",
+        "Led"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INSANITY – from disappointed love",
+    "grading": {
+      "high": [
+        "Ign",
+        "Nat-m",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Staph",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INSOMNIA – from business worry",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Coff",
+        "Sulph"
+      ],
+      "medium": [
+        "Kali-ph",
+        "Gels"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INTERCOSTAL NEURALGIA – right side",
+    "grading": {
+      "high": [
+        "Ran-b",
+        "Spig",
+        "Bry"
+      ],
+      "medium": [
+        "Bell",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INTERMITTENT FEVER – quotidian type",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Chin",
+        "Ars"
+      ],
+      "medium": [
+        "Eup-per",
+        "Ipec"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INTERMITTENT FEVER – tertian type",
+    "grading": {
+      "high": [
+        "Chin",
+        "Nat-m",
+        "Ars"
+      ],
+      "medium": [
+        "Nux-v",
+        "Ipec"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INTERTRIGO – between thighs, infants",
+    "grading": {
+      "high": [
+        "Borax",
+        "Graph",
+        "Sulph"
+      ],
+      "medium": [
+        "Calc",
+        "Rhus-t"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "INTUSSUSCEPTION – infantile",
+    "grading": {
+      "high": [
+        "Op",
+        "Plumb",
+        "Bell"
+      ],
+      "medium": [
+        "Coloc",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "IRRITABILITY – children, during dentition",
+    "grading": {
+      "high": [
+        "Cham",
+        "Cina",
+        "Bell"
+      ],
+      "medium": [
+        "Calc",
+        "Sanic"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ITCHING – without eruption",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Psor",
+        "Urt-u"
+      ],
+      "medium": [
+        "Dolich",
+        "Mez"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ITCHING – worse at night",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Psor",
+        "Mez"
+      ],
+      "medium": [
+        "Rhus-t",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "JAUNDICE – infantile",
+    "grading": {
+      "high": [
+        "Chin",
+        "Chel",
+        "Merc"
+      ],
+      "medium": [
+        "Lept",
+        "Nat-s"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "JAUNDICE – chronic",
+    "grading": {
+      "high": [
+        "Chel",
+        "Card-m",
+        "Phos"
+      ],
+      "medium": [
+        "Merc",
+        "Chin"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "KIDNEYS – degeneration, granular",
+    "grading": {
+      "high": [
+        "Ars",
+        "Phos",
+        "Plumb"
+      ],
+      "medium": [
+        "Merc",
+        "Apoc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "KIDNEYS – congestion with dropsy",
+    "grading": {
+      "high": [
+        "Apoc",
+        "Ars",
+        "Merc"
+      ],
+      "medium": [
+        "Digitalis",
+        "Tereb"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "KNEE – swelling of",
+    "grading": {
+      "high": [
+        "Bry",
+        "Rhus-t",
+        "Apis"
+      ],
+      "medium": [
+        "Sil",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LARYNGITIS – chronic",
+    "grading": {
+      "high": [
+        "Caust",
+        "Phos",
+        "Arg-n"
+      ],
+      "medium": [
+        "Carb-v",
+        "Kali-bi"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LAUGHTER – hysterical",
+    "grading": {
+      "high": [
+        "Ign",
+        "Stram",
+        "Hyos"
+      ],
+      "medium": [
+        "Asaf",
+        "Cimic"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LEUCORRHOEA – acrid, excoriating",
+    "grading": {
+      "high": [
+        "Kreos",
+        "Merc",
+        "Nit-ac"
+      ],
+      "medium": [
+        "Sulph",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LEUCORRHOEA – thick, yellow",
+    "grading": {
+      "high": [
+        "Puls",
+        "Calc",
+        "Sep"
+      ],
+      "medium": [
+        "Sulph",
+        "Borax"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LICE – pediculosis capitis",
+    "grading": {
+      "high": [
+        "Staph",
+        "Merc",
+        "Psor"
+      ],
+      "medium": [
+        "Sulph",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LIMBS – restlessness of",
+    "grading": {
+      "high": [
+        "Rhus-t",
+        "Tarent",
+        "Zinc"
+      ],
+      "medium": [
+        "Ars",
+        "Cham"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LIMBS – weakness after exertion",
+    "grading": {
+      "high": [
+        "China",
+        "Phos-ac",
+        "Kali-ph"
+      ],
+      "medium": [
+        "Calc",
+        "Pic-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LIPS – dry and cracked",
+    "grading": {
+      "high": [
+        "Bry",
+        "Nat-m",
+        "Sulph"
+      ],
+      "medium": [
+        "Rhus-t",
+        "Ars"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LIPS – ulcerated corners",
+    "grading": {
+      "high": [
+        "Graph",
+        "Nat-m",
+        "Ant-c"
+      ],
+      "medium": [
+        "Petrol",
+        "Merc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LIVER – enlarged",
+    "grading": {
+      "high": [
+        "Chel",
+        "Merc",
+        "Card-m"
+      ],
+      "medium": [
+        "Lyc",
+        "Podoph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LIVER – fatty degeneration",
+    "grading": {
+      "high": [
+        "Phos",
+        "Chel",
+        "Ars"
+      ],
+      "medium": [
+        "Iod",
+        "China"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LOCKJAW – traumatic",
+    "grading": {
+      "high": [
+        "Hyper",
+        "Led",
+        "Nux-v"
+      ],
+      "medium": [
+        "Arn",
+        "Cic"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LOCOMOTOR ATAXIA – early stage",
+    "grading": {
+      "high": [
+        "Arg-n",
+        "Plumb",
+        "Phos"
+      ],
+      "medium": [
+        "Ox-ac",
+        "Alum"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LOIN – pain in",
+    "grading": {
+      "high": [
+        "Berb",
+        "Canth",
+        "Coloc"
+      ],
+      "medium": [
+        "Sep",
+        "Kali-c"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LUMBAGO – worse from motion",
+    "grading": {
+      "high": [
+        "Bry",
+        "Nux-v",
+        "Sulph"
+      ],
+      "medium": [
+        "Coloc",
+        "Arn"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LUMBAGO – worse from rest, better by motion",
+    "grading": {
+      "high": [
+        "Rhus-t",
+        "Kali-bi",
+        "Med"
+      ],
+      "medium": [
+        "Calc",
+        "Agar"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LUNGS – congestion with oppression",
+    "grading": {
+      "high": [
+        "Acon",
+        "Am-c",
+        "Bry"
+      ],
+      "medium": [
+        "Phos",
+        "Verat-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LUNGS – tuberculosis",
+    "grading": {
+      "high": [
+        "Phos",
+        "Tub",
+        "Kali-c"
+      ],
+      "medium": [
+        "Sulph",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "LYMPHATIC GLANDS – enlarged, indurated",
+    "grading": {
+      "high": [
+        "Merc",
+        "Calc",
+        "Sil"
+      ],
+      "medium": [
+        "Iod",
+        "Tub"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MADNESS – from religious melancholy",
+    "grading": {
+      "high": [
+        "Aur",
+        "Verat",
+        "Stram"
+      ],
+      "medium": [
+        "Ign",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MASTITIS – with suppuration",
+    "grading": {
+      "high": [
+        "Phyt",
+        "Sil",
+        "Hepar"
+      ],
+      "medium": [
+        "Bell",
+        "Merc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MASTURBATION – bad effects of",
+    "grading": {
+      "high": [
+        "Phos-ac",
+        "Calc",
+        "China"
+      ],
+      "medium": [
+        "Staph",
+        "Agn"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MEASLES – suppressed eruption",
+    "grading": {
+      "high": [
+        "Puls",
+        "Bry",
+        "Sulph"
+      ],
+      "medium": [
+        "Bell",
+        "Zinc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MEMORY – loss of",
+    "grading": {
+      "high": [
+        "Anac",
+        "Kali-br",
+        "Nat-m"
+      ],
+      "medium": [
+        "Phos",
+        "Cann-i"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MENINGITIS – with opisthotonos",
+    "grading": {
+      "high": [
+        "Cic",
+        "Bell",
+        "Stram"
+      ],
+      "medium": [
+        "Zinc",
+        "Cupr"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MENSTRUATION – too early, profuse",
+    "grading": {
+      "high": [
+        "Calc",
+        "Bell",
+        "Sulph"
+      ],
+      "medium": [
+        "Kreos",
+        "Ferr"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MENSTRUATION – too late, scanty",
+    "grading": {
+      "high": [
+        "Puls",
+        "Sep",
+        "Graph"
+      ],
+      "medium": [
+        "Nat-m",
+        "Phos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "METRORRHAGIA – in young girls",
+    "grading": {
+      "high": [
+        "Calc",
+        "Bell",
+        "Sabin"
+      ],
+      "medium": [
+        "Ipec",
+        "Kreos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "METRORRHAGIA – after labour",
+    "grading": {
+      "high": [
+        "Sec",
+        "Bell",
+        "China"
+      ],
+      "medium": [
+        "Ipec",
+        "Ars"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MICTURITION – frequent, with small quantity",
+    "grading": {
+      "high": [
+        "Canth",
+        "Equis",
+        "Apis"
+      ],
+      "medium": [
+        "Merc",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MICTURITION – painful, burning",
+    "grading": {
+      "high": [
+        "Canth",
+        "Sars",
+        "Apis"
+      ],
+      "medium": [
+        "Bell",
+        "Berb"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MILK – scanty secretion",
+    "grading": {
+      "high": [
+        "Urt-u",
+        "Ricinus",
+        "Puls"
+      ],
+      "medium": [
+        "Lac-c",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MILK – suppressed",
+    "grading": {
+      "high": [
+        "Puls",
+        "Urt-u",
+        "Lac-c"
+      ],
+      "medium": [
+        "Bry",
+        "Bell"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MIND – confusion of",
+    "grading": {
+      "high": [
+        "Anac",
+        "Cann-i",
+        "Lyc"
+      ],
+      "medium": [
+        "Gels",
+        "Phos-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MIND – dullness, sluggish",
+    "grading": {
+      "high": [
+        "Phos-ac",
+        "Gels",
+        "Nux-m"
+      ],
+      "medium": [
+        "Kali-ph",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MOLES – bleeding from",
+    "grading": {
+      "high": [
+        "Thuja",
+        "Calc",
+        "Kali-c"
+      ],
+      "medium": [
+        "Nit-ac",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MORNING AGGRAVATION – general",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Sulph",
+        "Lyc"
+      ],
+      "medium": [
+        "Nat-m",
+        "Bry"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MOUTH – ulcers on tongue",
+    "grading": {
+      "high": [
+        "Merc",
+        "Nit-ac",
+        "Borax"
+      ],
+      "medium": [
+        "Kali-chl",
+        "Sulph-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MOUTH – aphthae",
+    "grading": {
+      "high": [
+        "Borax",
+        "Merc",
+        "Sulph-ac"
+      ],
+      "medium": [
+        "Kali-chl",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MUMPS – with orchitis",
+    "grading": {
+      "high": [
+        "Bell",
+        "Rhod",
+        "Puls"
+      ],
+      "medium": [
+        "Spong",
+        "Merc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MUSCLES – twitching of",
+    "grading": {
+      "high": [
+        "Agar",
+        "Zinc",
+        "Ign"
+      ],
+      "medium": [
+        "Cic",
+        "Cupr"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "MUSCLES – pain, soreness",
+    "grading": {
+      "high": [
+        "Rhus-t",
+        "Arn",
+        "Bry"
+      ],
+      "medium": [
+        "Phyt",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NAILS – brittle",
+    "grading": {
+      "high": [
+        "Sil",
+        "Graph",
+        "Thuja"
+      ],
+      "medium": [
+        "Calc",
+        "Fl-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NAILS – crumbling",
+    "grading": {
+      "high": [
+        "Graph",
+        "Ant-c",
+        "Sil"
+      ],
+      "medium": [
+        "Thuja",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NAUSEA – morning on waking",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Lob",
+        "Ipec"
+      ],
+      "medium": [
+        "Sep",
+        "Bry"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NAUSEA – during pregnancy",
+    "grading": {
+      "high": [
+        "Sep",
+        "Nux-v",
+        "Colch"
+      ],
+      "medium": [
+        "Kreos",
+        "Cocc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NECK – stiffness of",
+    "grading": {
+      "high": [
+        "Gels",
+        "Cimic",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Bry",
+        "Bell"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NEPHRITIS – with albuminuria",
+    "grading": {
+      "high": [
+        "Merc",
+        "Apis",
+        "Ars"
+      ],
+      "medium": [
+        "Tereb",
+        "Phos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NERVOUSNESS – in children",
+    "grading": {
+      "high": [
+        "Cham",
+        "Cina",
+        "Tarent"
+      ],
+      "medium": [
+        "Coff",
+        "Ign"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NEURALGIA – from cold",
+    "grading": {
+      "high": [
+        "Acon",
+        "Mag-p",
+        "Coloc"
+      ],
+      "medium": [
+        "Cham",
+        "Spig"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NEURALGIA – left-sided",
+    "grading": {
+      "high": [
+        "Spig",
+        "Lach",
+        "Mag-p"
+      ],
+      "medium": [
+        "Cimic",
+        "Platina"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NOSE – obstruction of",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Samb",
+        "Am-c"
+      ],
+      "medium": [
+        "Calc",
+        "Sil"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NOSE – ulcers in",
+    "grading": {
+      "high": [
+        "Kali-bi",
+        "Nit-ac",
+        "Merc"
+      ],
+      "medium": [
+        "Thuja",
+        "Ant-c"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NUMBNESS – of fingers",
+    "grading": {
+      "high": [
+        "Agar",
+        "Caust",
+        "Kalm"
+      ],
+      "medium": [
+        "Plumb",
+        "Zinc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NUMBNESS – of lower limbs",
+    "grading": {
+      "high": [
+        "Sec",
+        "Plumb",
+        "Phos"
+      ],
+      "medium": [
+        "Agar",
+        "Kali-bi"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "NYMPHOMANIA – with voluptuous dreams",
+    "grading": {
+      "high": [
+        "Hyos",
+        "Canth",
+        "Plat"
+      ],
+      "medium": [
+        "Tarent",
+        "Lil-t"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "OBESITY – with weakness",
+    "grading": {
+      "high": [
+        "Calc",
+        "Graph",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Caps",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "OESOPHAGUS – spasms of",
+    "grading": {
+      "high": [
+        "Glon",
+        "Ign",
+        "Bell"
+      ],
+      "medium": [
+        "Nux-v",
+        "Stram"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "OPHTHALMIA – scrofulous",
+    "grading": {
+      "high": [
+        "Calc",
+        "Merc",
+        "Sulph"
+      ],
+      "medium": [
+        "Graph",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "ORCHITIS – gonorrhoeal",
+    "grading": {
+      "high": [
+        "Puls",
+        "Clem",
+        "Rhod"
+      ],
+      "medium": [
+        "Spong",
+        "Arg-n"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "OTITIS – media",
+    "grading": {
+      "high": [
+        "Puls",
+        "Merc",
+        "Bell"
+      ],
+      "medium": [
+        "Cham",
+        "Kali-bi"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "OVARIES – left, pain in",
+    "grading": {
+      "high": [
+        "Lach",
+        "Apis",
+        "Coloc"
+      ],
+      "medium": [
+        "Sulph",
+        "Kali-c"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "OVARIES – tumor of",
+    "grading": {
+      "high": [
+        "Apis",
+        "Calc",
+        "Lach"
+      ],
+      "medium": [
+        "Con",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PAINS – burning",
+    "grading": {
+      "high": [
+        "Ars",
+        "Sulph",
+        "Canth"
+      ],
+      "medium": [
+        "Phos",
+        "Kreos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PAINS – pressing",
+    "grading": {
+      "high": [
+        "Bry",
+        "Acon",
+        "Nux-v"
+      ],
+      "medium": [
+        "Coloc",
+        "Ars"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PAINS – stabbing",
+    "grading": {
+      "high": [
+        "Kali-c",
+        "Bry",
+        "Spig"
+      ],
+      "medium": [
+        "Ran-b",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PAINS – tearing",
+    "grading": {
+      "high": [
+        "Merc",
+        "Rhus-t",
+        "Coloc"
+      ],
+      "medium": [
+        "Bry",
+        "Cham"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PAINS – throbbing",
+    "grading": {
+      "high": [
+        "Bell",
+        "Puls",
+        "Mag-p"
+      ],
+      "medium": [
+        "Sil",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PALPITATION – violent, visible",
+    "grading": {
+      "high": [
+        "Spig",
+        "Cact",
+        "Digitalis"
+      ],
+      "medium": [
+        "Kali-c",
+        "Ign"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PALPITATION – with anxiety",
+    "grading": {
+      "high": [
+        "Acon",
+        "Ars",
+        "Kali-p"
+      ],
+      "medium": [
+        "Gels",
+        "Ign"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PARALYSIS – after apoplexy",
+    "grading": {
+      "high": [
+        "Op",
+        "Phos",
+        "Gels"
+      ],
+      "medium": [
+        "Nux-v",
+        "Caust"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PARALYSIS – one side",
+    "grading": {
+      "high": [
+        "Gels",
+        "Lyc",
+        "Plumb"
+      ],
+      "medium": [
+        "Op",
+        "Caust"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PARSLEY ODOUR – in breath",
+    "grading": {
+      "high": [
+        "Asaf",
+        "Petrosel"
+      ],
+      "medium": [],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PERICARDITIS – with effusion",
+    "grading": {
+      "high": [
+        "Digitalis",
+        "Ars",
+        "Spig"
+      ],
+      "medium": [
+        "Kali-c",
+        "Bry"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PERIOSTITIS – chronic, with night pains",
+    "grading": {
+      "high": [
+        "Merc",
+        "Sil",
+        "Hepar"
+      ],
+      "medium": [
+        "Fl-ac",
+        "Aur"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PERITONITIS – with meteorism",
+    "grading": {
+      "high": [
+        "Bell",
+        "Colch",
+        "Ars"
+      ],
+      "medium": [
+        "Bry",
+        "Merc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PERSPIRATION – offensive",
+    "grading": {
+      "high": [
+        "Sil",
+        "Sulph",
+        "Psor"
+      ],
+      "medium": [
+        "Merc",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PERSPIRATION – profuse at night",
+    "grading": {
+      "high": [
+        "Sil",
+        "Merc",
+        "China"
+      ],
+      "medium": [
+        "Phos",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHARYNX – inflammation of",
+    "grading": {
+      "high": [
+        "Bell",
+        "Merc",
+        "Apis"
+      ],
+      "medium": [
+        "Kali-bich",
+        "Hepar"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHLEBITIS – with suppuration",
+    "grading": {
+      "high": [
+        "Lach",
+        "Vipera",
+        "Fl-ac"
+      ],
+      "medium": [
+        "Ham",
+        "Apis"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHOTOPHOBIA – during headache",
+    "grading": {
+      "high": [
+        "Bell",
+        "Nat-m",
+        "Iris"
+      ],
+      "medium": [
+        "Onos",
+        "Gels"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHTHISIS – incipient",
+    "grading": {
+      "high": [
+        "Tub",
+        "Phos",
+        "Calc"
+      ],
+      "medium": [
+        "Sil",
+        "Psor"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHTHISIS – with hectic fever",
+    "grading": {
+      "high": [
+        "Tub",
+        "China",
+        "Phos"
+      ],
+      "medium": [
+        "Stann",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PILES – bleeding, painful",
+    "grading": {
+      "high": [
+        "Aesculus",
+        "Ham",
+        "Nux-v"
+      ],
+      "medium": [
+        "Sulph",
+        "Collin"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PILES – blind, itching",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Aesculus",
+        "Graph"
+      ],
+      "medium": [
+        "Nux-v",
+        "Aloe"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PLEURISY – with effusion",
+    "grading": {
+      "high": [
+        "Bry",
+        "Apis",
+        "Ars"
+      ],
+      "medium": [
+        "Sulph",
+        "Digitalis"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PNEUMONIA – in old people",
+    "grading": {
+      "high": [
+        "Ant-t",
+        "Carb-v",
+        "Phos"
+      ],
+      "medium": [
+        "Am-c",
+        "Opium"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "POLYPUS – nasal",
+    "grading": {
+      "high": [
+        "Calc",
+        "Sang",
+        "Teucr"
+      ],
+      "medium": [
+        "Phos",
+        "Lemna-m"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PROSTATE – enlarged, with frequent urination",
+    "grading": {
+      "high": [
+        "Con",
+        "Sabal",
+        "Ferr-p"
+      ],
+      "medium": [
+        "Baryta-c",
+        "Chimaph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PERSPIRATION – offensive",
+    "grading": {
+      "high": [
+        "Sil",
+        "Sulph",
+        "Psor"
+      ],
+      "medium": [
+        "Merc",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PERSPIRATION – profuse at night",
+    "grading": {
+      "high": [
+        "Sil",
+        "Merc",
+        "China"
+      ],
+      "medium": [
+        "Phos",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHARYNX – inflammation of",
+    "grading": {
+      "high": [
+        "Bell",
+        "Merc",
+        "Apis"
+      ],
+      "medium": [
+        "Kali-bich",
+        "Hepar"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHLEBITIS – with suppuration",
+    "grading": {
+      "high": [
+        "Lach",
+        "Vipera",
+        "Fl-ac"
+      ],
+      "medium": [
+        "Ham",
+        "Apis"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHOTOPHOBIA – during headache",
+    "grading": {
+      "high": [
+        "Bell",
+        "Nat-m",
+        "Iris"
+      ],
+      "medium": [
+        "Onos",
+        "Gels"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHTHISIS – incipient",
+    "grading": {
+      "high": [
+        "Tub",
+        "Phos",
+        "Calc"
+      ],
+      "medium": [
+        "Sil",
+        "Psor"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PHTHISIS – with hectic fever",
+    "grading": {
+      "high": [
+        "Tub",
+        "China",
+        "Phos"
+      ],
+      "medium": [
+        "Stann",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PILES – bleeding, painful",
+    "grading": {
+      "high": [
+        "Aesculus",
+        "Ham",
+        "Nux-v"
+      ],
+      "medium": [
+        "Sulph",
+        "Collin"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PILES – blind, itching",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Aesculus",
+        "Graph"
+      ],
+      "medium": [
+        "Nux-v",
+        "Aloe"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PLEURISY – with effusion",
+    "grading": {
+      "high": [
+        "Bry",
+        "Apis",
+        "Ars"
+      ],
+      "medium": [
+        "Sulph",
+        "Digitalis"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PNEUMONIA – in old people",
+    "grading": {
+      "high": [
+        "Ant-t",
+        "Carb-v",
+        "Phos"
+      ],
+      "medium": [
+        "Am-c",
+        "Opium"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "POLYPUS – nasal",
+    "grading": {
+      "high": [
+        "Calc",
+        "Sang",
+        "Teucr"
+      ],
+      "medium": [
+        "Phos",
+        "Lemna-m"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PROSTATE – enlarged, with frequent urination",
+    "grading": {
+      "high": [
+        "Con",
+        "Sabal",
+        "Ferr-p"
+      ],
+      "medium": [
+        "Baryta-c",
+        "Chimaph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PRURITUS – of anus",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Aesculus",
+        "Aloe"
+      ],
+      "medium": [
+        "Graph",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PRURITUS – of vulva",
+    "grading": {
+      "high": [
+        "Sep",
+        "Kreos",
+        "Graph"
+      ],
+      "medium": [
+        "Psor",
+        "Borax"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PULSE – irregular",
+    "grading": {
+      "high": [
+        "Digitalis",
+        "Cact",
+        "Spig"
+      ],
+      "medium": [
+        "Kali-c",
+        "Lach"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "PULSE – slow",
+    "grading": {
+      "high": [
+        "Dig",
+        "Op",
+        "Gels"
+      ],
+      "medium": [
+        "Phos",
+        "Verat"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "QUINSY – suppurating",
+    "grading": {
+      "high": [
+        "Hep",
+        "Merc",
+        "Bell"
+      ],
+      "medium": [
+        "Sil",
+        "Bar-c"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RASH – in children",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Cham",
+        "Calc"
+      ],
+      "medium": [
+        "Bell",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RASH – retrocession of",
+    "grading": {
+      "high": [
+        "Cupr",
+        "Bell",
+        "Zinc"
+      ],
+      "medium": [
+        "Stram",
+        "Acon"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RECTUM – burning in",
+    "grading": {
+      "high": [
+        "Ars",
+        "Aloe",
+        "Sulph"
+      ],
+      "medium": [
+        "Nux-v",
+        "Graph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RECTUM – constipation with ineffectual urging",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Sil",
+        "Bry"
+      ],
+      "medium": [
+        "Sulph",
+        "Aesculus"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RECTUM – diarrhoea after eating",
+    "grading": {
+      "high": [
+        "Ars",
+        "China",
+        "Podo"
+      ],
+      "medium": [
+        "Phos",
+        "Aloe"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RECTUM – prolapse of",
+    "grading": {
+      "high": [
+        "Pod",
+        "Ign",
+        "Aloe"
+      ],
+      "medium": [
+        "Nux-v",
+        "Mur-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RENAL COLIC – right side",
+    "grading": {
+      "high": [
+        "Coloc",
+        "Berb-v",
+        "Nux-v"
+      ],
+      "medium": [
+        "Canth",
+        "Sars"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RENAL COLIC – with haematuria",
+    "grading": {
+      "high": [
+        "Canth",
+        "Berb-v",
+        "Tereb"
+      ],
+      "medium": [
+        "Ocimum",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RESPIRATION – difficult lying down",
+    "grading": {
+      "high": [
+        "Ars",
+        "Spong",
+        "Phos"
+      ],
+      "medium": [
+        "Ipec",
+        "Grind"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RESPIRATION – sighing",
+    "grading": {
+      "high": [
+        "Ign",
+        "Phos",
+        "Nat-m"
+      ],
+      "medium": [
+        "Puls",
+        "Stann"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RETENTION OF URINE – after labour",
+    "grading": {
+      "high": [
+        "Caust",
+        "Nux-v",
+        "Bell"
+      ],
+      "medium": [
+        "Puls",
+        "Arn"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RETENTION OF URINE – with full bladder and no desire",
+    "grading": {
+      "high": [
+        "Op",
+        "Bell",
+        "Hyos"
+      ],
+      "medium": [
+        "Stram",
+        "Gels"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RHEUMATISM – chronic, worse damp",
+    "grading": {
+      "high": [
+        "Rhus-t",
+        "Dulc",
+        "Calc"
+      ],
+      "medium": [
+        "Caust",
+        "Bry"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "RHEUMATISM – migratory",
+    "grading": {
+      "high": [
+        "Puls",
+        "Rhod",
+        "Kali-bi"
+      ],
+      "medium": [
+        "Led",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SALIVATION – during sleep",
+    "grading": {
+      "high": [
+        "Merc",
+        "Nux-v",
+        "Kali-bi"
+      ],
+      "medium": [
+        "Rhus-t",
+        "Lach"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SCABIES – with violent itching",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Psor",
+        "Petrol"
+      ],
+      "medium": [
+        "Sep",
+        "Mez"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SCALP ERUPTIONS – with crusts and thick discharge",
+    "grading": {
+      "high": [
+        "Graph",
+        "Mez",
+        "Calc"
+      ],
+      "medium": [
+        "Hepar",
+        "Merc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SCIATICA – left side",
+    "grading": {
+      "high": [
+        "Coloc",
+        "Lyc",
+        "Gnaph"
+      ],
+      "medium": [
+        "Am-m",
+        "Phyt"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SCIATICA – worse at night",
+    "grading": {
+      "high": [
+        "Coloc",
+        "Rhus-t",
+        "Ars"
+      ],
+      "medium": [
+        "Merc",
+        "Kali-bi"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SCIRRHUS – of breast",
+    "grading": {
+      "high": [
+        "Con",
+        "Phyt",
+        "Carbo-an"
+      ],
+      "medium": [
+        "Hydr",
+        "Iod"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SCREAMING – in children, during sleep",
+    "grading": {
+      "high": [
+        "Bell",
+        "Stram",
+        "Calc"
+      ],
+      "medium": [
+        "Kali-br",
+        "Cham"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SCROFULA – with glandular swelling",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Sil",
+        "Calc"
+      ],
+      "medium": [
+        "Tub",
+        "Iod"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SEMINAL EMISSIONS – frequent, with weakness",
+    "grading": {
+      "high": [
+        "Staph",
+        "China",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Agn",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SENILITY – premature",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Sec",
+        "Carbo-an"
+      ],
+      "medium": [
+        "Kali-ph",
+        "Phos-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SHINGLES – with burning pain",
+    "grading": {
+      "high": [
+        "Mez",
+        "Ars",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Canth",
+        "Apis"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SLEEP – disturbed by dreams",
+    "grading": {
+      "high": [
+        "Puls",
+        "Sulph",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sep",
+        "Phos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SLEEP – sleeplessness after midnight",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Kali-c",
+        "Sulph"
+      ],
+      "medium": [
+        "Coff",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SLEEP – unrefreshing",
+    "grading": {
+      "high": [
+        "Phos-ac",
+        "Nux-v",
+        "Sulph"
+      ],
+      "medium": [
+        "Calc",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SLEEP – talking during",
+    "grading": {
+      "high": [
+        "Phos-ac",
+        "Stram",
+        "Lach"
+      ],
+      "medium": [
+        "Bell",
+        "Hyos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SLEEP – waking frequently",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Nux-v",
+        "Coff"
+      ],
+      "medium": [
+        "Puls",
+        "Kali-c"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SNEEZING – frequent, with watery coryza",
+    "grading": {
+      "high": [
+        "All-c",
+        "Euphr",
+        "Ars"
+      ],
+      "medium": [
+        "Nux-v",
+        "Sabad"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SORE THROAT – worse right side",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Lach",
+        "Merc"
+      ],
+      "medium": [
+        "Phyt",
+        "Bell"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SORE THROAT – ulcerated",
+    "grading": {
+      "high": [
+        "Merc",
+        "Nit-ac",
+        "Lach"
+      ],
+      "medium": [
+        "Hepar",
+        "Kali-bi"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SPASMS – hysterical",
+    "grading": {
+      "high": [
+        "Ign",
+        "Valer",
+        "Asaf"
+      ],
+      "medium": [
+        "Puls",
+        "Mosch"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SPLEEN – enlarged",
+    "grading": {
+      "high": [
+        "Ceanoth",
+        "China",
+        "Quercus"
+      ],
+      "medium": [
+        "Carbo-v",
+        "Nat-m"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STIFFNESS – on beginning to move",
+    "grading": {
+      "high": [
+        "Rhus-t",
+        "Bry",
+        "Calc"
+      ],
+      "medium": [
+        "Caust",
+        "Kali-c"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOMACH – acidity, with heartburn",
+    "grading": {
+      "high": [
+        "Rob",
+        "Nat-ph",
+        "Ars"
+      ],
+      "medium": [
+        "Nux-v",
+        "Iris"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOMACH – aversion to food",
+    "grading": {
+      "high": [
+        "China",
+        "Ipec",
+        "Sep"
+      ],
+      "medium": [
+        "Nux-v",
+        "Ign"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOMACH – fullness after eating little",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Carbo-v",
+        "China"
+      ],
+      "medium": [
+        "Nux-v",
+        "Phos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOMACH – pain, burning",
+    "grading": {
+      "high": [
+        "Ars",
+        "Phos",
+        "Iris"
+      ],
+      "medium": [
+        "Canth",
+        "Sulph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOMACH – pain, crampy",
+    "grading": {
+      "high": [
+        "Coloc",
+        "Mag-p",
+        "Nux-v"
+      ],
+      "medium": [
+        "Cham",
+        "Ipec"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOMACH – vomiting after eating",
+    "grading": {
+      "high": [
+        "Ipec",
+        "Ars",
+        "Kreos"
+      ],
+      "medium": [
+        "Phos",
+        "Ant-t"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOMACH – vomiting of bile",
+    "grading": {
+      "high": [
+        "Iris",
+        "Bry",
+        "Nux-v"
+      ],
+      "medium": [
+        "Chel",
+        "Pod"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOOLS – bloody",
+    "grading": {
+      "high": [
+        "Merc",
+        "Aloe",
+        "Nit-ac"
+      ],
+      "medium": [
+        "Phos",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOOLS – green",
+    "grading": {
+      "high": [
+        "Cham",
+        "Mag-c",
+        "Sulph"
+      ],
+      "medium": [
+        "Merc",
+        "Pod"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOOLS – offensive",
+    "grading": {
+      "high": [
+        "Merc",
+        "Pod",
+        "Sulph"
+      ],
+      "medium": [
+        "Aloe",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STOOLS – watery",
+    "grading": {
+      "high": [
+        "Verat",
+        "Podo",
+        "Ars"
+      ],
+      "medium": [
+        "Phos",
+        "China"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STRABISMUS – convergent",
+    "grading": {
+      "high": [
+        "Phys",
+        "Zinc",
+        "Nux-v"
+      ],
+      "medium": [
+        "Gels",
+        "Cycl"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STRANGURY – painful and ineffectual",
+    "grading": {
+      "high": [
+        "Canth",
+        "Nux-v",
+        "Apis"
+      ],
+      "medium": [
+        "Bell",
+        "Merc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STRUMA – with glandular enlargement",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Iod",
+        "Calc"
+      ],
+      "medium": [
+        "Sil",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "STUPOR – with open eyes",
+    "grading": {
+      "high": [
+        "Op",
+        "Zinc",
+        "Phos"
+      ],
+      "medium": [
+        "Hyos",
+        "Helleb"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SWEAT – cold",
+    "grading": {
+      "high": [
+        "Verat",
+        "Camph",
+        "Carbo-v"
+      ],
+      "medium": [
+        "Ars",
+        "China"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SWEAT – profuse at night",
+    "grading": {
+      "high": [
+        "Merc",
+        "Sil",
+        "Calc"
+      ],
+      "medium": [
+        "Sep",
+        "China"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SWEAT – sour",
+    "grading": {
+      "high": [
+        "Calc",
+        "Sil",
+        "Rheum"
+      ],
+      "medium": [
+        "Merc",
+        "Phos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SWEAT – suppression of",
+    "grading": {
+      "high": [
+        "Bell",
+        "Acon",
+        "Cham"
+      ],
+      "medium": [
+        "Bry",
+        "Gels"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SWELLING – glands, cervical",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Merc",
+        "Calc"
+      ],
+      "medium": [
+        "Sil",
+        "Iod"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SWELLING – glands, inguinal",
+    "grading": {
+      "high": [
+        "Merc",
+        "Nit-ac",
+        "Thuja"
+      ],
+      "medium": [
+        "Calc",
+        "Carbo-an"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SWELLING – dropsical",
+    "grading": {
+      "high": [
+        "Apis",
+        "Ars",
+        "Helleb"
+      ],
+      "medium": [
+        "Digitalis",
+        "China"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "SYNCOPE – on slight exertion",
+    "grading": {
+      "high": [
+        "Carbo-v",
+        "China",
+        "Verat"
+      ],
+      "medium": [
+        "Phos",
+        "Digitalis"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TASTE – bitter in morning",
+    "grading": {
+      "high": [
+        "Bry",
+        "Nux-v",
+        "Ant-c"
+      ],
+      "medium": [
+        "Chel",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TASTE – putrid",
+    "grading": {
+      "high": [
+        "Merc",
+        "Arn",
+        "Hepar"
+      ],
+      "medium": [
+        "Nux-v",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TASTE – loss of taste",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Nat-m",
+        "China"
+      ],
+      "medium": [
+        "Phos",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TEETH – decayed, rapid",
+    "grading": {
+      "high": [
+        "Staph",
+        "Kreos",
+        "Merc"
+      ],
+      "medium": [
+        "Calc",
+        "Sil"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TEETH – grinding",
+    "grading": {
+      "high": [
+        "Cina",
+        "Bell",
+        "Sant"
+      ],
+      "medium": [
+        "Cham",
+        "Hyos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TEETH – looseness",
+    "grading": {
+      "high": [
+        "Merc",
+        "Phos",
+        "Nit-ac"
+      ],
+      "medium": [
+        "Sil",
+        "Carbo-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TEETH – sensitive to air",
+    "grading": {
+      "high": [
+        "Cham",
+        "Coff",
+        "Merc"
+      ],
+      "medium": [
+        "Nux-v",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THIRST – absent during fever",
+    "grading": {
+      "high": [
+        "Gels",
+        "Puls",
+        "Ant-t"
+      ],
+      "medium": [
+        "Ipec",
+        "Cycl"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THIRST – for large quantities",
+    "grading": {
+      "high": [
+        "Bry",
+        "Phos",
+        "Verat"
+      ],
+      "medium": [
+        "Nat-m",
+        "China"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THIRST – for small quantities, often",
+    "grading": {
+      "high": [
+        "Ars",
+        "Chin",
+        "Sulph"
+      ],
+      "medium": [
+        "Nux-v",
+        "Lyc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THROAT – constriction",
+    "grading": {
+      "high": [
+        "Bell",
+        "Cact",
+        "Plumb"
+      ],
+      "medium": [
+        "Lach",
+        "Ign"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THROAT – dryness",
+    "grading": {
+      "high": [
+        "Bell",
+        "Nux-v",
+        "Bry"
+      ],
+      "medium": [
+        "Phos",
+        "Apis"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THROAT – inflammation with white patches",
+    "grading": {
+      "high": [
+        "Merc",
+        "Nit-ac",
+        "Kali-bi"
+      ],
+      "medium": [
+        "Lach",
+        "Hepar"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THROAT – pain, stitching",
+    "grading": {
+      "high": [
+        "Hepar",
+        "Nit-ac",
+        "Kali-c"
+      ],
+      "medium": [
+        "Bell",
+        "Phyt"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THROAT – swollen",
+    "grading": {
+      "high": [
+        "Bell",
+        "Merc",
+        "Apis"
+      ],
+      "medium": [
+        "Phyt",
+        "Hepar"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THROAT – ulcerated",
+    "grading": {
+      "high": [
+        "Merc",
+        "Nit-ac",
+        "Kali-bi"
+      ],
+      "medium": [
+        "Hepar",
+        "Lach"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THROBBING – in head",
+    "grading": {
+      "high": [
+        "Bell",
+        "Glon",
+        "Melil"
+      ],
+      "medium": [
+        "Nat-m",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "THUMB – pain in",
+    "grading": {
+      "high": [
+        "Caust",
+        "Led",
+        "Fl-ac"
+      ],
+      "medium": [
+        "Ruta",
+        "Kali-bi"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TIC DOULOUREUX – right side",
+    "grading": {
+      "high": [
+        "Mag-p",
+        "Spig",
+        "Verb"
+      ],
+      "medium": [
+        "Coloc",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TIC DOULOUREUX – left side",
+    "grading": {
+      "high": [
+        "Spig",
+        "Platina",
+        "Mez"
+      ],
+      "medium": [
+        "Ars",
+        "Coloc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TINNITUS – ringing",
+    "grading": {
+      "high": [
+        "Chin",
+        "Salic-ac",
+        "Nat-s"
+      ],
+      "medium": [
+        "Bell",
+        "Nit-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TINNITUS – roaring",
+    "grading": {
+      "high": [
+        "Chin",
+        "Graph",
+        "Lyc"
+      ],
+      "medium": [
+        "Phos",
+        "Sil"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TONGUE – coated white",
+    "grading": {
+      "high": [
+        "Ant-c",
+        "Bry",
+        "Nux-v"
+      ],
+      "medium": [
+        "Puls",
+        "Ipec"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TONGUE – cracked",
+    "grading": {
+      "high": [
+        "Nit-ac",
+        "Kali-bi",
+        "Mur-ac"
+      ],
+      "medium": [
+        "Rhus-t",
+        "Ars"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TONGUE – dry",
+    "grading": {
+      "high": [
+        "Bry",
+        "Nux-v",
+        "Phos"
+      ],
+      "medium": [
+        "Bell",
+        "Rhus-t"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TONGUE – mapped",
+    "grading": {
+      "high": [
+        "Tarax",
+        "Nat-m",
+        "Ars"
+      ],
+      "medium": [
+        "Rhus-t",
+        "Kali-bi"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TONGUE – swollen",
+    "grading": {
+      "high": [
+        "Bell",
+        "Apis",
+        "Mur-ac"
+      ],
+      "medium": [
+        "Lach",
+        "Nit-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TONGUE – trembling",
+    "grading": {
+      "high": [
+        "Gels",
+        "Merc",
+        "Phos"
+      ],
+      "medium": [
+        "Nux-v",
+        "Ars"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TONSILS – inflamed",
+    "grading": {
+      "high": [
+        "Bell",
+        "Hepar",
+        "Baryta-c"
+      ],
+      "medium": [
+        "Merc",
+        "Phyt"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TONSILS – ulcerated",
+    "grading": {
+      "high": [
+        "Merc",
+        "Kali-bi",
+        "Nit-ac"
+      ],
+      "medium": [
+        "Hepar",
+        "Lach"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "TREMBLING – with weakness",
+    "grading": {
+      "high": [
+        "Gels",
+        "Zinc",
+        "Phos"
+      ],
+      "medium": [
+        "Coccul",
+        "Ars"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – albuminous",
+    "grading": {
+      "high": [
+        "Apis",
+        "Ars",
+        "Phos"
+      ],
+      "medium": [
+        "Canth",
+        "Helleb"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – bloody",
+    "grading": {
+      "high": [
+        "Canth",
+        "Tereb",
+        "Ars"
+      ],
+      "medium": [
+        "Bell",
+        "Ham"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – burning",
+    "grading": {
+      "high": [
+        "Canth",
+        "Apis",
+        "Equis"
+      ],
+      "medium": [
+        "Ars",
+        "Sars"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – cloudy",
+    "grading": {
+      "high": [
+        "Sars",
+        "Sep",
+        "Clem"
+      ],
+      "medium": [
+        "Berb",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – dark",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Nit-ac",
+        "China"
+      ],
+      "medium": [
+        "Phos",
+        "Merc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – frequent urging",
+    "grading": {
+      "high": [
+        "Canth",
+        "Apis",
+        "Sars"
+      ],
+      "medium": [
+        "Nux-v",
+        "Equis"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – incontinence",
+    "grading": {
+      "high": [
+        "Caust",
+        "Bell",
+        "Sep"
+      ],
+      "medium": [
+        "Gels",
+        "Equis"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – involuntary at night",
+    "grading": {
+      "high": [
+        "Sep",
+        "Caust",
+        "Kreos"
+      ],
+      "medium": [
+        "Sulph",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – pain before",
+    "grading": {
+      "high": [
+        "Berb",
+        "Sars",
+        "Canth"
+      ],
+      "medium": [
+        "Puls",
+        "Nit-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – pain during",
+    "grading": {
+      "high": [
+        "Canth",
+        "Apis",
+        "Sars"
+      ],
+      "medium": [
+        "Equis",
+        "Berb"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – pain after",
+    "grading": {
+      "high": [
+        "Sars",
+        "Equis",
+        "Berb"
+      ],
+      "medium": [
+        "Canth",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – quantity, increased",
+    "grading": {
+      "high": [
+        "Phos-ac",
+        "Nat-m",
+        "Apis"
+      ],
+      "medium": [
+        "China",
+        "Urea"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – quantity, diminished",
+    "grading": {
+      "high": [
+        "Apis",
+        "Canth",
+        "Ars"
+      ],
+      "medium": [
+        "Phos",
+        "Nit-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – retention",
+    "grading": {
+      "high": [
+        "Bell",
+        "Caust",
+        "Nux-v"
+      ],
+      "medium": [
+        "Acon",
+        "Ign"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – sediment, brick-dust",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Nux-v",
+        "Phos"
+      ],
+      "medium": [
+        "Puls",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – sediment, pus",
+    "grading": {
+      "high": [
+        "Berb",
+        "Canth",
+        "Sars"
+      ],
+      "medium": [
+        "Merc",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – sediment, red sand",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Sars",
+        "Uva"
+      ],
+      "medium": [
+        "Puls",
+        "Phos"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – slimy",
+    "grading": {
+      "high": [
+        "Kali-bi",
+        "Berb",
+        "Sep"
+      ],
+      "medium": [
+        "Cann-s",
+        "Copaiv"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URINE – suppressed",
+    "grading": {
+      "high": [
+        "Apis",
+        "Canth",
+        "Bell"
+      ],
+      "medium": [
+        "Acon",
+        "Camph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URTICARIA – from suppressed menses",
+    "grading": {
+      "high": [
+        "Puls",
+        "Sep",
+        "Sulph"
+      ],
+      "medium": [
+        "Dulc",
+        "Kali-c"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "URTICARIA – with diarrhoea",
+    "grading": {
+      "high": [
+        "Apis",
+        "Ant-c",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sulph",
+        "Urt-u"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VAGINA – pain during coition",
+    "grading": {
+      "high": [
+        "Sep",
+        "Kreos",
+        "Plat"
+      ],
+      "medium": [
+        "Bell",
+        "Graph"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VARICES – of legs",
+    "grading": {
+      "high": [
+        "Ham",
+        "Fl-ac",
+        "Puls"
+      ],
+      "medium": [
+        "Calc",
+        "Carb-an"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VERTIGO – on rising",
+    "grading": {
+      "high": [
+        "Bry",
+        "Phos",
+        "Nux-v"
+      ],
+      "medium": [
+        "Bell",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VERTIGO – with nausea",
+    "grading": {
+      "high": [
+        "Cycl",
+        "Ipec",
+        "Tab"
+      ],
+      "medium": [
+        "Bry",
+        "Con"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VERTIGO – when looking up",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Sil",
+        "Spig"
+      ],
+      "medium": [
+        "Bell",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VERTIGO – when stooping",
+    "grading": {
+      "high": [
+        "Bry",
+        "Nux-v",
+        "Sil"
+      ],
+      "medium": [
+        "Con",
+        "Bell"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VERTIGO – with headache",
+    "grading": {
+      "high": [
+        "Glon",
+        "Spig",
+        "Puls"
+      ],
+      "medium": [
+        "Cycl",
+        "Gels"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOICE – hoarse",
+    "grading": {
+      "high": [
+        "Caust",
+        "Phos",
+        "Carb-v"
+      ],
+      "medium": [
+        "Spong",
+        "Hep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOICE – lost",
+    "grading": {
+      "high": [
+        "Caust",
+        "Acon",
+        "Arg-met"
+      ],
+      "medium": [
+        "Phos",
+        "Spong"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – after eating",
+    "grading": {
+      "high": [
+        "Ars",
+        "Ipec",
+        "Nux-v"
+      ],
+      "medium": [
+        "Phos",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – bitter",
+    "grading": {
+      "high": [
+        "Bry",
+        "Ipec",
+        "Chel"
+      ],
+      "medium": [
+        "Puls",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – blood",
+    "grading": {
+      "high": [
+        "Ham",
+        "Ipec",
+        "Ars"
+      ],
+      "medium": [
+        "Phos",
+        "Sec"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – green",
+    "grading": {
+      "high": [
+        "Ipec",
+        "Ant-t",
+        "Ars"
+      ],
+      "medium": [
+        "Pod",
+        "Cupr"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – in pregnancy",
+    "grading": {
+      "high": [
+        "Sep",
+        "Nux-v",
+        "Kreos"
+      ],
+      "medium": [
+        "Colch",
+        "Tab"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – of bile",
+    "grading": {
+      "high": [
+        "Ipec",
+        "Chel",
+        "Pod"
+      ],
+      "medium": [
+        "Puls",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – yellow bile",
+    "grading": {
+      "high": [
+        "Chel",
+        "Pod",
+        "Ipec"
+      ],
+      "medium": [
+        "Bry",
+        "Nux-v"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – watery",
+    "grading": {
+      "high": [
+        "Ars",
+        "Phos",
+        "Ipec"
+      ],
+      "medium": [
+        "Verat",
+        "Ferr"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – with diarrhoea",
+    "grading": {
+      "high": [
+        "Verat",
+        "Ars",
+        "Camph"
+      ],
+      "medium": [
+        "Podo",
+        "Puls"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "VOMITING – with headache",
+    "grading": {
+      "high": [
+        "Ipec",
+        "Cycl",
+        "Iris"
+      ],
+      "medium": [
+        "Bry",
+        "Spig"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "WARTS – bleeding",
+    "grading": {
+      "high": [
+        "Thuja",
+        "Nit-ac",
+        "Caust"
+      ],
+      "medium": [
+        "Dulc",
+        "Cinnab"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "WARTS – itching",
+    "grading": {
+      "high": [
+        "Dulc",
+        "Caust",
+        "Thuja"
+      ],
+      "medium": [
+        "Sulph",
+        "Nit-ac"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "WEAKNESS – morning on rising",
+    "grading": {
+      "high": [
+        "Phos-ac",
+        "Sulph",
+        "Calc"
+      ],
+      "medium": [
+        "Sep",
+        "Psor"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "WEAKNESS – after stool",
+    "grading": {
+      "high": [
+        "Phos",
+        "China",
+        "Podo"
+      ],
+      "medium": [
+        "Sulph",
+        "Aloe"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "WEAKNESS – with trembling",
+    "grading": {
+      "high": [
+        "Gels",
+        "Zinc",
+        "Phos"
+      ],
+      "medium": [
+        "Ars",
+        "Ign"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "WRIST – pain",
+    "grading": {
+      "high": [
+        "Rhus-t",
+        "Bry",
+        "Caust"
+      ],
+      "medium": [
+        "Ruta",
+        "Arn"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "WRIST – swelling",
+    "grading": {
+      "high": [
+        "Rhus-t",
+        "Bry",
+        "Caust"
+      ],
+      "medium": [
+        "Ruta",
+        "Calc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "YAWNING – excessive",
+    "grading": {
+      "high": [
+        "Ign",
+        "Cocc",
+        "Nux-m"
+      ],
+      "medium": [
+        "Gels",
+        "Sep"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  },
+  {
+    "rubric": "YAWNING – with sleepiness",
+    "grading": {
+      "high": [
+        "Nux-m",
+        "Gels",
+        "Ign"
+      ],
+      "medium": [
+        "Op",
+        "Zinc"
+      ],
+      "low": []
+    },
+    "type": "general",
+    "miasm": "",
+    "notes": ""
+  }
+]

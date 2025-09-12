@@ -1,0 +1,1510 @@
+[
+  {
+    "rubric": "Menses too early, profuse",
+    "grading": {
+      "High": ["Calc", "Nux-v", "Phos", "Bell"],
+      "Medium": ["Lach", "Sep", "Puls"],
+      "Low": ["Sulph", "Ign", "Merc"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Often with irritability and fatigue"
+  },
+  {
+    "rubric": "Menses too late, scanty",
+    "grading": {
+      "High": ["Sep", "Con", "Graph", "Puls"],
+      "Medium": ["Nat-m", "Lyc", "Sil"],
+      "Low": ["Kali-c", "Thuja"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Seen in delayed puberty or endocrine imbalance"
+  },
+  {
+    "rubric": "Menses suppressed after anger or grief",
+    "grading": {
+      "High": ["Ign", "Nat-m", "Puls"],
+      "Medium": ["Sep", "Staph"],
+      "Low": ["Aurum", "Calc"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Mind-uterus axis involvement"
+  },
+  {
+    "rubric": "Menses only at night",
+    "grading": {
+      "High": ["Phos", "Am-c", "Lach"],
+      "Medium": ["Puls", "Kali-c"],
+      "Low": ["Sulph"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Strong keynote for *Lachesis*"
+  },
+  {
+    "rubric": "Menses intermittent (stops and returns)",
+    "grading": {
+      "High": ["Lach", "Sulph"],
+      "Medium": ["Puls", "Sep"],
+      "Low": ["Cycl", "Con"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Blood flow irregular or obstructed"
+  },
+  {
+    "rubric": "Menses acrid, excoriating",
+    "grading": {
+      "High": ["Med", "Kreos", "Nit-ac"],
+      "Medium": ["Sulph", "Merc"],
+      "Low": ["Sep", "Lyc"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Causing rawness, burning"
+  },
+  {
+    "rubric": "Menses black or dark clotted",
+    "grading": {
+      "High": ["Lach", "Sec", "Sabin"],
+      "Medium": ["Ustil", "Croc"],
+      "Low": ["Bell", "Thlaspi"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Dark, offensive discharges"
+  },
+  {
+    "rubric": "Menses painful, better by flow",
+    "grading": {
+      "High": ["Lach", "Mag-p", "Puls"],
+      "Medium": ["Bell", "Cham"],
+      "Low": ["Kali-c", "Verat"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Colicky pain relieved after flow begins"
+  },
+  {
+    "rubric": "Menses with bearing-down sensation",
+    "grading": {
+      "High": ["Sep", "Bell", "Murex"],
+      "Medium": ["Lil-t", "Lach"],
+      "Low": ["Kali-c"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Feels like uterus will prolapse"
+  },
+  {
+    "rubric": "Menses offensive, like old blood",
+    "grading": {
+      "High": ["Croc", "Kali-ar", "Lach"],
+      "Medium": ["Nit-ac", "Ustil"],
+      "Low": ["Sulph", "Med"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Characteristic in chronic pelvic infections"
+  },
+  {
+    "rubric": "Leucorrhoea like egg-white",
+    "grading": {
+      "High": ["Borax", "Nat-m", "Calc"],
+      "Medium": ["Alum", "Kali-c"],
+      "Low": ["Puls", "Sep"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Transparent, ropy; worse after menses"
+  },
+  {
+    "rubric": "Leucorrhoea acrid, excoriating",
+    "grading": {
+      "High": ["Kreos", "Med", "Nit-ac"],
+      "Medium": ["Sulph", "Merc"],
+      "Low": ["Graph", "Sep"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Itching, burning, ulcerative tendencies"
+  },
+  {
+    "rubric": "Sexual desire increased before menses",
+    "grading": {
+      "High": ["Murex", "Lach", "Phos"],
+      "Medium": ["Sep", "Plat"],
+      "Low": ["Med", "Canth"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Murex: violent desire; Lach: desire with jealousy"
+  },
+  {
+    "rubric": "Sexual aversion after menses",
+    "grading": {
+      "High": ["Sep", "Graph", "Con"],
+      "Medium": ["Ign", "Sil"],
+      "Low": ["Lyc", "Kali-c"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Often with mental dullness or irritability"
+  },
+  {
+    "rubric": "Sexual desire absent; complete indifference",
+    "grading": {
+      "High": ["Sep", "Ign", "Con"],
+      "Medium": ["Nat-m", "Graph"],
+      "Low": ["Staph", "Sil"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Useful in postpartum, hormonal imbalance"
+  },
+  {
+    "rubric": "Pain during coition (dyspareunia)",
+    "grading": {
+      "High": ["Sep", "Plat", "Kreos"],
+      "Medium": ["Staph", "Ign"],
+      "Low": ["Graph", "Lil-t"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Often linked with trauma, fear, or dryness"
+  },
+  {
+    "rubric": "Leucorrhoea worse before menses",
+    "grading": {
+      "High": ["Sep", "Puls", "Nat-m"],
+      "Medium": ["Borax", "Graph"],
+      "Low": ["Calc", "Sil"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Functional or hormonal; constitutional treatment helps"
+  },
+  {
+    "rubric": "Leucorrhoea instead of menses (vicarious)",
+    "grading": {
+      "High": ["Puls", "Senec", "Kali-c"],
+      "Medium": ["Lach", "Sulph"],
+      "Low": ["Sep", "Cycl"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Suppressed or irregular menses replaced by discharge"
+  },
+  {
+    "rubric": "Leucorrhoea with backache",
+    "grading": {
+      "High": ["Sep", "Murex", "Lilium-t"],
+      "Medium": ["Kali-c", "Aloe"],
+      "Low": ["Ign", "Bell"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Pelvic heaviness, dragging sensation"
+  },
+  {
+    "rubric": "Leucorrhoea with itching or burning",
+    "grading": {
+      "High": ["Kreos", "Med", "Nit-ac"],
+      "Medium": ["Sulph", "Merc"],
+      "Low": ["Sep", "Lyc"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Often linked with infections or irritants"
+  },
+  {
+    "rubric": "Leucorrhoea with menstrual irregularities",
+    "grading": {
+      "High": ["Sep", "Puls", "Nat-m"],
+      "Medium": ["Borax", "Graph"],
+      "Low": ["Calc", "Sil"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Constitutional treatment often needed"
+  },
+  {
+    "rubric": "Leucorrhoea with menstrual cramps",
+    "grading": {
+      "High": ["Sep", "Lach", "Bell"],
+      "Medium": ["Puls", "Cham"],
+      "Low": ["Kali-c", "Verat"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Often with pelvic heaviness or pressure"
+  },
+  {
+    "rubric": "Leucorrhoea with menstrual headaches",
+    "grading": {
+      "High": ["Lach", "Sep", "Gels"],
+      "Medium": ["Nat-m", "Puls"],
+      "Low": ["Cycl", "Sang"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Linked with hormonal fluctuations"
+  },
+  {
+    "rubric": "Ovulation pain (Mittelschmerz)",
+    "grading": {
+      "High": ["Puls", "Bry", "Apis"],
+      "Medium": ["Bell", "Lach", "Sep"],
+      "Low": ["Kali-c", "Med", "Folliculinum"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Sharp or cramping pain during ovulation; mostly in ovarian region"
+  },
+  {
+    "rubric": "Mid-cycle bleeding (Ovulatory spotting)",
+    "grading": {
+      "High": ["Phos", "Croc", "Kali-c"],
+      "Medium": ["Thlaspi", "Sabin", "Sep"],
+      "Low": ["Lach", "Ustilago"]
+    },
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Bleeding occurs between menses—important in hormonal imbalance cases"
+  },
+  {
+    "rubric": "Ovulation pain left ovary",
+    "grading": {
+      "High": ["Lach", "Thuja"],
+      "Medium": ["Puls", "Apis"],
+      "Low": ["Med", "Iod"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Left-sided ovarian pain cyclically; key for *Lachesis*"
+  },
+  {
+    "rubric": "Ovulation pain right ovary",
+    "grading": {
+      "High": ["Lyc", "Apis"],
+      "Medium": ["Bry", "Puls"],
+      "Low": ["Thuja", "Med"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Right-sided sharp or dull pain; aggravated on exertion or walking"
+  },
+  {
+    "rubric": "Ovulation with increased sexual desire",
+    "grading": {
+      "High": ["Murex", "Lach", "Phos"],
+      "Medium": ["Canth", "Folliculinum"],
+      "Low": ["Sep", "Med"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Ovulation triggers libido spike; commonly noted in *Murex*"
+  },
+  {
+    "rubric": "Ovulation pain better by bending double or pressure",
+    "grading": {
+      "High": ["Coloc", "Mag-p"],
+      "Medium": ["Cham", "Bell"],
+      "Low": ["Puls", "Kali-c"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Cramping pain like dysmenorrhoea during ovulation"
+  },
+  {
+    "rubric": "Painful ovulation with bloating and gas",
+    "grading": {
+      "High": ["Lyc", "Carb-v"],
+      "Medium": ["China", "Nat-phos"],
+      "Low": ["Coloc", "Puls"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Associated with flatulence, food aggravation"
+  },
+  {
+    "rubric": "Ovulation pain with nausea",
+    "grading": {
+      "High": ["Sep", "Ipec"],
+      "Medium": ["Nux-v", "Ign"],
+      "Low": ["Bry", "Cocculus"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "GI symptoms accompanied; Sepia often key"
+  },
+  {
+    "rubric": "Mid-cycle headache during ovulation",
+    "grading": {
+      "High": ["Lach", "Sep", "Gels"],
+      "Medium": ["Nat-m", "Puls"],
+      "Low": ["Cycl", "Sang"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Linked with estrogen dip; migraine-like"
+  },
+  {
+    "rubric": "Ovulation symptoms aggravated by sexual excitement",
+    "grading": {
+      "High": ["Plat", "Staph", "Canth"],
+      "Medium": ["Med", "Folliculinum"],
+      "Low": ["Sep", "Ign"]
+    },
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Ovulation triggers over-reactivity to arousal or emotion"
+  },
+  {
+    "rubric": "Menses irregular – early or late alternately",
+    "grading": {
+      "High": ["Puls", "Sep", "Calc"],
+      "Medium": ["Lach", "Kali-c"],
+      "Low": ["Graph", "Cycl"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Hallmark of PCOD – hormonal axis imbalance"
+  },
+  {
+    "rubric": "Menses irregular – early or late alternately",
+    "grading": {
+      "High": ["Puls", "Sep", "Calc"],
+      "Medium": ["Lach", "Kali-c"],
+      "Low": ["Graph", "Cycl"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Hallmark of PCOD – hormonal axis imbalance"
+  },
+  {
+    "rubric": "Amenorrhoea – absence of menses for months",
+    "grading": {
+      "High": ["Sep", "Puls", "Con"],
+      "Medium": ["Nat-m", "Sil", "Graph"],
+      "Low": ["Thlaspi", "Tub"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Often after stress, hormonal disorder, obesity"
+  },
+  {
+    "rubric": "Menses suppressed from ovarian dysfunction",
+    "grading": {
+      "High": ["Puls", "Sep", "Oophorinum"],
+      "Medium": ["Apis", "Folliculinum"],
+      "Low": ["Med", "Tub"]
+    },
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Strong clinical indication of *Oophorinum*"
+  },
+  {
+    "rubric": "Cystic ovaries – chronic tendency",
+    "grading": {
+      "High": ["Apis", "Thuja", "Lach"],
+      "Medium": ["Puls", "Oophorinum"],
+      "Low": ["Med", "Sep"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Ovarian swelling, fluid-filled sacs; worse before menses"
+  },
+  {
+    "rubric": "Menses scanty, delayed",
+    "grading": {
+      "High": ["Graph", "Sep", "Con"],
+      "Medium": ["Sil", "Lyc", "Nat-m"],
+      "Low": ["Puls", "Ign"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Slow hormonal response, poor endometrial shedding"
+  },
+  {
+    "rubric": "Obesity with menstrual irregularities",
+    "grading": {
+      "High": ["Calc", "Am-br", "Graph"],
+      "Medium": ["Ant-c", "Nat-m"],
+      "Low": ["Sep", "Lyc"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Often insulin resistant; worse by sedentary habits"
+  },
+  {
+    "rubric": "Hirsutism (excessive facial/body hair)",
+    "grading": {
+      "High": ["Thuja", "Sep", "Lyc"],
+      "Medium": ["Med", "Oophorinum"],
+      "Low": ["Phos", "Sulph"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Androgen excess from PCOD"
+  },
+  {
+    "rubric": "Acne on chin and jaw before menses",
+    "grading": {
+      "High": ["Kali-br", "Sil", "Sulph"],
+      "Medium": ["Calc-s", "Sep", "Psor"],
+      "Low": ["Puls", "Hepar"]
+    },
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Strong hormone-acne link; *Kali brom* top remedy"
+  },
+  {
+    "rubric": "Infertility from ovarian dysfunction",
+    "grading": {
+      "High": ["Oophorinum", "Puls", "Sep"],
+      "Medium": ["Lach", "Folliculinum"],
+      "Low": ["Med", "Nat-m"]
+    },
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Irregular ovulation, failed conception"
+  },
+  {
+    "rubric": "Mental depression due to missed periods or hormonal imbalance",
+    "grading": {
+      "High": ["Sep", "Ign", "Nat-m"],
+      "Medium": ["Puls", "Staph"],
+      "Low": ["Calc", "Con"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Deep sadness, low energy, guilt after menses delay"
+  },
+  {
+    "rubric": "Leucorrhoea before menses",
+    "grading": {
+      "High": ["Sep", "Puls", "Nat-m"],
+      "Medium": ["Borax", "Graph"],
+      "Low": ["Calc", "Sil"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Discharge starts a few days before menses; often thick, milky or bland"
+  },
+  {
+    "rubric": "Leucorrhoea during menses",
+    "grading": {
+      "High": ["Murex", "Kreos", "Sulph"],
+      "Medium": ["Sep", "Calc"],
+      "Low": ["Ign", "Sil"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "May be thin, watery or offensive during flow"
+  },
+  {
+    "rubric": "Leucorrhoea after menses",
+    "grading": {
+      "High": ["Borax", "Graph", "Kali-c"],
+      "Medium": ["Sep", "Lyc"],
+      "Low": ["Calc", "Sil"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Relieves pelvic heaviness; often associated with exhaustion"
+  },
+  {
+    "rubric": "Leucorrhoea instead of menses",
+    "grading": {
+      "High": ["Puls", "Senec", "Kali-c"],
+      "Medium": ["Lach", "Sulph"],
+      "Low": ["Sep", "Cycl"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "A vicarious discharge — flow fails to establish"
+  },
+  {
+    "rubric": "Leucorrhoea offensive, like pus or old blood",
+    "grading": {
+      "High": ["Croc", "Kreos", "Nit-ac"],
+      "Medium": ["Ustil", "Merc"],
+      "Low": ["Med", "Sulph"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Often from infection, pelvic ulcer, or degenerative state"
+  },
+  {
+    "rubric": "Leucorrhoea yellow, thick, ropy",
+    "grading": {
+      "High": ["Hydr", "Kali-bi", "Calc"],
+      "Medium": ["Merc", "Sep"],
+      "Low": ["Nat-s", "Graph"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Gonorrheal or cervical type infections; Kali-bi has tenacious mucus"
+  },
+  {
+    "rubric": "Leucorrhoea white, albuminous like egg-white",
+    "grading": {
+      "High": ["Borax", "Nat-m", "Calc"],
+      "Medium": ["Alum", "Kali-c"],
+      "Low": ["Puls", "Sep"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Elastic, stringy discharge in healthy or early dysfunction states"
+  },
+  {
+    "rubric": "Leucorrhoea acrid, excoriating",
+    "grading": {
+      "High": ["Kreos", "Med", "Nit-ac"],
+      "Medium": ["Sulph", "Merc"],
+      "Low": ["Sep", "Lyc"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Burning, itching, rawness of vulva; may erode skin"
+  },
+  {
+    "rubric": "Leucorrhoea during urination (worse by urination)",
+    "grading": {
+      "High": ["Kreos", "Canth", "Staph"],
+      "Medium": ["Sep", "Sulph"],
+      "Low": ["Calc", "Med"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Burning, inflammation aggravated by flow of urine"
+  },
+  {
+    "rubric": "Leucorrhoea with backache and dragging down",
+    "grading": {
+      "High": ["Sep", "Murex", "Lilium-t"],
+      "Medium": ["Kali-c", "Aloe"],
+      "Low": ["Ign", "Bell"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Uterine prolapse, weakness, pelvic heaviness"
+  },
+  {
+    "rubric": "Flushes of heat during menopause",
+    "grading": {
+      "High": ["Lach", "Sulph", "Sep"],
+      "Medium": ["Glon", "Sang", "Amyl-n"],
+      "Low": ["Graph", "Bell"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Hot flushes with or without perspiration; Lach is top"
+  },
+  {
+    "rubric": "Sweating with flushes, especially at night",
+    "grading": {
+      "High": ["Lach", "Sulph", "Samb"],
+      "Medium": ["Kali-c", "Amyl-n"],
+      "Low": ["Sep", "Sang"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Common in early menopause; restless sleep"
+  },
+  {
+    "rubric": "Vaginal dryness during or after menopause",
+    "grading": {
+      "High": ["Sep", "Graph", "Kreos"],
+      "Medium": ["Ign", "Lach"],
+      "Low": ["Murex", "Oophorinum"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Causes dyspareunia, irritation, sexual aversion"
+  },
+  {
+    "rubric": "Depression during menopause",
+    "grading": {
+      "High": ["Sep", "Ign", "Lach"],
+      "Medium": ["Nat-m", "Staph"],
+      "Low": ["Con", "Psor"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Mood swings, apathy, crying without reason"
+  },
+  {
+    "rubric": "Anxiety or panic attacks during menopause",
+    "grading": {
+      "High": ["Arg-n", "Acon", "Glon"],
+      "Medium": ["Ign", "Lach"],
+      "Low": ["Puls", "Sil"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Heart-pounding, flushes, worse at night or alone"
+  },
+  {
+    "rubric": "Palpitations during menopause",
+    "grading": {
+      "High": ["Lach", "Glon", "Ign"],
+      "Medium": ["Sep", "Kali-c"],
+      "Low": ["Amyl-n", "Nat-m"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Often with heat, tremors, anxiety"
+  },
+  {
+    "rubric": "Irritability, hypersensitivity during menopause",
+    "grading": {
+      "High": ["Lach", "Nux-v", "Ign"],
+      "Medium": ["Sep", "Staph"],
+      "Low": ["Cham", "Sulph"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Explosive anger or oversensitivity to noise/light"
+  },
+  {
+    "rubric": "Sleeplessness during menopause",
+    "grading": {
+      "High": ["Cimic", "Coff", "Lach"],
+      "Medium": ["Ign", "Sep", "Kali-p"],
+      "Low": ["Sil", "Graph"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Difficulty falling asleep due to heat, worry, or restlessness"
+  },
+  {
+    "rubric": "Weight gain during menopause",
+    "grading": {
+      "High": ["Calc", "Graph", "Sep"],
+      "Medium": ["Lyc", "Am-br"],
+      "Low": ["Caps", "Ant-c"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Mostly abdominal fat + sluggish metabolism"
+  },
+  {
+    "rubric": "Loss of sexual desire during menopause",
+    "grading": {
+      "High": ["Sep", "Con", "Graph"],
+      "Medium": ["Ign", "Nat-m"],
+      "Low": ["Staph", "Sil"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Often linked to dryness, depression, low self-image"
+  },
+  {
+    "rubric": "Sterility in females – general",
+    "grading": {
+      "High": ["Sep", "Puls", "Oophorinum"],
+      "Medium": ["Nat-m", "Con", "Lach"],
+      "Low": ["Cimic", "Sil", "Graph"]
+    },
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Useful for constitutional infertility from functional/hormonal causes"
+  },
+  {
+    "rubric": "Sterility from ovarian dysfunction",
+    "grading": {
+      "High": ["Oophorinum", "Apis", "Sep"],
+      "Medium": ["Lach", "Folliculinum"],
+      "Low": ["Puls", "Med"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Common in PCOS, anovulation, ovarian pain or suppression"
+  },
+  {
+    "rubric": "Sterility with too frequent menses",
+    "grading": {
+      "High": ["Calc", "Phos", "Bell"],
+      "Medium": ["Lach", "Puls"],
+      "Low": ["Sulph", "Nat-m"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Lack of ovulation or poor luteal phase"
+  },
+  {
+    "rubric": "Sterility with delayed or scanty menses",
+    "grading": {
+      "High": ["Sep", "Con", "Graph"],
+      "Medium": ["Nat-m", "Sil", "Calc"],
+      "Low": ["Cycl", "Puls"]
+    },
+    "miasm": ["Syphilis", "Psora"],
+    "notes": "Often linked with poor endometrial support or thyroid dysfunction"
+  },
+  {
+    "rubric": "Sterility after suppressed leucorrhoea",
+    "grading": {
+      "High": ["Med", "Sulph", "Sep"],
+      "Medium": ["Kreos", "Calc"],
+      "Low": ["Puls", "Nat-m"]
+    },
+    "miasm": ["Syphilis", "Sycosis"],
+    "notes": "Infections suppressed with antiseptics or antibiotics"
+  },
+  {
+    "rubric": "Sterility with desire for children – strong longing",
+    "grading": {
+      "High": ["Nat-m", "Sep", "Cimic"],
+      "Medium": ["Ign", "Sil", "Lyc"],
+      "Low": ["Calc", "Con"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Emotional suppression, grief, unfulfilled motherhood"
+  },
+  {
+    "rubric": "Sterility after grief or disappointment",
+    "grading": {
+      "High": ["Ign", "Nat-m", "Staph"],
+      "Medium": ["Sep", "Aurum"],
+      "Low": ["Phos", "Calc"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Suppressed ovulation or uterus 'closed' due to suppressed emotions"
+  },
+  {
+    "rubric": "Sterility from sexual suppression",
+    "grading": {
+      "High": ["Con", "Sep", "Nat-m"],
+      "Medium": ["Graph", "Ign"],
+      "Low": ["Staph", "Sil"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Emotional suppression or fear related to sexuality"
+  },
+  {
+    "rubric": "Sterility with uterine fibroids or polyps",
+    "grading": {
+      "High": ["Thlaspi", "Calc", "Fraxinus"],
+      "Medium": ["Lach", "Sep"],
+      "Low": ["Bell", "Nat-m"]
+    },
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Mechanical obstruction to implantation or embryo growth"
+  },
+  {
+    "rubric": "Sterility after abortion or miscarriage",
+    "grading": {
+      "High": ["Sabin", "Sec", "Sep"],
+      "Medium": ["Kali-c", "Ustil", "Thlaspi"],
+      "Low": ["Caul", "Murex"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Endometrial scarring, grief, incomplete healing"
+  },
+  {
+    "rubric": "Irritability before/during menses",
+    "grading": {
+      "High": ["Lach", "Nux-v", "Cham"],
+      "Medium": ["Sep", "Ign"],
+      "Low": ["Cimic", "Graph"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Intolerant to noise, light, contradiction"
+  },
+  {
+    "rubric": "Weeping before menses",
+    "grading": {
+      "High": ["Ign", "Nat-m", "Puls"],
+      "Medium": ["Sep", "Staph"],
+      "Low": ["Cycl", "Kali-c"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Hypersensitive emotionally, premenstrual depression"
+  },
+  {
+    "rubric": "Anxiety before/during menses",
+    "grading": {
+      "High": ["Acon", "Calc", "Puls"],
+      "Medium": ["Arg-n", "Ign"],
+      "Low": ["Lach", "Sep"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Palpitations, fear of illness or future"
+  },
+  {
+    "rubric": "Aversion to company before menses",
+    "grading": {
+      "High": ["Sep", "Ign", "Nat-m"],
+      "Medium": ["Con", "Sil"],
+      "Low": ["Lyc", "Graph"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Wants isolation, easily overwhelmed"
+  },
+  {
+    "rubric": "Depression during menopause",
+    "grading": {
+      "High": ["Sep", "Ign", "Aurum"],
+      "Medium": ["Nat-m", "Kali-p"],
+      "Low": ["Phos", "Lach"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Loss of interest, guilt, indifference to loved ones"
+  },
+  {
+    "rubric": "Anxiety and panic at menopause",
+    "grading": {
+      "High": ["Arg-n", "Glon", "Acon"],
+      "Medium": ["Ign", "Lach"],
+      "Low": ["Sep", "Sil"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Palpitations, heat, fear of fainting or heart attack"
+  },
+  {
+    "rubric": "Irritability and rage during menopause",
+    "grading": {
+      "High": ["Lach", "Nux-v", "Sep"],
+      "Medium": ["Staph", "Ign"],
+      "Low": ["Sulph", "Con"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Explosive anger, worse during flushes"
+  },
+  {
+    "rubric": "Jealousy and suspicion during menopause",
+    "grading": {
+      "High": ["Lach", "Hyos", "Stram"],
+      "Medium": ["Ign", "Staph"],
+      "Low": ["Sep", "Bell"]
+    },
+    "miasm": ["Syphilis"],
+    "notes": "Extreme possessiveness, delusion of being neglected"
+  },
+  {
+    "rubric": "Memory loss or forgetfulness during menopause",
+    "grading": {
+      "High": ["Lach", "Sep", "Nat-m"],
+      "Medium": ["Ign", "Sil"],
+      "Low": ["Phos", "Con"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Difficulty concentrating, forgets names, events"
+  },
+  {
+    "rubric": "Hot flushes with perspiration at menopause",
+    "grading": {
+      "High": ["Lach", "Sulph", "Samb"],
+      "Medium": ["Kali-c", "Amyl-n"],
+      "Low": ["Sep", "Sang"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Flushes with or without sweating; Lachesis is key"
+  },
+  {
+    "rubric": "Sweating at night during menopause",
+    "grading": {
+      "High": ["Lach", "Sulph", "Samb"],
+      "Medium": ["Kali-c", "Amyl-n"],
+      "Low": ["Sep", "Sang"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Night sweats, often with restlessness"
+  },
+  {
+    "rubric": "Vaginal dryness during menopause",
+    "grading": {
+      "High": ["Sep", "Graph", "Kreos"],
+      "Medium": ["Ign", "Lach"],
+      "Low": ["Murex", "Oophorinum"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Causes dyspareunia, irritation, sexual aversion"
+  },
+  {
+    "rubric": "Loss of libido during menopause",
+    "grading": {
+      "High": ["Sep", "Con", "Graph"],
+      "Medium": ["Ign", "Nat-m"],
+      "Low": ["Staph", "Sil"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Often linked to dryness, depression, low self-image"
+  },
+  {
+    "rubric": "Weight gain during menopause",
+    "grading": {
+      "High": ["Calc", "Graph", "Sep"],
+      "Medium": ["Lyc", "Am-br"],
+      "Low": ["Caps", "Ant-c"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Mostly abdominal fat + sluggish metabolism"
+  },
+  {
+    "rubric": "Insomnia or sleep disturbances during menopause",
+    "grading": {
+      "High": ["Cimic", "Coff", "Lach"],
+      "Medium": ["Ign", "Sep", "Kali-p"],
+      "Low": ["Sil", "Graph"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Difficulty falling asleep due to heat, worry, or restlessness"
+  },
+  {
+    "rubric": "Menopausal symptoms with depression",
+    "grading": {
+      "High": ["Sep", "Ign", "Aurum"],
+      "Medium": ["Nat-m", "Kali-p"],
+      "Low": ["Phos", "Lach"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Loss of interest, guilt, indifference to loved ones"
+  },
+  {
+    "rubric": "Hypothyroidism – sluggish, cold, obese",
+    "grading": {
+      "High": ["Calc", "Graph", "Sep"],
+      "Medium": ["Thyroidinum", "Lyc"],
+      "Low": ["Psor", "Nat-m"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Constipation, depression, hair fall, dry skin, scanty menses"
+  },
+  {
+    "rubric": "Hyperthyroidism – anxious, hot, emaciated",
+    "grading": {
+      "High": ["Iod", "Lyc", "Phos"],
+      "Medium": ["Spongia", "Nat-m"],
+      "Low": ["Thyroidinum", "Sulph"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Palpitations, insomnia, weight loss, heat intolerance"
+  },
+  {
+    "rubric": "Goitre – thyroid swelling",
+    "grading": {
+      "High": ["Iod", "Lapis", "Spongia"],
+      "Medium": ["Calc", "Nat-m"],
+      "Low": ["Thyroidinum", "Brom"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Enlarged thyroid, menstrual irregularities, slow metabolism"
+  },
+  {
+    "rubric": "Anovulatory cycles – no ovulation",
+    "grading": {
+      "High": ["Oophorinum", "Sep", "Puls"],
+      "Medium": ["Kali-c", "Nat-m"],
+      "Low": ["Cycl", "Med"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Long cycles, cystic ovaries, infertility"
+  },
+  {
+    "rubric": "Hirsutism from hormonal imbalance",
+    "grading": {
+      "High": ["Oleum-j", "Thuja", "Oophorinum"],
+      "Medium": ["Lyc", "Nat-m"],
+      "Low": ["Calc", "Sep"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Facial/body hair, obesity, acne"
+  },
+  {
+    "rubric": "Obesity with irregular menses – PCOS type",
+    "grading": {
+      "High": ["Graph", "Calc", "Sep"],
+      "Medium": ["Lyc", "Am-br"],
+      "Low": ["Caps", "Med"]
+    },
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Central weight gain, anovulation, acne"
+  },
+  {
+    "rubric": "Emotional suppression or grief leading to PCOS",
+    "grading": {
+      "High": ["Ign", "Nat-m", "Sep"],
+      "Medium": ["Sil", "Con"],
+      "Low": ["Staph", "Cimic"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Emotional blockage often precedes cystic changes"
+  },
+  {
+    "rubric": "Estrogen dominance – heavy menses, PMS, fibroids",
+    "grading": {
+      "High": ["Thlaspi", "Calc", "Sep"],
+      "Medium": ["Lach", "Bell"],
+      "Low": ["Murex", "Graph"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Clotting, anger, weight gain, breast tenderness"
+  },
+  {
+    "rubric": "Estrogen deficiency – dryness, low libido, hot flushes",
+    "grading": {
+      "High": ["Sep", "Oophorinum", "Graph"],
+      "Medium": ["Con", "Ign"],
+      "Low": ["Kreos", "Lach"]
+    },
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Seen in menopause or ovarian insufficiency"
+  },
+  {
+    "rubric": "Mood swings from hormonal fluctuation (estrogen/progesterone)",
+    "grading": {
+      "High": ["Ign", "Sep", "Cimic"],
+      "Medium": ["Nat-m", "Puls"],
+      "Low": ["Staph", "Phos"]
+    },
+    "miasm": ["Psora"],
+    "notes": "Emotional dysregulation from ovulation to menstruation"
+  },
+  {
+    "rubric": "Galactorrhea not during lactation",
+    "grading": {
+      "High": ["Calc", "Lac-c", "Phos"],
+      "Medium": ["Con", "Sil"],
+      "Low": ["Puls", "Sulph"]
+    },
+    "miasm": ["Sycosis"],
+    "notes": "Excess prolactin, often with amenorrhea"
+  },
+  {
+    "rubric": "Amenorrhea with galactorrhea",
+    "grading": {
+      "High": ["Phos", "Calc", "Con"],
+      "Medium": ["Sep", "Graph"],
+      "Low": ["Sil", "Lac-d"]
+    },
+    "miasm": ["Sycosis", "Syphilis"],
+    "notes": "Pituitary or stress-related dysfunction"
+  },
+  {
+    "rubric": "Prolactin-related infertility or loss of libido",
+    "grading": {
+      "High": ["Sep", "Phos", "Con"],
+      "Medium": ["Oophorinum", "Nat-m"],
+      "Low": ["Graph", "Ign"]
+    },
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Usually accompanied by suppression of menses or dryness"
+  },
+  {
+    "remedy": "Sepia",
+    "temperament": "Melancholic, indifferent",
+    "constitution": "Thin, sallow women, lax fibers, cold, worn-out",
+    "mind": "Averse to family, indifferent, depressed, worse consolation",
+    "hormonal_profile": "Low estrogen, prolapse, dryness, menopause, PCOS",
+    "miasm": ["Psora", "Sycosis"],
+    "keynote": "Wants to be alone, better from exercise"
+  },
+  {
+    "remedy": "Pulsatilla",
+    "temperament": "Mild, tearful, yielding",
+    "constitution": "Fair, plump, changeable, soft muscles",
+    "mind": "Weeps easily, needs support, fears being alone",
+    "hormonal_profile": "Irregular menses, scanty or delayed, hormonal swings",
+    "miasm": ["Psora"],
+    "keynote": "Thirstless, desires consolation, changing symptoms"
+  },
+  {
+    "remedy": "Lachesis",
+    "temperament": "Choleric, loquacious, jealous",
+    "constitution": "Dark, thin, wiry, menopausal women",
+    "mind": "Talkative, suspicious, sensitive to tight clothing",
+    "hormonal_profile": "Menopause, hot flushes, fibroids, left-sided ovarian pain",
+    "miasm": ["Syphilis"],
+    "keynote": "Worse on waking, better discharge of menses"
+  },
+  {
+    "remedy": "Calcarea carbonica",
+    "temperament": "Phlegmatic, anxious, responsible",
+    "constitution": "Fat, fair, flabby; chilly and sweaty",
+    "mind": "Fear of disease, anxiety about health and future",
+    "hormonal_profile": "Hypothyroid, delayed menses, PCOS, poor vitality",
+    "miasm": ["Psora", "Sycosis"],
+    "keynote": "Profuse sweat, cold damp feet, obstinate"
+  },
+  {
+    "remedy": "Conium maculatum",
+    "temperament": "Depressed, emotionally closed",
+    "constitution": "Aged or prematurely aged women, weak muscles",
+    "mind": "Averse to light and society, silent grief",
+    "hormonal_profile": "Sexual suppression, breast tumors, fibroids",
+    "miasm": ["Psora", "Syphilis"],
+    "keynote": "Vertigo when turning, hard nodes in glands"
+  },
+  {
+    "remedy": "Ignatia amara",
+    "temperament": "Nervous, sensitive, hysterical",
+    "constitution": "Slender, nervous, tense",
+    "mind": "Silent grief, mood swings, sobbing alone",
+    "hormonal_profile": "Menstrual irregularities after grief, infertility from emotional trauma",
+    "miasm": ["Psora"],
+    "keynote": "Sighing, lump in throat, better alone"
+  },
+  {
+    "remedy": "Natrum muriaticum",
+    "temperament": "Reserved, grief-bound, perfectionist",
+    "constitution": "Thin, tall, anemic looking women",
+    "mind": "Dwells on past, avoids consolation, weeps in private",
+    "hormonal_profile": "Amenorrhea, dryness, grief-related infertility",
+    "miasm": ["Psora", "Syphilis"],
+    "keynote": "Craves salt, headache like hammers, worse sun"
+  },
+  {
+    "remedy": "Cimicifuga (Actea racemosa)",
+    "temperament": "Nervous, emotional, excitable",
+    "constitution": "Dark-haired, full-blooded, rheumatic women",
+    "mind": "Fear of death in pregnancy, loquacious, restless mind",
+    "hormonal_profile": "False labor pains, PMS, menopausal anxiety",
+    "miasm": ["Psora"],
+    "keynote": "Neck and uterine pain together, shifty mental symptoms"
+  },
+  {
+    "remedy": "Graphites",
+    "temperament": "Phlegmatic, slow, indecisive",
+    "constitution": "Fat, chilly, constipated, eczema-prone",
+    "mind": "Indecisive, sad, memory poor",
+    "hormonal_profile": "Obesity with PCOS, delayed menses, dryness",
+    "miasm": ["Psora", "Sycosis"],
+    "keynote": "Oozing eruptions, sticky discharges, dullness"
+  },
+  {
+    "remedy": "Thuja",
+    "temperament": "Hypochondriac, fixed ideas, secretive",
+    "constitution": "Greasy skin, oily hair, warty growths",
+    "mind": "Feels fragile inside, fixed religious/guilt thoughts",
+    "hormonal_profile": "Warts, cysts, polyps, suppressed gonorrhea",
+    "miasm": ["Sycosis"],
+    "keynote": "Oily skin, sensation of fragile soul"
+  },
+  {
+    "remedy": "Phosphorus",
+    "temperament": "Open, affectionate, fearful",
+    "constitution": "Tall, lean, delicate, easily exhausted",
+    "mind": "Fear of dark, thunderstorms, anxious for others",
+    "hormonal_profile": "Menorrhagia, galactorrhea, early menopause",
+    "miasm": ["Psora", "Syphilis"],
+    "keynote": "Bleeding tendency, craves cold food, worse alone"
+  },
+  {
+    "remedy": "Oophorinum",
+    "temperament": "Variable depending on hormonal crash",
+    "constitution": "Used in hormonal/ovarian dysfunction cases",
+    "mind": "Mental dullness, exhaustion, depression post-ovarian suppression",
+    "hormonal_profile": "PCOS, amenorrhea, premature menopause",
+    "miasm": ["Sycosis"],
+    "keynote": "Used clinically for hormonal reset"
+  },
+  {
+    "remedy": "Belladonna",
+    "temperament": "Violent, sudden, intense",
+    "constitution": "Plethoric, hot, pulsating vessels",
+    "mind": "Fearful, sees ghosts, violent temper",
+    "hormonal_profile": "Menorrhagia, congestion, mastitis",
+    "miasm": ["Psora", "Syphilis"],
+    "keynote": "Sudden symptoms, throbbing pain, red hot face"
+  },
+  {
+    "remedy": "Caulophyllum",
+    "temperament": "Nervous, weak-willed",
+    "constitution": "Women with weak uterine tone",
+    "mind": "Fear of labor, nervousness",
+    "hormonal_profile": "Ineffective labor pains, uterine inertia, miscarriage tendency",
+    "miasm": ["Psora"],
+    "keynote": "Cramping uterus, labor pains too weak or irregular"
+  },
+  {
+    "remedy": "Sabina",
+    "temperament": "Choleric, excitable",
+    "constitution": "Sanguine, hemorrhagic tendency",
+    "mind": "Irritable, sad, afraid of abortion",
+    "hormonal_profile": "Threatened miscarriage, uterine hemorrhage",
+    "miasm": ["Syphilis"],
+    "keynote": "Bleeding with pain from sacrum to pubes"
+  },
+  {
+    "rubric": "White discharge, thick like cream, no smell",
+    "grading": {
+      "High": ["Borax", "Calc", "Sep"],
+      "Medium": ["Graph", "Puls"],
+      "Low": ["Kali-c", "Nat-m"]
+    },
+    "texture": "Thick, creamy",
+    "color": "White",
+    "odor": "Odorless",
+    "miasm": ["Psora"],
+    "notes": "Common in young girls, before menses, no itching"
+  },
+  {
+    "rubric": "White discharge, milky, acrid, irritates vulva",
+    "grading": {
+      "High": ["Kreos", "Merc", "Nit-ac"],
+      "Medium": ["Lac-c", "Sep"],
+      "Low": ["Calc", "Borax"]
+    },
+    "texture": "Milky",
+    "color": "White",
+    "odor": "Acrid, sour",
+    "miasm": ["Sycosis"],
+    "notes": "Burning and itching, worse after coition"
+  },
+  {
+    "rubric": "Yellow discharge, thick, offensive",
+    "grading": {
+      "High": ["Kreos", "Merc", "Crot-t"],
+      "Medium": ["Nit-ac", "Hepar-s"],
+      "Low": ["Calc", "Thuja"]
+    },
+    "texture": "Thick, sticky",
+    "color": "Yellow",
+    "odor": "Foul, fishy",
+    "miasm": ["Sycosis"],
+    "notes": "Suggestive of bacterial or trichomonal infection"
+  },
+  {
+    "rubric": "Greenish-yellow, foamy discharge with itching",
+    "grading": {
+      "High": ["Thuja", "Med", "Hepar-s"],
+      "Medium": ["Merc", "Kreos"],
+      "Low": ["Nit-ac", "Sulph"]
+    },
+    "texture": "Foamy, frothy",
+    "color": "Green-yellow",
+    "odor": "Offensive",
+    "miasm": ["Sycosis"],
+    "notes": "STD-related or chronic PID"
+  },
+  {
+    "rubric": "Brown discharge after menses",
+    "grading": {
+      "High": ["Sep", "Lach", "Murex"],
+      "Medium": ["Nat-m", "Graph"],
+      "Low": ["Cimic", "Carbo-an"]
+    },
+    "texture": "Sticky",
+    "color": "Brown",
+    "odor": "Metallic, old blood",
+    "miasm": ["Psora", "Syphilis"],
+    "notes": "Estrogen withdrawal, uterine atony, fibroids"
+  },
+  {
+    "rubric": "Blood-streaked discharge",
+    "grading": {
+      "High": ["Sabina", "Crot-h", "Trillium"],
+      "Medium": ["Bell", "Secale"],
+      "Low": ["Phos", "Ars"]
+    },
+    "texture": "Mucous with streaks of blood",
+    "color": "Pink to red streaks",
+    "odor": "Foul, iron-like",
+    "miasm": ["Syphilis"],
+    "notes": "Cervical erosion, early miscarriage, endometriosis"
+  },
+  {
+    "rubric": "Dark, tar-like, offensive discharge",
+    "grading": {
+      "High": ["Pyrogen", "Crot-h", "Carbo-an"],
+      "Medium": ["Kali-ar", "Phos"],
+      "Low": ["Ars", "Hydr"]
+    },
+    "texture": "Tar-like, sticky",
+    "color": "Black or dark brown",
+    "odor": "Putrid, septic",
+    "miasm": ["Syphilis"],
+    "notes": "Necrotic infection, post-abortion sepsis, malignancy suspicion"
+  },
+  {
+    "rubric": "Leucorrhea excoriating, vulva irritated",
+    "grading": {
+      "High": ["Kreos", "Merc", "Sep"],
+      "Medium": ["Nit-ac", "Borax"],
+      "Low": ["Sulph", "Calc-p"]
+    },
+    "texture": "Acrid, watery or thick",
+    "color": "White to yellow",
+    "odor": "Acrid",
+    "miasm": ["Sycosis"],
+    "notes": "Burning, itching, worse during or after menses"
+  },
+  {
+    "rubric": "Leucorrhea worse before menses",
+    "grading": {
+      "High": ["Puls", "Nat-m", "Ign"],
+      "Medium": ["Calc", "Graph"],
+      "Low": ["Sep", "Sil"]
+    },
+    "texture": "Variable – mucous, thick or thin",
+    "color": "White, yellow",
+    "odor": "Variable",
+    "miasm": ["Psora"],
+    "notes": "Common in hormonal imbalances, PCOS"
+  },
+  {
+    "rubric": "Egg-white like discharge, stringy",
+    "grading": {
+      "High": ["Borax", "Puls", "Nat-m"],
+      "Medium": ["Sep", "Lac-c"],
+      "Low": ["Calc", "Sulph"]
+    },
+    "texture": "Clear, stretchy, stringy",
+    "color": "Clear or whitish",
+    "odor": "Mild or none",
+    "miasm": ["Psora"],
+    "notes": "Seen mid-cycle during ovulation; fertile-type discharge"
+  },
+  {
+    "rubric": "Menses dark, clotted, offensive smell",
+    "grading": {
+      "High": ["Lach", "Crot-h", "Sabina"],
+      "Medium": ["Secale", "Thuja"],
+      "Low": ["Phos", "Sulph"]
+    },
+    "color": "Dark, blackish",
+    "flow": "Clotted, profuse",
+    "odor": "Offensive, putrid",
+    "miasm": ["Syphilis"],
+    "notes": "Suggestive of uterine pathology or hormonal excess"
+  },
+  {
+    "rubric": "Bright red, gushing menses",
+    "grading": {
+      "High": ["Bell", "Phos", "Sabina"],
+      "Medium": ["Calc", "Trillium"],
+      "Low": ["Sulph", "Ipecac"]
+    },
+    "color": "Bright red",
+    "flow": "Gushing, profuse",
+    "odor": "Normal or slight metallic",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Sudden onset, congestive states, active uterine bleeding"
+  },
+  {
+    "rubric": "Scanty, pale blood flow",
+    "grading": {
+      "High": ["Puls", "Sep", "Nat-m"],
+      "Medium": ["Graph", "Sil"],
+      "Low": ["Ign", "Cimic"]
+    },
+    "color": "Pale red or pink",
+    "flow": "Scanty, delayed",
+    "odor": "Odorless or mild",
+    "miasm": ["Psora"],
+    "notes": "Seen in anemia, hormonal suppression, PCOS"
+  },
+  {
+    "rubric": "Menstrual blood offensive, black, with pain",
+    "grading": {
+      "High": ["Lach", "Murex", "Crot-h"],
+      "Medium": ["Carbo-an", "Nit-ac"],
+      "Low": ["Ars", "Hydr"]
+    },
+    "color": "Black",
+    "flow": "Thick, offensive, painful",
+    "odor": "Putrid, septic",
+    "miasm": ["Syphilis"],
+    "notes": "Indicates chronic pathology, possible endometriosis"
+  },
+  {
+    "rubric": "Menstrual blood with large clots",
+    "grading": {
+      "High": ["Sabina", "Thlaspi", "Bell"],
+      "Medium": ["Trillium", "Cimic"],
+      "Low": ["Ferrum", "Sep"]
+    },
+    "color": "Dark red to black",
+    "flow": "Profuse, clotted",
+    "odor": "Heavy metallic",
+    "miasm": ["Sycosis"],
+    "notes": "Fibroid tendency or uterine muscular weakness"
+  },
+  {
+    "rubric": "Watery menstrual flow, mixed with blood",
+    "grading": {
+      "High": ["Secale", "Phos-ac", "Nat-m"],
+      "Medium": ["Crot-t", "Kali-c"],
+      "Low": ["Sil", "Graph"]
+    },
+    "color": "Thin red or pinkish",
+    "flow": "Watery, diluted",
+    "odor": "Faint, weak smell",
+    "miasm": ["Psora"],
+    "notes": "Debilitated females, mental exhaustion, prolonged stress"
+  },
+  {
+    "rubric": "Intermittent menstrual flow – starts and stops",
+    "grading": {
+      "High": ["Lach", "Puls", "Sulph"],
+      "Medium": ["Sep", "Ign"],
+      "Low": ["Cycl", "Nat-c"]
+    },
+    "color": "Normal red",
+    "flow": "Irregular, fits and starts",
+    "odor": "Normal",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Uterine spasm, emotional disturbance, nervous system link"
+  },
+  {
+    "rubric": "Menstrual blood acrid, excoriating the thighs",
+    "grading": {
+      "High": ["Kreos", "Nit-ac", "Merc"],
+      "Medium": ["Sep", "Sulph"],
+      "Low": ["Lac-c", "Calc"]
+    },
+    "color": "Yellowish-red or brownish",
+    "flow": "Acrid, burning",
+    "odor": "Offensive or sour",
+    "miasm": ["Sycosis"],
+    "notes": "Skin excoriation and pain, common in cervical erosion"
+  },
+  {
+    "rubric": "Menstrual flow suppressed, returns with motion",
+    "grading": {
+      "High": ["Lach", "Puls", "Sep"],
+      "Medium": ["Cycl", "Nat-m"],
+      "Low": ["Sulph", "Ign"]
+    },
+    "color": "Varies",
+    "flow": "Suppressed, reappears with exercise",
+    "odor": "Mild",
+    "miasm": ["Psora"],
+    "notes": "Nervous suppression, circulation-linked"
+  },
+  {
+    "rubric": "Itching of vulva, worse at night",
+    "grading": {
+      "High": ["Kreos", "Sulph", "Psor"],
+      "Medium": ["Graph", "Sep", "Calc"],
+      "Low": ["Petrol", "Rhus-t"]
+    },
+    "modality": "Worse at night",
+    "location": "Vulva",
+    "miasm": ["Psora", "Sycosis"],
+    "notes": "Often associated with leucorrhea, fungal infection, or eczema"
+  },
+  {
+    "rubric": "Itching and burning of vulva during menses",
+    "grading": {
+      "High": ["Kreos", "Sep", "Calc"],
+      "Medium": ["Lach", "Nat-m", "Graph"],
+      "Low": ["Ign", "Cimic"]
+    },
+    "modality": "Worse during menses",
+    "location": "Vulva",
+    "miasm": ["Sycosis"],
+    "notes": "Hormonal origin, uterine congestion, endometrial changes"
+  },
+  {
+    "rubric": "Burning in vulva after urination",
+    "grading": {
+      "High": ["Canth", "Apis", "Sulph"],
+      "Medium": ["Staph", "Sars", "Borax"],
+      "Low": ["Med", "Sep"]
+    },
+    "modality": "After urination",
+    "location": "Vulva",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "UTI or cystitis-related burning"
+  },
+  {
+    "rubric": "Vulval itching worse from warmth of bed",
+    "grading": {
+      "High": ["Sulph", "Psor", "Kreos"],
+      "Medium": ["Rhus-t", "Graph"],
+      "Low": ["Calc", "Nat-m"]
+    },
+    "modality": "Worse from warmth",
+    "location": "Vulva",
+    "miasm": ["Psora"],
+    "notes": "Psoric hypersensitivity of skin and mucosa"
+  },
+  {
+    "rubric": "Genital itching and burning after coition",
+    "grading": {
+      "High": ["Staph", "Sep", "Kreos"],
+      "Medium": ["Med", "Nit-ac", "Canth"],
+      "Low": ["Ign", "Cimic"]
+    },
+    "modality": "After intercourse",
+    "location": "Vagina, Vulva",
+    "miasm": ["Sycosis", "Psora"],
+    "notes": "Vaginal dryness, irritation, or suppressed sexual symptoms"
+  },
+  {
+    "rubric": "Intolerable itching of labia with excoriation",
+    "grading": {
+      "High": ["Kreos", "Graph", "Mez"],
+      "Medium": ["Sep", "Borax"],
+      "Low": ["Calc", "Rhus-t"]
+    },
+    "modality": "Continuous, worse at night",
+    "location": "Labia",
+    "miasm": ["Sycosis"],
+    "notes": "May be linked with chronic fungal or allergic condition"
+  },
+  {
+    "rubric": "Burning in vagina during leucorrhea",
+    "grading": {
+      "High": ["Kreos", "Nit-ac", "Sep"],
+      "Medium": ["Sulph", "Graph"],
+      "Low": ["Puls", "Lach"]
+    },
+    "modality": "During leucorrhea",
+    "location": "Vagina",
+    "miasm": ["Sycosis"],
+    "notes": "Excoriating discharges causing burning and pain"
+  },
+  {
+    "rubric": "Itching worse after bathing",
+    "grading": {
+      "High": ["Sulph", "Psor", "Kreos"],
+      "Medium": ["Petrol", "Graph"],
+      "Low": ["Borax", "Calc"]
+    },
+    "modality": "After bathing",
+    "location": "Vulva",
+    "miasm": ["Psora"],
+    "notes": "Dry skin, eczema-like response, irritant reaction"
+  }
+]

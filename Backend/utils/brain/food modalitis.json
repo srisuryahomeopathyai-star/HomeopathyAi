@@ -1,0 +1,2250 @@
+[
+  {
+    "FoodModalities": [
+      {
+        "rubric": "Weight loss despite increased appetite",
+        "grading": {
+          "high": ["Iodum", "Natrum mur", "Phosphorus"],
+          "medium": ["Calcarea phos", "Sepia"],
+          "low": ["Syzygium jambolanum"]
+        },
+        "modality": "< physical exertion, < stress, > eating",
+        "miasm": "Tubercular",
+        "notes": "Common in young females with metabolic acceleration"
+      },
+      {
+        "rubric": "Craving for raw dough or batter",
+        "grading": {
+          "high": [],
+          "medium": [],
+          "low": ["Calc carb", "Tuberculinum"]
+        },
+        "modality": "Desire for uncooked flour mix",
+        "miasm": "Sycotic",
+        "notes": "Likes uncooked cake/bread dough."
+      },
+      {
+        "rubric": "Feels better emotionally after eating",
+        "grading": {
+          "high": ["Ignatia", "Phosphorus"],
+          "medium": [],
+          "low": []
+        },
+        "modality": "Mood improved by food",
+        "miasm": "Psoric",
+        "notes": "Sadness or irritability resolves after meal."
+      },
+      {
+        "rubric": "Craving for ice during fever",
+        "grading": {
+          "high": [],
+          "medium": ["Phosphorus"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "Desire for cold crunch in hot state",
+        "miasm": "Sycotic",
+        "notes": "Often found in children with viral fevers."
+      }
+    ]
+  },
+  {
+    "rubric": "Craving for ice during fever",
+    "grading": {
+      "high": [],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desire for cold crunch in hot state",
+    "miasm": "Sycotic",
+    "notes": "Often found in children with viral fevers."
+  },
+  {
+    "rubric": "Aversion to milk in children",
+    "grading": {
+      "high": ["Calcarea carb", "Silicea"],
+      "medium": ["Aethusa", "Lycopodium"],
+      "low": ["Magnesium carb"]
+    },
+    "modality": "Refuses breast milk or vomits after",
+    "miasm": "Psoric",
+    "notes": "Useful in infantile diarrhea and lactose intolerance."
+  },
+  {
+    "rubric": "Desire for indigestible things (pica)",
+    "grading": {
+      "high": ["Alumina", "Cina"],
+      "medium": ["Silicea"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "Craving for chalk, mud, sand",
+    "miasm": "Sycotic",
+    "notes": "Common in children with worm infestation or anemia."
+  },
+  {
+    "rubric": "Craving for eggs",
+    "grading": {
+      "high": ["Sulphur", "Calcarea carb"],
+      "medium": ["Lycopodium", "Psorinum"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Strong desire, eats frequently",
+    "miasm": "Psoro-sycotic",
+    "notes": "Eggs cause no trouble; patient thrives on them."
+  },
+  {
+    "rubric": "Aversion to sweets",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sepia"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Dislikes or feels worse after sweets",
+    "miasm": "Tubercular",
+    "notes": "Often seen in liver or gall bladder disturbances."
+  },
+  {
+    "rubric": "Craving for spicy food",
+    "grading": {
+      "high": ["Nux vomica", "Medorrhinum"],
+      "medium": ["Phosphorus", "Tuberculinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Likes highly seasoned or pungent food",
+    "miasm": "Sycotic",
+    "notes": "Linked to high reactivity or addictive tendencies."
+  },
+  {
+    "rubric": "Craving for salt",
+    "grading": {
+      "high": ["Natrum mur", "Phosphorus"],
+      "medium": ["Sepia"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "Desires salty food or adds extra salt",
+    "miasm": "Sycotic",
+    "notes": "Strong keynote in Natrum mur constitution."
+  },
+  {
+    "rubric": "Aversion to fat or oily food",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Cannot tolerate fried or greasy food",
+    "miasm": "Psoric",
+    "notes": "Useful in digestive disturbances with nausea."
+  },
+  {
+    "rubric": "Craving for sour things",
+    "grading": {
+      "high": ["Phosphorus", "Calcarea carb"],
+      "medium": ["Sepia", "Sulphur"],
+      "low": ["Antim crud"]
+    },
+    "modality": "Eats lemons, pickles, sour fruits",
+    "miasm": "Psoro-sycotic",
+    "notes": "Often found in pregnancy and liver disorders."
+  },
+  {
+    "rubric": "Craving for cold drinks even in winter",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sulphur", "Tuberculinum"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Wants cold water, avoids warm drinks",
+    "miasm": "Tubercular",
+    "notes": "Indicates high thirst and burning sensation internally."
+  },
+  {
+    "rubric": "Aversion to bread",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Lycopodium"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Dislikes or feels full quickly after bread",
+    "miasm": "Psoric",
+    "notes": "Useful in gastric troubles with bloating and flatulence."
+  },
+  {
+    "rubric": "Craving for sweets",
+    "grading": {
+      "high": ["Argentum nitricum", "Phosphorus"],
+      "medium": ["Sulphur", "Lycopodium"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Addicted to sweets or worsens after eating them",
+    "miasm": "Sycotic",
+    "notes": "Common in children, diabetics, and anxiety states."
+  },
+  {
+    "rubric": "Aversion to meat",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia", "Sulphur"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Dislikes meat or cannot digest it well",
+    "miasm": "Psoric",
+    "notes": "Seen in gentle, emotional patients with weak digestion."
+  },
+  {
+    "rubric": "Craving for alcohol",
+    "grading": {
+      "high": ["Sulphur", "Nux vomica"],
+      "medium": ["Medorrhinum"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Needs daily dose or gets aggressive without it",
+    "miasm": "Sycotic",
+    "notes": "Often seen in irritable, driven, or anxious individuals."
+  },
+  {
+    "rubric": "Craving for cold food",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Prefers food cold, hates warm dishes",
+    "miasm": "Tubercular",
+    "notes": "Strong keynote in Phosphorus cases with internal burning."
+  },
+  {
+    "rubric": "Desire for raw food",
+    "grading": {
+      "high": ["Carbo vegetabilis"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Eats uncooked vegetables, fruits",
+    "miasm": "Psoric",
+    "notes": "Often seen in digestive weakness and sluggish metabolism."
+  },
+  {
+    "rubric": "Aversion to water",
+    "grading": {
+      "high": ["Apis mellifica"],
+      "medium": ["Lachesis"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Doesn't want to drink even when thirsty",
+    "miasm": "Sycotic",
+    "notes": "Keynote of Apis with scanty thirst despite fever or heat."
+  },
+  {
+    "rubric": "Craving for milk",
+    "grading": {
+      "high": ["Calcarea carb", "Phosphorus"],
+      "medium": ["Silicea", "Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires milk repeatedly; it agrees well",
+    "miasm": "Psoro-sycotic",
+    "notes": "Useful in children with bone issues or craving calcium."
+  },
+  {
+    "rubric": "Aversion to salt",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Refuses salty food or bland taste preference",
+    "miasm": "Psoric",
+    "notes": "Seen in hormonal issues, menopause, or uterine cases."
+  },
+  {
+    "rubric": "Craving for sour pickles during pregnancy",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Natrum mur", "Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Strong desire for sour, tangy foods",
+    "miasm": "Sycotic",
+    "notes": "Key indicator in morning sickness or hormonal nausea."
+  },
+  {
+    "rubric": "Craving for fatty and fried food",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Desires oily, spicy fried snacks",
+    "miasm": "Sycotic",
+    "notes": "Often causes aggravation in liver or gastric patients."
+  },
+  {
+    "rubric": "Aversion to eggs",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sulphur"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Dislikes smell or taste of eggs",
+    "miasm": "Psoric",
+    "notes": "Eggs may cause nausea or vomiting; a strong keynote."
+  },
+  {
+    "rubric": "Craving for onions",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Sulphur", "Medorrhinum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Desires raw or cooked onions regularly",
+    "miasm": "Sycotic",
+    "notes": "Useful in hormonal imbalances or circulatory states."
+  },
+  {
+    "rubric": "Aversion to spicy food",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Spices aggravate; prefers bland food",
+    "miasm": "Psoric",
+    "notes": "Seen in delicate constitutions with gastric sensitivity."
+  },
+  {
+    "rubric": "Craving for chocolate",
+    "grading": {
+      "high": ["Argentum nitricum"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires chocolate often, even secretly",
+    "miasm": "Sycotic",
+    "notes": "Often linked with anxiety, impulsivity, or cravings."
+  },
+  {
+    "rubric": "Aversion to cooked food",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Prefers raw or uncooked meals",
+    "miasm": "Psoric",
+    "notes": "May be connected to poor appetite or sluggish digestion."
+  },
+  {
+    "rubric": "Craving for coffee",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Chamomilla"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Wants coffee repeatedly or is sensitive to its absence",
+    "miasm": "Sycotic",
+    "notes": "Mental alertness, habit-forming tendency; classic in Nux vomica."
+  },
+  {
+    "rubric": "Aversion to fruits",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sepia"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Fruits worsen digestion or disliked generally",
+    "miasm": "Psoric",
+    "notes": "Seen in gastric individuals with sour eructations or acidity."
+  },
+  {
+    "rubric": "Craving for ice cream",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sulphur", "Medorrhinum"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Desires cold creamy sweets, especially in warm states",
+    "miasm": "Tubercular",
+    "notes": "Can soothe internal heat or irritability temporarily."
+  },
+  {
+    "rubric": "Aversion to vegetables",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Lycopodium"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Dislikes greens or boiled veggies",
+    "miasm": "Psoric",
+    "notes": "May be linked to indifference to healthy lifestyle."
+  },
+  {
+    "rubric": "Craving for ice (chewing ice)",
+    "grading": {
+      "high": ["Pica cases – Alumina", "Cina"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Wants to chew ice frequently, even without fever",
+    "miasm": "Sycotic",
+    "notes": "Often seen in anemic or iron-deficient individuals."
+  },
+  {
+    "rubric": "Aversion to warm food",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Lachesis"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Cannot tolerate warm meals, prefers cool",
+    "miasm": "Tubercular",
+    "notes": "Strong keynote in Phosphorus with internal heat."
+  },
+  {
+    "rubric": "Craving for cheese",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires cheese often or in large quantities",
+    "miasm": "Sycotic",
+    "notes": "Seen in children with intestinal and digestive issues."
+  },
+  {
+    "rubric": "Aversion to milk in adults",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Dislikes milk, feels bloated or nauseated",
+    "miasm": "Psoric",
+    "notes": "Useful in lactose intolerance, weak digestion types."
+  },
+  {
+    "rubric": "Craving for beer or fermented drinks",
+    "grading": {
+      "high": ["Sulphur", "Lachesis"],
+      "medium": ["Medorrhinum"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Strong desire despite aggravation or liver issues",
+    "miasm": "Sycotic",
+    "notes": "Often in hot-blooded, pleasure-seeking individuals."
+  },
+  {
+    "rubric": "Craving for fish",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sulphur"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Desires sea food or fish-based dishes",
+    "miasm": "Tubercular",
+    "notes": "Helpful when weakness follows seafood deprivation."
+  },
+  {
+    "rubric": "Aversion to meat after illness",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Dislikes heavy foods during recovery",
+    "miasm": "Psoric",
+    "notes": "Seen in convalescence with low vitality."
+  },
+  {
+    "rubric": "Craving for garlic",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Desires garlic daily or in high quantities",
+    "miasm": "Sycotic",
+    "notes": "Associated with circulatory and hormonal issues."
+  },
+  {
+    "rubric": "Aversion to sweets after grief",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Natrum mur"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "No interest in sweet taste post emotional trauma",
+    "miasm": "Psoric",
+    "notes": "Important rubric in mental-emotional shock states."
+  },
+  {
+    "rubric": "Craving for sour curd or buttermilk",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Desires sour milk-based products",
+    "miasm": "Sycotic",
+    "notes": "Keynote in digestive disturbances and acidity."
+  },
+  {
+    "rubric": "Craving for hot and spicy food in cold climate",
+    "grading": {
+      "high": ["Nux vomica", "Medorrhinum"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires pungent spices to feel internal heat",
+    "miasm": "Sycotic",
+    "notes": "Seen in chilly persons or those with low vitality."
+  },
+  {
+    "rubric": "Aversion to sour food",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Rejects pickles, vinegar, sour fruits",
+    "miasm": "Psoric",
+    "notes": "Often indicates weak digestion or liver disturbance."
+  },
+  {
+    "rubric": "Craving for boiled eggs",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Lycopodium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Desires boiled eggs frequently",
+    "miasm": "Psoric",
+    "notes": "Important in weak children and chronic skin conditions."
+  },
+  {
+    "rubric": "Craving for burnt food (burnt toast, roasted edges)",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires burnt portions of food",
+    "miasm": "Sycotic",
+    "notes": "Rare modality often seen in hormonal imbalances."
+  },
+  {
+    "rubric": "Aversion to water during fever",
+    "grading": {
+      "high": ["Apis mellifica"],
+      "medium": ["Gelsemium"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Refuses to drink even with dryness",
+    "miasm": "Sycotic",
+    "notes": "Strong keynote in Apis with thirstlessness during inflammation."
+  },
+  {
+    "rubric": "Craving for crust of bread",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Lycopodium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Desires hard outer crust, not soft inner part",
+    "miasm": "Psoric",
+    "notes": "Seen in hungry, fast-eating types or children."
+  },
+  {
+    "rubric": "Aversion to coffee",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Dislikes coffee or worsens after drinking",
+    "miasm": "Psoric",
+    "notes": "Useful in irritable, over-sensitive individuals."
+  },
+  {
+    "rubric": "Craving for lemon or citrus",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sepia"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires lemon juice, citrus fruits regularly",
+    "miasm": "Sycotic",
+    "notes": "Seen in liver complaints, nausea, or early pregnancy."
+  },
+  {
+    "rubric": "Aversion to chocolate",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Dislikes chocolate or feels worse after eating",
+    "miasm": "Psoric",
+    "notes": "Observed in hormonal and sensitive digestive cases."
+  },
+  {
+    "rubric": "Craving for food at night (midnight hunger)",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": ["Calcarea phos"]
+    },
+    "modality": "Gets up to eat in the night or early morning",
+    "miasm": "Psoric",
+    "notes": "Indicates gastric irritability or high metabolism."
+  },
+  {
+    "rubric": "Craving for uncooked rice or raw grains",
+    "grading": {
+      "high": ["Alumina"],
+      "medium": ["Calcarea carb"],
+      "low": ["Cina"]
+    },
+    "modality": "Desires raw rice, wheat, or raw pulses",
+    "miasm": "Sycotic",
+    "notes": "Often seen in pica and anemic states, especially in children and pregnant women."
+  },
+  {
+    "rubric": "Aversion to oily food during menses",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Rejects fatty foods around menstrual period",
+    "miasm": "Psoric",
+    "notes": "Seen in hormonal imbalances and sluggish digestion."
+  },
+  {
+    "rubric": "Craving for toasted or dry foods",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Silicea"]
+    },
+    "modality": "Prefers dry foods like toast or biscuits",
+    "miasm": "Psoric",
+    "notes": "Helps in cases with nausea or easy satiety."
+  },
+  {
+    "rubric": "Aversion to cooked smell of food",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Colchicum"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Nausea or vomiting from kitchen smell",
+    "miasm": "Sycotic",
+    "notes": "Very strong keynote in pregnancy nausea (Sepia, Colchicum)."
+  },
+  {
+    "rubric": "Craving for ice cream during fever",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Demands ice cream even when febrile",
+    "miasm": "Tubercular",
+    "notes": "Phosphorus shows peculiar inner burning and cold desire."
+  },
+  {
+    "rubric": "Aversion to milk during fever",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Bryonia"],
+      "low": ["Rhus tox"]
+    },
+    "modality": "Milk aggravates or induces vomiting",
+    "miasm": "Psoric",
+    "notes": "Helpful in fevers of digestive origin, especially in children."
+  },
+  {
+    "rubric": "Craving for spicy pickles with rice",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Needs spice with every meal to feel satisfied",
+    "miasm": "Sycotic",
+    "notes": "Common in irritable temperaments with digestive issues."
+  },
+  {
+    "rubric": "Aversion to bitter vegetables (like neem, karela)",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Calcarea carb"],
+      "low": ["Silicea"]
+    },
+    "modality": "Refuses traditional bitter vegetables",
+    "miasm": "Psoric",
+    "notes": "Common in children or patients with weak liver."
+  },
+  {
+    "rubric": "Craving for sugar crystals or jaggery",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Argentum nitricum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires raw sugar, not just sweets",
+    "miasm": "Sycotic",
+    "notes": "Seen in weakness, craving for quick energy."
+  },
+  {
+    "rubric": "Aversion to sour curd",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Cannot tolerate curd or fermented milk products",
+    "miasm": "Psoric",
+    "notes": "Useful in digestive and hormonal complaints."
+  },
+  {
+    "rubric": "Craving for raw vegetables (carrot, beetroot, etc.)",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sulphur"],
+      "low": ["Carbo vegetabilis"]
+    },
+    "modality": "Eats uncooked vegetables frequently",
+    "miasm": "Psoric",
+    "notes": "Helpful in constipation and heat sensations."
+  },
+  {
+    "rubric": "Aversion to rice",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Dislikes plain rice or feels heavy after it",
+    "miasm": "Psoric",
+    "notes": "Seen in sluggish digestive systems with acidity."
+  },
+  {
+    "rubric": "Craving for burnt match smell or carbon",
+    "grading": {
+      "high": ["Alumina"],
+      "medium": ["Sepia"],
+      "low": ["Stramonium"]
+    },
+    "modality": "Attracted to burnt or smoky smell",
+    "miasm": "Sycotic",
+    "notes": "Rare craving seen in pica and mental disorders."
+  },
+  {
+    "rubric": "Craving for banana",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Calcarea carb"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Eats banana regularly, even in illness",
+    "miasm": "Psoric",
+    "notes": "Good in children with weak digestion or low weight."
+  },
+  {
+    "rubric": "Aversion to banana",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Refuses banana; feels bloated or nauseated after it",
+    "miasm": "Psoric",
+    "notes": "Keynote in sensitive digestive tracts."
+  },
+  {
+    "rubric": "Craving for coconut or coconut water",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Wants tender coconut or raw coconut daily",
+    "miasm": "Tubercular",
+    "notes": "Seen in heat exhaustion, fevers, and calm constitutions."
+  },
+  {
+    "rubric": "Aversion to coconut",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Silicea"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "Dislikes coconut-based food or sweets",
+    "miasm": "Psoric",
+    "notes": "Seen in liver-sensitive individuals."
+  },
+  {
+    "rubric": "Craving for roasted seeds or nuts",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Frequently munches roasted items like peanuts",
+    "miasm": "Sycotic",
+    "notes": "Indicates overactive digestion and desire for stimulation."
+  },
+  {
+    "rubric": "Aversion to nuts and dry fruits",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids nuts due to heaviness or dislike",
+    "miasm": "Psoric",
+    "notes": "Seen in people with weak gastric tolerance or aversion to oily food."
+  },
+  {
+    "rubric": "Craving for stale or fermented food",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Likes food that is aged, fermented, or leftover",
+    "miasm": "Sycotic",
+    "notes": "Seen in persons with strong cravings despite aggravation."
+  },
+  {
+    "rubric": "Craving for chilled drinks during menses",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Desires iced water or cool drinks during periods",
+    "miasm": "Sycotic",
+    "notes": "Common in warm-blooded, irritable women with pelvic congestion."
+  },
+  {
+    "rubric": "Aversion to ghee or clarified butter",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Nux vomica"],
+      "low": ["Sepia"]
+    },
+    "modality": "Dislikes greasy textures or smell of ghee",
+    "miasm": "Psoric",
+    "notes": "Seen in gallbladder complaints or sluggish digestion."
+  },
+  {
+    "rubric": "Craving for khatta dal (sour pulses)",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires tangy, sour dal frequently",
+    "miasm": "Sycotic",
+    "notes": "Indicates need for liver stimulation or acidity relief."
+  },
+  {
+    "rubric": "Aversion to sweets in the morning",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Sulphur"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Rejects sweet foods in early hours of day",
+    "miasm": "Psoric",
+    "notes": "Often seen in hormonal or hypoglycemic states."
+  },
+  {
+    "rubric": "Craving for raw tamarind or imli",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Phosphorus"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Desires tamarind pulp, raw sour taste",
+    "miasm": "Sycotic",
+    "notes": "Especially seen in pregnant women and children."
+  },
+  {
+    "rubric": "Aversion to spicy food during fever",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Pulsatilla"],
+      "low": ["Bryonia"]
+    },
+    "modality": "Rejects spicy meals while febrile",
+    "miasm": "Psoric",
+    "notes": "Important in low appetite and low thirst fevers."
+  },
+  {
+    "rubric": "Craving for street food (chaat, pani puri)",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur", "Medorrhinum"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Desires junk, spicy tangy food from vendors",
+    "miasm": "Sycotic",
+    "notes": "Seen in craving for excitement and over-stimulation."
+  },
+  {
+    "rubric": "Aversion to dal (lentils)",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Dislikes lentil soups, avoids pulses",
+    "miasm": "Psoric",
+    "notes": "Associated with bloating and sluggish digestion."
+  },
+  {
+    "rubric": "Craving for curd rice",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Calcarea carb"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Wants curd mixed with rice daily",
+    "miasm": "Sycotic",
+    "notes": "Seen in hot, irritable individuals who feel better with cooling food."
+  },
+  {
+    "rubric": "Aversion to tea",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Dislikes tea; causes nausea or discomfort",
+    "miasm": "Psoric",
+    "notes": "Important in sensitive constitutions and hormonal imbalances."
+  },
+  {
+    "rubric": "Craving for green leafy vegetables",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Frequently desires spinach, amaranth, curry leaves",
+    "miasm": "Psoric",
+    "notes": "Seen in individuals needing mineral-rich foods or detox."
+  },
+  {
+    "rubric": "Aversion to green leafy vegetables",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids greens due to taste, smell, or digestion issues",
+    "miasm": "Psoric",
+    "notes": "Common in children and delicate constitutions."
+  },
+  {
+    "rubric": "Craving for sour mango (raw)",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires raw mango slices or chutneys",
+    "miasm": "Sycotic",
+    "notes": "Frequently seen during pregnancy or in summer."
+  },
+  {
+    "rubric": "Aversion to chapati/roti (wheat flatbread)",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sepia"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Feels heavy or bloated after chapati",
+    "miasm": "Psoric",
+    "notes": "Indicates weak digestion, gluten sensitivity, or hepatic issues."
+  },
+  {
+    "rubric": "Craving for sweet curd",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires sweetened curd/yogurt frequently",
+    "miasm": "Sycotic",
+    "notes": "Common in warm constitutions and children."
+  },
+  {
+    "rubric": "Aversion to pickles",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids strong sour/spicy items like pickles",
+    "miasm": "Psoric",
+    "notes": "Found in those with sensitive digestion or ulcers."
+  },
+  {
+    "rubric": "Craving for sugarcane juice",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires sugarcane juice during fatigue or heat",
+    "miasm": "Sycotic",
+    "notes": "Seen in weakness, summer exhaustion, and liver issues."
+  },
+  {
+    "rubric": "Aversion to water after meals",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Pulsatilla"],
+      "low": ["Sepia"]
+    },
+    "modality": "Avoids drinking water post food intake",
+    "miasm": "Psoric",
+    "notes": "Seen in indigestion, acidity, or fullness cases."
+  },
+  {
+    "rubric": "Craving for jaggery sweets (Indian traditional sweets)",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "Strong desire for jaggery-based food like chikki, halwa",
+    "miasm": "Sycotic",
+    "notes": "Seen in warm constitutions needing energy and iron."
+  },
+  {
+    "rubric": "Aversion to food smell from others' plates",
+    "grading": {
+      "high": ["Colchicum"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Smell from someone else's food causes nausea",
+    "miasm": "Psoric",
+    "notes": "Classic in nausea of pregnancy or gastric irritation."
+  },
+  {
+    "rubric": "Craving for roasted or burnt chillies",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Desires spicy roasted chillies or chutneys with heat",
+    "miasm": "Sycotic",
+    "notes": "Seen in hot-tempered, gastrically sensitive individuals."
+  },
+  {
+    "rubric": "Aversion to non-vegetarian food after illness",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Pulsatilla"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Dislikes meat or chicken during recovery phase",
+    "miasm": "Psoric",
+    "notes": "Seen in post-viral weakness, digestive fatigue."
+  },
+  {
+    "rubric": "Craving for fermented rice (pakhala/kanji/ganji)",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires rice fermented overnight; soothing",
+    "miasm": "Psoric",
+    "notes": "Common in chronic acidity, liver disorders, summer heat."
+  },
+  {
+    "rubric": "Aversion to raw onions",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids raw onions due to smell, irritation",
+    "miasm": "Psoric",
+    "notes": "Seen in sensitive constitutions or hormonal issues."
+  },
+  {
+    "rubric": "Craving for butter or clarified butter (ghee)",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Calcarea carb"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Desires pure fats like butter or ghee often",
+    "miasm": "Psoric",
+    "notes": "Seen in undernourished children or fatigue states."
+  },
+  {
+    "rubric": "Aversion to hot drinks",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Lachesis"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Prefers cold beverages; avoids tea, soup, coffee",
+    "miasm": "Tubercular",
+    "notes": "Seen in internally hot constitutions."
+  },
+  {
+    "rubric": "Craving for dried fish",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires strong-smelling dried seafood",
+    "miasm": "Sycotic",
+    "notes": "Seen in tubercular or coastal populations with low vitality."
+  },
+  {
+    "rubric": "Aversion to raw garlic",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Silicea"]
+    },
+    "modality": "Dislikes raw garlic taste or smell",
+    "miasm": "Psoric",
+    "notes": "Found in sensitive digestive or hormonal cases."
+  },
+  {
+    "rubric": "Craving for plain cooked rice with ghee or curd",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires very plain food; finds it soothing",
+    "miasm": "Psoric",
+    "notes": "Common in infants, elderly, and weak constitutions."
+  },
+  {
+    "rubric": "Aversion to food during headache",
+    "grading": {
+      "high": ["Iris versicolor"],
+      "medium": ["Belladonna"],
+      "low": ["Bryonia"]
+    },
+    "modality": "Complete loss of appetite with migraine or headache",
+    "miasm": "Psoric",
+    "notes": "Classic in gastric and menstrual headache types."
+  },
+  {
+    "rubric": "Craving for milk at bedtime",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["Silicea"]
+    },
+    "modality": "Desires warm milk before sleep",
+    "miasm": "Psoric",
+    "notes": "Soothing modality in children and elderly with anxiety or insomnia."
+  },
+  {
+    "rubric": "Aversion to food after anger",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Staphysagria"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Loses appetite completely when emotionally upset",
+    "miasm": "Psoric",
+    "notes": "Seen in sensitive, suppressed or irritable individuals."
+  },
+  {
+    "rubric": "Craving for hot soups in cold weather",
+    "grading": {
+      "high": ["Arsenicum album"],
+      "medium": ["Rhus tox"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Desires steaming broth, lentil or meat soup in winter",
+    "miasm": "Psoric",
+    "notes": "Seen in weak, chilly constitutions needing warmth."
+  },
+  {
+    "rubric": "Aversion to meat during pregnancy",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Colchicum"]
+    },
+    "modality": "Refuses meat smell or taste when pregnant",
+    "miasm": "Psoric",
+    "notes": "Useful in pregnancy nausea and liver sensitivity."
+  },
+  {
+    "rubric": "Craving for dry, crispy snacks (chips, fryums)",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires crunchy food frequently between meals",
+    "miasm": "Sycotic",
+    "notes": "Seen in active, irritable children or snack addicts."
+  },
+  {
+    "rubric": "Aversion to sweets in the evening",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Sulphur"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Feels heaviness or nausea with sweets after sunset",
+    "miasm": "Psoric",
+    "notes": "Seen in sluggish digestion and hormonal issues."
+  },
+  {
+    "rubric": "Craving for ice-cold carbonated drinks",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Wants fizzy, cold beverages even in winter",
+    "miasm": "Tubercular",
+    "notes": "Often in individuals with internal burning or thirst for stimulation."
+  },
+  {
+    "rubric": "Aversion to breakfast",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Ignatia"],
+      "low": ["Sepia"]
+    },
+    "modality": "No hunger or dislikes eating early morning",
+    "miasm": "Psoric",
+    "notes": "Seen in irregular sleepers, gastric or liver complaints."
+  },
+  {
+    "rubric": "Craving for thick buttermilk with salt",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Calcarea carb"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Likes salted curd drinks, especially in summer",
+    "miasm": "Sycotic",
+    "notes": "Soothing in acidity, liver overload, and heat exhaustion."
+  },
+  {
+    "rubric": "Aversion to fried breakfast (like poori, vada)",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Dislikes heavy oily food in the morning",
+    "miasm": "Psoric",
+    "notes": "Common in sensitive gastric types with aversion to rich food."
+  },
+  {
+    "rubric": "Craving for dry rice with pickle only",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires plain rice with spicy pickle, avoids curry or dal",
+    "miasm": "Sycotic",
+    "notes": "Seen in those with strong cravings for spice and minimalism in meals."
+  },
+  {
+    "rubric": "Aversion to sweets during fever",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Bryonia"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Refuses sweet items while having a fever",
+    "miasm": "Psoric",
+    "notes": "Common in sluggish, low-thirst, or bitter-taste fevers."
+  },
+  {
+    "rubric": "Craving for bitter tasting food",
+    "grading": {
+      "high": ["Chelidonium"],
+      "medium": ["Nux vomica"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Desires neem, bitter gourd, herbal teas",
+    "miasm": "Sycotic",
+    "notes": "Indicates liver derangement or need for cleansing."
+  },
+  {
+    "rubric": "Aversion to milk in children",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Calcarea carb"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Child refuses milk or vomits after milk",
+    "miasm": "Psoric",
+    "notes": "Important in malnourished, weak, irritable children."
+  },
+  {
+    "rubric": "Craving for plain boiled pulses",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Desires boiled dal without spices or oil",
+    "miasm": "Psoric",
+    "notes": "Helpful in digestive complaints or recovery from illness."
+  },
+  {
+    "rubric": "Aversion to food after physical exertion",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Arnica"]
+    },
+    "modality": "Loss of appetite after fatigue or overwork",
+    "miasm": "Psoric",
+    "notes": "Typical in chronic fatigue, post-illness weakness."
+  },
+  {
+    "rubric": "Craving for sugar syrup (panakam, sugar water)",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Argentum nitricum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires sweetened water or jaggery drinks",
+    "miasm": "Sycotic",
+    "notes": "Seen in dehydration, blood sugar drops, or inner heat."
+  },
+  {
+    "rubric": "Aversion to bitter medicines or tonics",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Refuses tonics, iron syrups, or bitter decoctions",
+    "miasm": "Psoric",
+    "notes": "Seen in children and adults with low tolerance for taste."
+  },
+  {
+    "rubric": "Craving for spicy masala powders (karam podi)",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Wants to mix podi in every meal; stimulating",
+    "miasm": "Sycotic",
+    "notes": "Seen in irritable, high-drive constitutions needing stimulation."
+  },
+  {
+    "rubric": "Aversion to sour fruits (orange, tamarind)",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids citrus and tangy fruits",
+    "miasm": "Psoric",
+    "notes": "Typical in hyperacidic states or sensitive digestion."
+  },
+  {
+    "rubric": "Craving for food mixed together (messy plate)",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Likes to mix rice, curry, curd, pickles all together",
+    "miasm": "Sycotic",
+    "notes": "Often seen in children and impulsive eaters."
+  },
+  {
+    "rubric": "Aversion to solid food prefers only liquids",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["China"],
+      "low": ["Bryonia"]
+    },
+    "modality": "Wants only liquids during illness or fatigue",
+    "miasm": "Psoric",
+    "notes": "Common in fevers, post-viral weakness, or sensitive constitutions."
+  },
+  {
+    "rubric": "Craving for bitter coffee without milk",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Phosphorus"],
+      "low": ["Sepia"]
+    },
+    "modality": "Desires black, unsweetened coffee",
+    "miasm": "Sycotic",
+    "notes": "Seen in overworked, mentally alert, and stimulant-seeking types."
+  },
+  {
+    "rubric": "Aversion to warm food wants only cold meals",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Pulsatilla"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Rejects hot rice, curries; prefers chilled or room temp food",
+    "miasm": "Tubercular",
+    "notes": "Helpful in inner heat, summer complaints, or gastric acidity."
+  },
+  {
+    "rubric": "Craving for fast food (pizza, burgers, noodles)",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Nux vomica"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Frequently eats or desires processed fast foods",
+    "miasm": "Sycotic",
+    "notes": "Seen in youth with urban lifestyle and poor digestion."
+  },
+  {
+    "rubric": "Aversion to homemade traditional food",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Medorrhinum"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Rejects simple meals, prefers spicy, commercial food",
+    "miasm": "Sycotic",
+    "notes": "Seen in bored, rebellious, or overstimulated individuals."
+  },
+  {
+    "rubric": "Craving for sweets only at night",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Feels sudden desire for sweet snacks late night",
+    "miasm": "Psoric",
+    "notes": "Typical in high metabolism types or sugar-sensitive constitutions."
+  },
+  {
+    "rubric": "Aversion to food after toilet (bowel motion)",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Ignatia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Loss of appetite after passing stool",
+    "miasm": "Psoric",
+    "notes": "Seen in sluggish, hormonal or nervous digestive types."
+  },
+  {
+    "rubric": "Craving for extremely spicy chutneys",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Needs extremely spicy side dishes with food",
+    "miasm": "Sycotic",
+    "notes": "Helpful in cases with dullness, slow digestion, desire for intensity."
+  },
+  {
+    "rubric": "Aversion to breakfast cereals",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Calcarea carb"],
+      "low": ["Sepia"]
+    },
+    "modality": "Dislikes cornflakes, oats, muesli, etc.",
+    "miasm": "Psoric",
+    "notes": "Seen in those with sensitive bowels, dislike for dry/stale food."
+  },
+  {
+    "rubric": "Craving for ice cubes or chewing ice",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Carbo vegetabilis"]
+    },
+    "modality": "Frequently chews or sucks on ice cubes",
+    "miasm": "Sycotic",
+    "notes": "Common in anemia, heat intolerance, and restlessness."
+  },
+  {
+    "rubric": "Aversion to spicy masala powders (karam podi)",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids spicy powders; causes burning or loose stools",
+    "miasm": "Psoric",
+    "notes": "Seen in children or delicate constitutions with poor heat tolerance."
+  },
+  {
+    "rubric": "Craving for plain idli or dosa without chutney",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["Silicea"]
+    },
+    "modality": "Desires bland south Indian food without side dishes",
+    "miasm": "Psoric",
+    "notes": "Helpful in gastric sensitivity and fatigue states."
+  },
+  {
+    "rubric": "Aversion to fermented foods like dosa, idli",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sepia"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Feels bloated, gassy after fermented rice-lentil foods",
+    "miasm": "Psoric",
+    "notes": "Seen in weak digestion, IBS or hepatic congestion."
+  },
+  {
+    "rubric": "Craving for thick hot porridge or ragi malt",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["China"]
+    },
+    "modality": "Desires thick warm cereal-based food",
+    "miasm": "Psoric",
+    "notes": "Seen in children, postpartum mothers, or convalescents."
+  },
+  {
+    "rubric": "Aversion to ragi, jowar, or millet-based foods",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Dislikes coarse grains; finds them heavy",
+    "miasm": "Psoric",
+    "notes": "Helpful in cases with intolerance to complex carbohydrates."
+  },
+  {
+    "rubric": "Craving for sour pickled gooseberry (amla)",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Likes tangy preserved fruits, especially amla",
+    "miasm": "Sycotic",
+    "notes": "Seen in heat, pitta conditions, or vitamin C craving."
+  },
+  {
+    "rubric": "Aversion to amla or sour fruits",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids sour fruits like gooseberry, citrus",
+    "miasm": "Psoric",
+    "notes": "Seen in hyperacidity or those with aversion to sharp tastes."
+  },
+  {
+    "rubric": "Craving for jaggery water (bellam neellu)",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["China"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires diluted jaggery water especially after exertion",
+    "miasm": "Sycotic",
+    "notes": "Seen in hot weather, anemia, and fatigue cases."
+  },
+  {
+    "rubric": "Aversion to oil-smeared food (ghee or oil applied)",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids visibly oily or ghee-laden food",
+    "miasm": "Psoric",
+    "notes": "Seen in nausea-prone and sluggish liver cases."
+  },
+  {
+    "rubric": "Craving for crunchy fried snacks during stress",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Wants crunchy snacks like murukulu, chips when anxious",
+    "miasm": "Sycotic",
+    "notes": "Common in irritable, overworked or overstimulated individuals."
+  },
+  {
+    "rubric": "Aversion to food cooked by others",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Sepia"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Rejects meals unless cooked by self or familiar person",
+    "miasm": "Psoric",
+    "notes": "Often seen in emotionally sensitive, grieving, or suspicious types."
+  },
+  {
+    "rubric": "Craving for tamarind rice or pulihora",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Frequently desires sour-spicy tamarind flavored rice",
+    "miasm": "Sycotic",
+    "notes": "Seen in warm constitutions with desire for tangy excitement."
+  },
+  {
+    "rubric": "Aversion to tamarind-based curries",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids tangy curries with tamarind; causes acidity or nausea",
+    "miasm": "Psoric",
+    "notes": "Common in gastric sensitivity, especially in women and children."
+  },
+  {
+    "rubric": "Craving for boiled sweet corn or popcorn",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires hot corn snacks regularly",
+    "miasm": "Sycotic",
+    "notes": "Seen in children and snack-loving constitutions."
+  },
+  {
+    "rubric": "Aversion to cold milk",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Sepia"],
+      "low": ["Calcarea phos"]
+    },
+    "modality": "Dislikes cold milk; causes chilliness or bloating",
+    "miasm": "Psoric",
+    "notes": "Seen in weak, sensitive digestion types and children."
+  },
+  {
+    "rubric": "Craving for lemon with salt",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Frequently sucks lemon with salt or wants lemon-flavored food",
+    "miasm": "Sycotic",
+    "notes": "Typical in nausea, summer heat and digestive complaints."
+  },
+  {
+    "rubric": "Aversion to cooked vegetables",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids boiled/cooked vegetables; prefers raw or snacks",
+    "miasm": "Psoric",
+    "notes": "Seen in children and irritable eaters with poor appetite."
+  },
+  {
+    "rubric": "Craving for honey or jaggery-based sweets",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Calcarea carb"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Frequently eats chikki, laddus made from jaggery",
+    "miasm": "Sycotic",
+    "notes": "Seen in anemic, weak constitutions or during recovery."
+  },
+  {
+    "rubric": "Aversion to tea with milk",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Rejects regular tea; prefers black tea or none at all",
+    "miasm": "Psoric",
+    "notes": "Helpful in identifying hormonal or digestive aggravation."
+  },
+  {
+    "rubric": "Craving for fried rice or biryani",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires spicy, oily, rich rice dishes frequently",
+    "miasm": "Sycotic",
+    "notes": "Seen in heat-prone, high-energy individuals or foodies."
+  },
+  {
+    "rubric": "Aversion to biryani or spiced rice",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Feels discomfort or nausea from strong spice and oil",
+    "miasm": "Psoric",
+    "notes": "Common in delicate digestion or post-illness aversion."
+  },
+  {
+    "rubric": "Craving for grated raw coconut",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Likes fresh coconut with sugar or plain in food",
+    "miasm": "Sycotic",
+    "notes": "Seen in warm constitutions with inner dryness or restlessness."
+  },
+  {
+    "rubric": "Aversion to coconut oil or coconut-flavored food",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Dislikes coconut-based curries or sweets",
+    "miasm": "Psoric",
+    "notes": "Observed in people with nausea, acidity, or mental aversion."
+  },
+  {
+    "rubric": "Craving for toast with butter or jam",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Likes bread with sweet or fatty spreads",
+    "miasm": "Psoric",
+    "notes": "Seen in children, school-going age, or weak digestion cases."
+  },
+  {
+    "rubric": "Aversion to plain white bread",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids bread due to dryness or heaviness",
+    "miasm": "Psoric",
+    "notes": "Observed in gastric sensitivity, especially females."
+  },
+  {
+    "rubric": "Craving for roasted peanuts or groundnuts",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires fried/roasted nuts regularly",
+    "miasm": "Sycotic",
+    "notes": "Common in young males and those with mild protein craving."
+  },
+  {
+    "rubric": "Aversion to groundnut oil",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Dislikes smell or taste of groundnut oil in food",
+    "miasm": "Psoric",
+    "notes": "Seen in sensitive constitutions, especially women or children."
+  },
+  {
+    "rubric": "Craving for cold raw cucumber",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Wants raw cucumber slices especially in summer",
+    "miasm": "Sycotic",
+    "notes": "Helpful in inner heat, thirst, and bloating."
+  },
+  {
+    "rubric": "Aversion to cucumber or raw salads",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Dislikes raw vegetables, avoids salads",
+    "miasm": "Psoric",
+    "notes": "Seen in bloated, sensitive GI tract constitutions."
+  },
+  {
+    "rubric": "Craving for curd rice at night",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Strong desire for plain curd rice as night meal",
+    "miasm": "Psoric",
+    "notes": "Seen in those seeking comfort food, acidity relief or easy digestion."
+  },
+  {
+    "rubric": "Aversion to curd rice at night",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids curd at night due to bloating or sinus aggravation",
+    "miasm": "Psoric",
+    "notes": "Typical in kapha-predominant constitutions or chronic sinusitis."
+  },
+  {
+    "rubric": "Craving for puffed rice (murmura/borugulu)",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Frequent snacking on puffed rice mixtures",
+    "miasm": "Sycotic",
+    "notes": "Seen in low appetite individuals or snack-focused eaters."
+  },
+  {
+    "rubric": "Aversion to puffed rice",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Dislikes dry, airy foods; causes dryness or distension",
+    "miasm": "Psoric",
+    "notes": "Seen in sensitive GI tracts and cold-dominant constitutions."
+  },
+  {
+    "rubric": "Craving for sugar directly (eating plain sugar)",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sulphur"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "Likes to eat sugar crystals or jaggery chunks alone",
+    "miasm": "Sycotic",
+    "notes": "Seen in energy-depleted or emotionally hungry patients."
+  },
+  {
+    "rubric": "Aversion to sugar in tea or milk",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Avoids adding sugar; prefers bland or mildly sweet taste",
+    "miasm": "Psoric",
+    "notes": "Helpful in liver disorders, bitterness in mouth or oversensitivity."
+  },
+  {
+    "rubric": "Craving for street food (chaat, pani puri)",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Nux vomica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires spicy, tangy, and roadside snacks often",
+    "miasm": "Sycotic",
+    "notes": "Common in hyperactive, thrill-seeking, or restless types."
+  },
+  {
+    "rubric": "Aversion to food from outside (hotel, restaurant)",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Refuses to eat food cooked outside the home",
+    "miasm": "Psoric",
+    "notes": "Often linked with hygiene concerns, emotional purity or digestive fear."
+  },
+  {
+    "rubric": "Craving for boiled or steamed food only",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["Silicea"]
+    },
+    "modality": "Wants plain steamed vegetables, rice or idli",
+    "miasm": "Psoric",
+    "notes": "Helpful in cases with low vitality or inflammatory GI issues."
+  },
+  {
+    "rubric": "Aversion to spicy side dishes in the morning",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids any strong flavor early in the day",
+    "miasm": "Psoric",
+    "notes": "Typical in sluggish liver function or hormonal imbalance."
+  },
+  {
+    "rubric": "Craving for food with strong smell (onion, garlic, hing)",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Desires strongly aromatic food with pungent smell",
+    "miasm": "Sycotic",
+    "notes": "Seen in active, energetic, spicy-craving individuals."
+  },
+  {
+    "rubric": "Aversion to strong food odors",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Cannot tolerate smell of spices, garlic, or frying",
+    "miasm": "Psoric",
+    "notes": "Common in pregnancy, sensitive constitutions, nausea-prone patients."
+  },
+  {
+    "rubric": "Craving for burnt or overcooked food",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Wants slightly burnt rotis or roasted corners",
+    "miasm": "Sycotic",
+    "notes": "Seen in pica tendencies, phosphorus deficiency or obsessive eaters."
+  },
+  {
+    "rubric": "Aversion to sweets after a meal",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Lycopodium"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Feels nausea or heaviness if dessert follows meal",
+    "miasm": "Psoric",
+    "notes": "Helpful in sluggish liver or gastric stasis."
+  },
+  {
+    "rubric": "Craving for banana in morning",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Calcarea carb"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires soft, sweet fruit like banana for breakfast",
+    "miasm": "Psoric",
+    "notes": "Seen in school-age children, weak digestion, or constipation."
+  },
+  {
+    "rubric": "Aversion to banana",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Dislikes banana due to its texture or aftertaste",
+    "miasm": "Psoric",
+    "notes": "Seen in IBS, bloating-prone or emotionally disturbed individuals."
+  },
+  {
+    "rubric": "Craving for hot spicy soups during illness",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires strong hot liquid food while unwell",
+    "miasm": "Sycotic",
+    "notes": "Common in restless, chilly patients with low appetite."
+  },
+  {
+    "rubric": "Aversion to hot soups or warm liquids",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Feels worse with warm food; prefers dry or room temp",
+    "miasm": "Psoric",
+    "notes": "Helpful in bloating, nausea or overheating conditions."
+  },
+  {
+    "rubric": "Craving for food with sour-sweet combination",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Sulphur"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Wants foods like tamarind-jaggery chutney or sweet curd rice",
+    "miasm": "Sycotic",
+    "notes": "Common in dynamic emotional constitutions or hormonal changes."
+  },
+  {
+    "rubric": "Aversion to combination dishes (mixtures)",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids mixed items like upma, pongal, khichdi",
+    "miasm": "Psoric",
+    "notes": "Seen in fussy eaters and sensitive digestion."
+  },
+  {
+    "rubric": "Craving for thick curd with rice",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Wants curd in thick form, not watery; with plain rice",
+    "miasm": "Psoric",
+    "notes": "Seen in heat-prone, tired individuals or gastric irritation cases."
+  },
+  {
+    "rubric": "Aversion to curd due to smell or texture",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Refuses curd as it feels slimy, sour or nauseating",
+    "miasm": "Psoric",
+    "notes": "Common in emotionally sensitive or kapha-dominant constitutions."
+  },
+  {
+    "rubric": "Craving for dry food without gravy",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Nux vomica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires dry sabzi, fries, or plain food without liquids",
+    "miasm": "Sycotic",
+    "notes": "Typical of people with bloating and dislike for greasy food."
+  },
+  {
+    "rubric": "Aversion to dry food, prefers moist or soft meals",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Rejects food unless it has some gravy or moisture",
+    "miasm": "Psoric",
+    "notes": "Seen in children, weak digestion, or thirstless constitutions."
+  },
+  {
+    "rubric": "Craving for toasted bread with ghee or butter",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Wants hot toast with visible fat spread",
+    "miasm": "Psoric",
+    "notes": "Often found in children or early morning eaters with satiety issues."
+  },
+  {
+    "rubric": "Aversion to toasted or baked items",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Silicea"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Avoids toasted food due to dryness or roughness",
+    "miasm": "Psoric",
+    "notes": "Seen in people with sensitive throat or dislike for rough food."
+  },
+  {
+    "rubric": "Craving for soft overripe fruits",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires banana, sapota, papaya in mushy form",
+    "miasm": "Sycotic",
+    "notes": "Helpful in constipation, dry stools, or weak digestion."
+  },
+  {
+    "rubric": "Aversion to fruits with fibrous texture",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids fruits like pineapple or guava due to hard or seedy feel",
+    "miasm": "Psoric",
+    "notes": "Seen in picky eaters or those with oral sensitivity."
+  },
+  {
+    "rubric": "Craving for freshly cooked hot rice",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Wants hot steaming rice with ghee immediately after cooking",
+    "miasm": "Sycotic",
+    "notes": "Seen in appetite-strong, heat-loving constitutions."
+  },
+  {
+    "rubric": "Aversion to leftover or cold rice",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Rejects refrigerated or previous day’s rice",
+    "miasm": "Psoric",
+    "notes": "Common in people who dislike stale energy or fermentation."
+  },
+  {
+    "rubric": "Craving for dry chutneys and powders (karam podi)",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires spicy dry powders with rice or idli regularly",
+    "miasm": "Sycotic",
+    "notes": "Seen in high-pitta constitutions and traditional food lovers."
+  },
+  {
+    "rubric": "Aversion to dry powders and spice mixes",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Finds dry powders irritating or choking while eating",
+    "miasm": "Psoric",
+    "notes": "Typical in delicate throat and weak digestion cases."
+  },
+  {
+    "rubric": "Craving for thick gravies or saucy food",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Medorrhinum"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Enjoys food with thick, spicy gravy or sauce",
+    "miasm": "Sycotic",
+    "notes": "Helpful in identifying desire for intensity and strong taste."
+  },
+  {
+    "rubric": "Aversion to spicy gravies",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids spicy curries due to burning or bloating",
+    "miasm": "Psoric",
+    "notes": "Seen in gastric ulcer-prone and pitta-aggravated patients."
+  },
+  {
+    "rubric": "Craving for flavored rice (lemon rice, tamarind rice)",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Lycopodium"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Desires tangy, flavored rice over plain meals",
+    "miasm": "Sycotic",
+    "notes": "Seen in children and snack-prone or variety-seeking eaters."
+  },
+  {
+    "rubric": "Aversion to colored or strongly flavored rice",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Prefers white, bland rice; avoids lemon/tamarind rice",
+    "miasm": "Psoric",
+    "notes": "Seen in people with food sensitivity or low appetite."
+  },
+  {
+    "rubric": "Craving for soft idli with ghee or sugar",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Loves soft white idlis with ghee or jaggery",
+    "miasm": "Psoric",
+    "notes": "Common in toddlers, children, and delicate constitutions."
+  },
+  {
+    "rubric": "Aversion to fermented idli/dosa batter smell",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Lycopodium"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Dislikes sour smell of fermented batter",
+    "miasm": "Psoric",
+    "notes": "Seen in nausea-prone, gastric-sensitive people."
+  },
+  {
+    "rubric": "Craving for pani puri with spicy water",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Nux vomica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Regular desire for tangy, spicy, street-side snacks",
+    "miasm": "Sycotic",
+    "notes": "Common in young adults with restless or adventurous nature."
+  },
+  {
+    "rubric": "Aversion to pani puri due to stomach upset",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids pani puri as it causes loose motions or acidity",
+    "miasm": "Psoric",
+    "notes": "Seen in weak digestion, IBS or cautious eaters."
+  }
+]

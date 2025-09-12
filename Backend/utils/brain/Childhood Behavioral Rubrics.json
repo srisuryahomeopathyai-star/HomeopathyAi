@@ -1,0 +1,374 @@
+[
+  {
+    "rubric": "Child – irritable, easily angered",
+    "grading": "High",
+    "modality": "Worse when contradicted; often with tantrums",
+    "miasm": "Psoric",
+    "notes": "Common in children with poor tolerance to frustration",
+    "remedies": [
+      { "remedy": "Chamomilla", "grade": "H" },
+      { "remedy": "Nux vomica", "grade": "M" },
+      { "remedy": "Staphysagria", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Child – fears being alone",
+    "grading": "Medium",
+    "modality": "Cries when left alone; clings to parents",
+    "miasm": "Psoric / Cancerinic",
+    "notes": "Separation anxiety; fear of abandonment",
+    "remedies": [
+      { "remedy": "Aconitum", "grade": "H" },
+      { "remedy": "Pulsatilla", "grade": "M" },
+      { "remedy": "Calcarea carbonica", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Child – hyperactive, restless",
+    "grading": "High",
+    "modality": "Cannot sit still; constantly moving; short attention span",
+    "miasm": "Psoric / Sycotic",
+    "notes": "Attention deficit and impulsivity",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Hyoscyamus", "grade": "M" },
+      { "remedy": "Tuberculinum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – stubborn, refuses to obey",
+    "grading": "Medium",
+    "modality": "Refuses requests; defiant attitude",
+    "miasm": "Sycotic",
+    "notes": "Power struggles; strong will",
+    "remedies": [
+      { "remedy": "Lycopodium", "grade": "H" },
+      { "remedy": "Chamomilla", "grade": "M" },
+      { "remedy": "Silicea", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – fearful of animals",
+    "grading": "Low",
+    "modality": "Cries or hides when animals approach",
+    "miasm": "Psoric",
+    "notes": "Phobias and sensitivities",
+    "remedies": [
+      { "remedy": "Aconitum", "grade": "M" },
+      { "remedy": "Coffea cruda", "grade": "L" },
+      { "remedy": "Phosphorus", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – jealous, quarrelsome with siblings",
+    "grading": "Medium",
+    "modality": "Often fights with brothers or sisters; attention-seeking",
+    "miasm": "Psoric / Sycotic",
+    "notes": "Feelings of neglect or rivalry",
+    "remedies": [
+      { "remedy": "Chamomilla", "grade": "H" },
+      { "remedy": "Pulsatilla", "grade": "M" },
+      { "remedy": "Staphysagria", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Child – shy, withdrawn",
+    "grading": "Medium",
+    "modality": "Avoids social contact; quiet and timid",
+    "miasm": "Psoric",
+    "notes": "Fear of strangers; low self-confidence",
+    "remedies": [
+      { "remedy": "Silicea", "grade": "H" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Calcarea carbonica", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – obsessive behaviors",
+    "grading": "Low",
+    "modality": "Repetitive actions or rituals; strong attachment to routines",
+    "miasm": "Sycotic",
+    "notes": "Compulsive tendencies",
+    "remedies": [
+      { "remedy": "Calcarea carbonica", "grade": "M" },
+      { "remedy": "Silicea", "grade": "M" },
+      { "remedy": "Causticum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – talks excessively",
+    "grading": "Medium",
+    "modality": "Does not stop talking; interrupts others",
+    "miasm": "Psoric / Sycotic",
+    "notes": "Hyperactivity or anxiety",
+    "remedies": [
+      { "remedy": "Hyoscyamus", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "M" },
+      { "remedy": "Coffea cruda", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – lies frequently",
+    "grading": "Low",
+    "modality": "Habitual lying, even when unnecessary",
+    "miasm": "Sycotic",
+    "notes": "Attention seeking or fear of punishment",
+    "remedies": [
+      { "remedy": "Hyoscyamus", "grade": "M" },
+      { "remedy": "Stramonium", "grade": "L" },
+      { "remedy": "Lycopodium", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – temper tantrums, violent outbursts",
+    "grading": "High",
+    "modality": "Occurs when desires are denied or contradicted; sudden explosive anger",
+    "miasm": "Psoric",
+    "notes": "Typical in sensitive children with low frustration tolerance",
+    "remedies": [
+      { "remedy": "Chamomilla", "grade": "H" },
+      { "remedy": "Nux vomica", "grade": "M" },
+      { "remedy": "Stramonium", "grade": "M" }
+    ]
+  },
+  {
+    "rubric": "Child – aggressive, hits others during anger",
+    "grading": "High",
+    "modality": "Physical aggression often without remorse; frequent fights",
+    "miasm": "Sycotic / Tubercular",
+    "notes": "Underlying fear, insecurity, or repressed frustration",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Hyoscyamus", "grade": "M" },
+      { "remedy": "Tarentula", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – throws things during anger",
+    "grading": "Medium",
+    "modality": "Throws toys, food, or objects; destructive behavior",
+    "miasm": "Psoric / Sycotic",
+    "notes": "Attention-seeking or impulsive reaction to frustration",
+    "remedies": [
+      { "remedy": "Chamomilla", "grade": "H" },
+      { "remedy": "Staphysagria", "grade": "M" },
+      { "remedy": "Nux vomica", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – aggressive speech, shouting",
+    "grading": "Medium",
+    "modality": "Yells loudly, uses harsh words when upset",
+    "miasm": "Psoric",
+    "notes": "Often linked with over-sensitivity and poor emotional regulation",
+    "remedies": [
+      { "remedy": "Chamomilla", "grade": "H" },
+      { "remedy": "Nux vomica", "grade": "M" },
+      { "remedy": "Ignatia", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – aggressive only with family members",
+    "grading": "Low",
+    "modality": "Behaves well outside but violent at home",
+    "miasm": "Sycotic",
+    "notes": "Repressed emotions or family stress triggers",
+    "remedies": [
+      { "remedy": "Staphysagria", "grade": "H" },
+      { "remedy": "Lachesis", "grade": "M" },
+      { "remedy": "Medorrhinum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – biting during anger",
+    "grading": "Low",
+    "modality": "Bites others or self during tantrums",
+    "miasm": "Syphilitic / Psoric",
+    "notes": "Extreme frustration, impulsivity, or sensory seeking",
+    "remedies": [
+      { "remedy": "Hyoscyamus", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "M" },
+      { "remedy": "Tarentula", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – poor concentration, easily distracted",
+    "grading": "High",
+    "modality": "Cannot focus on tasks; attention wanders quickly",
+    "miasm": "Psoric / Sycotic",
+    "notes": "Common in ADHD-like presentations or overstimulated children",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Hyoscyamus", "grade": "M" },
+      { "remedy": "Tuberculinum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – slow learner, delayed comprehension",
+    "grading": "Medium",
+    "modality": "Takes longer to understand instructions or concepts",
+    "miasm": "Psoric",
+    "notes": "Often linked with developmental delays or low self-confidence",
+    "remedies": [
+      { "remedy": "Calcarea carbonica", "grade": "H" },
+      { "remedy": "Silicea", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – forgetful, loses things frequently",
+    "grading": "Medium",
+    "modality": "Misplaces items; forgets daily tasks or instructions",
+    "miasm": "Psoric / Sycotic",
+    "notes": "Linked with mental restlessness or lack of organization",
+    "remedies": [
+      { "remedy": "Lycopodium", "grade": "H" },
+      { "remedy": "Kali phosphoricum", "grade": "M" },
+      { "remedy": "Calcarea carbonica", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – difficulty following instructions",
+    "grading": "High",
+    "modality": "Fails to complete tasks; appears confused or inattentive",
+    "miasm": "Psoric",
+    "notes": "Often due to lack of mental focus or nervous exhaustion",
+    "remedies": [
+      { "remedy": "Phosphoric acid", "grade": "H" },
+      { "remedy": "Silicea", "grade": "M" },
+      { "remedy": "Baryta carb", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – impulsive, acts without thinking",
+    "grading": "High",
+    "modality": "Interrupts, impatient, difficulty waiting",
+    "miasm": "Sycotic / Psoric",
+    "notes": "Impulsivity common in hyperactive children",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Hyoscyamus", "grade": "M" },
+      { "remedy": "Tuberculinum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – difficulty in reading or writing",
+    "grading": "Medium",
+    "modality": "Trouble recognizing letters or forming words",
+    "miasm": "Psoric",
+    "notes": "May indicate dyslexia or developmental coordination issues",
+    "remedies": [
+      { "remedy": "Baryta carb", "grade": "H" },
+      { "remedy": "Calcarea carb", "grade": "M" },
+      { "remedy": "Kali phosphoricum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – daydreams, inattentive in class",
+    "grading": "Medium",
+    "modality": "Appears lost in thoughts; misses instructions",
+    "miasm": "Psoric / Cancerinic",
+    "notes": "Often sensitive or imaginative children",
+    "remedies": [
+      { "remedy": "Phosphorus", "grade": "H" },
+      { "remedy": "Lycopodium", "grade": "M" },
+      { "remedy": "Ignatia", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Child – anxiety affecting learning",
+    "grading": "High",
+    "modality": "Nervousness or fear before tests or learning tasks",
+    "miasm": "Psoric / Syphilitic",
+    "notes": "Performance anxiety impacting focus",
+    "remedies": [
+      { "remedy": "Gelsemium", "grade": "H" },
+      { "remedy": "Argentum nitricum", "grade": "M" },
+      { "remedy": "Kali phosphoricum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Fear – of crowds",
+    "grading": "High",
+    "modality": "Aggravated in confined or crowded places; desire to escape",
+    "miasm": "Psoric / Cancerinic",
+    "notes": "Often linked with social anxiety or trauma",
+    "remedies": [
+      { "remedy": "Aconitum", "grade": "H" },
+      { "remedy": "Gelsemium", "grade": "M" },
+      { "remedy": "Phosphorus", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Fear – of darkness",
+    "grading": "Medium",
+    "modality": "Fear intensifies in dark rooms or at night",
+    "miasm": "Psoric",
+    "notes": "Common in children or sensitive individuals",
+    "remedies": [
+      { "remedy": "Arsenicum album", "grade": "H" },
+      { "remedy": "Stramonium", "grade": "M" },
+      { "remedy": "Causticum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Fear – of animals",
+    "grading": "Medium",
+    "modality": "Fear worsens if animal approaches or looks at patient",
+    "miasm": "Psoric / Sycotic",
+    "notes": "May be associated with previous trauma or phobia",
+    "remedies": [
+      { "remedy": "Aconitum", "grade": "H" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Coffea cruda", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Fear – of heights",
+    "grading": "Low",
+    "modality": "Patient avoids high places; dizzy or panic on heights",
+    "miasm": "Psoric",
+    "notes": "Common phobia with physical vertigo",
+    "remedies": [
+      { "remedy": "Conium", "grade": "M" },
+      { "remedy": "Gelsemium", "grade": "M" },
+      { "remedy": "Coffea cruda", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Fear – of ghosts or spirits",
+    "grading": "Medium",
+    "modality": "Fear increases at night or in quiet places",
+    "miasm": "Syphilitic / Cancerinic",
+    "notes": "Linked with superstition, religious beliefs, or nervous system sensitivity",
+    "remedies": [
+      { "remedy": "Stramonium", "grade": "H" },
+      { "remedy": "Belladonna", "grade": "M" },
+      { "remedy": "Hyoscyamus", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Fear – of public speaking",
+    "grading": "Medium",
+    "modality": "Severe anxiety before and during speech; trembling voice",
+    "miasm": "Psoric",
+    "notes": "Social phobia variant; fear of humiliation",
+    "remedies": [
+      { "remedy": "Gelsemium", "grade": "H" },
+      { "remedy": "Aconitum", "grade": "M" },
+      { "remedy": "Argentum nitricum", "grade": "L" }
+    ]
+  },
+  {
+    "rubric": "Fear – of death",
+    "grading": "High",
+    "modality": "Fear of dying, fear of sudden death; may be constant or paroxysmal",
+    "miasm": "Syphilitic / Cancerinic",
+    "notes": "Deep existential fear; sometimes linked to hypochondria",
+    "remedies": [
+      { "remedy": "Arsenicum album", "grade": "H" },
+      { "remedy": "Phosphorus", "grade": "M" },
+      { "remedy": "Aconitum", "grade": "L" }
+    ]
+  }
+]

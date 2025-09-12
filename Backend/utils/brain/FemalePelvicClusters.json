@@ -1,0 +1,206 @@
+[
+  {
+    "disease": "Female Pelvic Disorders (Fibroids, Endometriosis, PID, Leucorrhoea)",
+    "tags": [
+      "CommonChronic",
+      "Gynecology",
+      "FemaleHormonal",
+      "Psora",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Fibroids with heavy prolonged bleeding and weakness",
+        "grading": {
+          "high": ["China", "Sabina", "Calcarea carb"],
+          "medium": ["Ustilago", "Trillium pendulum"],
+          "low": ["Ferrum met"]
+        },
+        "modality": "< movement, < menses, > pressure",
+        "miasm": "Sycosis",
+        "notes": "Uterine fibroids with hemorrhagic tendency"
+      },
+      {
+        "rubric": "Endometriosis with intense dysmenorrhea and dark clots",
+        "grading": {
+          "high": ["Magnesium phos", "Xanthoxylum", "Lachesis"],
+          "medium": ["Murex", "Cimicifuga"],
+          "low": ["Sepia"]
+        },
+        "modality": "< before menses, < exertion, < coition",
+        "miasm": "Syphilitic",
+        "notes": "Inflammatory–adhesive uterine pathology"
+      },
+      {
+        "rubric": "Leucorrhoea acrid, excoriating, milky or yellow, < before menses",
+        "grading": {
+          "high": ["Kreosote", "Sepia", "Pulsatilla"],
+          "medium": ["Borax", "Calcarea carb"],
+          "low": ["Hydrastis"]
+        },
+        "modality": "< before menses, < standing, > rest",
+        "miasm": "Psoric",
+        "notes": "Common discharge types — constitutional indicators"
+      },
+      {
+        "rubric": "Pelvic Inflammatory Disease (PID) with burning pain, offensive discharge",
+        "grading": {
+          "high": ["Medorrhinum", "Merc sol", "Nitric acid"],
+          "medium": ["Sepia", "Sulphur"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< sexual suppression, < exertion, < night",
+        "miasm": "Sycosis–Syphilitic",
+        "notes": "Gonorrheal or chronic PID response pattern"
+      },
+      {
+        "rubric": "Endometriosis or fibroids with infertility, deep pelvic aching, sadness",
+        "grading": {
+          "high": ["Murex", "Ignatia", "Sepia"],
+          "medium": ["Pulsatilla", "Thuja"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< at night, < emotional triggers, > pressure",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Affective-emotional + uterine pathology link"
+      },
+      {
+        "rubric": "Leucorrhoea in young girls with itching, milky discharge",
+        "grading": {
+          "high": ["Borax", "Calcarea phos", "Pulsatilla"],
+          "medium": ["Sepia", "Silicea"],
+          "low": ["Sulphur"]
+        },
+        "modality": "< before menses, < sweets, > open air",
+        "miasm": "Psora",
+        "notes": "Prepubertal hormonal disturbance"
+      },
+      {
+        "rubric": "Uterine fibroids with bearing down sensation as if everything would fall out",
+        "grading": {
+          "high": ["Sepia", "Belladonna", "Murex"],
+          "medium": ["Lilium tigrinum", "Aloe"],
+          "low": ["Podophyllum"]
+        },
+        "modality": "< standing, > lying down, < menses",
+        "miasm": "Psora–Sycosis",
+        "notes": "Common in large or prolapsing fibroids"
+      },
+      {
+        "rubric": "Chronic pelvic congestion with frequent urge to urinate and backache",
+        "grading": {
+          "high": ["Lilium tigrinum", "Sepia", "Cannabis sativa"],
+          "medium": ["Berberis", "Hydrastis"],
+          "low": ["Sabina"]
+        },
+        "modality": "< walking, < coition, > urination",
+        "miasm": "Sycosis",
+        "notes": "Venous congestion from deep pelvic disorders"
+      },
+      {
+        "rubric": "Fibroid uterus with retained clots, offensive dark menstrual flow",
+        "grading": {
+          "high": ["Sabina", "Thlaspi bursa", "Viburnum"],
+          "medium": ["Belladonna", "Xanthoxylum"],
+          "low": ["Sulphur"]
+        },
+        "modality": "< standing, < warm room, > fresh air",
+        "miasm": "Sycosis–Syphilitic",
+        "notes": "Clotting uterine bleeding in fibroid diathesis"
+      }
+    ]
+  },
+  {
+    "deep_additions": [
+      {
+        "rubric": "Fibroids with long history of suppressed sexual desire or guilt",
+        "grading": {
+          "high": ["Sepia", "Staphysagria", "Carcinosinum"],
+          "medium": ["Ignatia", "Lachesis"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< celibacy, < humiliation, < suppressed libido",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Psychosexual suppression triggering uterine growths"
+      },
+      {
+        "rubric": "Endometriosis after suppression of menses by OCP or stress",
+        "grading": {
+          "high": ["Thuja", "Oophorinum", "Psorinum"],
+          "medium": ["Sepia", "Calcarea carb"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< after long-term pills, < grief, < exhaustion",
+        "miasm": "Sycosis–Psora",
+        "notes": "Axis suppression triggering ectopic endometrial growth"
+      },
+      {
+        "rubric": "Chronic pelvic inflammatory disease with past STD or abortion trauma",
+        "grading": {
+          "high": ["Medorrhinum", "Merc sol", "Nitric acid"],
+          "medium": ["Thuja", "Syphilinum"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< past sexual trauma, < discharges suppressed",
+        "miasm": "Sycosis–Syphilitic",
+        "notes": "Deep infection miasm in pelvic tissues"
+      },
+      {
+        "rubric": "Leucorrhoea with obsessive cleaning, perfectionism, and silent grief",
+        "grading": {
+          "high": ["Carcinosinum", "Natrum mur", "Ignatia"],
+          "medium": ["Sepia", "Silicea"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "< perfectionist nature, < grief, < introversion",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Mind-emotion driven immune weakness in pelvic tract"
+      },
+      {
+        "rubric": "Infertility due to tubal block after pelvic inflammatory disease",
+        "grading": {
+          "high": ["Hydrocotyle", "Silicea", "Calcarea fluor"],
+          "medium": ["Belladonna", "Sepia"],
+          "low": ["Kali bichromicum"]
+        },
+        "modality": "< chronic PID, < cold damp weather, < post-abortion",
+        "miasm": "Syphilitic",
+        "notes": "Fibrotic closure of tubes due to chronic inflammation"
+      },
+      {
+        "rubric": "Fibroids with deep miasmatic background and multiple remedy failure",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Tuberculinum"],
+          "medium": ["Medorrhinum", "Thuja"],
+          "low": ["Oophorinum"]
+        },
+        "modality": "< after allopathic suppression, < mental strain, < no response",
+        "miasm": "Mixed (Psora–Sycosis–Syphilitic)",
+        "notes": "Use intercurrent to unlock chronic fibroid cases"
+      },
+      {
+        "rubric": "Painful menstruation with endometriosis and marked chilliness",
+        "grading": {
+          "high": ["Calcarea carb", "Silicea", "Psorinum"],
+          "medium": ["Kreosote", "Pulsatilla"],
+          "low": ["Ferrum phos"]
+        },
+        "modality": "< cold, < exertion, < before menses",
+        "miasm": "Psora",
+        "notes": "Cold-blooded constitutions prone to endometrial stagnation"
+      },
+      {
+        "rubric": "Fibroids and pelvic pain in highly creative or artistic women",
+        "grading": {
+          "high": ["Phosphorus", "Medorrhinum", "Lachesis"],
+          "medium": ["Sepia", "Carcinosinum"],
+          "low": ["Ignatia"]
+        },
+        "modality": "< repression of creativity, < emotional neglect",
+        "miasm": "Psora–Sycosis",
+        "notes": "Creative women somatizing emotional pain in reproductive axis"
+      }
+    ]
+  }
+]

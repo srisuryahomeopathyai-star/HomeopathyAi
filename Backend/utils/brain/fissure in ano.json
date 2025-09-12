@@ -1,0 +1,322 @@
+[
+  {
+    "disease": "Fissure-in-Ano",
+    "tags": ["CommonChronic", "Rectal", "PainfulDisorders"],
+    "rubrics": [
+      {
+        "rubric": "Cutting pain in anus during and after stool",
+        "grading": {
+          "high": ["Nitric acid", "Ratanhia"],
+          "medium": ["Graphites", "Aesculus"],
+          "low": ["Ignatia", "Lachesis"]
+        },
+        "modality": "As if glass or knife cuts the anus; long-lasting pain",
+        "miasm": "Syphilis",
+        "notes": "Most characteristic symptom for anal fissure"
+      },
+      {
+        "rubric": "Burning pain in anus with stool",
+        "grading": {
+          "high": ["Sulphur", "Aloe"],
+          "medium": ["Paeonia", "Ratanhia"],
+          "low": ["Hamamelis", "Lachesis"]
+        },
+        "modality": "Burning and rawness lasts for hours",
+        "miasm": "Psora",
+        "notes": "Worse after stool or after hot food"
+      },
+      {
+        "rubric": "Fissure with bleeding bright red blood",
+        "grading": {
+          "high": ["Hamamelis", "Nitric acid"],
+          "medium": ["Ratanhia", "Sulphur"],
+          "low": ["Paeonia", "Collinsonia"]
+        },
+        "modality": "Bleeding < straining or hard stool",
+        "miasm": "Syphilis",
+        "notes": "Arterial bleeding; no clotting"
+      },
+      {
+        "rubric": "Pain in rectum continues long after stool",
+        "grading": {
+          "high": ["Ratanhia", "Nitric acid"],
+          "medium": ["Paeonia", "Sulphur"],
+          "low": ["Aesculus", "Lachesis"]
+        },
+        "modality": "Aching, tearing, stitching pain for hours",
+        "miasm": "Syphilis",
+        "notes": "Worse from motion and pressure"
+      },
+      {
+        "rubric": "Fissure with constipation and hard stool",
+        "grading": {
+          "high": ["Nux vomica", "Alumina"],
+          "medium": ["Graphites", "Sepia"],
+          "low": ["Ratanhia", "Paeonia"]
+        },
+        "modality": "Dry stool worsens anal cracks",
+        "miasm": "Psora",
+        "notes": "Habitual or pregnancy-related constipation"
+      },
+      {
+        "rubric": "Fissure with itching and crawling in anus",
+        "grading": {
+          "high": ["Teucrium", "Sulphur"],
+          "medium": ["Ratanhia", "Aesculus"],
+          "low": ["Graphites", "Ignatia"]
+        },
+        "modality": "Worse at night or heat",
+        "miasm": "Psora",
+        "notes": "Common in children and worm-related cases"
+      },
+      {
+        "rubric": "Fissure with offensive discharge or ulceration",
+        "grading": {
+          "high": ["Paeonia", "Nitric acid"],
+          "medium": ["Ratanhia", "Sulphur"],
+          "low": ["Lachesis", "Thuja"]
+        },
+        "modality": "Foul-smelling pus or blood-stained mucus",
+        "miasm": "Syphilitic",
+        "notes": "Advanced or infected fissure"
+      },
+      {
+        "rubric": "Fissure with spasm of sphincter after stool",
+        "grading": {
+          "high": ["Ignatia", "Ratanhia"],
+          "medium": ["Paeonia", "Aesculus"],
+          "low": ["Sulphur", "Nux vomica"]
+        },
+        "modality": "Constriction, tightness, soreness in rectum",
+        "miasm": "Sycosis",
+        "notes": "Leads to fear of passing stool again"
+      },
+      {
+        "rubric": "Fissure pain better by warm water application",
+        "grading": {
+          "high": ["Paeonia", "Aesculus"],
+          "medium": ["Ratanhia", "Graphites"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Soothing, relieves tearing pain",
+        "miasm": "Psora",
+        "notes": "Typical household modality for fissures"
+      },
+      {
+        "rubric": "Fissure worse during pregnancy or after childbirth",
+        "grading": {
+          "high": ["Sepia", "Nitric acid"],
+          "medium": ["Pulsatilla", "Ratanhia"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Pressure + hormonal stasis",
+        "miasm": "Psora-Sycosis",
+        "notes": "Venous, rectal weakness + dry stool"
+      }
+    ]
+  },
+  {
+    "disease": "Fissure-in-Ano",
+    "tags": ["CommonChronic", "Rectal", "PainfulDisorders"],
+    "rubrics": [
+      {
+        "rubric": "Fissure with involuntary gas or stool escape",
+        "grading": {
+          "high": ["Aloe", "Thuja"],
+          "medium": ["Paeonia", "Ratanhia"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Rectal weakness, flatus or stool passes unnoticed",
+        "miasm": "Sycosis",
+        "notes": "Post-fissure spasm or sphincter tear"
+      },
+      {
+        "rubric": "Stitching pain in fissure extending to coccyx",
+        "grading": {
+          "high": ["Nitric acid", "Ratanhia"],
+          "medium": ["Aesculus", "Paeonia"],
+          "low": ["Ignatia"]
+        },
+        "modality": "Needle-like pain radiating from anus",
+        "miasm": "Syphilitic",
+        "notes": "Pain extends down to sacrum, coccyx"
+      },
+      {
+        "rubric": "Fear of passing stool due to fissure pain",
+        "grading": {
+          "high": ["Phosphorus", "Silicea"],
+          "medium": ["Chamomilla", "Ratanhia"],
+          "low": ["Paeonia"]
+        },
+        "modality": "Mental block or anxiety before stool",
+        "miasm": "Psora",
+        "notes": "Common in children and sensitive adults"
+      },
+      {
+        "rubric": "Fissure after suppression of skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Sepia"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Eruptions disappear → rectal symptoms appear",
+        "miasm": "Psora",
+        "notes": "Shifting of disease expression"
+      },
+      {
+        "rubric": "Fissure with deep raw cracks and bleeding",
+        "grading": {
+          "high": ["Nitric acid", "Graphites"],
+          "medium": ["Ratanhia", "Paeonia"],
+          "low": ["Sepia", "Thuja"]
+        },
+        "modality": "Painful cracks in rectum with blood",
+        "miasm": "Syphilis",
+        "notes": "Ulcerative fissures, hard healing"
+      },
+      {
+        "rubric": "Fissure extremely sensitive to touch",
+        "grading": {
+          "high": ["Ratanhia", "Ignatia"],
+          "medium": ["Paeonia", "Nitric acid"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Even wiping or washing aggravates",
+        "miasm": "Syphilitic",
+        "notes": "Very painful to clean area"
+      },
+      {
+        "rubric": "Fissure with local swelling and heat",
+        "grading": {
+          "high": ["Aloe", "Sulphur"],
+          "medium": ["Hamamelis", "Graphites"],
+          "low": ["Ratanhia"]
+        },
+        "modality": "Redness, inflammation, fullness",
+        "miasm": "Psora",
+        "notes": "May be mistaken for abscess or piles"
+      },
+      {
+        "rubric": "Fissure with extreme dryness of anus",
+        "grading": {
+          "high": ["Alumina", "Sepia"],
+          "medium": ["Graphites", "Silicea"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Dry mucous tears with hard stool",
+        "miasm": "Psora",
+        "notes": "No lubrication, mucosa cracks easily"
+      },
+      {
+        "rubric": "Fissure associated with hemorrhoids",
+        "grading": {
+          "high": ["Aesculus", "Ratanhia"],
+          "medium": ["Hamamelis", "Sulphur"],
+          "low": ["Paeonia", "Sepia"]
+        },
+        "modality": "Painful stool with mixed symptoms",
+        "miasm": "Psora-Sycosis",
+        "notes": "Common chronic overlap"
+      },
+      {
+        "rubric": "Fissure with worm infestation history",
+        "grading": {
+          "high": ["Teucrium", "Spigelia"],
+          "medium": ["Silicea", "Sulphur"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Night itching, straining from worms",
+        "miasm": "Psora",
+        "notes": "Leads to scratching, minor tears"
+      },
+      {
+        "rubric": "Fissure after chronic laxative abuse",
+        "grading": {
+          "high": ["Nux vomica", "Alumina"],
+          "medium": ["Opium", "Sepia"],
+          "low": ["Silicea"]
+        },
+        "modality": "Rectum becomes weak, stool injures mucosa",
+        "miasm": "Psora-Sycosis",
+        "notes": "Seen in chronic constipation sufferers"
+      },
+      {
+        "rubric": "Fissure pain worse from standing or walking",
+        "grading": {
+          "high": ["Aesculus", "Paeonia"],
+          "medium": ["Nitric acid", "Ratanhia"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Pressure on anal region while upright",
+        "miasm": "Psora",
+        "notes": "Positional aggravation"
+      },
+      {
+        "rubric": "Fissure pain better lying on abdomen",
+        "grading": {
+          "high": ["Graphites", "Paeonia"],
+          "medium": ["Ratanhia", "Sulphur"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Counter-pressure relieves rectal pain",
+        "miasm": "Psora",
+        "notes": "Typical positional relief"
+      },
+      {
+        "rubric": "Fissure after delivery",
+        "grading": {
+          "high": ["Sepia", "Nitric acid"],
+          "medium": ["Pulsatilla", "Hamamelis"],
+          "low": ["Aesculus"]
+        },
+        "modality": "Mechanical tear + venous congestion",
+        "miasm": "Psora-Sycosis",
+        "notes": "Postpartum fissures common"
+      },
+      {
+        "rubric": "Fissure pain relieved after stool passes",
+        "grading": {
+          "high": ["Paeonia"],
+          "medium": ["Aloe", "Aesculus"],
+          "low": ["Hamamelis"]
+        },
+        "modality": "Relief opposite of typical pattern",
+        "miasm": "Psora",
+        "notes": "Paeonia’s key modality"
+      },
+      {
+        "rubric": "Fissure alternating with diarrhea/constipation",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Nux vomica"],
+          "low": ["Sepia"]
+        },
+        "modality": "Stool rhythm affects crack healing",
+        "miasm": "Psora",
+        "notes": "IBS-related fissure evolution"
+      },
+      {
+        "rubric": "Fissure with putrid, offensive smell",
+        "grading": {
+          "high": ["Paeonia", "Nitric acid"],
+          "medium": ["Graphites", "Thuja"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Ulceration, necrosis signs",
+        "miasm": "Syphilitic",
+        "notes": "Foul pus, blood, delayed healing"
+      },
+      {
+        "rubric": "Fissure in tubercular or weak, thin individuals",
+        "grading": {
+          "high": ["Silicea", "Calcarea phos"],
+          "medium": ["Psorinum", "Phosphorus"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Emaciation, poor tissue regeneration",
+        "miasm": "Tubercular-Psoric",
+        "notes": "Heals poorly; relapses"
+      }
+    ]
+  }
+]

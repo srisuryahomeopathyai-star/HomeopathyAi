@@ -1,0 +1,344 @@
+[
+  {
+    "disease": "Hypertension (Essential and Secondary)",
+    "tags": [
+      "CommonChronic",
+      "Cardiovascular",
+      "Circulatory",
+      "Metabolic",
+      "MindBody",
+      "Psora",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "High blood pressure with pulsating headache; face red, congested",
+        "grading": {
+          "high": ["Belladonna", "Glonoinum", "Nux vomica"],
+          "medium": ["Aconite", "Sanguinaria"],
+          "low": ["Melilotus"]
+        },
+        "modality": "< sun, < excitement, < alcohol",
+        "miasm": "Syphilitic",
+        "notes": "Acute surge with vascular over-congestion"
+      },
+      {
+        "rubric": "Hypertension with heat, anxiety, palpitations and restlessness",
+        "grading": {
+          "high": ["Aconite", "Argentum nitricum", "Lachesis"],
+          "medium": ["Glonoinum", "Phosphorus"],
+          "low": ["Ignatia"]
+        },
+        "modality": "< evening, < exertion, < mental strain",
+        "miasm": "Psora–Sycosis",
+        "notes": "Reactive hypertensive state with anxiety overlay"
+      },
+      {
+        "rubric": "Chronic high BP with obesity and sluggishness",
+        "grading": {
+          "high": ["Calcarea carb", "Ammonium carb", "Natrum sulph"],
+          "medium": ["Graphites", "Sepia"],
+          "low": ["Antimonium crudum"]
+        },
+        "modality": "< exertion, < damp, < lying down after food",
+        "miasm": "Psora–Sycosis",
+        "notes": "Metabolic syndrome–linked HTN"
+      },
+      {
+        "rubric": "Hypertension with dryness of mouth, thirst and irritability",
+        "grading": {
+          "high": ["Natrum mur", "Nux vomica", "Bryonia"],
+          "medium": ["Phosphorus", "Sulphur"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "< heat, < anger, < fasting",
+        "miasm": "Psora",
+        "notes": "Dry mucous membranes + neurovascular reactivity"
+      },
+      {
+        "rubric": "Hypertension after grief, shock or emotional suppression",
+        "grading": {
+          "high": ["Ignatia", "Aurum mur", "Natrum mur"],
+          "medium": ["Staphysagria", "Phosphoric acid"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< night, < thinking about past events",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Psychosomatic etiology; silent emotional origin"
+      },
+      {
+        "rubric": "Hypertension with nosebleeds (epistaxis) and hot head",
+        "grading": {
+          "high": ["Belladonna", "Glonoinum", "Melilotus"],
+          "medium": ["Phosphorus", "China"],
+          "low": ["Hamamelis"]
+        },
+        "modality": "< heat, < bending head down, < morning",
+        "miasm": "Syphilitic",
+        "notes": "Vascular pressure escape via bleeding"
+      },
+      {
+        "rubric": "Hypertension with vertigo, especially on rising or motion",
+        "grading": {
+          "high": ["Conium", "Bryonia", "Lachesis"],
+          "medium": ["Gelsemium", "Tabacum"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< motion, < morning, > lying still",
+        "miasm": "Syphilitic",
+        "notes": "Neurocirculatory impact of unstable BP"
+      },
+      {
+        "rubric": "Chronic high BP with constipation and liver sluggishness",
+        "grading": {
+          "high": ["Chelidonium", "Nux vomica", "Natrum sulph"],
+          "medium": ["Lycopodium", "Sepia"],
+          "low": ["Carduus marianus"]
+        },
+        "modality": "< sedentary life, < alcohol, < rich food",
+        "miasm": "Psora–Sycosis",
+        "notes": "HTN with digestive/metabolic sluggishness"
+      },
+      {
+        "rubric": "High BP in menopausal women with flushing, anxiety and hot flushes",
+        "grading": {
+          "high": ["Lachesis", "Sepia", "Sulphur"],
+          "medium": ["Sanguinaria", "Belladonna"],
+          "low": ["Cimicifuga"]
+        },
+        "modality": "< before menses stops, < night",
+        "miasm": "Psora–Sycosis",
+        "notes": "Hormonal blood pressure aggravation"
+      },
+      {
+        "rubric": "Hypertension with strong craving for salt",
+        "grading": {
+          "high": ["Natrum mur", "Calcarea carb", "Phosphorus"],
+          "medium": ["Sulphur", "Sepia"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Craving despite knowing it aggravates BP",
+        "miasm": "Psora",
+        "notes": "Useful in remedy confirmation constitutionally"
+      }
+    ]
+  },
+  {
+    "deep_additions": [
+      {
+        "rubric": "Hypertension in persons with suppressed anger or emotions",
+        "grading": {
+          "high": ["Staphysagria", "Natrum mur", "Ignatia"],
+          "medium": ["Aurum mur", "Carcinosinum"],
+          "low": ["Sepia"]
+        },
+        "modality": "< humiliation, < silent grief, < insults",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Hypertension of psychosomatic origin (emotion-held-in)"
+      },
+      {
+        "rubric": "Chronic high blood pressure with family history of stroke or heart attacks",
+        "grading": {
+          "high": ["Aurum mur", "Baryta mur", "Crataegus"],
+          "medium": ["Digitalis", "Cactus grand"],
+          "low": ["Plumbum met"]
+        },
+        "modality": "Strong family miasm → vascular fragility",
+        "miasm": "Syphilitic",
+        "notes": "Degenerative arterial trait"
+      },
+      {
+        "rubric": "Hypertension following long suppression of skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum", "Thuja"],
+          "medium": ["Graphites", "Carcinosinum"],
+          "low": ["Tuberculinum"]
+        },
+        "modality": "< ointments, < vaccination, < steroid creams",
+        "miasm": "Psora–Sycosis",
+        "notes": "Miasm shifts internally to vascular tension"
+      },
+      {
+        "rubric": "Sudden rise in BP after menopause or ovary removal",
+        "grading": {
+          "high": ["Sepia", "Lachesis", "Oophorinum"],
+          "medium": ["Sulphur", "Sanguinaria"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "< hormonal depletion, < hot flushes, < night",
+        "miasm": "Psora–Sycosis",
+        "notes": "Endocrine shift → neurovascular reactivity"
+      },
+      {
+        "rubric": "BP rise after fright, shock or bad news (acute emotional trigger)",
+        "grading": {
+          "high": ["Aconite", "Opium", "Gelsemium"],
+          "medium": ["Ignatia", "Phos acid"],
+          "low": ["Stramonium"]
+        },
+        "modality": "< shock, < night, < sudden alarm",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Acute neurogenic hypertension"
+      },
+      {
+        "rubric": "Hypertension with marked fear of death and cardiac awareness",
+        "grading": {
+          "high": ["Aconite", "Argentum nitricum", "Arsenicum alb"],
+          "medium": ["Lachesis", "Digitalis"],
+          "low": ["Cactus grand"]
+        },
+        "modality": "< night, < alone, < sudden noise",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Fear–palpitation–vascular tension link"
+      },
+      {
+        "rubric": "Blood pressure unstable; alternates high–low; cannot tolerate heat",
+        "grading": {
+          "high": ["Lachesis", "Phosphorus", "Sulphur"],
+          "medium": ["Lycopodium", "Nat mur"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "< sun, < heat, < alcohol",
+        "miasm": "Syco–Psoric",
+        "notes": "Vascular sensitivity with labile BP"
+      },
+      {
+        "rubric": "Resistant hypertension despite lifestyle corrections",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Thuja"],
+          "medium": ["Tuberculinum", "Baryta mur"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< despite diet/exercise, < suppressed vitality",
+        "miasm": "Mixed",
+        "notes": "Indicates need for anti-miasmatic intercurrent"
+      },
+      {
+        "rubric": "Hypertension with craving for stimulants (coffee, alcohol, tobacco)",
+        "grading": {
+          "high": ["Nux vomica", "Sulphur", "Aurum mur"],
+          "medium": ["Phosphorus", "Lachesis"],
+          "low": ["Cannabis indica"]
+        },
+        "modality": "< missing stimulant dose, < stress",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Constitution prone to stress–adrenal axis hypertension"
+      },
+      {
+        "rubric": "Hypertension with blocked remedy state; no response to usual drugs",
+        "grading": {
+          "high": ["Psorinum", "Carcinosinum", "Tuberculinum"],
+          "medium": ["Thuja", "Sulphur"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< after multiple remedy failures, < past suppression",
+        "miasm": "Mixed (Psora–Sycosis–Syphilitic)",
+        "notes": "Need intercurrent to unlock case"
+      }
+    ]
+  },
+  {
+    "final_rare_additions": [
+      {
+        "rubric": "Hypertension with marked stiffness of neck and back of head",
+        "grading": {
+          "high": ["Glonoinum", "Belladonna", "Gelsemium"],
+          "medium": ["Bryonia", "Lycopodium"],
+          "low": ["Plumbum met"]
+        },
+        "modality": "< exertion, < morning, < lying flat",
+        "miasm": "Syphilitic",
+        "notes": "Sign of vascular rigidity and neuro-spinal pressure"
+      },
+      {
+        "rubric": "Hypertension with early morning anxiety and anticipatory fear",
+        "grading": {
+          "high": ["Argentum nitricum", "Gelsemium", "Aconite"],
+          "medium": ["Lycopodium", "Kali phos"],
+          "low": ["Silicea"]
+        },
+        "modality": "< before meetings, < exams, < interviews",
+        "miasm": "Psora–Sycosis",
+        "notes": "Adrenal-stimulated BP rise from nervous origin"
+      },
+      {
+        "rubric": "Blood pressure fluctuations in elderly with senile dementia",
+        "grading": {
+          "high": ["Baryta mur", "Aurum mur", "Conium"],
+          "medium": ["Plumbum met", "Phosphoric acid"],
+          "low": ["Anacardium"]
+        },
+        "modality": "< memory loss, < old age, < arteriosclerosis",
+        "miasm": "Syphilitic",
+        "notes": "Neurovascular degeneration with BP instability"
+      },
+      {
+        "rubric": "Hypertension with burning sensations internally (head, chest, limbs)",
+        "grading": {
+          "high": ["Sulphur", "Phosphorus", "Sanguinaria"],
+          "medium": ["Psorinum", "Lachesis"],
+          "low": ["Secale cor"]
+        },
+        "modality": "< night, < fasting, < excitement",
+        "miasm": "Syphilitic",
+        "notes": "Vascular inflammation from deep psoro-syphilitic state"
+      },
+      {
+        "rubric": "Hypertension in women with history of hormonal disorders (PCOD, thyroid, menopause)",
+        "grading": {
+          "high": ["Sepia", "Lachesis", "Calcarea carb"],
+          "medium": ["Pulsatilla", "Ignatia"],
+          "low": ["Oophorinum"]
+        },
+        "modality": "< menses irregular, < hormonal swing, < ovary removal",
+        "miasm": "Psora–Sycosis",
+        "notes": "BP secondary to endocrine dysfunction"
+      },
+      {
+        "rubric": "BP aggravated by suppressed sexuality or celibacy",
+        "grading": {
+          "high": ["Lycopodium", "Staphysagria", "Sepia"],
+          "medium": ["Phosphorus", "Aurum mur"],
+          "low": ["Conium"]
+        },
+        "modality": "< sexual frustration, < celibate lifestyle",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Deep emotional-sexual blockage linked to BP"
+      },
+      {
+        "rubric": "Hypertension alternating with gastric acidity and flatulence",
+        "grading": {
+          "high": ["Nux vomica", "Lycopodium", "Carbo veg"],
+          "medium": ["Natrum carb", "China"],
+          "low": ["Abies nigra"]
+        },
+        "modality": "< after food, < night, > eructations",
+        "miasm": "Psora–Sycosis",
+        "notes": "Vaso-vagal sensitivity in gastric-linked hypertension"
+      },
+      {
+        "rubric": "Chronic hypertension in chilly persons with poor vitality",
+        "grading": {
+          "high": ["Calcarea carb", "Psorinum", "Silicea"],
+          "medium": ["Baryta carb", "Graphites"],
+          "low": ["Antimonium crudum"]
+        },
+        "modality": "< cold, < change of weather, < draft",
+        "miasm": "Psora",
+        "notes": "Vital force low; metabolic slowness contributes to BP"
+      },
+      {
+        "rubric": "Hypertension following long-standing diabetes or kidney complaints",
+        "grading": {
+          "high": ["Syzygium", "Serum anguil", "Baryta mur"],
+          "medium": ["Ars alb", "Digitalis"],
+          "low": ["Vanadium"]
+        },
+        "modality": "< renal failure, < high creatinine, < polyuria",
+        "miasm": "Syphilitic",
+        "notes": "Secondary HTN of nephritic origin"
+      }
+    ]
+  }
+]

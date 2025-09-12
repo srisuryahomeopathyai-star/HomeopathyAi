@@ -1,0 +1,234 @@
+[
+  {
+    "disease": "Acidity / Gastritis",
+    "tags": ["CommonChronic", "Gastrointestinal"],
+    "rubrics": [
+      {
+        "rubric": "Burning pain in stomach < empty stomach",
+        "grading": {
+          "high": ["Iris versicolor", "Anacardium", "Nux vomica"],
+          "medium": ["Arsenicum album", "Natrum phos"],
+          "low": ["Robinia", "Phosphorus"]
+        },
+        "modality": "Worse before meals; relieved after eating",
+        "miasm": "Psora",
+        "notes": "Classic gastric ulcer/acid dyspepsia pattern"
+      },
+      {
+        "rubric": "Heartburn < after spicy or fatty food",
+        "grading": {
+          "high": ["Nux vomica", "Pulsatilla"],
+          "medium": ["Antimonium crudum", "Lycopodium"],
+          "low": ["Iris versicolor", "Robinia"]
+        },
+        "modality": "Worse after oily, heavy, fried food",
+        "miasm": "Psora-Sycosis",
+        "notes": "Leads to belching, nausea, heaviness"
+      },
+      {
+        "rubric": "Acidity with sour belching and vomiting",
+        "grading": {
+          "high": ["Robinia", "Iris versicolor"],
+          "medium": ["Ant crud", "Natrum phos"],
+          "low": ["Phosphorus", "Carbo veg"]
+        },
+        "modality": "Sour eructations with regurgitation of food/acid",
+        "miasm": "Psora",
+        "notes": "Gastroesophageal reflux (GERD) pattern"
+      },
+      {
+        "rubric": "Gastritis < coffee or alcohol",
+        "grading": {
+          "high": ["Nux vomica", "Iris versicolor"],
+          "medium": ["Arsenicum", "Phosphorus"],
+          "low": ["Carbo veg", "Chelidonium"]
+        },
+        "modality": "Burning, sour stomach after stimulants",
+        "miasm": "Psora-Sycosis",
+        "notes": "Hyper-acidity with nausea or headache"
+      },
+      {
+        "rubric": "Acidity with bloating after meals",
+        "grading": {
+          "high": ["Lycopodium", "Carbo veg"],
+          "medium": ["China", "Natrum carb"],
+          "low": ["Pulsatilla", "Robinia"]
+        },
+        "modality": "Distension of upper abdomen after eating",
+        "miasm": "Psora",
+        "notes": "Flatulence and heaviness; low digestion tone"
+      },
+      {
+        "rubric": "Acidity with headache (gastric origin)",
+        "grading": {
+          "high": ["Iris versicolor", "Sanguinaria"],
+          "medium": ["Nux vomica", "Bryonia"],
+          "low": ["Gelsemium", "Robinina"]
+        },
+        "modality": "Burning pain radiating from stomach to head",
+        "miasm": "Psora",
+        "notes": "Acid reflux with frontal/temporal headache"
+      },
+      {
+        "rubric": "Acidity < night or lying down",
+        "grading": {
+          "high": ["Robinia", "Phosphorus"],
+          "medium": ["Arsenicum", "Carbo veg"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Burning in esophagus increases while resting",
+        "miasm": "Psora",
+        "notes": "GERD symptoms disturb sleep"
+      },
+      {
+        "rubric": "Acidity from stress or overwork",
+        "grading": {
+          "high": ["Nux vomica", "Ignatia"],
+          "medium": ["Argentum nitricum", "Anacardium"],
+          "low": ["Gelsemium", "Lycopodium"]
+        },
+        "modality": "Worse with mental strain or pressure",
+        "miasm": "Psora",
+        "notes": "Classic psychosomatic stomach pattern"
+      },
+      {
+        "rubric": "Acidity with nausea in morning",
+        "grading": {
+          "high": ["Robinia", "Nux vomica"],
+          "medium": ["Ipecac", "Iris versicolor"],
+          "low": ["Sepia", "Bryonia"]
+        },
+        "modality": "Empty, sour stomach; worse before breakfast",
+        "miasm": "Psora",
+        "notes": "Morning sickness pattern overlap"
+      },
+      {
+        "rubric": "Acidity > eating small quantities",
+        "grading": {
+          "high": ["Anacardium", "Natrum phos"],
+          "medium": ["Lycopodium", "Phosphorus"],
+          "low": ["Nux vomica", "Pulsatilla"]
+        },
+        "modality": "Better with frequent small meals",
+        "miasm": "Psora",
+        "notes": "Peptic pattern with delayed emptying"
+      }
+    ]
+  },
+  {
+    "disease": "Acidity / Gastritis",
+    "tags": ["CommonChronic", "Gastrointestinal"],
+    "rubrics": [
+      {
+        "rubric": "Sour taste in mouth with acidity",
+        "grading": {
+          "high": ["Robinia", "Iris versicolor"],
+          "medium": ["Nux vomica", "Phosphorus"],
+          "low": ["Antimonium crudum", "Carbo veg"]
+        },
+        "modality": "Persistent acid taste with/without nausea",
+        "miasm": "Psora",
+        "notes": "Sour eructations, waterbrash or vomiting often associated"
+      },
+      {
+        "rubric": "Acidity alternating with constipation",
+        "grading": {
+          "high": ["Nux vomica", "Bryonia"],
+          "medium": ["Lycopodium", "Antimonium crudum"],
+          "low": ["Silicea", "Alumina"]
+        },
+        "modality": "Stomach symptoms relieved after stool",
+        "miasm": "Psora",
+        "notes": "Sluggish GI tract with sour stomach complaints"
+      },
+      {
+        "rubric": "Acidity < bending forward",
+        "grading": {
+          "high": ["Robinia", "Carbo veg"],
+          "medium": ["Phosphorus", "Nux vomica"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Posture aggravates reflux, especially after meals",
+        "miasm": "Psora",
+        "notes": "Common in hiatus hernia or obesity"
+      },
+      {
+        "rubric": "Waterbrash with acidity",
+        "grading": {
+          "high": ["Iris versicolor", "Robinia"],
+          "medium": ["Phosphorus", "Antimonium crudum"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Sudden mouth-filling with acid or tasteless fluid",
+        "miasm": "Psora",
+        "notes": "Often follows spicy/oily meals"
+      },
+      {
+        "rubric": "Acidity during pregnancy",
+        "grading": {
+          "high": ["Sepia", "Nux vomica"],
+          "medium": ["Robinia", "Ipecac"],
+          "low": ["Colchicum", "Iris versicolor"]
+        },
+        "modality": "Acid regurgitation with hormonal changes",
+        "miasm": "Psora",
+        "notes": "Often associated with morning sickness"
+      },
+      {
+        "rubric": "Acidity before/during menses",
+        "grading": {
+          "high": ["Sepia", "Pulsatilla"],
+          "medium": ["Natrum mur", "Iris versicolor"],
+          "low": ["Nux vomica", "Graphites"]
+        },
+        "modality": "Hormonal gastric irritation with cycle",
+        "miasm": "Psora",
+        "notes": "Often linked to bloating, headache, mood swings"
+      },
+      {
+        "rubric": "Acidity < motion or travel",
+        "grading": {
+          "high": ["Cocculus", "Petroleum"],
+          "medium": ["Tabacum", "Nux vomica"],
+          "low": ["Sepia", "Ipecac"]
+        },
+        "modality": "Triggered during vehicle travel or movement",
+        "miasm": "Psora",
+        "notes": "Vertigo, nausea, and gastric discomfort"
+      },
+      {
+        "rubric": "Acidity with hunger pains",
+        "grading": {
+          "high": ["Anacardium", "Graphites"],
+          "medium": ["Lycopodium", "Nux vomica"],
+          "low": ["Iris versicolor", "Phosphorus"]
+        },
+        "modality": "Better after eating small meals",
+        "miasm": "Psora",
+        "notes": "Burning gnawing pain relieved by food"
+      },
+      {
+        "rubric": "Burning from stomach to throat",
+        "grading": {
+          "high": ["Phosphorus", "Robinia"],
+          "medium": ["Nux vomica", "Carbo veg"],
+          "low": ["Arsenicum", "Chelidonium"]
+        },
+        "modality": "Classic heartburn sensation",
+        "miasm": "Psora-Sycosis",
+        "notes": "Gastroesophageal reflux with regurgitation"
+      },
+      {
+        "rubric": "Acidity alternating with diarrhea",
+        "grading": {
+          "high": ["Podophyllum", "Iris versicolor"],
+          "medium": ["Aloe", "Natrum sulph"],
+          "low": ["Sulphur", "Nux vomica"]
+        },
+        "modality": "Gastro-colic axis imbalance",
+        "miasm": "Psora",
+        "notes": "Hyperacidity phase followed by loose stools"
+      }
+    ]
+  }
+]

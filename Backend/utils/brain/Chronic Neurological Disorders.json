@@ -1,0 +1,276 @@
+[
+  {
+    "disease": "Chronic Neurological Disorders",
+    "tags": [
+      "CommonChronic",
+      "Neurological",
+      "Autoimmune",
+      "Syphilitic",
+      "Psora",
+      "Tubercular"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Multiple sclerosis with alternating weakness and spasticity",
+        "grading": {
+          "high": ["Plumbum", "Causticum", "Argentum nitricum"],
+          "medium": ["Gelsemium", "Lathyrus", "Nux vomica"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< exertion, < cold, < excitement, > warmth",
+        "miasm": "Syphilitic–Psora",
+        "notes": "CNS demyelination with motor and sensory imbalance"
+      },
+      {
+        "rubric": "Parkinson’s disease with trembling, stiffness and slowness of movement",
+        "grading": {
+          "high": ["Zincum", "Mercurius", "Plumbum"],
+          "medium": ["Agaricus", "Causticum"],
+          "low": ["Baryta carb"]
+        },
+        "modality": "< rest, < mental activity, > motion",
+        "miasm": "Syphilitic",
+        "notes": "Progressive motor rigidity with tremors and mask-like face"
+      },
+      {
+        "rubric": "Bell’s palsy or facial paralysis from cold exposure or fright",
+        "grading": {
+          "high": ["Causticum", "Aconite", "Ignatia"],
+          "medium": ["Gelsemium", "Lachesis"],
+          "low": ["Cadmium sulph"]
+        },
+        "modality": "< draft of air, < emotion, < left side",
+        "miasm": "Psora–Sycosis",
+        "notes": "Sudden onset facial weakness"
+      },
+      {
+        "rubric": "Diabetic or alcoholic neuropathy with burning, numbness, prickling",
+        "grading": {
+          "high": ["Phosphorus", "Arsenicum album", "Plumbum"],
+          "medium": ["Hypericum", "Sulphur", "Kali phos"],
+          "low": ["Helonias"]
+        },
+        "modality": "< night, < heat, > walking, > rubbing",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Peripheral nerve degeneration with numbness"
+      },
+      {
+        "rubric": "Myasthenia gravis with muscular weakness after exertion or speaking",
+        "grading": {
+          "high": ["Gelsemium", "Conium", "Curare"],
+          "medium": ["Nux moschata", "Phosphoric acid"],
+          "low": ["Lathyrus"]
+        },
+        "modality": "< heat, < talking, < movement, > rest",
+        "miasm": "Psoric–Tubercular",
+        "notes": "Fatigable weakness of muscles with drooping or slurring"
+      },
+      {
+        "rubric": "Essential tremors in aged or emotional people",
+        "grading": {
+          "high": ["Agaricus", "Zincum", "Gelsemium"],
+          "medium": ["Ignatia", "Argentum nitricum"],
+          "low": ["Lilium tigrinum"]
+        },
+        "modality": "< excitement, < coffee, > quiet room",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Chronic, progressive, non-parkinsonian tremors"
+      },
+      {
+        "rubric": "Guillain–Barré syndrome with ascending paralysis post-infection",
+        "grading": {
+          "high": ["Gelsemium", "Plumbum", "Phosphorus"],
+          "medium": ["Lathyrus", "Conium"],
+          "low": ["Causticum"]
+        },
+        "modality": "< after viral infection, < cold damp, < exertion",
+        "miasm": "Syphilitic",
+        "notes": "Autoimmune demyelination post-viral trigger"
+      },
+      {
+        "rubric": "Progressive muscle wasting with mental clarity intact (ALS pattern)",
+        "grading": {
+          "high": ["Plumbum", "Zincum", "Curare"],
+          "medium": ["Causticum", "Gelsemium"],
+          "low": ["Baryta carb"]
+        },
+        "modality": "< cold, < at night, > heat, > gentle massage",
+        "miasm": "Syphilitic–Tubercular",
+        "notes": "Motor neuron degeneration with normal sensorium"
+      }
+    ]
+  },
+  {
+    "deep_additions": [
+      {
+        "rubric": "Chronic neurological complaints after long-term emotional suppression or grief",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur", "Carcinosinum"],
+          "medium": ["Staphysagria", "Phosphoric acid"],
+          "low": ["Sepia"]
+        },
+        "modality": "< silent grief, < suppressed emotions, < perfectionism",
+        "miasm": "Psora–Syphilitic",
+        "notes": "When emotional suppression leads to nervous degeneration"
+      },
+      {
+        "rubric": "Degenerative neurological disease with poor response to indicated remedies",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Syphilinum"],
+          "medium": ["Tuberculinum", "Medorrhinum"],
+          "low": ["Sulphur"]
+        },
+        "modality": "< blocked case, < inherited miasms, < heavy allopathic suppression",
+        "miasm": "Mixed miasm",
+        "notes": "Use intercurrent to unlock progress"
+      },
+      {
+        "rubric": "Paralysis and tremors in patients with obsessive, rigid personality",
+        "grading": {
+          "high": ["Carcinosinum", "Plumbum", "Natrum mur"],
+          "medium": ["Aurum met", "Zincum"],
+          "low": ["Ignatia"]
+        },
+        "modality": "< routine, < control issues, < moral pressure",
+        "miasm": "Syphilitic",
+        "notes": "Deep suppression of expression leading to rigidity disorders"
+      },
+      {
+        "rubric": "Neurological fatigue with exhaustion, dullness, and slowness of thought",
+        "grading": {
+          "high": ["Phosphoric acid", "Gelsemium", "Conium"],
+          "medium": ["Picric acid", "Silicea"],
+          "low": ["Calcarea phos"]
+        },
+        "modality": "< after illness, < exertion, < mental work",
+        "miasm": "Psora–Tubercular",
+        "notes": "Post-viral, post-stress mental–motor dullness"
+      },
+      {
+        "rubric": "Chronic motor neuron disease in artistic, sensitive constitutions",
+        "grading": {
+          "high": ["Phosphorus", "Carcinosinum", "Lycopodium"],
+          "medium": ["Sepia", "Natrum mur"],
+          "low": ["Medorrhinum"]
+        },
+        "modality": "< unexpressed creativity, < suppression of identity",
+        "miasm": "Psora–Sycosis",
+        "notes": "Spiritual–mental–neurological axis disturbance"
+      },
+      {
+        "rubric": "Chronic tremors and neural wasting after suppression of eruptions or discharges",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Thuja"],
+          "medium": ["Silicea", "Graphites"],
+          "low": ["Calcarea sulph"]
+        },
+        "modality": "< after skin eruption suppressed, < long-term antibiotics",
+        "miasm": "Psora–Sycosis",
+        "notes": "Neuro–dermatological suppression link"
+      },
+      {
+        "rubric": "Post-stroke neurological sequelae with apathy and right-sided weakness",
+        "grading": {
+          "high": ["Aurum met", "Plumbum", "Causticum"],
+          "medium": ["Nux vomica", "Arnica"],
+          "low": ["Gelsemium"]
+        },
+        "modality": "< after CVA, < mental stress, < right side",
+        "miasm": "Syphilitic",
+        "notes": "Use in chronic hemiplegia with mental dullness"
+      }
+    ]
+  },
+  {
+    "rare_additions": [
+      {
+        "rubric": "Tingling and crawling sensations like insects on skin (formication)",
+        "grading": {
+          "high": ["Agaricus", "Zincum", "Phosphorus"],
+          "medium": ["Arsenicum album", "Tarentula hispania"],
+          "low": ["Silicea"]
+        },
+        "modality": "< night, < rest, > motion",
+        "miasm": "Psora–Sycosis",
+        "notes": "Peripheral nerve irritation in degenerative or anxiety states"
+      },
+      {
+        "rubric": "Difficulty in speech with tremulous tongue and nervous weakness",
+        "grading": {
+          "high": ["Causticum", "Gelsemium", "Baryta carb"],
+          "medium": ["Stramonium", "Belladonna"],
+          "low": ["Cicuta virosa"]
+        },
+        "modality": "< public speaking, < anxiety, < morning",
+        "miasm": "Psora",
+        "notes": "Motor speech block in neuro-weak constitutions"
+      },
+      {
+        "rubric": "Vertigo with sensation as if brain were turning, with blurred vision",
+        "grading": {
+          "high": ["Conium", "Argentum nitricum", "Bryonia"],
+          "medium": ["Gelsemium", "Phosphorus"],
+          "low": ["Theridion"]
+        },
+        "modality": "< motion, < turning head, < sunlight",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Cerebellar/vascular origin or emotional vertigo"
+      },
+      {
+        "rubric": "Muscular twitching and spasms worse from excitement or coffee",
+        "grading": {
+          "high": ["Agaricus", "Tarentula", "Zincum"],
+          "medium": ["Cuprum", "Ignatia"],
+          "low": ["Hyoscyamus"]
+        },
+        "modality": "< tension, < emotional triggers, > rest",
+        "miasm": "Syphilitic",
+        "notes": "Jerky, myoclonic, or choreiform activity"
+      },
+      {
+        "rubric": "Paralysis of one limb, especially after anger or emotional trauma",
+        "grading": {
+          "high": ["Staphysagria", "Causticum", "Plumbum"],
+          "medium": ["Gelsemium", "Conium"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< suppressed emotions, < right side, > warmth",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Emotional–motor paralysis pattern"
+      },
+      {
+        "rubric": "Chronic headache with heaviness and numbness of scalp",
+        "grading": {
+          "high": ["Calcarea phos", "Gelsemium", "Plumbum"],
+          "medium": ["Natrum mur", "Sepia"],
+          "low": ["Silicea"]
+        },
+        "modality": "< thinking, < noise, > pressure",
+        "miasm": "Psora",
+        "notes": "Cognitive fatigue + scalp paresthesia"
+      },
+      {
+        "rubric": "Neuralgic pains with electric shock-like sensations",
+        "grading": {
+          "high": ["Hypericum", "Phosphorus", "Spigelia"],
+          "medium": ["Kalmia", "Mag phos"],
+          "low": ["Zincum"]
+        },
+        "modality": "< touch, < cold, > rest, > warmth",
+        "miasm": "Syphilitic–Psora",
+        "notes": "Sensory nerve inflammation, post-herpetic or degenerative"
+      },
+      {
+        "rubric": "Silent neurodegeneration with emotional detachment and aversion to company",
+        "grading": {
+          "high": ["Sepia", "Aurum mur", "Plumbum"],
+          "medium": ["Carcinosinum", "Syphilinum"],
+          "low": ["Conium"]
+        },
+        "modality": "< company, < emotions, < noise",
+        "miasm": "Syphilitic",
+        "notes": "Frontal-lobe degenerative picture"
+      }
+    ]
+  }
+]

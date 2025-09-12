@@ -1,0 +1,362 @@
+[
+  {
+    "PerspirationPatterns": [
+      {
+        "rubric": "Perspiration on single parts (localized)",
+        "grading": {
+          "high": ["Silicea", "Thuja", "Phosphorus"],
+          "medium": ["Lycopodium", "Graphites"],
+          "low": ["Sepia", "Sulphur"]
+        },
+        "modality": "Localized without general sweating",
+        "miasm": "Psoric",
+        "notes": "Helpful in constitutional differentiation"
+      },
+      {
+        "rubric": "Perspiration only on head",
+        "grading": {
+          "high": ["Calcarea carbonica", "Silicea"],
+          "medium": ["Borax", "Chamomilla"],
+          "low": ["Sanicula"]
+        },
+        "modality": "Mostly during sleep",
+        "miasm": "Psoric",
+        "notes": "Very important in children’s cases"
+      },
+      {
+        "rubric": "Perspiration only on palms",
+        "grading": {
+          "high": ["Silicea", "Sepia"],
+          "medium": ["Carbo animalis", "Psorinum"],
+          "low": ["Natrum muriaticum"]
+        },
+        "modality": "Worse during nervousness",
+        "miasm": "Syphilitic",
+        "notes": "Often seen in anxiety cases"
+      },
+      {
+        "rubric": "Perspiration only on feet (soles)",
+        "grading": {
+          "high": ["Silicea", "Graphites"],
+          "medium": ["Psorinum", "Sulphur"],
+          "low": ["Nitric acid"]
+        },
+        "modality": "Offensive, soaking socks",
+        "miasm": "Psoric",
+        "notes": "Very strong constitutional pointer"
+      },
+      {
+        "rubric": "Profuse night sweats",
+        "grading": {
+          "high": ["Calcarea carbonica", "Silicea"],
+          "medium": ["Phosphorus", "Mercurius"],
+          "low": ["China"]
+        },
+        "modality": "Only at night, stains linen",
+        "miasm": "Tubercular",
+        "notes": "Seen in TB, chronic fatigue, debility"
+      },
+      {
+        "rubric": "Offensive perspiration",
+        "grading": {
+          "high": ["Silicea", "Sulphur"],
+          "medium": ["Psorinum", "Thuja"],
+          "low": ["Carbo animalis"]
+        },
+        "modality": "Worse with exertion",
+        "miasm": "Psoric",
+        "notes": "Strong confirmation if general"
+      },
+      {
+        "rubric": "Greasy or oily perspiration",
+        "grading": {
+          "high": ["Mercurius", "Petroleum"],
+          "medium": ["Sulphur", "Phosphorus"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Clammy or sticky",
+        "miasm": "Syphilitic",
+        "notes": "Found in skin & liver cases"
+      },
+      {
+        "rubric": "Cold perspiration",
+        "grading": {
+          "high": ["Camphora", "Veratrum album"],
+          "medium": ["Carbo vegetabilis", "Tabacum"],
+          "low": ["China"]
+        },
+        "modality": "With collapse, weakness",
+        "miasm": "Syphilitic",
+        "notes": "Emergency drugs – cholera, syncope"
+      },
+      {
+        "rubric": "Sour smelling sweat",
+        "grading": {
+          "high": ["Calcarea carbonica", "Silicea"],
+          "medium": ["Rheum", "Mercurius"],
+          "low": ["Chamomilla"]
+        },
+        "modality": "Mostly on scalp",
+        "miasm": "Psoric",
+        "notes": "Common in children"
+      },
+      {
+        "rubric": "Perspiration stains yellow",
+        "grading": {
+          "high": ["Natrum muriaticum", "Psorinum"],
+          "medium": ["China", "Sepia"],
+          "low": ["Graphites"]
+        },
+        "modality": "Worse in chronic liver issues",
+        "miasm": "Psoric",
+        "notes": "Yellow stain is confirmatory in some remedies"
+      },
+      {
+        "rubric": "Perspiration stains brown",
+        "grading": {
+          "high": ["Sepia", "Petroleum"],
+          "medium": ["Graphites", "Sulphur"],
+          "low": ["Thuja"]
+        },
+        "modality": "Old stains on clothing",
+        "miasm": "Syphilitic",
+        "notes": "Helpful in gynecological complaints"
+      },
+      {
+        "rubric": "Perspiration stains red",
+        "grading": {
+          "high": ["Crocus sativus"],
+          "medium": ["Lachesis", "Sepia"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Rare sign – often chronic",
+        "miasm": "Syphilitic",
+        "notes": "Very rare rubric – deep pathology"
+      },
+      {
+        "rubric": "Perspiration only during sleep (ceases when awake)",
+        "grading": {
+          "high": ["Conium", "Mercurius"],
+          "medium": ["Silicea", "Sulphur"],
+          "low": ["Calcarea"]
+        },
+        "modality": "Complete stop once awake",
+        "miasm": "Psoric",
+        "notes": "Useful in neuro-endocrine cases"
+      },
+      {
+        "rubric": "Perspiration from slightest exertion",
+        "grading": {
+          "high": ["Phosphorus", "Mercurius"],
+          "medium": ["Calcarea", "China"],
+          "low": ["Sepia"]
+        },
+        "modality": "Walking or even talking",
+        "miasm": "Psoric",
+        "notes": "Common in weak patients"
+      },
+      {
+        "rubric": "Perspiration with anxiety or fear",
+        "grading": {
+          "high": ["Aconite", "Arsenicum album"],
+          "medium": ["Opium", "Gelsemium"],
+          "low": ["Argentum nitricum"]
+        },
+        "modality": "Sweating from emotional causes",
+        "miasm": "Acutely Psoric",
+        "notes": "Important in mental/emotional cases"
+      },
+      {
+        "rubric": "Perspiration during menses",
+        "grading": {
+          "high": ["Sepia", "Lachesis"],
+          "medium": ["Pulsatilla", "Calcarea"],
+          "low": ["Graphites"]
+        },
+        "modality": "Aggravated during flow",
+        "miasm": "Psoric",
+        "notes": "Indicates hormonal influence"
+      },
+      {
+        "rubric": "Perspiration aggravates symptoms",
+        "grading": {
+          "high": ["Silicea", "Mercurius"],
+          "medium": ["China", "Arsenicum"],
+          "low": ["Lachesis"]
+        },
+        "modality": "Leads to weakness or worsening",
+        "miasm": "Psoric/Syphilitic",
+        "notes": "Confirms remedy response to weather/sweat"
+      },
+      {
+        "rubric": "No perspiration at all",
+        "grading": {
+          "high": ["Antimonium tart", "Belladonna"],
+          "medium": ["Apis", "Bryonia"],
+          "low": ["Opium"]
+        },
+        "modality": "Even in fever, dry skin",
+        "miasm": "Psoric/Syphilitic",
+        "notes": "Points to suppression, dry fevers"
+      },
+      {
+        "rubric": "Perspiration on upper body only",
+        "grading": {
+          "high": ["Bryonia", "Phosphorus"],
+          "medium": ["Silicea", "Sulphur"],
+          "low": ["Sepia"]
+        },
+        "modality": "Absent on lower limbs",
+        "miasm": "Psoric",
+        "notes": "Rare but observed in certain constitutions"
+      },
+      {
+        "rubric": "Perspiration on lower body only",
+        "grading": {
+          "high": ["Sulphur", "Sepia"],
+          "medium": ["Silicea", "Calcarea"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Dry upper half",
+        "miasm": "Psoric",
+        "notes": "Rare distribution pattern"
+      },
+      {
+        "rubric": "Perspiration alternates with chilliness",
+        "grading": {
+          "high": ["China", "Natrum muriaticum"],
+          "medium": ["Gelsemium", "Pulsatilla"],
+          "low": ["Arsenicum"]
+        },
+        "modality": "In fevers or intermittent states",
+        "miasm": "Psoric/Syphilitic",
+        "notes": "Seen in malaria, typhoid, etc."
+      },
+      {
+        "rubric": "Perspiration with weakness or collapse",
+        "grading": {
+          "high": ["Veratrum album", "Camphora"],
+          "medium": ["Carbo vegetabilis", "China"],
+          "low": ["Arsenicum"]
+        },
+        "modality": "Often cold, clammy",
+        "miasm": "Syphilitic",
+        "notes": "Seen in acute emergencies"
+      }
+    ]
+  },
+  {
+    "PerspirationPatterns": [
+      {
+        "rubric": "Perspiration with itching",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Petroleum"],
+          "low": ["Rhus toxicodendron"]
+        },
+        "modality": "After sweating, itching worsens",
+        "miasm": "Psoric",
+        "notes": "Seen in eczema, chronic skin conditions"
+      },
+      {
+        "rubric": "Perspiration only during daytime",
+        "grading": {
+          "high": ["Natrum muriaticum"],
+          "medium": ["Sepia", "Sulphur"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Sweats cease at night",
+        "miasm": "Psoric",
+        "notes": "Opposite of night sweats"
+      },
+      {
+        "rubric": "Perspiration on covered parts only",
+        "grading": {
+          "high": ["Sepia"],
+          "medium": ["Phosphorus", "Graphites"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Sweats only where clothing touches",
+        "miasm": "Psoric",
+        "notes": "Skin may be dry elsewhere"
+      },
+      {
+        "rubric": "Perspiration on uncovered parts",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Rhus tox", "Phosphorus"],
+          "low": ["Petroleum"]
+        },
+        "modality": "Head, arms exposed sweat",
+        "miasm": "Psoric",
+        "notes": "Worse after undressing"
+      },
+      {
+        "rubric": "Perspiration smelling like garlic",
+        "grading": {
+          "high": ["Silicea"],
+          "medium": ["Tellurium"],
+          "low": ["Psorinum"]
+        },
+        "modality": "Persistent and offensive",
+        "miasm": "Psoric/Syphilitic",
+        "notes": "Rare but confirmatory in Silicea"
+      },
+      {
+        "rubric": "Perspiration on genitals",
+        "grading": {
+          "high": ["Sulphur", "Thuja"],
+          "medium": ["Nitric acid", "Sepia"],
+          "low": ["Petroleum"]
+        },
+        "modality": "Worse with eruptions or itching",
+        "miasm": "Syphilitic",
+        "notes": "Seen in STD or suppressed eruptions"
+      },
+      {
+        "rubric": "Perspiration on back only",
+        "grading": {
+          "high": ["Silicea", "Mercurius"],
+          "medium": ["Calcarea", "Phosphorus"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Soaks bed in spine area",
+        "miasm": "Tubercular",
+        "notes": "Seen in TB, spinal exhaustion"
+      },
+      {
+        "rubric": "Perspiration after eating",
+        "grading": {
+          "high": ["Carbo vegetabilis", "China"],
+          "medium": ["Lycopodium", "Sepia"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Particularly after heavy meals",
+        "miasm": "Psoric/Syphilitic",
+        "notes": "Digestive disorders, liver cases"
+      },
+      {
+        "rubric": "Perspiration suppressed",
+        "grading": {
+          "high": ["Belladonna", "Aconite"],
+          "medium": ["Bryonia", "Apis"],
+          "low": ["Opium"]
+        },
+        "modality": "Fever without sweat",
+        "miasm": "Psoric → Syphilitic shift",
+        "notes": "Suppression may trigger other pathology"
+      },
+      {
+        "rubric": "Perspiration offensive to patient",
+        "grading": {
+          "high": ["Psorinum", "Sulphur"],
+          "medium": ["Sepia", "Silicea"],
+          "low": ["Carbo vegetabilis"]
+        },
+        "modality": "Patient can't tolerate own smell",
+        "miasm": "Psoric",
+        "notes": "Can indicate disgust, low vitality"
+      }
+    ]
+  }
+]

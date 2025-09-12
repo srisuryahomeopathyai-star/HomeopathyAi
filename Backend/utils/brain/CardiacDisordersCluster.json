@@ -1,0 +1,206 @@
+[
+  {
+    "disease": "Cardiac Disorders (Angina, Palpitations, Cardiomyopathy)",
+    "tags": [
+      "CommonChronic",
+      "Cardiac",
+      "Circulatory",
+      "Psora",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Angina pectoris with radiating pain to left arm and chest heaviness",
+        "grading": {
+          "high": ["Cactus grandiflorus", "Glonoinum", "Spigelia"],
+          "medium": ["Digitalis", "Aurum met"],
+          "low": ["Kalmia"]
+        },
+        "modality": "< exertion, < emotion, < lying down, > sitting up",
+        "miasm": "Syphilitic",
+        "notes": "Classic coronary ischemia pattern"
+      },
+      {
+        "rubric": "Palpitations from slightest excitement or noise, with anxiety",
+        "grading": {
+          "high": ["Lilium tigrinum", "Gelsemium", "Ignatia"],
+          "medium": ["Phosphorus", "Kali phos"],
+          "low": ["Ambra grisea"]
+        },
+        "modality": "< emotion, < fright, > lying on right side",
+        "miasm": "Psoric–Sycosis",
+        "notes": "Neurogenic or psychosomatic palpitations"
+      },
+      {
+        "rubric": "Heart feels too large or as if clasped by iron band",
+        "grading": {
+          "high": ["Cactus grandiflorus", "Lachesis"],
+          "medium": ["Glonoinum", "Spigelia"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "< night, < pressure, < motion",
+        "miasm": "Sycosis–Syphilitic",
+        "notes": "Constriction sensation—classic cactus keynote"
+      },
+      {
+        "rubric": "Irregular heartbeat with extreme fear something will happen",
+        "grading": {
+          "high": ["Aconite", "Argentum nitricum", "Gelsemium"],
+          "medium": ["Lycopodium", "Arsenicum alb"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "< night, < alone, < anticipation",
+        "miasm": "Psora",
+        "notes": "Anxiety-driven rhythm disturbance"
+      },
+      {
+        "rubric": "Heart weakness after influenza or viral infection (e.g., COVID)",
+        "grading": {
+          "high": ["Gelsemium", "Strophanthus", "Digitalis"],
+          "medium": ["Baptisia", "Crataegus"],
+          "low": ["Ferrum phos"]
+        },
+        "modality": "< post viral, < weakness, < low pulse",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Post-viral myocarditis or conduction fatigue"
+      },
+      {
+        "rubric": "Heart failure with dyspnea, cold sweat, and sinking feeling",
+        "grading": {
+          "high": ["Digitalis", "Carbo veg", "Arsenicum alb"],
+          "medium": ["Crataegus", "Veratrum alb"],
+          "low": ["Cactus"]
+        },
+        "modality": "< lying down, < exertion, < cold air",
+        "miasm": "Syphilitic",
+        "notes": "Cardiogenic shock or advanced heart failure"
+      },
+      {
+        "rubric": "Palpitations < lying on left side",
+        "grading": {
+          "high": ["Phosphorus", "Lycopodium", "Cactus"],
+          "medium": ["Sepia", "Sulphur"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "< left lateral, > lying on right, < deep breathing",
+        "miasm": "Psora–Sycosis",
+        "notes": "Functional cardiac neurosis pattern"
+      },
+      {
+        "rubric": "Emotional heart: palpitations or angina after grief or disappointment",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur", "Aurum met"],
+          "medium": ["Staphysagria", "Pulsatilla"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< emotions unexpressed, < suppressed tears",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Neuro-cardiac emotional etiology"
+      },
+      {
+        "rubric": "Valvular disorder with dyspnea and cardiac anxiety",
+        "grading": {
+          "high": ["Digitalis", "Spongia", "Lachesis"],
+          "medium": ["Crataegus", "Cactus"],
+          "low": ["Baryta mur"]
+        },
+        "modality": "< night, < lying down, < climbing stairs",
+        "miasm": "Sycosis–Syphilitic",
+        "notes": "Organic valvular heart disease patterns"
+      }
+    ]
+  },
+  {
+    "deep_additions": [
+      {
+        "rubric": "Chronic heart complaint after long-term grief, loss or betrayal",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur", "Aurum met"],
+          "medium": ["Staphysagria", "Sepia"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< dwelling on past, < alone, < suppressed tears",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Emotional etiology in cardiopathy"
+      },
+      {
+        "rubric": "Blocked cardiac cases with poor response to indicated remedies",
+        "grading": {
+          "high": ["Carcinosinum", "Psorinum", "Tuberculinum"],
+          "medium": ["Medorrhinum", "Syphilinum"],
+          "low": ["Sulphur"]
+        },
+        "modality": "< after allopathy suppression, < inherited miasm, < emotional stasis",
+        "miasm": "Mixed miasm",
+        "notes": "When totality is present but no response to well-chosen drugs"
+      },
+      {
+        "rubric": "Heart complaints in highly responsible, perfectionist individuals",
+        "grading": {
+          "high": ["Carcinosinum", "Aurum met", "Ignatia"],
+          "medium": ["Phosphorus", "Lycopodium"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "< overwork, < suppressed emotions, < conflict",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Suppressed ambition leading to cardiac exhaustion"
+      },
+      {
+        "rubric": "Palpitations in artistic, sensitive, oversympathetic constitutions",
+        "grading": {
+          "high": ["Phosphorus", "Carcinosinum", "Pulsatilla"],
+          "medium": ["Sepia", "Silicea"],
+          "low": ["Ignatia"]
+        },
+        "modality": "< suppressed emotions, < exposure to beauty or sorrow",
+        "miasm": "Psora",
+        "notes": "Heart as emotional organ — artistic suppression"
+      },
+      {
+        "rubric": "Cardiac complaints following suppressed eruptions or discharges",
+        "grading": {
+          "high": ["Sulphur", "Psorinum", "Thuja"],
+          "medium": ["Medorrhinum", "Graphites"],
+          "low": ["Silicea"]
+        },
+        "modality": "< after skin suppression, < allopathy, < emotional shocks",
+        "miasm": "Psora–Sycosis",
+        "notes": "Dermato-cardiac miasmatic link"
+      },
+      {
+        "rubric": "Sudden collapse or cardiac arrest after anger or rage",
+        "grading": {
+          "high": ["Nux vomica", "Staphysagria", "Aconite"],
+          "medium": ["Chamomilla", "Veratrum album"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< suppressed anger, < contradiction, < insult",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Acute neurovascular reaction to rage"
+      },
+      {
+        "rubric": "Post-stent or post-cardiac surgery with emotional dullness and fatigue",
+        "grading": {
+          "high": ["Phosphoric acid", "Carbo veg", "Strophanthus"],
+          "medium": ["Conium", "Crataegus"],
+          "low": ["China"]
+        },
+        "modality": "< after surgery, < loss of blood, < prolonged illness",
+        "miasm": "Psora",
+        "notes": "Cardiac surgery recovery & constitutional fatigue"
+      },
+      {
+        "rubric": "Cardiac dropsy (edema) with weak heart and great debility",
+        "grading": {
+          "high": ["Digitalis", "Apocynum", "Arsenicum alb"],
+          "medium": ["Lachesis", "Crataegus"],
+          "low": ["Kali carb"]
+        },
+        "modality": "< lying down, < at night, < heat",
+        "miasm": "Syphilitic",
+        "notes": "Decompensated heart failure with renal impact"
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "disease": "CKD / AKD (Chronic & Acute Kidney Disease)",
+    "tags": [
+      "CommonChronic",
+      "CKD",
+      "AKD",
+      "Uremia",
+      "Nephrotic",
+      "Edema",
+      "Hypertension",
+      "Diabetes",
+      "Gout",
+      "Fear",
+      "Confusion",
+      "Miasmatic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Uremic symptoms: dullness, confusion, memory loss",
+        "grading": {
+          "high": ["Opium", "Helleborus", "Phosphoric acid"],
+          "medium": ["Arnica", "Mercurius"],
+          "low": ["Belladonna", "Hyoscyamus"]
+        },
+        "modality": "Dull, blank expression; slow to answer; confused in familiar places",
+        "miasm": "Syphilitic",
+        "notes": "CNS impact of advanced kidney failure"
+      },
+      {
+        "rubric": "Oliguria or suppressed urine with general dropsy",
+        "grading": {
+          "high": ["Apis mellifica", "Arsenicum album", "Digitalis"],
+          "medium": ["Terebinthina", "Helleborus"],
+          "low": ["Merc sol", "China"]
+        },
+        "modality": "Scanty or no urine, facial puffiness, dependent edema",
+        "miasm": "Syphilitic-Psoric",
+        "notes": "End-stage or glomerular shutdown"
+      },
+      {
+        "rubric": "Fear of death with physical exhaustion",
+        "grading": {
+          "high": ["Arsenicum album", "Aconitum", "Carbo veg"],
+          "medium": ["Phosphorus", "Camphora"],
+          "low": ["Psorinum", "Lachesis"]
+        },
+        "modality": "Feels life is slipping away; restless; needs company",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Mental state in terminal cases"
+      },
+      {
+        "rubric": "Uremic coma or drowsiness with suppressed urine",
+        "grading": {
+          "high": ["Opium", "Helleborus", "Arnica"],
+          "medium": ["Belladonna", "Stramonium"],
+          "low": ["Cuprum met", "Hyoscyamus"]
+        },
+        "modality": "Loss of consciousness, no desire to wake or speak",
+        "miasm": "Syphilitic",
+        "notes": "Life-threatening CNS symptoms in renal failure"
+      },
+      {
+        "rubric": "Chronic kidney damage with diabetes mellitus",
+        "grading": {
+          "high": ["Uranium nitricum", "Phosphorus", "Lycopodium"],
+          "medium": ["Syzygium jambolanum", "Argentum nitricum"],
+          "low": ["Sulphur", "Thuja"]
+        },
+        "modality": "Sugar + protein in urine, progressive decline",
+        "miasm": "Sycosis-Syphilitic",
+        "notes": "Diabetic nephropathy constitutionals"
+      },
+      {
+        "rubric": "Edema of face, especially under eyes (renal origin)",
+        "grading": {
+          "high": ["Apis mellifica", "Kali carb"],
+          "medium": ["Lycopodium", "Arsenicum album"],
+          "low": ["Mercurius", "Sulphur"]
+        },
+        "modality": "Early morning swelling under eyes",
+        "miasm": "Sycosis",
+        "notes": "Nephritic pattern with periorbital swelling"
+      },
+      {
+        "rubric": "Back pain in renal region with urinary dysfunction",
+        "grading": {
+          "high": ["Berberis vulgaris", "Terebinthina"],
+          "medium": ["Cantharis", "Sarsaparilla"],
+          "low": ["Causticum", "Rhus tox"]
+        },
+        "modality": "Pain radiating forward, worse movement",
+        "miasm": "Psora",
+        "notes": "Functional indicator of inflammation or stasis"
+      },
+      {
+        "rubric": "Albuminuria with emaciation and exhaustion",
+        "grading": {
+          "high": ["Phosphorus", "Arsenicum", "Uranium nitricum"],
+          "medium": ["China", "Ferrum phos"],
+          "low": ["Sepia", "Sulphur"]
+        },
+        "modality": "Loss of flesh and energy, face pale, sunken",
+        "miasm": "Syphilitic",
+        "notes": "Progressive nephrotic decline"
+      },
+      {
+        "rubric": "Irritation of bladder with scanty high-colored urine",
+        "grading": {
+          "high": ["Terebinthina", "Cantharis"],
+          "medium": ["Nitric acid", "Sarsaparilla"],
+          "low": ["Nux vomica", "Petroselinum"]
+        },
+        "modality": "Smoky, offensive urine with heat or pressure",
+        "miasm": "Syphilitic",
+        "notes": "Inflammation or glomerular damage signs"
+      },
+      {
+        "rubric": "Uremic itching, worse at night",
+        "grading": {
+          "high": ["Psorinum", "Arsenicum album"],
+          "medium": ["Sulphur", "Lycopodium"],
+          "low": ["Sepia"]
+        },
+        "modality": "Burning, crawling, restless skin; non-eruptive",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Toxic buildup affecting peripheral nerves"
+      }
+    ]
+  },
+  {
+    "disease": "CKD / AKD – Intercurrent & Miasmatic Remedies",
+    "tags": [
+      "CommonChronic",
+      "CKD",
+      "AKD",
+      "Intercurrent",
+      "Miasmatic",
+      "ChronicBlock",
+      "Psora",
+      "Sycosis",
+      "Syphilis",
+      "Tubercular",
+      "SuppressionBased"
+    ],
+    "rubrics": [
+      {
+        "rubric": "CKD cases with poor response to indicated remedies",
+        "grading": {
+          "high": ["Psorinum", "Tuberculinum", "Syphilinum"],
+          "medium": ["Carcinosinum", "Medorrhinum"],
+          "low": ["Sulphur", "Thuja"]
+        },
+        "modality": "History of suppressed eruptions, long-term drug use, or family history of renal/cancer/tubercular illness",
+        "miasm": "Psora-Sycosis-Syphilis-Tubercular",
+        "notes": "Given as intercurrent to open case, clear suppression"
+      },
+      {
+        "rubric": "CKD with strong syphilitic background: degeneration, ulcers, loss of function",
+        "grading": {
+          "high": ["Syphilinum", "Mercurius", "Nitric acid"],
+          "medium": ["Aur met", "Kali iod"],
+          "low": ["Fluoric acid"]
+        },
+        "modality": "Violent disease descent, worsening with modern suppressive treatment",
+        "miasm": "Syphilitic",
+        "notes": "Chosen to break down deep degenerative layers"
+      },
+      {
+        "rubric": "CKD with tubercular traits: emaciation, restlessness, hyperactive mind, inherited TB background",
+        "grading": {
+          "high": ["Tuberculinum", "Phosphorus", "Iodum"],
+          "medium": ["Calcarea phos", "Stannum"],
+          "low": ["Bacillinum"]
+        },
+        "modality": "Wasting despite good appetite; chilly; desires stimulants",
+        "miasm": "Tubercular",
+        "notes": "Often hidden miasm in CKD with childhood respiratory history"
+      },
+      {
+        "rubric": "CKD in patients with emotional suppression, grief, and trauma history",
+        "grading": {
+          "high": ["Natrum muriaticum", "Staphysagria", "Ignatia"],
+          "medium": ["Aurum met", "Sepia"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Kidney disease follows divorce, loss, humiliation, suppressed anger",
+        "miasm": "Psora-Sycosis",
+        "notes": "Mind–organ suppression path needing relief"
+      },
+      {
+        "rubric": "CKD with recurrent infections, antibiotic suppressions, or nephrotic complications",
+        "grading": {
+          "high": ["Medorrhinum", "Merc sol", "Tuberculinum"],
+          "medium": ["Thuja", "Kali sulph"],
+          "low": ["Ant crud"]
+        },
+        "modality": "Recurrent UTIs, antibiotics for years; low immunity",
+        "miasm": "Sycosis",
+        "notes": "Chronic suppression and over-medication key indicators"
+      },
+      {
+        "rubric": "CKD with complete absence of eruptions since childhood (dry skin, suppressed constitution)",
+        "grading": {
+          "high": ["Psorinum", "Sulphur"],
+          "medium": ["Sepia", "Graphites"],
+          "low": ["Calcarea sulph"]
+        },
+        "modality": "Dry constitution, chilly, cannot perspire; never well since suppressed eczema or eruptions",
+        "miasm": "Psora",
+        "notes": "Psoric blockage behind weak eliminations"
+      },
+      {
+        "rubric": "End-stage CKD with hopelessness, suicidal thoughts, degeneration",
+        "grading": {
+          "high": ["Syphilinum", "Aurum met", "Merc sol"],
+          "medium": ["Natrum mur", "Nux vomica"],
+          "low": ["Anacardium"]
+        },
+        "modality": "Feels beyond help, mentally withdrawn, or thoughts of death",
+        "miasm": "Syphilitic",
+        "notes": "Destructive degeneration + hopeless mental state"
+      }
+    ]
+  },
+  {
+    "disease": "Hypertensive Nephropathy",
+    "tags": [
+      "CommonChronic",
+      "CKD",
+      "Hypertension",
+      "Nephropathy",
+      "Uremia",
+      "Cardiorenal",
+      "Miasmatic",
+      "ChronicFatigue",
+      "HighBP",
+      "Proteinuria"
+    ],
+    "rubrics": [
+      {
+        "rubric": "High blood pressure with kidney dysfunction and persistent proteinuria",
+        "grading": {
+          "high": ["Plumbum", "Arsenicum album", "Uranium nitricum"],
+          "medium": ["Lycopodium", "Phosphorus"],
+          "low": ["Digitalis", "Terebinthina"]
+        },
+        "modality": "Silent kidney damage with long-standing hypertension",
+        "miasm": "Sycosis-Syphilitic",
+        "notes": "Microscopic hematuria and glomerular sclerosis common"
+      },
+      {
+        "rubric": "Chronic hypertension with albuminuria and edema of face or lower limbs",
+        "grading": {
+          "high": ["Apis mellifica", "Arsenicum album", "Lycopodium"],
+          "medium": ["Phosphorus", "Kali carb"],
+          "low": ["Merc sol", "China"]
+        },
+        "modality": "Morning puffiness; tight shoes; tired eyes",
+        "miasm": "Sycosis",
+        "notes": "Nephritic syndrome features from vascular pressure"
+      },
+      {
+        "rubric": "Sudden BP spike with headache, visual blur, renal shutdown",
+        "grading": {
+          "high": ["Belladonna", "Glonoinum", "Aconitum"],
+          "medium": ["Veratrum viride", "Nux vomica"],
+          "low": ["Gelsemium", "Plumbum"]
+        },
+        "modality": "Pounding headache, red face, fear of death",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Acute hypertensive emergency affecting kidney perfusion"
+      },
+      {
+        "rubric": "Hypertensive nephropathy in elderly with arteriosclerosis",
+        "grading": {
+          "high": ["Plumbum", "Baryta mur", "Aurum met"],
+          "medium": ["Conium", "Secale cornutum"],
+          "low": ["Opium"]
+        },
+        "modality": "Cerebral dullness, weakness, forgetfulness",
+        "miasm": "Syphilitic",
+        "notes": "Vascular rigidity → nephron death"
+      },
+      {
+        "rubric": "CKD with hypertension + heart weakness (cardiorenal syndrome)",
+        "grading": {
+          "high": ["Digitalis", "Crataegus", "Adonis vernalis"],
+          "medium": ["Strophanthus", "Cactus"],
+          "low": ["Aurum met", "Phosphorus"]
+        },
+        "modality": "Breathlessness, weak pulse, edema; needs propped sleep",
+        "miasm": "Sycosis",
+        "notes": "Heart–kidney dual failure picture"
+      },
+      {
+        "rubric": "CKD with mental dullness, weak memory, anxiety, and irritability",
+        "grading": {
+          "high": ["Phosphoric acid", "Arsenicum", "Nux vomica"],
+          "medium": ["Ignatia", "Plumbum"],
+          "low": ["Anacardium"]
+        },
+        "modality": "Fatigued mind, irritable, poor sleep",
+        "miasm": "Psora-Sycosis",
+        "notes": "Mental burnout from toxic accumulation and chronic illness"
+      },
+      {
+        "rubric": "CKD with systolic-diastolic mismatch: high systolic with weak pulse",
+        "grading": {
+          "high": ["Digitalis", "Veratrum viride", "Plumbum"],
+          "medium": ["Lachesis", "Arsenicum"],
+          "low": ["Aurum mur"]
+        },
+        "modality": "Pulse slow but hard; syncopal spells",
+        "miasm": "Syphilitic",
+        "notes": "Arterial sclerosis + cardiac stress"
+      },
+      {
+        "rubric": "CKD + hypertension with severe fatigue and heaviness in limbs",
+        "grading": {
+          "high": ["Picric acid", "Phosphoric acid"],
+          "medium": ["China", "Gelsemium"],
+          "low": ["Nux moschata"]
+        },
+        "modality": "Burnout; needs rest all the time; worse heat",
+        "miasm": "Psora",
+        "notes": "Vital exhaustion in long-standing BP–kidney issues"
+      },
+      {
+        "rubric": "CKD in hypertensive patients with diabetes and gout (triad)",
+        "grading": {
+          "high": ["Benzoic acid", "Colchicum", "Uranium nitricum"],
+          "medium": ["Phosphorus", "Syzygium"],
+          "low": ["Antimonium crudum"]
+        },
+        "modality": "Gouty joints, polyuria, renal pain, high BP",
+        "miasm": "Sycosis-Syphilitic",
+        "notes": "Metabolic overload picture"
+      }
+    ]
+  }
+]

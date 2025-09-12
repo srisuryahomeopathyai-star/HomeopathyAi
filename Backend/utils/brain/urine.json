@@ -1,0 +1,3038 @@
+[
+  {
+    "rubric": "Urination – frequent – day and night",
+    "grading": {
+      "High": ["Lycopodium", "Phosphorus", "Equisetum"],
+      "Medium": ["Sulphur", "Sepia", "Sarsaparilla"],
+      "Low": ["Silicea", "Uva ursi"]
+    },
+    "modality": "Worse at night, after walking or standing; better lying down",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Equisetum: Urging and fullness even after urination"
+  },
+  {
+    "rubric": "Urination – burning pain",
+    "grading": {
+      "High": ["Cantharis", "Sarsaparilla", "Apis"],
+      "Medium": ["Nitric acid", "Terebinth", "Arsenicum"],
+      "Low": ["Equisetum", "Sulphur"]
+    },
+    "modality": "Worse during and after urination; worse from spicy food",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Extreme burning before, during, and after"
+  },
+  {
+    "rubric": "Urine – involuntary – dribbling",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Equisetum", "Gelsemium"],
+      "Low": ["Secale", "Ferrum phos"]
+    },
+    "modality": "Worse at night, while sneezing, coughing or walking",
+    "miasm": ["Syphilitic"],
+    "notes": "Causticum: Incontinence during laughter or exertion"
+  },
+  {
+    "rubric": "Urine – retention – cannot pass despite urging",
+    "grading": {
+      "High": ["Belladonna", "Causticum"],
+      "Medium": ["Nux vomica", "Conium"],
+      "Low": ["Opium", "Hyoscyamus"]
+    },
+    "modality": "Worse after surgery, childbirth or emotional shock",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Belladonna: Sensation of full bladder with no flow"
+  },
+  {
+    "rubric": "Urging – constant – with scanty urine",
+    "grading": {
+      "High": ["Cantharis", "Staphysagria"],
+      "Medium": ["Equisetum", "Mercurius", "Sarsaparilla"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse from movement, touch or standing",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Urging with drop-by-drop urination"
+  },
+  {
+    "rubric": "Hematuria – blood in urine",
+    "grading": {
+      "High": ["Terebinth", "Cantharis"],
+      "Medium": ["Lachesis", "Nitric acid"],
+      "Low": ["Ipecac", "Crotalus"]
+    },
+    "modality": "Worse on exertion or after trauma",
+    "miasm": ["Syphilitic"],
+    "notes": "Terebinth: Smoky, coffee-ground appearance"
+  },
+  {
+    "rubric": "Enuresis – bedwetting in children",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Sepia", "Sulphur"],
+      "Low": ["Tuberculinum", "Equisetum"]
+    },
+    "modality": "Worse in first sleep; worse from cold; worse during dreams",
+    "miasm": ["Psora"],
+    "notes": "Causticum: Involuntary urine in early night sleep"
+  },
+  {
+    "rubric": "Pain – urination – end of urination",
+    "grading": {
+      "High": ["Sarsaparilla"],
+      "Medium": ["Berberis vulgaris", "Equisetum"],
+      "Low": ["Cannabis sativa", "Nitric acid"]
+    },
+    "modality": "Pain worse at end of urination; better standing",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Must stand to urinate, pain after flow ends"
+  },
+  {
+    "rubric": "Urine – odor – offensive, strong smell",
+    "grading": {
+      "High": ["Benzoic acid"],
+      "Medium": ["Sepia", "Nitric acid"],
+      "Low": ["Sulphur", "Lycopodium"]
+    },
+    "modality": "Worse after physical exertion or meat consumption",
+    "miasm": ["Sycotic"],
+    "notes": "Benzoic acid: Extremely offensive, horse-like smell"
+  },
+  {
+    "rubric": "Urine – cloudy – with sediment",
+    "grading": {
+      "High": ["Lycopodium", "Sepia"],
+      "Medium": ["Berberis vulgaris", "Calcarea phosphorica"],
+      "Low": ["Sulphur", "Sarsaparilla"]
+    },
+    "modality": "Worse after meals, exposure to cold",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Lycopodium: Red sand or brick-dust sediment"
+  },
+  {
+    "rubric": "Urination – suppressed – no desire or flow",
+    "grading": {
+      "High": ["Opium", "Belladonna"],
+      "Medium": ["Stramonium", "Hyoscyamus"],
+      "Low": ["Camphora", "Arnica"]
+    },
+    "modality": "Worse after surgical shock, trauma, or fear",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Opium: No urge even though bladder is full; painless retention"
+  },
+  {
+    "rubric": "Urination – scanty – drops only",
+    "grading": {
+      "High": ["Apis", "Cantharis"],
+      "Medium": ["Nitric acid", "Digitalis"],
+      "Low": ["Helleborus", "Nux vomica"]
+    },
+    "modality": "Worse from heat, after lying down, or suppressed emotions",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Apis: Urine scanty, dark; patient thirstless and edematous"
+  },
+  {
+    "rubric": "Urine – albuminous – proteinuria",
+    "grading": {
+      "High": ["Arsenicum album", "Phosphorus"],
+      "Medium": ["Terebinth", "Mercurius"],
+      "Low": ["Plumbum", "Kali chloricum"]
+    },
+    "modality": "Worse in nephrotic or post-scarlatinal conditions",
+    "miasm": ["Syphilitic"],
+    "notes": "Arsenicum: Pale, albuminous urine with burning and prostration"
+  },
+  {
+    "rubric": "Urine – milky or foamy appearance",
+    "grading": {
+      "High": ["Phosphorus", "Calcarea phosphorica"],
+      "Medium": ["Benzoic acid", "Mercurius"],
+      "Low": ["China", "Nitric acid"]
+    },
+    "modality": "Worse after high protein intake; worse after exertion",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Phosphorus: Urine foamy, rich in phosphates; tendency to diabetes"
+  },
+  {
+    "rubric": "Urination – interrupted stream",
+    "grading": {
+      "High": ["Clematis", "Conium"],
+      "Medium": ["Sabal serrulata", "Pareira brava"],
+      "Low": ["Sarsaparilla"]
+    },
+    "modality": "Worse during prostate enlargement or bladder spasm",
+    "miasm": ["Sycotic"],
+    "notes": "Clematis: Urine flows and stops suddenly, must strain again"
+  },
+  {
+    "rubric": "Prostatic enlargement – with urinary issues",
+    "grading": {
+      "High": ["Sabal serrulata", "Conium"],
+      "Medium": ["Baryta carb", "Chimaphila"],
+      "Low": ["Digitalis", "Ferrum picricum"]
+    },
+    "modality": "Worse at night; worse from cold or sitting long hours",
+    "miasm": ["Sycotic", "Syphilitic"],
+    "notes": "Sabal: Dribbling, incomplete urination with enlarged prostate"
+  },
+  {
+    "rubric": "Urination – painful – in diabetics",
+    "grading": {
+      "High": ["Phosphoric acid", "Phosphorus"],
+      "Medium": ["Lactic acid", "Syzygium jambolanum"],
+      "Low": ["Uranium nitricum"]
+    },
+    "modality": "Worse during exertion; worse from fasting or stress",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Ph-acid: Polyuria with debility and burning in diabetics"
+  },
+  {
+    "rubric": "Urine – excessive – with thirst (Polyuria)",
+    "grading": {
+      "High": ["Phosphorus", "Diabetes remedies: Syzygium", "Ph-ac"],
+      "Medium": ["Apis", "Secale"],
+      "Low": ["Acetic acid", "China"]
+    },
+    "modality": "Worse at night; worse from sweets or starches",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Phosphorus: High thirst, frequent pale urine, sugar in urine"
+  },
+  {
+    "rubric": "Urine – brick dust sediment",
+    "grading": {
+      "High": ["Lycopodium"],
+      "Medium": ["Sarsaparilla", "Benzoic acid"],
+      "Low": ["Sulphur", "Sepia"]
+    },
+    "modality": "Worse after rich food, sedentary life",
+    "miasm": ["Sycotic"],
+    "notes": "Lycopodium: Red sandy deposit, child screams before urinating"
+  },
+  {
+    "rubric": "Urination – painful straining – before flow",
+    "grading": {
+      "High": ["Equisetum", "Cantharis"],
+      "Medium": ["Nux vomica", "Berberis"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse from cold exposure; worse sitting",
+    "miasm": ["Sycotic"],
+    "notes": "Equisetum: Constant desire, little passed, with pain before"
+  },
+  {
+    "rubric": "Urethritis – painful inflammation of urethra",
+    "grading": {
+      "High": ["Cannabis sativa", "Cantharis"],
+      "Medium": ["Petroselinum", "Thuja"],
+      "Low": ["Mercurius sol", "Sulphur"]
+    },
+    "modality": "Worse during urination; worse after coition or exposure to cold",
+    "miasm": ["Sycotic"],
+    "notes": "Cannabis sativa: Burning, cutting pain in urethra; frequent urging"
+  },
+  {
+    "rubric": "Cystitis – acute bladder infection",
+    "grading": {
+      "High": ["Cantharis", "Equisetum"],
+      "Medium": ["Apis", "Berberis vulgaris"],
+      "Low": ["Sulphur", "Staphysagria"]
+    },
+    "modality": "Worse after exposure to cold or suppression of urine",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Violent burning with constant, fruitless urging"
+  },
+  {
+    "rubric": "Pain – urination – scalding or burning",
+    "grading": {
+      "High": ["Cantharis", "Sarsaparilla"],
+      "Medium": ["Apis", "Nitric acid"],
+      "Low": ["Equisetum", "Arsenicum"]
+    },
+    "modality": "Worse before, during, and after urination",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Pain most severe at end of urination"
+  },
+  {
+    "rubric": "Renal colic – pain during stone passage",
+    "grading": {
+      "High": ["Berberis vulgaris", "Colocynthis"],
+      "Medium": ["Cantharis", "Pareira brava"],
+      "Low": ["Ocimum canum", "Lycopodium"]
+    },
+    "modality": "Worse from motion, better bending forward or lying curled up",
+    "miasm": ["Syphilitic"],
+    "notes": "Berberis: Radiating pain from kidney to bladder and thighs"
+  },
+  {
+    "rubric": "Urination – painful – extending to thighs or back",
+    "grading": {
+      "High": ["Berberis vulgaris"],
+      "Medium": ["Pareira brava", "Cannabis indica"],
+      "Low": ["Sarsaparilla", "Nux vomica"]
+    },
+    "modality": "Worse after walking or pressure",
+    "miasm": ["Sycotic"],
+    "notes": "Pareira: Must kneel and strain to urinate, pain radiates to thighs"
+  },
+  {
+    "rubric": "Urine – bloody – with clots",
+    "grading": {
+      "High": ["Terebinth", "Hamamelis"],
+      "Medium": ["Cantharis", "Crotalus"],
+      "Low": ["Ipecac", "Phosphorus"]
+    },
+    "modality": "Worse during urination; worse from trauma or overexertion",
+    "miasm": ["Syphilitic"],
+    "notes": "Hamamelis: Dark blood in urine, painless but profuse"
+  },
+  {
+    "rubric": "Bladder – weakness – cannot hold urine",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Equisetum", "Ferrum phos"],
+      "Low": ["Gelsemium", "Rhus tox"]
+    },
+    "modality": "Worse during cough, laughter, or excitement",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Causticum: Involuntary urination from slightest excitement or exertion"
+  },
+  {
+    "rubric": "Bladder – paralysis – post-labor or surgery",
+    "grading": {
+      "High": ["Belladonna", "Causticum"],
+      "Medium": ["Conium", "Opium"],
+      "Low": ["Arnica", "Gelsemium"]
+    },
+    "modality": "Worse from inactivity, anesthesia or trauma",
+    "miasm": ["Syphilitic"],
+    "notes": "Belladonna: Sensation of fullness but no ability to urinate"
+  },
+  {
+    "rubric": "Urine – sandy, gritty sediment",
+    "grading": {
+      "High": ["Lycopodium", "Sarsaparilla"],
+      "Medium": ["Berberis", "Cantharis"],
+      "Low": ["Sepia", "Ocimum"]
+    },
+    "modality": "Worse after rich food, better from warm drinks",
+    "miasm": ["Sycotic"],
+    "notes": "Lycopodium: Red sand sediment in diaper or urine pot"
+  },
+  {
+    "rubric": "Urination – strain – must press or bend to pass",
+    "grading": {
+      "High": ["Pareira brava"],
+      "Medium": ["Chimaphila", "Sabal serrulata"],
+      "Low": ["Conium", "Cannabis sativa"]
+    },
+    "modality": "Worse sitting; better kneeling forward with pressure",
+    "miasm": ["Sycotic"],
+    "notes": "Pareira: Must get on knees and press hard to void urine"
+  },
+  {
+    "rubric": "Children – cries before urination",
+    "grading": {
+      "High": ["Sarsaparilla", "Lycopodium"],
+      "Medium": ["Borax", "Chamomilla"],
+      "Low": ["Sulphur", "Sepia"]
+    },
+    "modality": "Worse at night or during teething",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Lycopodium: Red sand in diaper; child screams before urination"
+  },
+  {
+    "rubric": "Urine – stains diaper – reddish or orange",
+    "grading": {
+      "High": ["Lycopodium"],
+      "Medium": ["Sarsaparilla", "Benzoic acid"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Worse after rich food or sweets",
+    "miasm": ["Sycotic"],
+    "notes": "Lycopodium: Brick-dust sediment in urine; classic child rubric"
+  },
+  {
+    "rubric": "Urine – dark brown or blackish",
+    "grading": {
+      "High": ["Terebinth", "Ars alb"],
+      "Medium": ["Lachesis", "Merc sol"],
+      "Low": ["Phosphorus", "Crotalus"]
+    },
+    "modality": "Worse in septic conditions or advanced kidney damage",
+    "miasm": ["Syphilitic"],
+    "notes": "Terebinth: Coffee-ground appearance with albumin"
+  },
+  {
+    "rubric": "Urine – green or bilious",
+    "grading": {
+      "High": ["Chelidonium"],
+      "Medium": ["Berberis", "Podophyllum"],
+      "Low": ["Merc sol", "Lycopodium"]
+    },
+    "modality": "Worse in liver disorders or biliary obstruction",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Chelidonium: Urine green, bitter taste in mouth, liver pain"
+  },
+  {
+    "rubric": "Urine – pale and watery",
+    "grading": {
+      "High": ["Phosphoric acid", "China"],
+      "Medium": ["Silicea", "Phosphorus"],
+      "Low": ["Kali phos"]
+    },
+    "modality": "Worse from exhaustion, grief, or brain fag",
+    "miasm": ["Psora"],
+    "notes": "Ph-acid: Pale, profuse urine with debility and apathy"
+  },
+  {
+    "rubric": "Incontinence – elderly – during sleep or movement",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Baryta carb", "Gelsemium"],
+      "Low": ["Sulphur", "Alumina"]
+    },
+    "modality": "Worse at night, cold air, or unconsciousness",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Baryta carb: Weak bladder, senile dribbling"
+  },
+  {
+    "rubric": "Urination – delayed start – hesitancy",
+    "grading": {
+      "High": ["Conium", "Clematis"],
+      "Medium": ["Sabal serrulata", "Baryta carb"],
+      "Low": ["Merc sol", "Cannabis sativa"]
+    },
+    "modality": "Worse from prostate issues or anxiety",
+    "miasm": ["Sycotic"],
+    "notes": "Conium: Difficulty initiating flow; interrupted stream"
+  },
+  {
+    "rubric": "Bladder pain – with anxiety or nervousness",
+    "grading": {
+      "High": ["Staphysagria", "Cantharis"],
+      "Medium": ["Gelsemium", "Nux vomica"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse after emotional suppression or humiliation",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Staphysagria: Post-coital bladder discomfort; sensitive people"
+  },
+  {
+    "rubric": "Post-catheter – pain or inability to void",
+    "grading": {
+      "High": ["Arnica", "Staphysagria"],
+      "Medium": ["Causticum", "Opium"],
+      "Low": ["Belladonna"]
+    },
+    "modality": "Worse after instrumentation or surgery",
+    "miasm": ["Syphilitic"],
+    "notes": "Arnica: Trauma-induced urinary difficulty with soreness"
+  },
+  {
+    "rubric": "Urination – coldness or chills during flow",
+    "grading": {
+      "High": ["Silicea"],
+      "Medium": ["Sepia", "Gelsemium"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse at night or after lying down",
+    "miasm": ["Psora"],
+    "notes": "Silicea: Chilliness felt down spine while urinating"
+  },
+  {
+    "rubric": "Urine – retention – in newborns",
+    "grading": {
+      "High": ["Aconite", "Belladonna"],
+      "Medium": ["Chamomilla", "Opium"],
+      "Low": ["Sulphur", "Sambucus"]
+    },
+    "modality": "Worse after birth trauma or exposure to cold",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Aconite: Sudden suppression after fright or chill; restless infant"
+  },
+  {
+    "rubric": "Urine – suppression – after delivery",
+    "grading": {
+      "High": ["Causticum", "Belladonna"],
+      "Medium": ["Arnica", "Pulsatilla"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "Worse after prolonged labor or catheter use",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Causticum: Weak bladder tone post-delivery, inability to void"
+  },
+  {
+    "rubric": "Urinary complaints – during pregnancy",
+    "grading": {
+      "High": ["Sepia", "Pulsatilla"],
+      "Medium": ["Nat mur", "Causticum"],
+      "Low": ["Belladonna", "Staphysagria"]
+    },
+    "modality": "Worse in first trimester; worse standing or walking",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Sepia: Urine escapes with cough, sneeze, or laugh; pelvic heaviness"
+  },
+  {
+    "rubric": "Urine – scanty – during fever",
+    "grading": {
+      "High": ["Apis", "Belladonna"],
+      "Medium": ["Bryonia", "Gelsemium"],
+      "Low": ["China", "Arsenicum"]
+    },
+    "modality": "Worse in high fevers with dry skin; dehydration",
+    "miasm": ["Psora"],
+    "notes": "Apis: Dry skin, thirstless, scanty urine in fever"
+  },
+  {
+    "rubric": "Urine – albuminous – in tuberculosis",
+    "grading": {
+      "High": ["Phosphorus", "Tuberculinum"],
+      "Medium": ["Arsenicum", "Terebinth"],
+      "Low": ["China", "Lycopodium"]
+    },
+    "modality": "Worse in late-stage TB or emaciation",
+    "miasm": ["Tubercular", "Syphilitic"],
+    "notes": "Phosphorus: Pale, albuminous urine in advanced phthisis"
+  },
+  {
+    "rubric": "Urine – retention – after trauma or fracture",
+    "grading": {
+      "High": ["Arnica", "Opium"],
+      "Medium": ["Hypericum", "Belladonna"],
+      "Low": ["Nux vomica", "Ruta"]
+    },
+    "modality": "Worse from shock, injury to spine or pelvis",
+    "miasm": ["Syphilitic"],
+    "notes": "Opium: No desire or sensation to urinate after shock"
+  },
+  {
+    "rubric": "Urine – black – in hemorrhagic fevers or cancer",
+    "grading": {
+      "High": ["Crotalus", "Arsenicum"],
+      "Medium": ["Terebinth", "Lachesis"],
+      "Low": ["Carbo veg"]
+    },
+    "modality": "Worse with internal bleeding, sepsis, or malignancy",
+    "miasm": ["Syphilitic"],
+    "notes": "Crotalus: Hemorrhagic black urine in toxic or septic states"
+  },
+  {
+    "rubric": "Urine – offensive – in cancer cases",
+    "grading": {
+      "High": ["Nitric acid", "Carbo animalis"],
+      "Medium": ["Kreosotum", "Arsenicum"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse in uterine or bladder cancer; later stages",
+    "miasm": ["Syphilitic"],
+    "notes": "Nit-acid: Corrosive odor, putrid urine in malignancy"
+  },
+  {
+    "rubric": "Urine – drops out unnoticed",
+    "grading": {
+      "High": ["Causticum", "Pulsatilla"],
+      "Medium": ["Sepia", "Ferrum phos"],
+      "Low": ["Silicea", "Gelsemium"]
+    },
+    "modality": "Worse walking, coughing, laughing",
+    "miasm": ["Psora"],
+    "notes": "Pulsatilla: Involuntary loss while walking or after emotions"
+  },
+  {
+    "rubric": "Urine – corroding, causes skin irritation",
+    "grading": {
+      "High": ["Nitric acid", "Sulphur"],
+      "Medium": ["Cantharis", "Arsenicum"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Worse in sensitive skin, in infants or aged",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Nitric acid: Excoriation around genitals due to acrid urine"
+  },
+  {
+    "rubric": "Urine – involuntary – from paralysis or stroke",
+    "grading": {
+      "High": ["Causticum", "Opium"],
+      "Medium": ["Gelsemium", "Belladonna"],
+      "Low": ["Conium", "Arnica"]
+    },
+    "modality": "Worse in elderly, post-hemiplegia or post-surgical cases",
+    "miasm": ["Syphilitic"],
+    "notes": "Opium: No urge; passive dribbling with complete unconsciousness"
+  },
+  {
+    "rubric": "Urination – fear or anxiety before urinating",
+    "grading": {
+      "High": ["Argentum nitricum"],
+      "Medium": ["Gelsemium", "Staphysagria"],
+      "Low": ["Baryta carb"]
+    },
+    "modality": "Worse in public places, exams, or emotional tension",
+    "miasm": ["Psora"],
+    "notes": "Arg-nit: Nervous bladder, frequent urge before public events"
+  },
+  {
+    "rubric": "Urine – cold sensation while passing",
+    "grading": {
+      "High": ["Silicea"],
+      "Medium": ["Sepia", "Phosphorus"],
+      "Low": ["Gelsemium"]
+    },
+    "modality": "Worse at night or in chilly climates",
+    "miasm": ["Psora"],
+    "notes": "Silicea: Chilliness down the spine during urination"
+  },
+  {
+    "rubric": "Urine – thick, ropy, mucous",
+    "grading": {
+      "High": ["Kali bichromicum"],
+      "Medium": ["Merc sol", "Petroselinum"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Worse in chronic catarrhal or gonorrheal states",
+    "miasm": ["Sycotic"],
+    "notes": "Kali-bi: Tenacious mucus in urine; burning pain"
+  },
+  {
+    "rubric": "Urine – offensive – like decomposed meat",
+    "grading": {
+      "High": ["Benzoic acid"],
+      "Medium": ["Nitric acid", "Sepia"],
+      "Low": ["Kreosotum"]
+    },
+    "modality": "Worse after protein-rich diet; metabolic states",
+    "miasm": ["Sycotic"],
+    "notes": "Benzoic acid: Highly offensive, pungent urine with sediment"
+  },
+  {
+    "rubric": "Urination – interrupted – must wait for flow to resume",
+    "grading": {
+      "High": ["Clematis", "Conium"],
+      "Medium": ["Baryta carb", "Sabal serrulata"],
+      "Low": ["Berberis", "Lycopodium"]
+    },
+    "modality": "Worse in elderly or with prostate enlargement",
+    "miasm": ["Sycotic"],
+    "notes": "Clematis: Flow stops and starts again; incomplete emptying"
+  },
+  {
+    "rubric": "Urination – relieved by kneeling or pressing abdomen",
+    "grading": {
+      "High": ["Pareira brava"],
+      "Medium": ["Chimaphila", "Sabal serrulata"],
+      "Low": ["Berberis"]
+    },
+    "modality": "Worse standing; better leaning forward or kneeling",
+    "miasm": ["Sycotic"],
+    "notes": "Pareira: Must get on all fours to pass urine"
+  },
+  {
+    "rubric": "Urination – cutting pain in urethra during flow",
+    "grading": {
+      "High": ["Cantharis"],
+      "Medium": ["Sarsaparilla", "Nitric acid"],
+      "Low": ["Petroselinum"]
+    },
+    "modality": "Worse at end of urination; worse after coition",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Intense pain with drop-by-drop urination"
+  },
+  {
+    "rubric": "Urination – clear, profuse – with great debility",
+    "grading": {
+      "High": ["Phosphoric acid", "China"],
+      "Medium": ["Silicea", "Lactic acid"],
+      "Low": ["Natrum muriaticum"]
+    },
+    "modality": "Worse from overwork, grief, or loss of fluids",
+    "miasm": ["Psora"],
+    "notes": "Ph-acid: Frequent, colorless urine with mental indifference"
+  },
+  {
+    "rubric": "Urine – burning at meatus only",
+    "grading": {
+      "High": ["Sarsaparilla"],
+      "Medium": ["Equisetum", "Petroselinum"],
+      "Low": ["Cannabis sativa"]
+    },
+    "modality": "Worse after urination; worse from cold drinks",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Child cries when last drops pass due to pain at meatus"
+  },
+  {
+    "rubric": "Urination – frequent – day and night",
+    "grading": {
+      "High": ["Lycopodium", "Phosphorus", "Equisetum"],
+      "Medium": ["Sulphur", "Sepia", "Sarsaparilla"],
+      "Low": ["Silicea", "Uva ursi"]
+    },
+    "modality": "Worse at night, after walking or standing; better lying down",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Equisetum: Urging and fullness even after urination"
+  },
+  {
+    "rubric": "Urination – burning pain",
+    "grading": {
+      "High": ["Cantharis", "Sarsaparilla", "Apis"],
+      "Medium": ["Nitric acid", "Terebinth", "Arsenicum"],
+      "Low": ["Equisetum", "Sulphur"]
+    },
+    "modality": "Worse during and after urination; worse from spicy food",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Extreme burning before, during, and after"
+  },
+  {
+    "rubric": "Urine – involuntary – dribbling",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Equisetum", "Gelsemium"],
+      "Low": ["Secale", "Ferrum phos"]
+    },
+    "modality": "Worse at night, while sneezing, coughing or walking",
+    "miasm": ["Syphilitic"],
+    "notes": "Causticum: Incontinence during laughter or exertion"
+  },
+  {
+    "rubric": "Urine – retention – cannot pass despite urging",
+    "grading": {
+      "High": ["Belladonna", "Causticum"],
+      "Medium": ["Nux vomica", "Conium"],
+      "Low": ["Opium", "Hyoscyamus"]
+    },
+    "modality": "Worse after surgery, childbirth or emotional shock",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Belladonna: Sensation of full bladder with no flow"
+  },
+  {
+    "rubric": "Urging – constant – with scanty urine",
+    "grading": {
+      "High": ["Cantharis", "Staphysagria"],
+      "Medium": ["Equisetum", "Mercurius", "Sarsaparilla"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse from movement, touch or standing",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Urging with drop-by-drop urination"
+  },
+  {
+    "rubric": "Hematuria – blood in urine",
+    "grading": {
+      "High": ["Terebinth", "Cantharis"],
+      "Medium": ["Lachesis", "Nitric acid"],
+      "Low": ["Ipecac", "Crotalus"]
+    },
+    "modality": "Worse on exertion or after trauma",
+    "miasm": ["Syphilitic"],
+    "notes": "Terebinth: Smoky, coffee-ground appearance"
+  },
+  {
+    "rubric": "Enuresis – bedwetting in children",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Sepia", "Sulphur"],
+      "Low": ["Tuberculinum", "Equisetum"]
+    },
+    "modality": "Worse in first sleep; worse from cold; worse during dreams",
+    "miasm": ["Psora"],
+    "notes": "Causticum: Involuntary urine in early night sleep"
+  },
+  {
+    "rubric": "Pain – urination – end of urination",
+    "grading": {
+      "High": ["Sarsaparilla"],
+      "Medium": ["Berberis vulgaris", "Equisetum"],
+      "Low": ["Cannabis sativa", "Nitric acid"]
+    },
+    "modality": "Pain worse at end of urination; better standing",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Must stand to urinate, pain after flow ends"
+  },
+  {
+    "rubric": "Urine – odor – offensive, strong smell",
+    "grading": {
+      "High": ["Benzoic acid"],
+      "Medium": ["Sepia", "Nitric acid"],
+      "Low": ["Sulphur", "Lycopodium"]
+    },
+    "modality": "Worse after physical exertion or meat consumption",
+    "miasm": ["Sycotic"],
+    "notes": "Benzoic acid: Extremely offensive, horse-like smell"
+  },
+  {
+    "rubric": "Urine – cloudy – with sediment",
+    "grading": {
+      "High": ["Lycopodium", "Sepia"],
+      "Medium": ["Berberis vulgaris", "Calcarea phosphorica"],
+      "Low": ["Sulphur", "Sarsaparilla"]
+    },
+    "modality": "Worse after meals, exposure to cold",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Lycopodium: Red sand or brick-dust sediment"
+  },
+  {
+    "rubric": "Urination – suppressed – no desire or flow",
+    "grading": {
+      "High": ["Opium", "Belladonna"],
+      "Medium": ["Stramonium", "Hyoscyamus"],
+      "Low": ["Camphora", "Arnica"]
+    },
+    "modality": "Worse after surgical shock, trauma, or fear",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Opium: No urge even though bladder is full; painless retention"
+  },
+  {
+    "rubric": "Urination – scanty – drops only",
+    "grading": {
+      "High": ["Apis", "Cantharis"],
+      "Medium": ["Nitric acid", "Digitalis"],
+      "Low": ["Helleborus", "Nux vomica"]
+    },
+    "modality": "Worse from heat, after lying down, or suppressed emotions",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Apis: Urine scanty, dark; patient thirstless and edematous"
+  },
+  {
+    "rubric": "Urine – albuminous – proteinuria",
+    "grading": {
+      "High": ["Arsenicum album", "Phosphorus"],
+      "Medium": ["Terebinth", "Mercurius"],
+      "Low": ["Plumbum", "Kali chloricum"]
+    },
+    "modality": "Worse in nephrotic or post-scarlatinal conditions",
+    "miasm": ["Syphilitic"],
+    "notes": "Arsenicum: Pale, albuminous urine with burning and prostration"
+  },
+  {
+    "rubric": "Urine – milky or foamy appearance",
+    "grading": {
+      "High": ["Phosphorus", "Calcarea phosphorica"],
+      "Medium": ["Benzoic acid", "Mercurius"],
+      "Low": ["China", "Nitric acid"]
+    },
+    "modality": "Worse after high protein intake; worse after exertion",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Phosphorus: Urine foamy, rich in phosphates; tendency to diabetes"
+  },
+  {
+    "rubric": "Urination – interrupted stream",
+    "grading": {
+      "High": ["Clematis", "Conium"],
+      "Medium": ["Sabal serrulata", "Pareira brava"],
+      "Low": ["Sarsaparilla"]
+    },
+    "modality": "Worse during prostate enlargement or bladder spasm",
+    "miasm": ["Sycotic"],
+    "notes": "Clematis: Urine flows and stops suddenly, must strain again"
+  },
+  {
+    "rubric": "Prostatic enlargement – with urinary issues",
+    "grading": {
+      "High": ["Sabal serrulata", "Conium"],
+      "Medium": ["Baryta carb", "Chimaphila"],
+      "Low": ["Digitalis", "Ferrum picricum"]
+    },
+    "modality": "Worse at night; worse from cold or sitting long hours",
+    "miasm": ["Sycotic", "Syphilitic"],
+    "notes": "Sabal: Dribbling, incomplete urination with enlarged prostate"
+  },
+  {
+    "rubric": "Urination – painful – in diabetics",
+    "grading": {
+      "High": ["Phosphoric acid", "Phosphorus"],
+      "Medium": ["Lactic acid", "Syzygium jambolanum"],
+      "Low": ["Uranium nitricum"]
+    },
+    "modality": "Worse during exertion; worse from fasting or stress",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Ph-acid: Polyuria with debility and burning in diabetics"
+  },
+  {
+    "rubric": "Urine – excessive – with thirst (Polyuria)",
+    "grading": {
+      "High": ["Phosphorus", "Syzygium jambolanum", "Ph-ac"],
+      "Medium": ["Apis", "Secale"],
+      "Low": ["Acetic acid", "China"]
+    },
+    "modality": "Worse at night; worse from sweets or starches",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Phosphorus: High thirst, frequent pale urine, sugar in urine"
+  },
+  {
+    "rubric": "Urine – brick dust sediment",
+    "grading": {
+      "High": ["Lycopodium"],
+      "Medium": ["Sarsaparilla", "Benzoic acid"],
+      "Low": ["Sulphur", "Sepia"]
+    },
+    "modality": "Worse after rich food, sedentary life",
+    "miasm": ["Sycotic"],
+    "notes": "Lycopodium: Red sandy deposit, child screams before urinating"
+  },
+  {
+    "rubric": "Urination – painful straining – before flow",
+    "grading": {
+      "High": ["Equisetum", "Cantharis"],
+      "Medium": ["Nux vomica", "Berberis"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse from cold exposure; worse sitting",
+    "miasm": ["Sycotic"],
+    "notes": "Equisetum: Constant desire, little passed, with pain before"
+  },
+  {
+    "rubric": "Urethritis – painful inflammation of urethra",
+    "grading": {
+      "High": ["Cannabis sativa", "Cantharis"],
+      "Medium": ["Petroselinum", "Thuja"],
+      "Low": ["Mercurius sol", "Sulphur"]
+    },
+    "modality": "Worse during urination; worse after coition or exposure to cold",
+    "miasm": ["Sycotic"],
+    "notes": "Cannabis sativa: Burning, cutting pain in urethra; frequent urging"
+  },
+  {
+    "rubric": "Cystitis – acute bladder infection",
+    "grading": {
+      "High": ["Cantharis", "Equisetum"],
+      "Medium": ["Apis", "Berberis vulgaris"],
+      "Low": ["Sulphur", "Staphysagria"]
+    },
+    "modality": "Worse after exposure to cold or suppression of urine",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Violent burning with constant, fruitless urging"
+  },
+  {
+    "rubric": "Pain – urination – scalding or burning",
+    "grading": {
+      "High": ["Cantharis", "Sarsaparilla"],
+      "Medium": ["Apis", "Nitric acid"],
+      "Low": ["Equisetum", "Arsenicum"]
+    },
+    "modality": "Worse before, during, and after urination",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Pain most severe at end of urination"
+  },
+  {
+    "rubric": "Renal colic – pain during stone passage",
+    "grading": {
+      "High": ["Berberis vulgaris", "Colocynthis"],
+      "Medium": ["Cantharis", "Pareira brava"],
+      "Low": ["Ocimum canum", "Lycopodium"]
+    },
+    "modality": "Worse from motion, better bending forward or lying curled up",
+    "miasm": ["Syphilitic"],
+    "notes": "Berberis: Radiating pain from kidney to bladder and thighs"
+  },
+  {
+    "rubric": "Urination – painful – extending to thighs or back",
+    "grading": {
+      "High": ["Berberis vulgaris"],
+      "Medium": ["Pareira brava", "Cannabis indica"],
+      "Low": ["Sarsaparilla", "Nux vomica"]
+    },
+    "modality": "Worse after walking or pressure",
+    "miasm": ["Sycotic"],
+    "notes": "Pareira: Must kneel and strain to urinate, pain radiates to thighs"
+  },
+  {
+    "rubric": "Urine – bloody – with clots",
+    "grading": {
+      "High": ["Terebinth", "Hamamelis"],
+      "Medium": ["Cantharis", "Crotalus"],
+      "Low": ["Ipecac", "Phosphorus"]
+    },
+    "modality": "Worse during urination; worse from trauma or overexertion",
+    "miasm": ["Syphilitic"],
+    "notes": "Hamamelis: Dark blood in urine, painless but profuse"
+  },
+  {
+    "rubric": "Bladder – weakness – cannot hold urine",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Equisetum", "Ferrum phos"],
+      "Low": ["Gelsemium", "Rhus tox"]
+    },
+    "modality": "Worse during cough, laughter, or excitement",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Causticum: Involuntary urination from slightest excitement or exertion"
+  },
+  {
+    "rubric": "Bladder – paralysis – post-labor or surgery",
+    "grading": {
+      "High": ["Belladonna", "Causticum"],
+      "Medium": ["Conium", "Opium"],
+      "Low": ["Arnica", "Gelsemium"]
+    },
+    "modality": "Worse from inactivity, anesthesia or trauma",
+    "miasm": ["Syphilitic"],
+    "notes": "Belladonna: Sensation of fullness but no ability to urinate"
+  },
+  {
+    "rubric": "Urine – sandy, gritty sediment",
+    "grading": {
+      "High": ["Lycopodium", "Sarsaparilla"],
+      "Medium": ["Berberis", "Cantharis"],
+      "Low": ["Sepia", "Ocimum"]
+    },
+    "modality": "Worse after rich food, better from warm drinks",
+    "miasm": ["Sycotic"],
+    "notes": "Lycopodium: Red sand sediment in diaper or urine pot"
+  },
+  {
+    "rubric": "Urination – strain – must press or bend to pass",
+    "grading": {
+      "High": ["Pareira brava"],
+      "Medium": ["Chimaphila", "Sabal serrulata"],
+      "Low": ["Conium", "Cannabis sativa"]
+    },
+    "modality": "Worse sitting; better kneeling forward with pressure",
+    "miasm": ["Sycotic"],
+    "notes": "Pareira: Must get on knees and press hard to void urine"
+  },
+  {
+    "rubric": "Children – cries before urination",
+    "grading": {
+      "High": ["Sarsaparilla", "Lycopodium"],
+      "Medium": ["Borax", "Chamomilla"],
+      "Low": ["Sulphur", "Sepia"]
+    },
+    "modality": "Worse at night or during teething",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Lycopodium: Red sand in diaper; child screams before urination"
+  },
+  {
+    "rubric": "Urine – stains diaper – reddish or orange",
+    "grading": {
+      "High": ["Lycopodium"],
+      "Medium": ["Sarsaparilla", "Benzoic acid"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Worse after rich food or sweets",
+    "miasm": ["Sycotic"],
+    "notes": "Lycopodium: Brick-dust sediment in urine; classic child rubric"
+  },
+  {
+    "rubric": "Urine – dark brown or blackish",
+    "grading": {
+      "High": ["Terebinth", "Ars alb"],
+      "Medium": ["Lachesis", "Merc sol"],
+      "Low": ["Phosphorus", "Crotalus"]
+    },
+    "modality": "Worse in septic conditions or advanced kidney damage",
+    "miasm": ["Syphilitic"],
+    "notes": "Terebinth: Coffee-ground appearance with albumin"
+  },
+  {
+    "rubric": "Urine – green or bilious",
+    "grading": {
+      "High": ["Chelidonium"],
+      "Medium": ["Berberis", "Podophyllum"],
+      "Low": ["Merc sol", "Lycopodium"]
+    },
+    "modality": "Worse in liver disorders or biliary obstruction",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Chelidonium: Urine green, bitter taste in mouth, liver pain"
+  },
+  {
+    "rubric": "Urine – pale and watery",
+    "grading": {
+      "High": ["Phosphoric acid", "China"],
+      "Medium": ["Silicea", "Phosphorus"],
+      "Low": ["Kali phos"]
+    },
+    "modality": "Worse from exhaustion, grief, or brain fag",
+    "miasm": ["Psora"],
+    "notes": "Ph-acid: Pale, profuse urine with debility and apathy"
+  },
+  {
+    "rubric": "Incontinence – elderly – during sleep or movement",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Baryta carb", "Gelsemium"],
+      "Low": ["Sulphur", "Alumina"]
+    },
+    "modality": "Worse at night, cold air, or unconsciousness",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Baryta carb: Weak bladder, senile dribbling"
+  },
+  {
+    "rubric": "Urination – delayed start – hesitancy",
+    "grading": {
+      "High": ["Conium", "Clematis"],
+      "Medium": ["Sabal serrulata", "Baryta carb"],
+      "Low": ["Merc sol", "Cannabis sativa"]
+    },
+    "modality": "Worse from prostate issues or anxiety",
+    "miasm": ["Sycotic"],
+    "notes": "Conium: Difficulty initiating flow; interrupted stream"
+  },
+  {
+    "rubric": "Bladder pain – with anxiety or nervousness",
+    "grading": {
+      "High": ["Staphysagria", "Cantharis"],
+      "Medium": ["Gelsemium", "Nux vomica"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse after emotional suppression or humiliation",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Staphysagria: Post-coital bladder discomfort; sensitive people"
+  },
+  {
+    "rubric": "Post-catheter – pain or inability to void",
+    "grading": {
+      "High": ["Arnica", "Staphysagria"],
+      "Medium": ["Causticum", "Opium"],
+      "Low": ["Belladonna"]
+    },
+    "modality": "Worse after instrumentation or surgery",
+    "miasm": ["Syphilitic"],
+    "notes": "Arnica: Trauma-induced urinary difficulty with soreness"
+  },
+  {
+    "rubric": "Urination – coldness or chills during flow",
+    "grading": {
+      "High": ["Silicea"],
+      "Medium": ["Sepia", "Gelsemium"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse at night or after lying down",
+    "miasm": ["Psora"],
+    "notes": "Silicea: Chilliness felt down spine while urinating"
+  },
+  {
+    "rubric": "Urine – retention – in newborns",
+    "grading": {
+      "High": ["Aconite", "Belladonna"],
+      "Medium": ["Chamomilla", "Opium"],
+      "Low": ["Sulphur", "Sambucus"]
+    },
+    "modality": "Worse after birth trauma or exposure to cold",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Aconite: Sudden suppression after fright or chill; restless infant"
+  },
+  {
+    "rubric": "Urine – suppression – after delivery",
+    "grading": {
+      "High": ["Causticum", "Belladonna"],
+      "Medium": ["Arnica", "Pulsatilla"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "Worse after prolonged labor or catheter use",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Causticum: Weak bladder tone post-delivery, inability to void"
+  },
+  {
+    "rubric": "Urinary complaints – during pregnancy",
+    "grading": {
+      "High": ["Sepia", "Pulsatilla"],
+      "Medium": ["Natrum mur", "Causticum"],
+      "Low": ["Belladonna", "Staphysagria"]
+    },
+    "modality": "Worse in first trimester; worse standing or walking",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Sepia: Urine escapes with cough, sneeze, or laugh; pelvic heaviness"
+  },
+  {
+    "rubric": "Urine – scanty – during fever",
+    "grading": {
+      "High": ["Apis", "Belladonna"],
+      "Medium": ["Bryonia", "Gelsemium"],
+      "Low": ["China", "Arsenicum"]
+    },
+    "modality": "Worse in high fevers with dry skin; dehydration",
+    "miasm": ["Psora"],
+    "notes": "Apis: Dry skin, thirstless, scanty urine in fever"
+  },
+  {
+    "rubric": "Urine – albuminous – in tuberculosis",
+    "grading": {
+      "High": ["Phosphorus", "Tuberculinum"],
+      "Medium": ["Arsenicum", "Terebinth"],
+      "Low": ["China", "Lycopodium"]
+    },
+    "modality": "Worse in late-stage TB or emaciation",
+    "miasm": ["Tubercular", "Syphilitic"],
+    "notes": "Phosphorus: Pale, albuminous urine in advanced phthisis"
+  },
+  {
+    "rubric": "Urine – retention – after trauma or fracture",
+    "grading": {
+      "High": ["Arnica", "Opium"],
+      "Medium": ["Hypericum", "Belladonna"],
+      "Low": ["Nux vomica", "Ruta"]
+    },
+    "modality": "Worse from shock, injury to spine or pelvis",
+    "miasm": ["Syphilitic"],
+    "notes": "Opium: No desire or sensation to urinate after shock"
+  },
+  {
+    "rubric": "Urine – black – in hemorrhagic fevers or cancer",
+    "grading": {
+      "High": ["Crotalus", "Arsenicum"],
+      "Medium": ["Terebinth", "Lachesis"],
+      "Low": ["Carbo veg"]
+    },
+    "modality": "Worse with internal bleeding, sepsis, or malignancy",
+    "miasm": ["Syphilitic"],
+    "notes": "Crotalus: Hemorrhagic black urine in toxic or septic states"
+  },
+  {
+    "rubric": "Urine – offensive – in cancer cases",
+    "grading": {
+      "High": ["Nitric acid", "Carbo animalis"],
+      "Medium": ["Kreosotum", "Arsenicum"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse in uterine or bladder cancer; later stages",
+    "miasm": ["Syphilitic"],
+    "notes": "Nit-acid: Corrosive odor, putrid urine in malignancy"
+  },
+  {
+    "rubric": "Urine – drops out unnoticed",
+    "grading": {
+      "High": ["Causticum", "Pulsatilla"],
+      "Medium": ["Sepia", "Ferrum phos"],
+      "Low": ["Silicea", "Gelsemium"]
+    },
+    "modality": "Worse walking, coughing, laughing",
+    "miasm": ["Psora"],
+    "notes": "Pulsatilla: Involuntary loss while walking or after emotions"
+  },
+  {
+    "rubric": "Urine – corroding, causes skin irritation",
+    "grading": {
+      "High": ["Nitric acid", "Sulphur"],
+      "Medium": ["Cantharis", "Arsenicum"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Worse in sensitive skin, in infants or aged",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Nitric acid: Excoriation around genitals due to acrid urine"
+  },
+  {
+    "rubric": "Urination – painful – in infants (cries while urinating)",
+    "grading": {
+      "High": ["Sarsaparilla", "Borax"],
+      "Medium": ["Chamomilla", "Equisetum"],
+      "Low": ["Lycopodium"]
+    },
+    "modality": "Worse before and during urination",
+    "miasm": ["Psora"],
+    "notes": "Sarsaparilla: Severe pain at end of urination; child cries out"
+  },
+  {
+    "rubric": "Urine – passed only when standing",
+    "grading": {
+      "High": ["Sarsaparilla", "Sepia"],
+      "Medium": ["Equisetum", "Berberis"],
+      "Low": ["Cannabis sativa"]
+    },
+    "modality": "Better standing; worse sitting or lying down",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Can only pass urine when standing erect"
+  },
+  {
+    "rubric": "Urine – passed drop by drop – with pain",
+    "grading": {
+      "High": ["Cantharis", "Petroselinum"],
+      "Medium": ["Sarsaparilla", "Equisetum"],
+      "Low": ["Merc sol", "Berberis"]
+    },
+    "modality": "Worse with tenesmus; worse after coition or walking",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Painful drop-by-drop urination with intense burning"
+  },
+  {
+    "rubric": "Urine – offensive – in children",
+    "grading": {
+      "High": ["Benzoic acid", "Sulphur"],
+      "Medium": ["Psorinum", "Calcarea carb"],
+      "Low": ["Sepia", "Kreosotum"]
+    },
+    "modality": "Worse at night or after rich food",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Benzoic acid: Offensive urine, staining diaper brown or yellow"
+  },
+  {
+    "rubric": "Urination – frequent – from nervousness",
+    "grading": {
+      "High": ["Argentum nitricum", "Gelsemium"],
+      "Medium": ["Staphysagria", "Pulsatilla"],
+      "Low": ["Baryta carb"]
+    },
+    "modality": "Worse before public speaking, travel, anxiety",
+    "miasm": ["Psora"],
+    "notes": "Arg-nit: Frequent urging before exams, public events"
+  },
+  {
+    "rubric": "Urination – involuntary – during laughter or cough",
+    "grading": {
+      "High": ["Causticum", "Sepia"],
+      "Medium": ["Pulsatilla", "Ferrum phos"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse during exertion, laughter, pregnancy",
+    "miasm": ["Psora"],
+    "notes": "Sepia: Pelvic floor weakness, stress incontinence"
+  },
+  {
+    "rubric": "Urination – frequent – during menses",
+    "grading": {
+      "High": ["Pulsatilla", "Sepia"],
+      "Medium": ["Graphites", "Calcarea carb"],
+      "Low": ["Nux vomica", "Natrum mur"]
+    },
+    "modality": "Worse during menstruation or hormonal changes",
+    "miasm": ["Sycotic"],
+    "notes": "Pulsatilla: Urine dark, frequent, painful during periods"
+  },
+  {
+    "rubric": "Urination – pain – before, during, and after",
+    "grading": {
+      "High": ["Cantharis", "Equisetum"],
+      "Medium": ["Sarsaparilla", "Staphysagria"],
+      "Low": ["Merc sol", "Petroselinum"]
+    },
+    "modality": "Worse from movement or emotional stress",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Pain with burning at all stages of urination"
+  },
+  {
+    "rubric": "Urination – dribbling – in boys (phimosis or stricture)",
+    "grading": {
+      "High": ["Petroselinum", "Thuja"],
+      "Medium": ["Cannabis sativa", "Staphysagria"],
+      "Low": ["Calcarea carb"]
+    },
+    "modality": "Worse after foreskin retraction or irritation",
+    "miasm": ["Sycotic"],
+    "notes": "Petroselinum: Dribbling, burning, itching of glans and urethra"
+  },
+  {
+    "rubric": "Urine – stains linen – yellow or brown",
+    "grading": {
+      "High": ["Nitric acid", "Benzoic acid"],
+      "Medium": ["Sepia", "Sulphur"],
+      "Low": ["Lycopodium"]
+    },
+    "modality": "Worse after sweets, meats, or rich food",
+    "miasm": ["Sycotic"],
+    "notes": "Benzoic acid: Highly staining, pungent, brownish urine"
+  },
+  {
+    "rubric": "Urine – passed in sleep without awareness",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Sepia", "Equisetum"],
+      "Low": ["Ferrum phos", "Sulphur"]
+    },
+    "modality": "Worse first sleep, in dreams, or from fear",
+    "miasm": ["Psora"],
+    "notes": "Causticum: Enuresis with vivid dreams or laughter"
+  },
+  {
+    "rubric": "Urine – bloody – with burning and tenesmus",
+    "grading": {
+      "High": ["Cantharis", "Terebinth"],
+      "Medium": ["Nitric acid", "Berberis"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse during urination; worse from movement",
+    "miasm": ["Syphilitic"],
+    "notes": "Cantharis: Raw burning pain with bloody, scanty urine"
+  },
+  {
+    "rubric": "Urine – sediment – pink or red, sand-like",
+    "grading": {
+      "High": ["Lycopodium"],
+      "Medium": ["Sarsaparilla", "Benzoic acid"],
+      "Low": ["Sulphur", "Sepia"]
+    },
+    "modality": "Worse sedentary lifestyle; better motion",
+    "miasm": ["Sycotic"],
+    "notes": "Lycopodium: Brick-dust sediment in urine or diaper"
+  },
+  {
+    "rubric": "Urination – pain – deep in bladder",
+    "grading": {
+      "High": ["Berberis", "Pareira brava"],
+      "Medium": ["Cantharis", "Equisetum"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse from walking or riding",
+    "miasm": ["Sycotic"],
+    "notes": "Berberis: Pain extending from kidneys to bladder"
+  },
+  {
+    "rubric": "Urine – drops on sneezing or laughing",
+    "grading": {
+      "High": ["Sepia", "Causticum"],
+      "Medium": ["Pulsatilla", "Kreosotum"],
+      "Low": ["Gelsemium"]
+    },
+    "modality": "Worse in women after childbirth or menopause",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Sepia: Pelvic organ weakness, prolapse, stress incontinence"
+  },
+  {
+    "rubric": "Urine – fishy or ammoniacal odor",
+    "grading": {
+      "High": ["Benzoic acid"],
+      "Medium": ["Nitric acid", "Sepia"],
+      "Low": ["Sulphur", "Lycopodium"]
+    },
+    "modality": "Worse after meat or eggs; worse chronic kidney",
+    "miasm": ["Sycotic"],
+    "notes": "Benzoic acid: Strong-smelling, foul, pungent urine"
+  },
+  {
+    "rubric": "Urine – bloody – during menopause",
+    "grading": {
+      "High": ["Sepia", "Kreosotum"],
+      "Medium": ["Lachesis", "Phosphorus"],
+      "Low": ["Sulphur", "Terebinth"]
+    },
+    "modality": "Worse during climacteric, heat flushes, anxiety",
+    "miasm": ["Syphilitic", "Sycotic"],
+    "notes": "Kreosotum: Corrosive bleeding with burning in bladder"
+  },
+  {
+    "rubric": "Urination – burning – after coition",
+    "grading": {
+      "High": ["Staphysagria", "Cannabis sativa"],
+      "Medium": ["Petroselinum", "Sepia"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse after suppressed emotions or sexual excess",
+    "miasm": ["Sycotic"],
+    "notes": "Staphysagria: Pain, burning, shame after intercourse"
+  },
+  {
+    "rubric": "Urine – passed slowly – weak stream",
+    "grading": {
+      "High": ["Conium", "Sabal serrulata"],
+      "Medium": ["Baryta carb", "Berberis"],
+      "Low": ["Chimaphila", "Pareira brava"]
+    },
+    "modality": "Worse prostate enlargement or nervous weakness",
+    "miasm": ["Sycotic"],
+    "notes": "Conium: Slow, hesitant flow with weak bladder tone"
+  },
+  {
+    "rubric": "Urination – urgent – must run quickly",
+    "grading": {
+      "High": ["Petroselinum", "Equisetum"],
+      "Medium": ["Cantharis", "Sulphur"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse with cold exposure or excitement",
+    "miasm": ["Psora"],
+    "notes": "Petroselinum: Sudden uncontrollable urge, especially in children"
+  },
+  {
+    "rubric": "Urine – hot – feels burning hot when passed",
+    "grading": {
+      "High": ["Cantharis", "Sulphur"],
+      "Medium": ["Arsenicum", "Sarsaparilla"],
+      "Low": ["Nitric acid"]
+    },
+    "modality": "Worse during urination; worse inflammation or infection",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Scalding urine with violent burning and tenesmus"
+  },
+  {
+    "rubric": "Urine – cold sensation while passing",
+    "grading": {
+      "High": ["Silicea"],
+      "Medium": ["Sepia", "Gelsemium"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse night, after lying down, or chilliness",
+    "miasm": ["Psora"],
+    "notes": "Silicea: Cold sensation in bladder or spine during micturition"
+  },
+  {
+    "rubric": "Urination – painful – in old men",
+    "grading": {
+      "High": ["Conium", "Sabal serrulata"],
+      "Medium": ["Baryta carb", "Chimaphila"],
+      "Low": ["Thuja"]
+    },
+    "modality": "Worse with enlarged prostate or sitting too long",
+    "miasm": ["Sycotic"],
+    "notes": "Sabal: Weak stream, dribbling, fullness with urge"
+  },
+  {
+    "rubric": "Urine – passed involuntarily while walking",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Sepia", "Pulsatilla"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse during exertion, stress, or pelvic weakness",
+    "miasm": ["Psora"],
+    "notes": "Causticum: Weak sphincter; urine leaks while walking"
+  },
+  {
+    "rubric": "Urination – slow – delayed start, weak stream",
+    "grading": {
+      "High": ["Clematis", "Conium"],
+      "Medium": ["Sabal", "Pareira brava"],
+      "Low": ["Baryta carb"]
+    },
+    "modality": "Worse with shyness, prostate issues",
+    "miasm": ["Sycotic"],
+    "notes": "Clematis: Urination starts then stops; frequent interruptions"
+  },
+  {
+    "rubric": "Urination – better from warm bathing",
+    "grading": {
+      "High": ["Staphysagria", "Sulphur"],
+      "Medium": ["Cantharis", "Equisetum"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Better in warm water or after washing",
+    "miasm": ["Psora"],
+    "notes": "Staphysagria: Sensitive bladder; relief from warmth"
+  },
+  {
+    "rubric": "Urination – painful – emotional origin",
+    "grading": {
+      "High": ["Staphysagria", "Ignatia"],
+      "Medium": ["Gelsemium", "Nux vomica"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse after suppressed anger, insult, or grief",
+    "miasm": ["Psora"],
+    "notes": "Staphysagria: Cystitis after sexual trauma or emotional hurt"
+  },
+  {
+    "rubric": "Urine – passed in small quantities – frequent",
+    "grading": {
+      "High": ["Cantharis", "Equisetum"],
+      "Medium": ["Sarsaparilla", "Berberis"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "Worse after cold exposure or exertion",
+    "miasm": ["Sycotic"],
+    "notes": "Equisetum: Urging with scanty discharge"
+  },
+  {
+    "rubric": "Urine – foamy – phosphatic sediments",
+    "grading": {
+      "High": ["Phosphorus", "Calcarea phos"],
+      "Medium": ["Benzoic acid", "Mercurius"],
+      "Low": ["China", "Nitric acid"]
+    },
+    "modality": "Worse from high protein diet, chronic kidney disease",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Phosphorus: Foamy urine; tendency to nephritis or diabetes"
+  },
+  {
+    "rubric": "Urine – black coffee color",
+    "grading": {
+      "High": ["Terebinth", "Crotalus"],
+      "Medium": ["Arsenicum", "Lachesis"],
+      "Low": ["Carbo veg", "Phosphorus"]
+    },
+    "modality": "Worse in advanced infections or hemorrhagic states",
+    "miasm": ["Syphilitic"],
+    "notes": "Terebinth: Dark smoky urine with albumin and hematuria"
+  },
+  {
+    "rubric": "Urine – dribbling after urination",
+    "grading": {
+      "High": ["Thuja", "Conium"],
+      "Medium": ["Petroselinum", "Causticum"],
+      "Low": ["Sabal", "Equisetum"]
+    },
+    "modality": "Worse prostate enlargement or bladder atony",
+    "miasm": ["Sycotic"],
+    "notes": "Thuja: Dribbling after voiding, forked stream"
+  },
+  {
+    "rubric": "Urination – difficult – with urging but no flow",
+    "grading": {
+      "High": ["Nux vomica", "Belladonna"],
+      "Medium": ["Staphysagria", "Cantharis"],
+      "Low": ["Equisetum", "Merc sol"]
+    },
+    "modality": "Worse after anger, cold, or intoxication",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Nux-v: Constant urging; scanty painful urine"
+  },
+  {
+    "rubric": "Urine – frothy and pale – early diabetes",
+    "grading": {
+      "High": ["Phosphorus", "Phosphoric acid"],
+      "Medium": ["Syzygium", "Lactic acid"],
+      "Low": ["Uranium nitricum"]
+    },
+    "modality": "Worse fasting; worse after sweets",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Ph-acid: Weakness with profuse, pale, frothy urine"
+  },
+  {
+    "rubric": "Urination – better lying on abdomen",
+    "grading": {
+      "High": ["Berberis", "Equisetum"],
+      "Medium": ["Sarsaparilla"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Better pressure on bladder; better abdomen-down",
+    "miasm": ["Sycotic"],
+    "notes": "Berberis: Kidney pain and urging better by pressure or lying prone"
+  },
+  {
+    "rubric": "Urination – starts and stops suddenly",
+    "grading": {
+      "High": ["Clematis", "Conium"],
+      "Medium": ["Cannabis sativa", "Pareira"],
+      "Low": ["Sabal", "Merc sol"]
+    },
+    "modality": "Worse with anxiety, prostate problems",
+    "miasm": ["Sycotic"],
+    "notes": "Clematis: Sudden interruption of urine stream"
+  },
+  {
+    "rubric": "Urination – burning in urethra without flow",
+    "grading": {
+      "High": ["Cantharis", "Staphysagria"],
+      "Medium": ["Equisetum", "Nitric acid"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse after coition or emotion; better warm bathing",
+    "miasm": ["Sycotic"],
+    "notes": "Staphysagria: Urethral pain from suppressed anger or shame"
+  },
+  {
+    "rubric": "Urine – greasy film on surface",
+    "grading": {
+      "High": ["Phosphorus", "Calcarea phos"],
+      "Medium": ["China", "Sulphur"],
+      "Low": ["Benzoic acid"]
+    },
+    "modality": "Worse in fatty liver, malabsorption or diabetes",
+    "miasm": ["Psora"],
+    "notes": "Phosphorus: Greasy, fatty film in diabetic urine"
+  },
+  {
+    "rubric": "Urine – contains mucus – cloudy or stringy",
+    "grading": {
+      "High": ["Kali bichromicum", "Sepia"],
+      "Medium": ["Thuja", "Berberis"],
+      "Low": ["Lycopodium"]
+    },
+    "modality": "Worse in chronic cystitis or gonorrhea history",
+    "miasm": ["Sycotic"],
+    "notes": "Kali bich: Thick ropy mucus in urine; chronic infection"
+  },
+  {
+    "rubric": "Urination – sudden, irresistible urge",
+    "grading": {
+      "High": ["Petroselinum", "Equisetum"],
+      "Medium": ["Pulsatilla", "Sulphur"],
+      "Low": ["Cantharis"]
+    },
+    "modality": "Worse with cold or laughing; bladder oversensitivity",
+    "miasm": ["Psora"],
+    "notes": "Petroselinum: Must run; spasmodic urgency, especially in children"
+  },
+  {
+    "rubric": "Urine – retained – better after passing gas",
+    "grading": {
+      "High": ["Lycopodium"],
+      "Medium": ["Nux vomica", "Sulphur"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Better after flatulence or pressure on bladder",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Lycopodium: Flatulence presses on bladder causing retention"
+  },
+  {
+    "rubric": "Urination – excites sexual desire",
+    "grading": {
+      "High": ["Murex", "Moschus"],
+      "Medium": ["Cantharis"],
+      "Low": ["Agnus castus"]
+    },
+    "modality": "Worse in females; worse during urination",
+    "miasm": ["Sycotic"],
+    "notes": "Murex: Sexual excitement after micturition; uterine congestion"
+  },
+  {
+    "rubric": "Urination – with cough – urine spurts involuntarily",
+    "grading": {
+      "High": ["Causticum", "Sepia"],
+      "Medium": ["Kreosotum", "Ferrum phos"],
+      "Low": ["Gelsemium"]
+    },
+    "modality": "Worse on laughing, sneezing, coughing",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Causticum: Stress incontinence from pelvic muscle weakness"
+  },
+  {
+    "rubric": "Urination – cold chills after urination",
+    "grading": {
+      "High": ["Gelsemium", "Silicea"],
+      "Medium": ["Sepia"],
+      "Low": ["Phosphoric acid"]
+    },
+    "modality": "Worse after passing urine, especially at night",
+    "miasm": ["Psora"],
+    "notes": "Gelsemium: Chills run down back post-micturition"
+  },
+  {
+    "rubric": "Urine – passed during epileptic attack",
+    "grading": {
+      "High": ["Bufo", "Cicuta"],
+      "Medium": ["Hyoscyamus"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "During or after seizure; unconsciousness",
+    "miasm": ["Syphilitic"],
+    "notes": "Bufo: Incontinence during convulsion with loss of control"
+  },
+  {
+    "rubric": "Urination – causes fainting or syncope",
+    "grading": {
+      "High": ["Lachesis", "Digitalis"],
+      "Medium": ["Ignatia"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse in elderly or weak individuals",
+    "miasm": ["Syphilitic"],
+    "notes": "Digitalis: Collapse with pulse weakness during urination"
+  },
+  {
+    "rubric": "Urine – smells like horse’s urine",
+    "grading": {
+      "High": ["Benzoic acid"],
+      "Medium": ["Psorinum"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse in gout, old rheumatics",
+    "miasm": ["Sycotic"],
+    "notes": "Benzoic acid: Very offensive, pungent horse-urine smell"
+  },
+  {
+    "rubric": "Urine – viscid, stringy – difficult to clean",
+    "grading": {
+      "High": ["Kali bichromicum", "Mercurius"],
+      "Medium": ["Sepia"],
+      "Low": ["Thuja"]
+    },
+    "modality": "Worse in chronic inflammation of urinary tract",
+    "miasm": ["Sycotic"],
+    "notes": "Kali bich: Ropy, tenacious mucus in urine"
+  },
+  {
+    "rubric": "Urine – green or grass-colored",
+    "grading": {
+      "High": ["Indigo", "Chlorinum"],
+      "Medium": ["Arsenicum", "Nitric acid"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse in septicemia or hepatic diseases",
+    "miasm": ["Syphilitic"],
+    "notes": "Greenish urine seen in severe liver pathology or infections"
+  },
+  {
+    "rubric": "Urine – leaves oily ring in vessel",
+    "grading": {
+      "High": ["Phosphorus"],
+      "Medium": ["China", "Uranium nitricum"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse in diabetes, fatty degeneration",
+    "miasm": ["Psora"],
+    "notes": "Phosphorus: Milky, fatty urine with floating film"
+  },
+  {
+    "rubric": "Urination – violent urging but passes only a few drops",
+    "grading": {
+      "High": ["Cantharis"],
+      "Medium": ["Equisetum", "Nux vomica"],
+      "Low": ["Berberis"]
+    },
+    "modality": "Worse after coition, sitting, cold exposure",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Urging intense, but urine scanty, with raw burning"
+  },
+  {
+    "rubric": "Polyuria – excessive urination – especially at night (nocturnal)",
+    "grading": {
+      "High": ["Phosphoric acid", "Syzygium", "Uranium nitricum"],
+      "Medium": ["Phosphorus", "Silicea"],
+      "Low": ["China", "Lactic acid"]
+    },
+    "modality": "Worse at night, after sugar intake, during diabetes",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Phos-acid: Profuse, pale, exhausting urination in diabetes or weakness"
+  },
+  {
+    "rubric": "Oliguria – scanty urination – with edema or nephritis",
+    "grading": {
+      "High": ["Digitalis", "Apis", "Terebinth"],
+      "Medium": ["Merc sol", "Arsenicum"],
+      "Low": ["China"]
+    },
+    "modality": "Worse in acute glomerulonephritis, heart failure, cold",
+    "miasm": ["Syphilitic"],
+    "notes": "Digitalis: Renal suppression with heart symptoms and dropsy"
+  },
+  {
+    "rubric": "Dribbling of urine – after urination",
+    "grading": {
+      "High": ["Thuja", "Conium"],
+      "Medium": ["Sabal", "Causticum"],
+      "Low": ["Petroselinum", "Equisetum"]
+    },
+    "modality": "Worse with enlarged prostate, elderly, or post-void",
+    "miasm": ["Sycotic"],
+    "notes": "Thuja: Forked stream, dribbling with incomplete sensation"
+  },
+  {
+    "rubric": "Incontinence – stress – from laughing, coughing, sneezing",
+    "grading": {
+      "High": ["Causticum", "Sepia"],
+      "Medium": ["Pulsatilla", "Ferrum phos"],
+      "Low": ["Gelsemium"]
+    },
+    "modality": "Worse in pelvic weakness, post-childbirth, elderly",
+    "miasm": ["Psora"],
+    "notes": "Sepia: Leaks with exertion, worse during pregnancy or prolapse"
+  },
+  {
+    "rubric": "Incontinence – urge – sudden uncontrollable desire to urinate",
+    "grading": {
+      "High": ["Petroselinum", "Equisetum"],
+      "Medium": ["Cantharis", "Sulphur"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse during excitement, children, bladder irritability",
+    "miasm": ["Psora"],
+    "notes": "Petroselinum: Sudden urgent desire; runs to toilet but passes little"
+  },
+  {
+    "rubric": "Incontinence – reflex – during sleep or unconscious state",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Sepia", "Belladonna"],
+      "Low": ["Ferrum phos"]
+    },
+    "modality": "Worse first sleep, seizures, head trauma, dreams",
+    "miasm": ["Psora"],
+    "notes": "Causticum: Wetting without awareness; with dreams or laughter"
+  },
+  {
+    "rubric": "Incontinence – overflow – bladder full but dribbling",
+    "grading": {
+      "High": ["Baryta carb", "Conium"],
+      "Medium": ["Sabal", "Causticum"],
+      "Low": ["Kali bromatum"]
+    },
+    "modality": "Worse in elderly, enlarged prostate, neurogenic bladder",
+    "miasm": ["Sycotic"],
+    "notes": "Baryta carb: Retention with overflow in senile or dull patients"
+  },
+  {
+    "rubric": "Retention – cannot urinate – with full bladder sensation",
+    "grading": {
+      "High": ["Belladonna", "Nux vomica"],
+      "Medium": ["Cantharis", "Gelsemium"],
+      "Low": ["Staphysagria"]
+    },
+    "modality": "Worse after surgery, cold, childbirth, anesthesia",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Nux-v: Ineffectual urge; small drops passed painfully"
+  },
+  {
+    "rubric": "Urine – passed only when standing",
+    "grading": {
+      "High": ["Sarsaparilla", "Sepia"],
+      "Medium": ["Equisetum", "Berberis"],
+      "Low": ["Cannabis sativa"]
+    },
+    "modality": "Better standing erect; worse sitting or lying",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Child screams until lifted to urinate standing"
+  },
+  {
+    "rubric": "Enuresis – bedwetting – involuntary urination in sleep",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Sepia", "Sulphur"],
+      "Low": ["Ferrum phos", "Equisetum"]
+    },
+    "modality": "Worse first sleep, anxiety, suppression of emotions",
+    "miasm": ["Psora"],
+    "notes": "Kreosotum: Involuntary discharge while dreaming of urinating"
+  },
+  {
+    "rubric": "Retention of urine – after childbirth",
+    "grading": {
+      "High": ["Staphysagria", "Belladonna"],
+      "Medium": ["Gelsemium", "Causticum"],
+      "Low": ["Arnica"]
+    },
+    "modality": "Worse after instrumental delivery, fear, surgical insult",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Staphysagria: Emotional shock or surgical trauma leads to inability to void"
+  },
+  {
+    "rubric": "Urine – passed unconsciously during deep sleep",
+    "grading": {
+      "High": ["Sepia", "Kreosotum"],
+      "Medium": ["Causticum", "Sulphur"],
+      "Low": ["Ferrum phos"]
+    },
+    "modality": "Worse in early night, with dreams or complete unconsciousness",
+    "miasm": ["Psora"],
+    "notes": "Kreosotum: Dreams of urination followed by wetting"
+  },
+  {
+    "rubric": "Urination – paralytic – cannot feel urge or passage",
+    "grading": {
+      "High": ["Opium", "Arnica"],
+      "Medium": ["Belladonna", "Gelsemium"],
+      "Low": ["Causticum"]
+    },
+    "modality": "After trauma, stroke, spinal injury, anesthesia",
+    "miasm": ["Syphilitic"],
+    "notes": "Opium: Bladder full, no urge, retention from nervous inactivity"
+  },
+  {
+    "rubric": "Urination – intermittent – stream stops and starts",
+    "grading": {
+      "High": ["Clematis", "Conium"],
+      "Medium": ["Cannabis sativa", "Equisetum"],
+      "Low": ["Sabal"]
+    },
+    "modality": "Worse with prostate enlargement, anxiety, cold",
+    "miasm": ["Sycotic"],
+    "notes": "Clematis: Flow stops mid-stream and resumes after effort"
+  },
+  {
+    "rubric": "Urine – passed involuntarily after fright or excitement",
+    "grading": {
+      "High": ["Gelsemium", "Ignatia"],
+      "Medium": ["Opium", "Kali bromatum"],
+      "Low": ["Stramonium"]
+    },
+    "modality": "After emotional shock, grief, exam fear",
+    "miasm": ["Psora"],
+    "notes": "Gelsemium: Paralysis of bladder under emotional strain"
+  },
+  {
+    "rubric": "Urination – cannot pass when someone is nearby (shy bladder)",
+    "grading": {
+      "High": ["Lycopodium", "Silicea"],
+      "Medium": ["Natrum mur", "Gelsemium"],
+      "Low": ["Staphysagria"]
+    },
+    "modality": "Worse public places, exams, suppressed emotions",
+    "miasm": ["Psora"],
+    "notes": "Lycopodium: Cannot urinate in presence of others"
+  },
+  {
+    "rubric": "Urination – suppressed – after surgical operation",
+    "grading": {
+      "High": ["Opium", "Staphysagria"],
+      "Medium": ["Gelsemium", "Arnica"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "Post-op retention, catheter trauma",
+    "miasm": ["Syphilitic"],
+    "notes": "Opium: Bladder becomes paralyzed after surgical trauma"
+  },
+  {
+    "rubric": "Urine – passed involuntarily during seizure or spasm",
+    "grading": {
+      "High": ["Bufo", "Hyoscyamus"],
+      "Medium": ["Cicuta", "Stramonium"],
+      "Low": ["Belladonna"]
+    },
+    "modality": "During convulsions, epilepsy, night terrors",
+    "miasm": ["Syphilitic"],
+    "notes": "Bufo: Urination involuntary during grand mal seizures"
+  },
+  {
+    "rubric": "Urine – dribbles constantly – no sensation of fullness",
+    "grading": {
+      "High": ["Causticum", "Arnica"],
+      "Medium": ["Baryta carb", "Opium"],
+      "Low": ["Gelsemium"]
+    },
+    "modality": "Post-injury, stroke, coma; no bladder control",
+    "miasm": ["Syphilitic"],
+    "notes": "Causticum: Paralysis of sphincter; dribbling without control"
+  },
+  {
+    "rubric": "Urination – painful – after catheter insertion",
+    "grading": {
+      "High": ["Staphysagria"],
+      "Medium": ["Arnica", "Cantharis"],
+      "Low": ["Hypericum"]
+    },
+    "modality": "Worse after urethral instrumentation, insult",
+    "miasm": ["Sycotic"],
+    "notes": "Staphysagria: Urethral burning and trauma post-instrumentation"
+  },
+  {
+    "rubric": "Incontinence of urine – during pregnancy",
+    "grading": {
+      "High": ["Sepia", "Causticum"],
+      "Medium": ["Pulsatilla", "Ferrum phos"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "Worse during last trimester, motion, coughing",
+    "miasm": ["Psora"],
+    "notes": "Sepia: Pelvic floor weakness; leaks on walking or standing"
+  },
+  {
+    "rubric": "Urine – involuntary during menstruation",
+    "grading": {
+      "High": ["Causticum", "Sepia"],
+      "Medium": ["Murex", "Pulsatilla"],
+      "Low": ["Mag mur"]
+    },
+    "modality": "Worse during flow; better after menses ends",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Causticum: Bladder dysfunction worse with uterine congestion"
+  },
+  {
+    "rubric": "Urination – absent or extremely painful at menopause",
+    "grading": {
+      "High": ["Sepia", "Lachesis"],
+      "Medium": ["Sulphur", "Conium"],
+      "Low": ["Sanguinaria"]
+    },
+    "modality": "Worse with flushes, heat, and pelvic stasis",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Sepia: Genito-urinary stasis with irritability and prolapse"
+  },
+  {
+    "rubric": "Urine – involuntarily passed when walking",
+    "grading": {
+      "High": ["Causticum", "Kreosotum"],
+      "Medium": ["Pulsatilla", "Sepia"],
+      "Low": ["Silicea"]
+    },
+    "modality": "Worse during exertion, weakness of sphincter",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Causticum: Paralytic sphincter with stress leakage"
+  },
+  {
+    "rubric": "Bladder – pain after passing urine – deep ache",
+    "grading": {
+      "High": ["Equisetum", "Berberis"],
+      "Medium": ["Cantharis", "Nitric acid"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse after voiding; better pressure or heat",
+    "miasm": ["Sycotic"],
+    "notes": "Equisetum: Deep dull pain remains after urination"
+  },
+  {
+    "rubric": "Urination – interrupted by burning spasms",
+    "grading": {
+      "High": ["Cantharis", "Sarsaparilla"],
+      "Medium": ["Staphysagria", "Equisetum"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse from emotional insult, infection",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Violent burning spasms interrupt flow"
+  },
+  {
+    "rubric": "Urine – involuntary in elderly with memory loss",
+    "grading": {
+      "High": ["Baryta carb", "Opium"],
+      "Medium": ["Alumina", "Anacardium"],
+      "Low": ["Lycopodium"]
+    },
+    "modality": "Worse with senility, dementia, stroke",
+    "miasm": ["Syphilitic"],
+    "notes": "Baryta carb: Incontinence with mental dullness, prostate weakness"
+  },
+  {
+    "rubric": "Urination – only when sound of water is heard",
+    "grading": {
+      "High": ["Gelsemium", "Silicea"],
+      "Medium": ["Staphysagria", "Nux vomica"],
+      "Low": ["Lachesis"]
+    },
+    "modality": "Stimulated by hearing running water",
+    "miasm": ["Psora"],
+    "notes": "Gelsemium: Inertia of bladder relieved by water stimulus"
+  },
+  {
+    "rubric": "Urine – escapes while sleeping in sitting position",
+    "grading": {
+      "High": ["Causticum", "Hyoscyamus"],
+      "Medium": ["Kreosotum"],
+      "Low": ["Stramonium"]
+    },
+    "modality": "Worse dozing off in chair or semi-reclined sleep",
+    "miasm": ["Psora"],
+    "notes": "Hyoscyamus: Incontinence with unconsciousness or spasm"
+  },
+  {
+    "rubric": "Bladder – fullness – no urge – can't pass urine",
+    "grading": {
+      "High": ["Opium", "Digitalis"],
+      "Medium": ["Gelsemium", "Belladonna"],
+      "Low": ["Staphysagria"]
+    },
+    "modality": "Worse post-surgery, neurogenic bladder, trauma",
+    "miasm": ["Syphilitic"],
+    "notes": "Opium: Bladder overdistended but no desire to urinate"
+  },
+  {
+    "rubric": "Retention of urine – from spinal injury or disc compression",
+    "grading": {
+      "High": ["Arnica", "Hypericum"],
+      "Medium": ["Causticum", "Gelsemium"],
+      "Low": ["Bellis perennis"]
+    },
+    "modality": "Worse after trauma, fall, lumbar disc herniation",
+    "miasm": ["Syphilitic"],
+    "notes": "Hypericum: Nerve injury bladder retention with pain radiating along spine"
+  },
+  {
+    "rubric": "Urination – suppressed – due to hysteria or emotional shock",
+    "grading": {
+      "High": ["Ignatia", "Platina"],
+      "Medium": ["Staphysagria", "Pulsatilla"],
+      "Low": ["Moschus"]
+    },
+    "modality": "Worse after grief, shock, humiliation",
+    "miasm": ["Psora"],
+    "notes": "Ignatia: Emotional suppression causes retention without organic cause"
+  },
+  {
+    "rubric": "Incontinence – cancer-related – bladder invasion",
+    "grading": {
+      "High": ["Arsenicum album", "Hydrastis"],
+      "Medium": ["Conium", "Carbo animalis"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse in advanced stages, after radiation, cachexia",
+    "miasm": ["Syphilitic"],
+    "notes": "Arsenicum: Restlessness, anxiety, burning urine, tumor pressure"
+  },
+  {
+    "rubric": "Urine – passed drop by drop with intense straining",
+    "grading": {
+      "High": ["Nux vomica", "Cantharis"],
+      "Medium": ["Mercurius", "Equisetum"],
+      "Low": ["Berberis"]
+    },
+    "modality": "Worse after chill, alcohol, anger",
+    "miasm": ["Sycotic"],
+    "notes": "Nux vomica: Ineffectual urge; rectal and bladder tenesmus"
+  },
+  {
+    "rubric": "Urination – paralyzed bladder after catheter removal",
+    "grading": {
+      "High": ["Opium", "Causticum"],
+      "Medium": ["Staphysagria", "Arnica"],
+      "Low": ["Gelsemium"]
+    },
+    "modality": "Worse after long catheterization or trauma",
+    "miasm": ["Syphilitic"],
+    "notes": "Opium: Atonic bladder; no urge or passage"
+  },
+  {
+    "rubric": "Urine – expelled only with abdominal straining",
+    "grading": {
+      "High": ["Conium", "Sulphur"],
+      "Medium": ["Kali carb", "Baryta carb"],
+      "Low": ["Causticum"]
+    },
+    "modality": "Worse in elderly, enlarged prostate, constipation",
+    "miasm": ["Sycotic"],
+    "notes": "Conium: No bladder contraction; straining needed to void"
+  },
+  {
+    "rubric": "Incontinence – when emotionally overwhelmed or laughing excessively",
+    "grading": {
+      "High": ["Causticum", "Hyoscyamus"],
+      "Medium": ["Ignatia", "Lachesis"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse with uncontrolled emotion or surprise",
+    "miasm": ["Psora"],
+    "notes": "Hyoscyamus: Laughs till urine passes; emotional outbursts"
+  },
+  {
+    "rubric": "Urination – black or tar-colored – with advanced disease",
+    "grading": {
+      "High": ["Crotalus", "Terebinth"],
+      "Medium": ["Arsenicum", "Nitric acid"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse in sepsis, advanced liver or bladder malignancy",
+    "miasm": ["Syphilitic"],
+    "notes": "Crotalus: Black urine with hemorrhagic diathesis"
+  },
+  {
+    "rubric": "Urine – forcibly projected in spurts",
+    "grading": {
+      "High": ["Sarsaparilla", "Cantharis"],
+      "Medium": ["Equisetum", "Petroselinum"],
+      "Low": ["Berberis"]
+    },
+    "modality": "Worse in children, urethral spasm",
+    "miasm": ["Psora"],
+    "notes": "Sarsaparilla: Stream shoots with force, often painful"
+  },
+  {
+    "rubric": "Urination – requires intense concentration to initiate",
+    "grading": {
+      "High": ["Gelsemium", "Silicea"],
+      "Medium": ["Lycopodium", "Staphysagria"],
+      "Low": ["Thuja"]
+    },
+    "modality": "Worse when watched, anxious, in strange places",
+    "miasm": ["Psora"],
+    "notes": "Silicea: Bashful bladder; requires solitude and focus"
+  },
+  {
+    "rubric": "Burning pain – before, during, and after urination",
+    "grading": {
+      "High": ["Cantharis", "Sarsaparilla"],
+      "Medium": ["Apis", "Terebinth"],
+      "Low": ["Sulphur", "Berberis"]
+    },
+    "modality": "Worse from cold drinks, during inflammation; better warm applications",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Intolerable burning with constant urge"
+  },
+  {
+    "rubric": "Cutting pain – during urination",
+    "grading": {
+      "High": ["Equisetum", "Berberis"],
+      "Medium": ["Nux vomica", "Arnica"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse with full bladder, motion; better lying still",
+    "miasm": ["Psora"],
+    "notes": "Equisetum: Cutting sensation with fullness and ineffectual urging"
+  },
+  {
+    "rubric": "Smarting sensation – in urethra after urination",
+    "grading": {
+      "High": ["Petroselinum", "Cannabis sativa"],
+      "Medium": ["Pulsatilla", "Sulphur"],
+      "Low": ["Causticum"]
+    },
+    "modality": "Worse after passing urine, especially in males",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Petroselinum: Sensation as if drop remains, causing tingling/smarting"
+  },
+  {
+    "rubric": "Burning at bladder neck or deep inside",
+    "grading": {
+      "High": ["Sarsaparilla", "Cantharis"],
+      "Medium": ["Sepia", "Lachesis"],
+      "Low": ["Kali carb"]
+    },
+    "modality": "Worse at end of urination or after long retention",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Burning felt deep with pain at close of urination"
+  },
+  {
+    "rubric": "Sensation – drop remaining in urethra after urination",
+    "grading": {
+      "High": ["Thuja", "Sabal"],
+      "Medium": ["Sulphur", "Cannabis sativa"],
+      "Low": ["Petroselinum"]
+    },
+    "modality": "Worse in men, after prostatic issues, chronic urethritis",
+    "miasm": ["Sycotic"],
+    "notes": "Thuja: Constant sensation as if a drop of urine remains"
+  },
+  {
+    "rubric": "Stitching pain – urethra or bladder",
+    "grading": {
+      "High": ["Nitric acid", "Berberis"],
+      "Medium": ["Causticum", "Sarsaparilla"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse while urinating, better lying flat",
+    "miasm": ["Syphilitic"],
+    "notes": "Nitric acid: Sharp stitching during passage of urine"
+  },
+  {
+    "rubric": "Pain in bladder – extending to thighs or genitals",
+    "grading": {
+      "High": ["Berberis", "Pareira"],
+      "Medium": ["Cantharis", "Lycopodium"],
+      "Low": ["Arnica"]
+    },
+    "modality": "Worse from straining, better sitting with knees apart",
+    "miasm": ["Sycotic"],
+    "notes": "Pareira: Must kneel and strain with pain radiating to thighs"
+  },
+  {
+    "rubric": "Burning in urethra – when not urinating",
+    "grading": {
+      "High": ["Sulphur", "Thuja"],
+      "Medium": ["Merc sol", "Sarsaparilla"],
+      "Low": ["Cannabis sativa"]
+    },
+    "modality": "Worse between urinations, better urinating",
+    "miasm": ["Psora"],
+    "notes": "Sulphur: Burning independent of urination, as if urine is acid"
+  },
+  {
+    "rubric": "Sensation – bladder always full, even after urinating",
+    "grading": {
+      "High": ["Equisetum", "Petroselinum"],
+      "Medium": ["Nux vomica", "Sulphur"],
+      "Low": ["Berberis"]
+    },
+    "modality": "Worse from motion, better lying flat",
+    "miasm": ["Sycotic"],
+    "notes": "Equisetum: Constant fullness with little output; no relief after voiding"
+  },
+  {
+    "rubric": "Sensation – urine flows drop by drop with burning",
+    "grading": {
+      "High": ["Cantharis", "Nux vomica"],
+      "Medium": ["Berberis", "Staphysagria"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse in cystitis, heat exposure, coition",
+    "miasm": ["Sycotic"],
+    "notes": "Cantharis: Drop-by-drop passage with intolerable burning"
+  },
+  {
+    "rubric": "Straining – intense effort with little urine passed",
+    "grading": {
+      "High": ["Nux vomica", "Cantharis"],
+      "Medium": ["Staphysagria", "Equisetum"],
+      "Low": ["Berberis"]
+    },
+    "modality": "Worse after anger, cold, alcohol; better heat",
+    "miasm": ["Sycotic"],
+    "notes": "Nux vomica: Ineffectual urging with frequent straining and rectal tenesmus"
+  },
+  {
+    "rubric": "Pain – at beginning of urination",
+    "grading": {
+      "High": ["Equisetum", "Berberis"],
+      "Medium": ["Cantharis", "Nitric acid"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse on initiating flow; better continuous stream",
+    "miasm": ["Sycotic"],
+    "notes": "Equisetum: Sharp or dull pain starting urination, relieved later"
+  },
+  {
+    "rubric": "Pain – at close of urination",
+    "grading": {
+      "High": ["Sarsaparilla", "Cantharis"],
+      "Medium": ["Berberis", "Sepia"],
+      "Low": ["Kali carb"]
+    },
+    "modality": "Worse after voiding; burning or tearing at end",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Severe pain at termination of urination, especially in children"
+  },
+  {
+    "rubric": "Cramps – in bladder before or during urination",
+    "grading": {
+      "High": ["Belladonna", "Camphora"],
+      "Medium": ["Staphysagria", "Causticum"],
+      "Low": ["Opium"]
+    },
+    "modality": "Worse from chill, before menses, touch",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Belladonna: Spasmodic cramps, sensitive to pressure"
+  },
+  {
+    "rubric": "Pressing pain – in bladder as from a weight",
+    "grading": {
+      "High": ["Sepia", "Sulphur"],
+      "Medium": ["Lycopodium", "Pulsatilla"],
+      "Low": ["Staphysagria"]
+    },
+    "modality": "Worse standing or walking; better lying on back",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Sepia: Bearing down pain with prolapse or cystocele"
+  },
+  {
+    "rubric": "Burning in bladder – without desire to urinate",
+    "grading": {
+      "High": ["Arsenicum", "Sulphur"],
+      "Medium": ["Berberis", "Causticum"],
+      "Low": ["Thuja"]
+    },
+    "modality": "Worse at night or after drinking cold water",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Arsenicum: Burning as from hot coals even without urge"
+  },
+  {
+    "rubric": "Coldness – in bladder or urethra during urination",
+    "grading": {
+      "High": ["Camphora", "Phosphorus"],
+      "Medium": ["Silicea", "Alumina"],
+      "Low": ["Calcarea carb"]
+    },
+    "modality": "Worse cold weather, night, uncovering feet",
+    "miasm": ["Psora"],
+    "notes": "Camphora: Chill runs down spine with icy cold urine"
+  },
+  {
+    "rubric": "Burning in urethra – like hot wires inside",
+    "grading": {
+      "High": ["Cantharis", "Nitric acid"],
+      "Medium": ["Sulphur", "Sarsaparilla"],
+      "Low": ["Terebinth"]
+    },
+    "modality": "Worse from pressure, coition, coffee",
+    "miasm": ["Sycotic"],
+    "notes": "Nitric acid: Raw burning with mucopurulent discharge"
+  },
+  {
+    "rubric": "Sensation – urine passes over sore spot",
+    "grading": {
+      "High": ["Berberis", "Lycopodium"],
+      "Medium": ["Causticum", "Petroselinum"],
+      "Low": ["Sarsaparilla"]
+    },
+    "modality": "Worse pressure, after urination",
+    "miasm": ["Psora"],
+    "notes": "Berberis: Raw burning at one point in urethra"
+  },
+  {
+    "rubric": "Tingling – in urethra after urination",
+    "grading": {
+      "High": ["Petroselinum", "Cannabis sativa"],
+      "Medium": ["Sulphur", "Causticum"],
+      "Low": ["Lachesis"]
+    },
+    "modality": "Worse touch, post-micturition",
+    "miasm": ["Sycotic"],
+    "notes": "Petroselinum: Crawling and tickling sensation in urethra"
+  },
+  {
+    "rubric": "Itching – in urethra after urination",
+    "grading": {
+      "High": ["Sulphur", "Petroselinum"],
+      "Medium": ["Cannabis sativa", "Sarsaparilla"],
+      "Low": ["Thuja"]
+    },
+    "modality": "Worse from touch, evening, after coition",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Petroselinum: Intense itching after urination, with crawling sensation"
+  },
+  {
+    "rubric": "Burning – in perineum during urination",
+    "grading": {
+      "High": ["Berberis", "Sabal serrulata"],
+      "Medium": ["Cantharis", "Terebinth"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "Worse sitting, pressure on prostate, long sitting",
+    "miasm": ["Sycotic"],
+    "notes": "Berberis: Burning from bladder through perineum and urethra"
+  },
+  {
+    "rubric": "Sudden urging – as if bladder would burst",
+    "grading": {
+      "High": ["Equisetum", "Cantharis"],
+      "Medium": ["Staphysagria", "Sulphur"],
+      "Low": ["Sarsaparilla"]
+    },
+    "modality": "Worse on sight/sound of water, cold air, emotion",
+    "miasm": ["Sycotic"],
+    "notes": "Equisetum: Bladder feels full, urgent but passes little"
+  },
+  {
+    "rubric": "Fluttering or vibrating sensation in bladder",
+    "grading": {
+      "High": ["Sepia", "Lilium tigrinum"],
+      "Medium": ["Murex", "Ignatia"],
+      "Low": ["Natrum mur"]
+    },
+    "modality": "Worse at rest, suppressed emotion, sexual frustration",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Sepia: Vibration or fluttering from uterus/bladder region"
+  },
+  {
+    "rubric": "Sensation – as if bladder would fall out",
+    "grading": {
+      "High": ["Sepia", "Murex"],
+      "Medium": ["Lilium tigrinum", "Staphysagria"],
+      "Low": ["Platina"]
+    },
+    "modality": "Worse standing, better crossing legs or sitting",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Sepia: Prolapse sensation with dragging down feeling"
+  },
+  {
+    "rubric": "Electric-like shocks – from bladder to urethra",
+    "grading": {
+      "High": ["Plumbum", "Hypericum"],
+      "Medium": ["Belladonna", "Sarsaparilla"],
+      "Low": ["Cimicifuga"]
+    },
+    "modality": "Worse during urination, after trauma or injury",
+    "miasm": ["Syphilitic"],
+    "notes": "Plumbum: Nerve involvement causing shooting pains"
+  },
+  {
+    "rubric": "Heaviness in bladder – like stone or weight",
+    "grading": {
+      "High": ["Sepia", "Sulphur"],
+      "Medium": ["Lycopodium", "Berberis"],
+      "Low": ["Staphysagria"]
+    },
+    "modality": "Worse walking, better lying on back",
+    "miasm": ["Psora"],
+    "notes": "Sepia: Bearing-down sensation like a stone inside bladder"
+  },
+  {
+    "rubric": "Sensation – as if something is alive in bladder",
+    "grading": {
+      "High": ["Thuja", "Crocus"],
+      "Medium": ["Lilium tigrinum", "Sepia"],
+      "Low": ["Ignatia"]
+    },
+    "modality": "Worse when sitting alone, silent room",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Thuja: Sensation of living creature in pelvic organs"
+  },
+  {
+    "rubric": "Burning in urethra – without passing urine",
+    "grading": {
+      "High": ["Sulphur", "Nitric acid"],
+      "Medium": ["Cantharis", "Merc sol"],
+      "Low": ["Causticum"]
+    },
+    "modality": "Worse from sitting, after coition, at night",
+    "miasm": ["Psora"],
+    "notes": "Sulphur: Burning as if urine were hot acid, even between urination"
+  },
+  {
+    "rubric": "Pulling pain – from bladder to thighs or back",
+    "grading": {
+      "High": ["Berberis", "Pareira"],
+      "Medium": ["Cantharis", "Lycopodium"],
+      "Low": ["Platina"]
+    },
+    "modality": "Worse with full bladder, better heat",
+    "miasm": ["Sycotic"],
+    "notes": "Berberis: Dragging/stretching pain as if bladder is pulled backward"
+  },
+  {
+    "rubric": "Gnawing pain – in bladder after urination",
+    "grading": {
+      "High": ["Nitric acid", "Berberis"],
+      "Medium": ["Sarsaparilla", "Merc sol"],
+      "Low": ["Terebinth"]
+    },
+    "modality": "Worse after urinating; better pressure or warm bath",
+    "miasm": ["Syphilitic"],
+    "notes": "Nitric acid: Persistent gnawing pain suggesting ulceration"
+  },
+  {
+    "rubric": "Ulcerative pain – during urination",
+    "grading": {
+      "High": ["Nitric acid", "Merc sol"],
+      "Medium": ["Cantharis", "Sarsaparilla"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse from motion, better rest; with bloody urine",
+    "miasm": ["Syphilitic"],
+    "notes": "Merc sol: Pain as if raw and ulcerated, aggravated by cold"
+  },
+  {
+    "rubric": "Sensation – as if urine is hot acid",
+    "grading": {
+      "High": ["Sulphur", "Cantharis"],
+      "Medium": ["Nitric acid", "Sarsaparilla"],
+      "Low": ["Causticum"]
+    },
+    "modality": "Worse night, alcohol, sugar intake",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Sulphur: Burning so intense it feels corrosive"
+  },
+  {
+    "rubric": "Sticking pain – in bladder extending to urethra",
+    "grading": {
+      "High": ["Berberis", "Petroselinum"],
+      "Medium": ["Merc sol", "Thuja"],
+      "Low": ["Lycopodium"]
+    },
+    "modality": "Worse walking or pressure on bladder",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Berberis: Sharp, pricking pain with spasm and tenesmus"
+  },
+  {
+    "rubric": "Sensation – of stream of cold water passing through urethra",
+    "grading": {
+      "High": ["Camphora", "Phosphorus"],
+      "Medium": ["Alumina", "Silicea"],
+      "Low": ["Calcarea phos"]
+    },
+    "modality": "Worse during urination, cold air, exposure",
+    "miasm": ["Psora"],
+    "notes": "Camphora: Peculiar icy sensation down urethra while urinating"
+  },
+  {
+    "rubric": "Pain – after urination lasting for hours",
+    "grading": {
+      "High": ["Equisetum", "Sarsaparilla"],
+      "Medium": ["Cantharis", "Petroselinum"],
+      "Low": ["Terebinth"]
+    },
+    "modality": "Worse after voiding, sitting; better lying down",
+    "miasm": ["Sycotic"],
+    "notes": "Equisetum: Dull aching or burning lingering after urination"
+  },
+  {
+    "rubric": "Pain – from bladder to navel or pubic bone",
+    "grading": {
+      "High": ["Berberis", "Cantharis"],
+      "Medium": ["Belladonna", "Sepia"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse motion, better pressure",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Berberis: Radiating pain from bladder upward or forward"
+  },
+  {
+    "rubric": "Sensation – bladder is swollen or balloon-like",
+    "grading": {
+      "High": ["Digitalis", "Opium"],
+      "Medium": ["Equisetum", "Sulphur"],
+      "Low": ["Arnica"]
+    },
+    "modality": "Worse not urinating; better after partial voiding",
+    "miasm": ["Syphilitic"],
+    "notes": "Digitalis: Retention with feeling of heavy, distended bladder"
+  },
+  {
+    "rubric": "Burning – in bladder during pregnancy",
+    "grading": {
+      "High": ["Sepia", "Kreosotum"],
+      "Medium": ["Cantharis", "Pulsatilla"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse 2nd/3rd trimester, motion, intercourse",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Sepia: Irritative burning due to pressure from uterus"
+  },
+  {
+    "rubric": "Sensation – urine cuts through urethra like razor",
+    "grading": {
+      "High": ["Nitric acid", "Sarsaparilla"],
+      "Medium": ["Cantharis", "Petroselinum"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse at end of urination, after exertion",
+    "miasm": ["Syphilitic"],
+    "notes": "Nitric acid: Severe stinging as if razor blade passed"
+  },
+  {
+    "rubric": "Urine – dark brown or black",
+    "grading": {
+      "High": ["Crotalus", "Terebinth"],
+      "Medium": ["Arsenicum album", "Carbo veg"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse in sepsis, advanced jaundice, kidney failure",
+    "miasm": ["Syphilitic"],
+    "notes": "Crotalus: Hemorrhagic urine in toxic fevers or liver failure"
+  },
+  {
+    "rubric": "Urine – milky or turbid white",
+    "grading": {
+      "High": ["Phosphoric acid", "Calcarea phosphorica"],
+      "Medium": ["Sulphur", "Sepia"],
+      "Low": ["Sarsaparilla"]
+    },
+    "modality": "Worse from sedentary lifestyle, seminal loss, grief",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Phos-ac: Phosphaturia, milky urine in debilitated states"
+  },
+  {
+    "rubric": "Urine – red or blood-stained",
+    "grading": {
+      "High": ["Cantharis", "Terebinth"],
+      "Medium": ["Nitric acid", "Crotalus"],
+      "Low": ["Sulphur", "Apis"]
+    },
+    "modality": "Worse during cystitis, trauma, heat",
+    "miasm": ["Syphilitic"],
+    "notes": "Cantharis: Burning urine with hematuria and violent tenesmus"
+  },
+  {
+    "rubric": "Urine – greenish or green-yellow",
+    "grading": {
+      "High": ["Lycopodium", "Nitric acid"],
+      "Medium": ["Sepia", "Sulphur"],
+      "Low": ["Digitalis"]
+    },
+    "modality": "Worse in liver dysfunction, infections",
+    "miasm": ["Sycotic"],
+    "notes": "Lycopodium: Greenish, offensive urine in hepatic conditions"
+  },
+  {
+    "rubric": "Urine – pale, colorless",
+    "grading": {
+      "High": ["Phosphoric acid", "Silicea"],
+      "Medium": ["China", "Kali phosphoricum"],
+      "Low": ["Ignatia"]
+    },
+    "modality": "Worse after exhaustion, diabetes, nervous breakdown",
+    "miasm": ["Psora"],
+    "notes": "Phos-ac: Colorless, profuse urine in brain-fag, grief states"
+  },
+  {
+    "rubric": "Urine – offensive, pungent odor",
+    "grading": {
+      "High": ["Benzoic acid", "Berberis"],
+      "Medium": ["Nitric acid", "Sulphur"],
+      "Low": ["Sarsaparilla"]
+    },
+    "modality": "Worse in gout, protein metabolism issues",
+    "miasm": ["Sycotic"],
+    "notes": "Benzoic acid: Intolerably strong-smelling urine, especially in gout"
+  },
+  {
+    "rubric": "Urine – fishy odor",
+    "grading": {
+      "High": ["Sepia", "Kreosotum"],
+      "Medium": ["Nitric acid", "Medorrhinum"],
+      "Low": ["Thuja"]
+    },
+    "modality": "Worse with leucorrhea, sexual infections, pelvic pathology",
+    "miasm": ["Sycotic"],
+    "notes": "Sepia: Fishy, ammoniacal odor linked with pelvic organ weakness"
+  },
+  {
+    "rubric": "Urine – sweet or fruity smell",
+    "grading": {
+      "High": ["Phosphoric acid", "Lactic acid"],
+      "Medium": ["Argentum nitricum", "Uranium nitricum"],
+      "Low": ["Phosphorus"]
+    },
+    "modality": "Worse in diabetes mellitus, emaciated children",
+    "miasm": ["Psora"],
+    "notes": "Phos-ac: Sweet odor in pale, profuse urine of diabetics"
+  },
+  {
+    "rubric": "Urine – deposits red sand (brick dust)",
+    "grading": {
+      "High": ["Lycopodium", "Sarsaparilla"],
+      "Medium": ["Benzoic acid", "Sulphur"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Worse in lithiasis, children, gout",
+    "miasm": ["Sycotic"],
+    "notes": "Lycopodium: Red sand sediment in children with weak digestion"
+  },
+  {
+    "rubric": "Urine – thick, mucous or purulent sediment",
+    "grading": {
+      "High": ["Terebinth", "Mercurius"],
+      "Medium": ["Kali bichromicum", "Sulphur"],
+      "Low": ["Hepar sulph"]
+    },
+    "modality": "Worse in chronic infection, prostatitis, gonorrhea",
+    "miasm": ["Syphilitic"],
+    "notes": "Terebinth: Mucous + blood; smell of violets"
+  },
+  {
+    "rubric": "Urine – white flakes or phosphatic sediment",
+    "grading": {
+      "High": ["Phosphoric acid", "Calcarea phosphorica"],
+      "Medium": ["Silicea", "Sepia"],
+      "Low": ["China"]
+    },
+    "modality": "Worse from mental strain, debility, after menses",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Phos-ac: Debilitated urine with white sediment, painless"
+  },
+  {
+    "rubric": "Urine – offensive, pungent odor",
+    "grading": {
+      "High": ["Benzoic acid", "Berberis"],
+      "Medium": ["Sulphur", "Lycopodium"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Worse in gout, meat diet, liver complaints",
+    "miasm": ["Sycotic"],
+    "notes": "Benzoic acid: Urine smells strong and foul; gouty diathesis"
+  },
+  {
+    "rubric": "Urine – ammoniacal odor",
+    "grading": {
+      "High": ["Nitric acid", "Calcarea carb"],
+      "Medium": ["Benzoic acid", "Merc sol"],
+      "Low": ["Silicea"]
+    },
+    "modality": "Worse standing long, cystitis, in children",
+    "miasm": ["Sycotic", "Psoric"],
+    "notes": "Nitric acid: Strong ammonia smell with dark, staining urine"
+  },
+  {
+    "rubric": "Urine – like cat’s urine or animal smell",
+    "grading": {
+      "High": ["Sepia", "Benzoic acid"],
+      "Medium": ["Graphites", "Sulphur"],
+      "Low": ["Nat mur"]
+    },
+    "modality": "Worse during pregnancy, menopause, early morning",
+    "miasm": ["Psora", "Sycotic"],
+    "notes": "Sepia: Urine has feline odor; strong enough to fill the room"
+  },
+  {
+    "rubric": "Urine – sweetish or fruity odor",
+    "grading": {
+      "High": ["Phosphoric acid", "Acetic acid"],
+      "Medium": ["Natrum sulph", "Lactic acid"],
+      "Low": ["Silicea"]
+    },
+    "modality": "Worse in diabetes mellitus",
+    "miasm": ["Psora"],
+    "notes": "Phos-ac: Weak, emaciated, urine smells fruity in diabetics"
+  },
+  {
+    "rubric": "Urine – putrid or cadaverous smell",
+    "grading": {
+      "High": ["Crotalus", "Terebinth"],
+      "Medium": ["Arsenicum", "Sulphur"],
+      "Low": ["Carbo veg"]
+    },
+    "modality": "Worse in septicemia, typhoid, renal failure",
+    "miasm": ["Syphilitic"],
+    "notes": "Crotalus: Urine black, foul, putrid in septic states"
+  },
+  {
+    "rubric": "Urine stream – weak or slow",
+    "grading": {
+      "High": ["Chimaphila", "Sabal serrulata"],
+      "Medium": ["Baryta carb", "Conium"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse in elderly men, enlarged prostate, cold air",
+    "miasm": ["Sycotic"],
+    "notes": "Chimaphila: Needs to strain, weak stream, feels he must kneel to urinate"
+  },
+  {
+    "rubric": "Urine stream – interrupted, stops and starts",
+    "grading": {
+      "High": ["Clematis", "Pareira"],
+      "Medium": ["Conium", "Sarsaparilla"],
+      "Low": ["Lycopodium"]
+    },
+    "modality": "Worse with prostate issues, after coition, cold",
+    "miasm": ["Sycotic"],
+    "notes": "Clematis: Intermittent stream, must wait or strain to continue"
+  },
+  {
+    "rubric": "Urine stream – split stream or double stream",
+    "grading": {
+      "High": ["Thuja", "Sarsaparilla"],
+      "Medium": ["Cannabis sativa", "Causticum"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "Worse after coition, urethral stricture, urethritis",
+    "miasm": ["Sycotic"],
+    "notes": "Thuja: Forked or scattered urine stream, often in urethral wart cases"
+  },
+  {
+    "rubric": "Urine stream – jerking or spasmodic flow",
+    "grading": {
+      "High": ["Staphysagria", "Cantharis"],
+      "Medium": ["Equisetum", "Berberis"],
+      "Low": ["Pulsatilla"]
+    },
+    "modality": "Worse from irritation, nervousness",
+    "miasm": ["Psora"],
+    "notes": "Staphysagria: Nervous bladder, spasmodic stream especially after surgery"
+  },
+  {
+    "rubric": "Urine stream – delayed start or hesitation",
+    "grading": {
+      "High": ["Conium", "Baryta carb"],
+      "Medium": ["Sepia", "Sabal serrulata"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "Worse morning, anxiety, prostate issues",
+    "miasm": ["Sycotic"],
+    "notes": "Conium: Must wait long time before flow starts, especially in elderly"
+  },
+  {
+    "rubric": "Pain – at neck of bladder during urination",
+    "grading": {
+      "High": ["Pareira", "Berberis"],
+      "Medium": ["Cantharis", "Sarsaparilla"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Worse at end of urination, deep seated inflammation",
+    "miasm": ["Sycotic"],
+    "notes": "Pareira: Pain so intense, must kneel and strain"
+  },
+  {
+    "rubric": "Pain – from bladder radiating to thighs",
+    "grading": {
+      "High": ["Berberis", "Belladonna"],
+      "Medium": ["Lilium tigrinum", "Sepia"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse during motion or full bladder",
+    "miasm": ["Psora"],
+    "notes": "Berberis: Pulling pain to thighs or kidneys during urination"
+  },
+  {
+    "rubric": "Pain – in urethra after urination",
+    "grading": {
+      "High": ["Petroselinum", "Cannabis sativa"],
+      "Medium": ["Sulphur", "Thuja"],
+      "Low": ["Sepia"]
+    },
+    "modality": "Worse touch, night, excitement",
+    "miasm": ["Sycotic"],
+    "notes": "Petroselinum: Tingling or crawling pain after urination"
+  },
+  {
+    "rubric": "Pain – in glans penis during urination",
+    "grading": {
+      "High": ["Cannabis indica", "Thuja"],
+      "Medium": ["Sarsaparilla", "Nitric acid"],
+      "Low": ["Lachesis"]
+    },
+    "modality": "Worse with stricture, gonorrheal history",
+    "miasm": ["Sycotic"],
+    "notes": "Cannabis: Sharp cutting pain felt at tip of penis while urinating"
+  },
+  {
+    "rubric": "Pain – in perineum during or after urination",
+    "grading": {
+      "High": ["Sabal serrulata", "Berberis"],
+      "Medium": ["Cantharis", "Merc sol"],
+      "Low": ["Digitalis"]
+    },
+    "modality": "Worse after sitting long, prostatitis",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Sabal: Dull pain in perineum radiating to bladder"
+  },
+  {
+    "rubric": "Pain – in urethra extending to labia or vagina during urination",
+    "grading": {
+      "High": ["Sepia", "Pulsatilla"],
+      "Medium": ["Kreosotum", "Cannabis sativa"],
+      "Low": ["Borax"]
+    },
+    "modality": "Worse in females, during menses, pregnancy",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Sepia: Smarting pain radiating to vulva in cystitis or vaginitis"
+  },
+  {
+    "rubric": "Pain – from kidney to bladder during urination",
+    "grading": {
+      "High": ["Berberis", "Lycopodium"],
+      "Medium": ["Sarsaparilla", "Terebinth"],
+      "Low": ["Belladonna"]
+    },
+    "modality": "Worse during passage of stones, before urination",
+    "miasm": ["Psora", "Syphilitic"],
+    "notes": "Berberis: Cutting pain in ureteral path; renal colic with tenesmus"
+  },
+  {
+    "rubric": "Pain – in urethra felt only at end of urination",
+    "grading": {
+      "High": ["Sarsaparilla", "Cantharis"],
+      "Medium": ["Equisetum", "Merc sol"],
+      "Low": ["Digitalis"]
+    },
+    "modality": "Worse in lithiasis, infections; better after warm application",
+    "miasm": ["Sycotic"],
+    "notes": "Sarsaparilla: Intense burning or stabbing pain post-flow"
+  },
+  {
+    "rubric": "Pain – from bladder to navel (hypogastrium) during urination",
+    "grading": {
+      "High": ["Berberis", "Belladonna"],
+      "Medium": ["Terebinth", "Cantharis"],
+      "Low": ["Merc sol"]
+    },
+    "modality": "Worse on straining, inflamed bladder, children",
+    "miasm": ["Syphilitic"],
+    "notes": "Belladonna: Shooting pain from bladder upward during urination"
+  },
+  {
+    "rubric": "Pain – in meatus (external urethra) with stinging",
+    "grading": {
+      "High": ["Petroselinum", "Thuja"],
+      "Medium": ["Cantharis", "Sulphur"],
+      "Low": ["Lachesis"]
+    },
+    "modality": "Worse touch, friction, after urination",
+    "miasm": ["Sycotic"],
+    "notes": "Petroselinum: Crawling, stinging sensation at meatus; gonorrhea link"
+  },
+  {
+    "rubric": "Pain – in bladder with feeling as if a ball were moving inside",
+    "grading": {
+      "High": ["Sepia", "Thuja"],
+      "Medium": ["Pulsatilla", "Calcarea carb"],
+      "Low": ["Sulphur"]
+    },
+    "modality": "Worse sitting, walking, during urination",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Sepia: Sensation of a ball in bladder radiating to vagina; common in prolapse cases"
+  },
+  {
+    "rubric": "Pain – at root of penis during urination",
+    "grading": {
+      "High": ["Staphysagria", "Cannabis sativa"],
+      "Medium": ["Nitric acid", "Lachesis"],
+      "Low": ["Causticum"]
+    },
+    "modality": "Worse after sexual excess, urethral inflammation",
+    "miasm": ["Sycotic"],
+    "notes": "Staphysagria: Deep soreness at root with suppressed anger or sexual suppression"
+  },
+  {
+    "rubric": "Pain – from bladder down to thighs or genitals",
+    "grading": {
+      "High": ["Berberis", "Belladonna"],
+      "Medium": ["Lilium tigrinum", "Sabal serrulata"],
+      "Low": ["Nux vomica"]
+    },
+    "modality": "Worse during urination, sitting, full bladder",
+    "miasm": ["Psora"],
+    "notes": "Lilium: Dragging pain from bladder downward into pelvis or thighs"
+  },
+  {
+    "rubric": "Pain – radiating to sacrum or back during urination",
+    "grading": {
+      "High": ["Berberis", "Equisetum"],
+      "Medium": ["Cantharis", "Terebinth"],
+      "Low": ["Digitalis"]
+    },
+    "modality": "Worse motion, morning, after chilling",
+    "miasm": ["Syphilitic"],
+    "notes": "Equisetum: Backache with urination, not relieved even after passing urine"
+  },
+  {
+    "rubric": "Pain – in clitoris during urination",
+    "grading": {
+      "High": ["Kreosotum", "Sepia"],
+      "Medium": ["Pulsatilla", "Borax"],
+      "Low": ["Lilium tigrinum"]
+    },
+    "modality": "Worse in small girls, during micturition, genital irritation",
+    "miasm": ["Sycotic", "Psora"],
+    "notes": "Kreosotum: Violent itching and pain in clitoris with acrid leucorrhea and urine"
+  }
+]

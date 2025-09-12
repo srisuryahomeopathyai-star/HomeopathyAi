@@ -1,0 +1,3720 @@
+[
+  {
+    "rubric": "Thirstless during fever",
+    "grading": {
+      "high": ["Pulsatilla", "Gelsemium"],
+      "medium": ["Antimonium crudum", "Apis"],
+      "low": ["Ferrum phos"]
+    },
+    "modality": "Fever with dry mouth but no thirst",
+    "miasm": "Psora",
+    "notes": "Useful in mild, slow onset fevers or emotional suppression"
+  },
+  {
+    "rubric": "Thirst for large quantities at long intervals",
+    "grading": {
+      "high": ["Bryonia", "Natrum muriaticum"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Drinks large quantities infrequently",
+    "miasm": "Psora",
+    "notes": "Characteristic of dryness and heat states"
+  },
+  {
+    "rubric": "Unquenchable thirst for cold water",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Bryonia", "Arsenicum album"],
+      "low": ["China"]
+    },
+    "modality": "Craves cold water constantly",
+    "miasm": "Psora/Sycosis",
+    "notes": "Often seen in gastric heat, liver disorders"
+  },
+  {
+    "rubric": "Thirst for small quantities frequently",
+    "grading": {
+      "high": ["Arsenicum album", "China"],
+      "medium": ["Ipecacuanha", "Ignatia"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Sips water often, small amounts",
+    "miasm": "Psora",
+    "notes": "Common in irritability, restlessness, anxiety states"
+  },
+  {
+    "rubric": "Thirst only at night",
+    "grading": {
+      "high": ["Sulphur", "Nux vomica"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Wakes for water in middle of night",
+    "miasm": "Psora",
+    "notes": "Often seen in liver/gastro-hepatic cases"
+  },
+  {
+    "rubric": "Thirst for warm drinks only",
+    "grading": {
+      "high": ["Arsenicum album", "Lycopodium"],
+      "medium": ["Hepar sulph", "Mercurius"],
+      "low": ["Silicea"]
+    },
+    "modality": "Wants only warm liquids even in hot weather or fever",
+    "miasm": "Psora",
+    "notes": "Often seen in digestive coldness or deep chill"
+  },
+  {
+    "rubric": "Thirst during chill stage of fever",
+    "grading": {
+      "high": ["Arsenicum album", "Bryonia"],
+      "medium": ["Nux vomica", "Camphora"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Chilly with dry mouth and strong thirst",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Helpful in enteric fevers, malaria, influenza"
+  },
+  {
+    "rubric": "Thirst with dry tongue but moist mouth",
+    "grading": {
+      "high": ["Phosphorus", "Mercurius"],
+      "medium": ["Pulsatilla", "Silicea"],
+      "low": ["Sepia"]
+    },
+    "modality": "Contradictory state; tongue feels dry but mouth wet",
+    "miasm": "Psora",
+    "notes": "Neurological or hormonal imbalance symptom"
+  },
+  {
+    "rubric": "Thirst immediately after eating",
+    "grading": {
+      "high": ["Lycopodium", "Nux vomica"],
+      "medium": ["Sepia", "Calcarea carbonica"],
+      "low": ["Silicea"]
+    },
+    "modality": "Eating triggers dryness and thirst",
+    "miasm": "Psora",
+    "notes": "Suggests weak digestive fire or liver irritation"
+  },
+  {
+    "rubric": "Thirst only after midnight",
+    "grading": {
+      "high": ["Sulphur", "Medorrhinum"],
+      "medium": ["Nux vomica", "Phosphorus"],
+      "low": ["Natrum muriaticum"]
+    },
+    "modality": "Sleeps dry, but wakes thirsty around 1–3 AM",
+    "miasm": "Psora/Sycosis",
+    "notes": "Often points to deep miasmatic disturbance or suppression"
+  },
+  {
+    "rubric": "Thirst for very cold drinks",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Bryonia", "Veratrum album"],
+      "low": ["Sanguinaria"]
+    },
+    "modality": "Desires icy water; better after drinking",
+    "miasm": "Psora",
+    "notes": "Common in liver heat, gastric acidity, burning"
+  },
+  {
+    "rubric": "No thirst with dryness of mouth",
+    "grading": {
+      "high": ["Pulsatilla", "Nux moschata"],
+      "medium": ["Gelsemium", "Antimonium crudum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Dry mouth and lips but no urge to drink",
+    "miasm": "Psora",
+    "notes": "Seen in nervous fevers or emotionally suppressed states"
+  },
+  {
+    "rubric": "Intense thirst during stool",
+    "grading": {
+      "high": ["Veratrum album", "Arsenicum album"],
+      "medium": ["Podophyllum", "Aloe"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Feels exhausted and dry while passing stool",
+    "miasm": "Syphilitic",
+    "notes": "Collapse, dehydration, cholera-like diarrhea"
+  },
+  {
+    "rubric": "Thirst after vomiting",
+    "grading": {
+      "high": ["Ipecacuanha", "Phosphorus"],
+      "medium": ["Veratrum album", "Arsenicum album"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Wants cold water after throwing up",
+    "miasm": "Psora",
+    "notes": "Seen in gastric irritation, food poisoning, migraine"
+  },
+  {
+    "rubric": "Thirst with full sensation in stomach",
+    "grading": {
+      "high": ["Lycopodium", "Nux vomica"],
+      "medium": ["Sepia", "Natrum mur"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Feels bloated but craves water",
+    "miasm": "Psora",
+    "notes": "Seen in dyspepsia or liver complaints"
+  },
+  {
+    "rubric": "Thirst during anxiety or fear",
+    "grading": {
+      "high": ["Aconite", "Argentum nitricum"],
+      "medium": ["Phosphorus", "Arsenicum album"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Emotionally triggered thirst",
+    "miasm": "Psora",
+    "notes": "Useful in exam anxiety, panic attacks, shocks"
+  },
+  {
+    "rubric": "Thirst increased with dry cough",
+    "grading": {
+      "high": ["Phosphorus", "Spongia"],
+      "medium": ["Bryonia", "Hepar sulph"],
+      "low": ["Rumex"]
+    },
+    "modality": "Dry irritation causes water craving",
+    "miasm": "Psora",
+    "notes": "Tracheitis, bronchitis, dry asthma"
+  },
+  {
+    "rubric": "Thirst during menses",
+    "grading": {
+      "high": ["Sepia", "Lachesis"],
+      "medium": ["Pulsatilla", "Sulphur"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Thirst is more around menstrual flow",
+    "miasm": "Psora/Sycosis",
+    "notes": "Hormonal changes or liver congestion"
+  },
+  {
+    "rubric": "Thirst after anger",
+    "grading": {
+      "high": ["Staphysagria", "Nux vomica"],
+      "medium": ["Colocynthis", "Chamomilla"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Outburst or suppressed anger followed by dryness",
+    "miasm": "Psora",
+    "notes": "Useful in psychosomatic GI issues"
+  },
+  {
+    "rubric": "Thirst increases during headache",
+    "grading": {
+      "high": ["Belladonna", "Phosphorus"],
+      "medium": ["Bryonia", "Sanguinaria"],
+      "low": ["Sepia"]
+    },
+    "modality": "Wants cold drinks while head pains",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Especially in congestive or hepatic headaches"
+  },
+  {
+    "rubric": "Thirst only in morning on waking",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Lycopodium", "Phosphorus"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Wakes with dry mouth and needs water",
+    "miasm": "Psora",
+    "notes": "Detoxification or hepatic overactivity symptom"
+  },
+  {
+    "rubric": "Thirst worse from drinking",
+    "grading": {
+      "high": ["Bryonia", "Arsenicum album"],
+      "medium": ["Natrum sulph", "Hepar sulph"],
+      "low": ["Antimonium tart"]
+    },
+    "modality": "Drinks increase discomfort, nausea, or chill",
+    "miasm": "Psora",
+    "notes": "Indicates gastric or absorption dysfunction"
+  },
+  {
+    "rubric": "Thirst for acid drinks",
+    "grading": {
+      "high": ["Phosphorus", "Sulphuric acid"],
+      "medium": ["Antimonium crudum", "Veratrum album"],
+      "low": ["Bryonia"]
+    },
+    "modality": "Craves lemonade, vinegar, citrus",
+    "miasm": "Psora",
+    "notes": "Useful in sour belching, liver disturbance"
+  },
+  {
+    "rubric": "Thirst worse during night sweat",
+    "grading": {
+      "high": ["Silicea", "China"],
+      "medium": ["Phosphorus", "Tuberculinum"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Profuse perspiration triggers thirst",
+    "miasm": "Psora",
+    "notes": "Indicates mineral depletion, chronic infection"
+  },
+  {
+    "rubric": "Thirst before urination",
+    "grading": {
+      "high": ["Lycopodium", "Sarsaparilla"],
+      "medium": ["Phosphorus", "Nux vomica"],
+      "low": ["Cannabis indica"]
+    },
+    "modality": "Feels urge to drink just before urinating",
+    "miasm": "Psora",
+    "notes": "Seen in kidney/bladder pathologies"
+  },
+  {
+    "rubric": "Thirst during chilliness",
+    "grading": {
+      "high": ["Aconite", "Arsenicum album"],
+      "medium": ["Gelsemium", "Bryonia"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Shivering or goosebumps with strong thirst",
+    "miasm": "Psora",
+    "notes": "Useful in acute fevers, fear states"
+  },
+  {
+    "rubric": "Thirsty but cannot drink much",
+    "grading": {
+      "high": ["Ipecacuanha", "China"],
+      "medium": ["Ignatia", "Lycopodium"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Wants to drink but feels full or gagging",
+    "miasm": "Psora",
+    "notes": "Gastric irritation, weak digestion"
+  },
+  {
+    "rubric": "Thirst for milk only",
+    "grading": {
+      "high": ["Aethusa", "Calcarea phosphorica"],
+      "medium": ["Silicea", "Natrum mur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Prefers milk over water or juice",
+    "miasm": "Psora",
+    "notes": "Seen in children, calcium-deficient states"
+  },
+  {
+    "rubric": "Thirst with dry cracked lips",
+    "grading": {
+      "high": ["Bryonia", "Sulphur"],
+      "medium": ["Natrum mur", "Phosphorus"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Mouth and lips parched and peeling",
+    "miasm": "Psora",
+    "notes": "Common in fevers, dehydration, sun exposure"
+  },
+  {
+    "rubric": "Thirst alternating with aversion to water",
+    "grading": {
+      "high": ["Ignatia", "Nux moschata"],
+      "medium": ["Gelsemium", "Sepia"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Switches between craving and nausea for water",
+    "miasm": "Psora",
+    "notes": "Seen in emotional or hormonal disturbances"
+  },
+  {
+    "rubric": "Thirst with burning in stomach",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Bryonia", "Carbo veg"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Feels burning sensation in stomach, craves water",
+    "miasm": "Psora",
+    "notes": "Useful in gastritis, peptic ulcers, heat states"
+  },
+  {
+    "rubric": "Thirst for salty drinks or salty water",
+    "grading": {
+      "high": ["Natrum muriaticum", "Phosphorus"],
+      "medium": ["Sulphur", "Calcarea carb"],
+      "low": ["Silicea"]
+    },
+    "modality": "Craves salty tasting fluids",
+    "miasm": "Psora",
+    "notes": "Seen in dehydration, chronic headaches, hormonal imbalance"
+  },
+  {
+    "rubric": "Thirst during diarrhea",
+    "grading": {
+      "high": ["Arsenicum album", "Veratrum album"],
+      "medium": ["Aloe", "Podophyllum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Copious watery stool triggers intense thirst",
+    "miasm": "Syphilitic",
+    "notes": "Collapse states, food poisoning, gastroenteritis"
+  },
+  {
+    "rubric": "Thirst for beer or carbonated drinks",
+    "grading": {
+      "high": ["Lycopodium", "Phosphorus"],
+      "medium": ["Sulphur", "Nux vomica"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Craves soda, beer, or effervescent drinks",
+    "miasm": "Psora/Sycosis",
+    "notes": "Liver issues, flatulence, bloating"
+  },
+  {
+    "rubric": "Thirst with coated tongue",
+    "grading": {
+      "high": ["Mercurius", "Antimonium crudum"],
+      "medium": ["Nux vomica", "Bryonia"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Thirst with thick, yellow or white tongue",
+    "miasm": "Psora",
+    "notes": "Indicates GI disturbance, poor digestion, or infection"
+  },
+  {
+    "rubric": "Thirst disappears with fever rise",
+    "grading": {
+      "high": ["Pulsatilla", "Gelsemium"],
+      "medium": ["Nux moschata", "Ignatia"],
+      "low": ["Ferrum phos"]
+    },
+    "modality": "Thirst vanishes as temperature rises",
+    "miasm": "Psora",
+    "notes": "Important in paradoxical fevers or suppressed states"
+  },
+  {
+    "rubric": "Thirst increased with sour eructation",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Natrum phos", "Carbo veg"],
+      "low": ["China"]
+    },
+    "modality": "Drinks cold water for gastric acidity",
+    "miasm": "Psora",
+    "notes": "Hyperacidity, GERD, chronic liver cases"
+  },
+  {
+    "rubric": "Burning thirst with dry throat",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Bryonia", "Belladonna"],
+      "low": ["Mercurius"]
+    },
+    "modality": "Burning sensation throughout throat",
+    "miasm": "Psora",
+    "notes": "Seen in fevers, infections, and heat states"
+  },
+  {
+    "rubric": "Thirst with bad or metallic taste in mouth",
+    "grading": {
+      "high": ["Mercurius", "Nux vomica"],
+      "medium": ["Hepar sulph", "Antimonium crudum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Craves water to clear offensive taste",
+    "miasm": "Psora",
+    "notes": "Liver dysfunction, oral infections"
+  },
+  {
+    "rubric": "Thirst after exposure to sun",
+    "grading": {
+      "high": ["Belladonna", "Glonoinum"],
+      "medium": ["Natrum mur", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Sun exposure increases dryness and thirst",
+    "miasm": "Psora",
+    "notes": "Sun headache, heatstroke, dehydration"
+  },
+  {
+    "rubric": "Thirst with aversion to water taste",
+    "grading": {
+      "high": ["Ignatia", "Sepia"],
+      "medium": ["Pulsatilla", "Nux moschata"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Feels water tastes bitter or offensive",
+    "miasm": "Psora",
+    "notes": "Emotional suppression, pregnancy, liver issues"
+  },
+  {
+    "rubric": "Thirst with trembling or weakness",
+    "grading": {
+      "high": ["Gelsemium", "Phosphoric acid"],
+      "medium": ["China", "Veratrum album"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Tremors or weakness prompt water intake",
+    "miasm": "Psora",
+    "notes": "Debility states, exam fear, exertion"
+  },
+  {
+    "rubric": "Thirst in early evening (5-7 PM)",
+    "grading": {
+      "high": ["Lycopodium", "Sepia"],
+      "medium": ["Sulphur", "Natrum mur"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Wants water during liver aggravation time",
+    "miasm": "Psora/Sycosis",
+    "notes": "Useful time modality for remedy selection"
+  },
+  {
+    "rubric": "Thirst before menses",
+    "grading": {
+      "high": ["Sepia", "Lachesis"],
+      "medium": ["Pulsatilla", "Calcarea carb"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Increased thirst few days before flow",
+    "miasm": "Psora",
+    "notes": "Hormonal change indicator, PMS phase"
+  },
+  {
+    "rubric": "Thirst with sticky saliva",
+    "grading": {
+      "high": ["Mercurius", "Nux moschata"],
+      "medium": ["Natrum mur", "Sulphur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Sticky, ropy saliva with water desire",
+    "miasm": "Psora",
+    "notes": "Seen in mouth breathing, liver or metabolic issues"
+  },
+  {
+    "rubric": "Thirsty after sexual excitement",
+    "grading": {
+      "high": ["Phosphorus", "Nux vomica"],
+      "medium": ["Selenium", "Lycopodium"],
+      "low": ["Staphysagria"]
+    },
+    "modality": "Excitement increases dryness and need for water",
+    "miasm": "Psora/Sycosis",
+    "notes": "Sexual neurasthenia, loss of fluids"
+  },
+  {
+    "rubric": "Thirst worsens with eating sweets",
+    "grading": {
+      "high": ["Sulphur", "Lycopodium"],
+      "medium": ["Phosphorus", "Calcarea carb"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Sugary foods provoke thirst and dryness",
+    "miasm": "Psora/Sycosis",
+    "notes": "Important in diabetics or liver congestion"
+  },
+  {
+    "rubric": "Thirst with ulcer in mouth or tongue",
+    "grading": {
+      "high": ["Mercurius", "Nitric acid"],
+      "medium": ["Borax", "Sulphur"],
+      "low": ["Kali bichromicum"]
+    },
+    "modality": "Painful ulcers increase urge to drink",
+    "miasm": "Syphilitic",
+    "notes": "Mouth ulcers, stomatitis, aphthae"
+  },
+  {
+    "rubric": "Thirst on waking from nap",
+    "grading": {
+      "high": ["Sulphur", "Sepia"],
+      "medium": ["Nux vomica", "Phosphorus"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Short naps followed by dry mouth",
+    "miasm": "Psora",
+    "notes": "Useful in mid-day aggravation cases"
+  },
+  {
+    "rubric": "Thirst after eating salty food",
+    "grading": {
+      "high": ["Natrum mur", "Phosphorus"],
+      "medium": ["Lycopodium", "Sulphur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Craves water to balance salt overload",
+    "miasm": "Psora",
+    "notes": "Salt-sensitive constitutions"
+  },
+  {
+    "rubric": "Thirst increased after urination",
+    "grading": {
+      "high": ["Phosphorus", "Sarsaparilla"],
+      "medium": ["Lycopodium", "China"],
+      "low": ["Silicea"]
+    },
+    "modality": "Dryness follows urination",
+    "miasm": "Psora",
+    "notes": "Renal irritation, diabetes, bladder issues"
+  },
+  {
+    "rubric": "Thirst with cold sensation in stomach",
+    "grading": {
+      "high": ["Arsenicum album", "Carbo vegetabilis"],
+      "medium": ["Veratrum album", "Camphora"],
+      "low": ["Tabacum"]
+    },
+    "modality": "Craves warm drinks to relieve gastric cold",
+    "miasm": "Syphilitic",
+    "notes": "Seen in cholera, collapse, extreme weakness"
+  },
+  {
+    "rubric": "Thirst increases after talking",
+    "grading": {
+      "high": ["Phosphorus", "Causticum"],
+      "medium": ["Sulphur", "Ignatia"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Dryness from speech triggers thirst",
+    "miasm": "Psora",
+    "notes": "Teachers, public speakers, laryngeal issues"
+  },
+  {
+    "rubric": "Thirst only after exercise",
+    "grading": {
+      "high": ["China", "Phosphorus"],
+      "medium": ["Calcarea carb", "Sulphur"],
+      "low": ["Silicea"]
+    },
+    "modality": "Needs water only after physical exertion",
+    "miasm": "Psora",
+    "notes": "Normal physiological response, but exaggerated in some cases"
+  },
+  {
+    "rubric": "Thirst with bitter taste in mouth",
+    "grading": {
+      "high": ["Bryonia", "Chelidonium"],
+      "medium": ["Nux vomica", "Natrum sulph"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Drinks water to counter bitter taste",
+    "miasm": "Psora",
+    "notes": "Liver-related, gastric disorders"
+  },
+  {
+    "rubric": "Thirst increases with mental work",
+    "grading": {
+      "high": ["Phosphoric acid", "Argentum nitricum"],
+      "medium": ["Calcarea phos", "Phosphorus"],
+      "low": ["Silicea"]
+    },
+    "modality": "Thinking or studying increases dryness",
+    "miasm": "Psora",
+    "notes": "Mental debility, exam stress, overwork"
+  },
+  {
+    "rubric": "Thirst with aversion to plain water",
+    "grading": {
+      "high": ["Sepia", "Ignatia"],
+      "medium": ["Nux moschata", "Antimonium crudum"],
+      "low": ["Silicea"]
+    },
+    "modality": "Wants flavored fluids but avoids water",
+    "miasm": "Psora",
+    "notes": "Seen in pregnancy, hormonal changes, GI upset"
+  },
+  {
+    "rubric": "Thirst after greasy food",
+    "grading": {
+      "high": ["Pulsatilla", "Carbo veg"],
+      "medium": ["Antimonium crudum", "Sulphur"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Feels dryness after oily meals",
+    "miasm": "Psora",
+    "notes": "Poor fat digestion or gallbladder dysfunction"
+  },
+  {
+    "rubric": "Thirst before sleep",
+    "grading": {
+      "high": ["Sulphur", "Nux vomica"],
+      "medium": ["Calcarea carb", "Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Desires water before going to bed",
+    "miasm": "Psora",
+    "notes": "Common in chronic dry states"
+  },
+  {
+    "rubric": "Thirsty but drinks little at a time",
+    "grading": {
+      "high": ["Arsenicum album", "China"],
+      "medium": ["Ignatia", "Phosphorus"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Sips water frequently, but in small quantity",
+    "miasm": "Psora",
+    "notes": "Restless, irritable patients; GI or fever states"
+  },
+  {
+    "rubric": "Thirst after fright or shock",
+    "grading": {
+      "high": ["Aconite", "Phosphorus"],
+      "medium": ["Gelsemium", "Ignatia"],
+      "low": ["Arnica"]
+    },
+    "modality": "Emotional trauma brings dryness and thirst",
+    "miasm": "Psora",
+    "notes": "Useful in PTSD, sudden fear cases"
+  },
+  {
+    "rubric": "Thirst increases in winter",
+    "grading": {
+      "high": ["Sulphur", "Bryonia"],
+      "medium": ["Phosphorus", "Natrum mur"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Dry cold air increases fluid needs",
+    "miasm": "Psora",
+    "notes": "Chronic dry skin, bronchitis, indoor heating"
+  },
+  {
+    "rubric": "Thirst with nausea",
+    "grading": {
+      "high": ["Ipecacuanha", "Phosphorus"],
+      "medium": ["Nux vomica", "Arsenicum album"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Feels nauseated but still craves water",
+    "miasm": "Psora",
+    "notes": "Paradoxical state in gastric upsets"
+  },
+  {
+    "rubric": "Thirst after suppressed sweat",
+    "grading": {
+      "high": ["Silicea", "Belladonna"],
+      "medium": ["Bryonia", "Rhus tox"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Dryness follows exposure or after stopping perspiration",
+    "miasm": "Psora/Sycosis",
+    "notes": "Suppressed skin function, colds, or fevers"
+  },
+  {
+    "rubric": "Thirst for ice chips or crushed ice",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Carbo veg", "Veratrum album"],
+      "low": ["Secale"]
+    },
+    "modality": "Doesn’t want water, only chews ice",
+    "miasm": "Psora",
+    "notes": "Seen in fevers, hormonal or mineral deficiency"
+  },
+  {
+    "rubric": "Thirst without relief from drinking",
+    "grading": {
+      "high": ["China", "Bryonia"],
+      "medium": ["Veratrum album", "Phosphorus"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Water doesn’t relieve dryness or internal heat",
+    "miasm": "Psora",
+    "notes": "Seen in fevers, hemorrhage, dehydration"
+  },
+  {
+    "rubric": "Thirst increases on lying down",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Lycopodium", "Hepar sulph"],
+      "low": ["Silicea"]
+    },
+    "modality": "Feels urge to sip water while resting",
+    "miasm": "Psora",
+    "notes": "Seen in respiratory complaints"
+  },
+  {
+    "rubric": "Thirst with difficult swallowing",
+    "grading": {
+      "high": ["Belladonna", "Mercurius"],
+      "medium": ["Lachesis", "Phytolacca"],
+      "low": ["Nitric acid"]
+    },
+    "modality": "Desires water but throat pain limits intake",
+    "miasm": "Syphilitic",
+    "notes": "Tonsillitis, diphtheria, strep throat"
+  },
+  {
+    "rubric": "Thirst for hot drinks in hot weather",
+    "grading": {
+      "high": ["Hepar sulph", "Lycopodium"],
+      "medium": ["Arsenicum album", "Causticum"],
+      "low": ["Mercurius"]
+    },
+    "modality": "Strange craving for warm drinks despite heat",
+    "miasm": "Psora",
+    "notes": "Contradictory symptom in cold constitutions"
+  },
+  {
+    "rubric": "Thirst before stools",
+    "grading": {
+      "high": ["Podophyllum", "Sarsaparilla"],
+      "medium": ["Lycopodium", "Natrum mur"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Dryness precedes bowel movement",
+    "miasm": "Psora",
+    "notes": "Gastro-colic reflex disturbance"
+  },
+  {
+    "rubric": "Thirst disappears after starting fever",
+    "grading": {
+      "high": ["Gelsemium", "Pulsatilla"],
+      "medium": ["Ignatia", "Ferrum phos"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Initial fever stage suppresses desire for water",
+    "miasm": "Psora",
+    "notes": "Early stage of viral or slow onset infections"
+  },
+  {
+    "rubric": "Thirst aggravated after eating",
+    "grading": {
+      "high": ["Lycopodium", "Nux vomica"],
+      "medium": ["Sepia", "Phosphorus"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Increased dryness after meals",
+    "miasm": "Psora",
+    "notes": "Seen in liver complaints and indigestion"
+  },
+  {
+    "rubric": "Thirst for drinks with lemon",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Antimonium crudum", "Natrum mur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Desires lemon water or citrus drinks",
+    "miasm": "Psora",
+    "notes": "Useful in nausea, liver heat, acidity"
+  },
+  {
+    "rubric": "Thirst for fruit juices",
+    "grading": {
+      "high": ["Phosphorus", "China"],
+      "medium": ["Sulphur", "Natrum mur"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Craves sweet or sour natural juices",
+    "miasm": "Psora",
+    "notes": "Seen in weak, irritable or debilitated constitutions"
+  },
+  {
+    "rubric": "Thirst absent during illness but returns in recovery",
+    "grading": {
+      "high": ["Gelsemium", "Pulsatilla"],
+      "medium": ["Ferrum phos", "Ignatia"],
+      "low": ["Nux moschata"]
+    },
+    "modality": "No desire to drink while sick, thirst reappears in convalescence",
+    "miasm": "Psora",
+    "notes": "Seen in flu-like illnesses, nervous fevers"
+  },
+  {
+    "rubric": "Thirst only while standing",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Hepar sulph", "Bryonia"],
+      "low": ["Sepia"]
+    },
+    "modality": "Feels dryness and drinks only when upright",
+    "miasm": "Psora",
+    "notes": "Position-dependent circulatory dryness"
+  },
+  {
+    "rubric": "Thirst immediately after sleep",
+    "grading": {
+      "high": ["Sulphur", "Nux vomica"],
+      "medium": ["Lycopodium", "Calcarea carb"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Craves water upon waking from sleep or nap",
+    "miasm": "Psora",
+    "notes": "Liver or metabolic stagnation"
+  },
+  {
+    "rubric": "Thirst alternating with hunger",
+    "grading": {
+      "high": ["Phosphorus", "Lycopodium"],
+      "medium": ["China", "Antimonium crudum"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Feels either thirsty or hungry, not both at same time",
+    "miasm": "Psora",
+    "notes": "Seen in digestive and nervous system imbalances"
+  },
+  {
+    "rubric": "Thirst worse in warm room",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Arsenicum album", "Natrum mur"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Heated indoor air increases dryness",
+    "miasm": "Psora",
+    "notes": "Seen in dry skin, respiratory and skin conditions"
+  },
+  {
+    "rubric": "Thirst with internal burning",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Sulphur", "Veratrum album"],
+      "low": ["Iris versicolor"]
+    },
+    "modality": "Feels burning inside and needs cold water",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Acidity, inflammation, toxic states"
+  },
+  {
+    "rubric": "Thirst after frightful dreams",
+    "grading": {
+      "high": ["Aconite", "Gelsemium"],
+      "medium": ["Ignatia", "Phosphorus"],
+      "low": ["Kali phos"]
+    },
+    "modality": "Nightmares followed by dryness and urge to drink",
+    "miasm": "Psora",
+    "notes": "Shock, suppressed fears, trauma-related dryness"
+  },
+  {
+    "rubric": "Thirst only with fever chill stage",
+    "grading": {
+      "high": ["Arsenicum album", "Bryonia"],
+      "medium": ["Nux vomica", "Camphora"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "During chill feels dryness and craves water",
+    "miasm": "Psora",
+    "notes": "Acute infection, typhoid or intermittent fever"
+  },
+  {
+    "rubric": "Thirst during anger",
+    "grading": {
+      "high": ["Staphysagria", "Nux vomica"],
+      "medium": ["Chamomilla", "Ignatia"],
+      "low": ["Colocynthis"]
+    },
+    "modality": "Rage or indignation brings dryness",
+    "miasm": "Psora",
+    "notes": "Psychosomatic response in digestive or liver upset"
+  },
+  {
+    "rubric": "Thirst worse lying on left side",
+    "grading": {
+      "high": ["Lycopodium", "Phosphorus"],
+      "medium": ["Sepia", "Sulphur"],
+      "low": ["Medorrhinum"]
+    },
+    "modality": "Position aggravates dryness",
+    "miasm": "Psora/Sycosis",
+    "notes": "Useful in liver and lung complaints"
+  },
+  {
+    "rubric": "Thirst for boiling hot water",
+    "grading": {
+      "high": ["Hepar sulph", "Arsenicum album"],
+      "medium": ["Causticum", "Nux vomica"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Craves extremely hot drinks",
+    "miasm": "Psora",
+    "notes": "Cold, hypersensitive constitutions"
+  },
+  {
+    "rubric": "Thirst for tea only",
+    "grading": {
+      "high": ["China", "Phosphorus"],
+      "medium": ["Pulsatilla", "Natrum mur"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Desires black or green tea over water",
+    "miasm": "Psora",
+    "notes": "Stimulant craving in weak or exhausted types"
+  },
+  {
+    "rubric": "Thirst only in open air",
+    "grading": {
+      "high": ["Pulsatilla", "Ignatia"],
+      "medium": ["Gelsemium", "Sulphur"],
+      "low": ["Silicea"]
+    },
+    "modality": "Feels urge to drink only while walking outside",
+    "miasm": "Psora",
+    "notes": "Circulatory or psychological link to fresh air"
+  },
+  {
+    "rubric": "Thirst worse while reading",
+    "grading": {
+      "high": ["Phosphoric acid", "Lycopodium"],
+      "medium": ["Silicea", "Phosphorus"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Mental effort increases dryness",
+    "miasm": "Psora",
+    "notes": "Common in students, writers, thinkers"
+  },
+  {
+    "rubric": "Thirst worse during storm or cloudy weather",
+    "grading": {
+      "high": ["Rhododendron", "Silicea"],
+      "medium": ["Phosphorus", "Calcarea carb"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Weather change provokes thirst",
+    "miasm": "Psora",
+    "notes": "Sensitive to atmospheric pressure"
+  },
+  {
+    "rubric": "Thirst increased before headache",
+    "grading": {
+      "high": ["Sanguinaria", "Phosphorus"],
+      "medium": ["Lycopodium", "Natrum mur"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Precedes migraine or right-sided pain",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Predictive modality before attack"
+  },
+  {
+    "rubric": "Thirst for milk during fever",
+    "grading": {
+      "high": ["Aethusa", "Silicea"],
+      "medium": ["Phosphorus", "Natrum mur"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "Desires milk over water even in heat",
+    "miasm": "Psora",
+    "notes": "Seen in children or cold-natured types"
+  },
+  {
+    "rubric": "Thirst worse before urination",
+    "grading": {
+      "high": ["Cantharis", "Equisetum"],
+      "medium": ["Sarsaparilla", "Nux vomica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Dryness or burning before passing urine",
+    "miasm": "Syphilitic",
+    "notes": "UTI, renal irritation, bladder inflammation"
+  },
+  {
+    "rubric": "Thirst for warm milk",
+    "grading": {
+      "high": ["Aethusa", "Calcarea carb"],
+      "medium": ["Silicea", "Natrum mur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Prefers milk warmed slightly to drink",
+    "miasm": "Psora",
+    "notes": "Children, malnourished states, GI sensitivity"
+  },
+  {
+    "rubric": "Thirst after vomiting",
+    "grading": {
+      "high": ["Ipecac", "Phosphorus"],
+      "medium": ["Veratrum album", "Antimonium tart"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Wants cold water post emesis",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Gastritis, travel sickness, gastroenteritis"
+  },
+  {
+    "rubric": "Thirst worse during dreams",
+    "grading": {
+      "high": ["Sulphur", "Lachesis"],
+      "medium": ["Gelsemium", "Ignatia"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Feels dry or seeks water in dreams",
+    "miasm": "Psora",
+    "notes": "Dream-related psychosomatic symptoms"
+  },
+  {
+    "rubric": "Thirst while eating",
+    "grading": {
+      "high": ["Nux vomica", "Antimonium crudum"],
+      "medium": ["Bryonia", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Needs water along with solid food",
+    "miasm": "Psora",
+    "notes": "Digestive insufficiency, liver disorders"
+  },
+  {
+    "rubric": "Thirst for sour drinks",
+    "grading": {
+      "high": ["Phosphorus", "Pulsatilla"],
+      "medium": ["Antimonium crudum", "Natrum mur"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Lemonade, vinegar water preferred",
+    "miasm": "Psora",
+    "notes": "Indigestion, gall bladder, acidity"
+  },
+  {
+    "rubric": "Thirst during motion sickness",
+    "grading": {
+      "high": ["Cocculus", "Ipecac"],
+      "medium": ["Tabacum", "Petroleum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Travel-related nausea followed by thirst",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Sea sickness, vertigo cases"
+  },
+  {
+    "rubric": "Thirst for hot water with honey",
+    "grading": {
+      "high": ["Hepar sulph", "Antimonium tart"],
+      "medium": ["Bryonia", "Spongia"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Warm sweet fluids desired for throat issues",
+    "miasm": "Psora",
+    "notes": "Respiratory, laryngeal inflammation"
+  },
+  {
+    "rubric": "Thirst for buttermilk",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Calcarea carb", "Lycopodium"],
+      "low": ["Sepia"]
+    },
+    "modality": "Craving for tangy or sour dairy drinks",
+    "miasm": "Psora",
+    "notes": "Stomach heat, bile imbalance"
+  },
+  {
+    "rubric": "Thirst with trembling of hands",
+    "grading": {
+      "high": ["Gelsemium", "Phosphoric acid"],
+      "medium": ["Lachesis", "Argentum nitricum"],
+      "low": ["Silicea"]
+    },
+    "modality": "Water desire triggered by neuromuscular weakness",
+    "miasm": "Psora",
+    "notes": "Anxiety neurosis, debility, exam fear"
+  },
+  {
+    "rubric": "Thirst disappears during mental exertion",
+    "grading": {
+      "high": ["Calcarea phos", "Phosphoric acid"],
+      "medium": ["Ignatia", "Silicea"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Focused activity suppresses thirst",
+    "miasm": "Psora",
+    "notes": "Mental dullness, weak students"
+  },
+  {
+    "rubric": "Thirst increases during suppressed menstruation",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Natrum mur", "Calcarea carb"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Hormonal stagnation provokes dryness",
+    "miasm": "Psora",
+    "notes": "Amenorrhea, PCOS, emotional block"
+  },
+  {
+    "rubric": "Thirst with rapid pulse",
+    "grading": {
+      "high": ["Aconite", "Belladonna"],
+      "medium": ["Glonoinum", "Veratrum album"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Tachycardia and heat demand water",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Fever, shock, cardiac complaints"
+  },
+  {
+    "rubric": "Thirst after eating fish",
+    "grading": {
+      "high": ["Antimonium crudum", "Sepia"],
+      "medium": ["Pulsatilla", "Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Feels dry or acidic after seafood",
+    "miasm": "Psora",
+    "notes": "Fish intolerance, indigestion"
+  },
+  {
+    "rubric": "Thirst with offensive breath",
+    "grading": {
+      "high": ["Mercurius", "Nux vomica"],
+      "medium": ["Sulphur", "Hepar sulph"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Halitosis leads to urge to rinse or drink water",
+    "miasm": "Psora",
+    "notes": "Gum disease, liver, GI issues"
+  },
+  {
+    "rubric": "Thirst worse after intercourse",
+    "grading": {
+      "high": ["Selenium", "Phosphorus"],
+      "medium": ["China", "Staphysagria"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Loss of fluids or weakness leads to dryness",
+    "miasm": "Psora/Sycosis",
+    "notes": "Sexual neurasthenia, exhaustion"
+  },
+  {
+    "rubric": "Thirst during toothache",
+    "grading": {
+      "high": ["Chamomilla", "Mercurius"],
+      "medium": ["Hepar sulph", "Plantago"],
+      "low": ["Staphysagria"]
+    },
+    "modality": "Drinks warm/cold water to relieve pain",
+    "miasm": "Psora",
+    "notes": "Dental infections, caries"
+  },
+  {
+    "rubric": "Thirst with dryness of lips",
+    "grading": {
+      "high": ["Bryonia", "Sulphur"],
+      "medium": ["Natrum mur", "Phosphorus"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Cracked lips increase water need",
+    "miasm": "Psora",
+    "notes": "Dehydration, fever, summer aggravation"
+  },
+  {
+    "rubric": "Thirst with sore throat",
+    "grading": {
+      "high": ["Belladonna", "Mercurius"],
+      "medium": ["Hepar sulph", "Phytolacca"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Desire for soothing fluids",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Tonsillitis, viral throat infections"
+  },
+  {
+    "rubric": "Thirst with cracked tongue",
+    "grading": {
+      "high": ["Nitric acid", "Bryonia"],
+      "medium": ["Arsenicum album", "Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Dry, fissured tongue demands water",
+    "miasm": "Psora",
+    "notes": "Chronic dryness, fissured tongue in systemic illness"
+  },
+  {
+    "rubric": "Thirst for alcohol instead of water",
+    "grading": {
+      "high": ["Sulphur", "Nux vomica"],
+      "medium": ["Lachesis", "Cannabis indica"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Desires wine, brandy or spirits when thirsty",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in alcoholism, craving suppression, or gastric derangements"
+  },
+  {
+    "rubric": "Thirst with heat in palms and soles",
+    "grading": {
+      "high": ["Sulphur", "Lycopodium"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Drinks to relieve burning sensations in extremities",
+    "miasm": "Psora",
+    "notes": "Seen in constitutional heat states, hormonal imbalance"
+  },
+  {
+    "rubric": "Thirst while reading aloud",
+    "grading": {
+      "high": ["Phosphorus", "Causticum"],
+      "medium": ["Gelsemium", "Sulphur"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Talking or vocal exertion brings dryness",
+    "miasm": "Psora",
+    "notes": "Public speakers, teachers, singers"
+  },
+  {
+    "rubric": "Thirst with rumbling in abdomen",
+    "grading": {
+      "high": ["Lycopodium", "China"],
+      "medium": ["Phosphorus", "Nux vomica"],
+      "low": ["Colocynthis"]
+    },
+    "modality": "Desire for water when gas moves or stomach feels hollow",
+    "miasm": "Psora",
+    "notes": "Gastric derangement, IBS-type picture"
+  },
+  {
+    "rubric": "Thirst during chill and heat but not during sweat",
+    "grading": {
+      "high": ["Arsenicum album", "Bryonia"],
+      "medium": ["Gelsemium", "Nux vomica"],
+      "low": ["Camphora"]
+    },
+    "modality": "Water desired during early fever stages only",
+    "miasm": "Psora",
+    "notes": "Differentiates stages of fever clearly"
+  },
+  {
+    "rubric": "Thirst worse at midnight",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Nux vomica", "Lachesis"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Feels dryness or heat around 12 am",
+    "miasm": "Psora",
+    "notes": "Night aggravation in chronic dry constitutions"
+  },
+  {
+    "rubric": "Thirst for salty fluids",
+    "grading": {
+      "high": ["Natrum mur", "Phosphorus"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Craves saline water, broths, or salty drinks",
+    "miasm": "Psora",
+    "notes": "Electrolyte craving in weak or low BP cases"
+  },
+  {
+    "rubric": "Thirst better after lying on right side",
+    "grading": {
+      "high": ["Lycopodium", "Phosphorus"],
+      "medium": ["Sulphur", "Nux moschata"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Position affects sensation of dryness",
+    "miasm": "Psora",
+    "notes": "Often linked to liver conditions"
+  },
+  {
+    "rubric": "Thirst with dryness of eyes",
+    "grading": {
+      "high": ["Natrum mur", "Phosphorus"],
+      "medium": ["Sulphur", "Belladonna"],
+      "low": ["Silicea"]
+    },
+    "modality": "Ocular dryness coexists with oral dryness",
+    "miasm": "Psora",
+    "notes": "Seen in Sjogren’s syndrome, hormonal dryness"
+  },
+  {
+    "rubric": "Thirst for drinks kept in earthen pot",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Pulsatilla", "Calcarea carb"],
+      "low": ["Sepia"]
+    },
+    "modality": "Craves mildly cool natural water",
+    "miasm": "Psora",
+    "notes": "Traditional craving, rural constitutions"
+  },
+  {
+    "rubric": "Thirst before bowel movement",
+    "grading": {
+      "high": ["Podophyllum", "Aloe socotrina"],
+      "medium": ["Nux vomica", "Sulphur"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Gastrocolic stimulation leads to thirst",
+    "miasm": "Psora",
+    "notes": "Often with loose or urgent stools"
+  },
+  {
+    "rubric": "Thirst increases before menses",
+    "grading": {
+      "high": ["Sepia", "Lachesis"],
+      "medium": ["Pulsatilla", "Natrum mur"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "Hormonal build-up leads to fluid craving",
+    "miasm": "Psora",
+    "notes": "PMS, hormonal irregularities"
+  },
+  {
+    "rubric": "Thirst with bitter vomiting",
+    "grading": {
+      "high": ["Bryonia", "Chelidonium"],
+      "medium": ["Nux vomica", "Ipecac"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Feels intense dryness after bile vomit",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Liver or gall bladder involvement"
+  },
+  {
+    "rubric": "Thirst during exposure to sunlight",
+    "grading": {
+      "high": ["Glonoinum", "Belladonna"],
+      "medium": ["Lachesis", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Sun heat dries up mouth and throat",
+    "miasm": "Psora",
+    "notes": "Photophobia, heat exhaustion"
+  },
+  {
+    "rubric": "Thirst after suppressed skin eruption",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Calcarea sulph", "Silicea"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Loss of perspiration or rash increases dryness",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Suppressed miasmatic discharge"
+  },
+  {
+    "rubric": "Thirst with dryness of scalp",
+    "grading": {
+      "high": ["Sulphur", "Arsenicum album"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "General body dryness includes scalp",
+    "miasm": "Psora",
+    "notes": "Seen in chronic skin conditions, dandruff"
+  },
+  {
+    "rubric": "Thirst for large quantities but infrequent",
+    "grading": {
+      "high": ["Bryonia", "Natrum mur"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Drinks a lot but only few times a day",
+    "miasm": "Psora",
+    "notes": "Dryness with no restlessness"
+  },
+  {
+    "rubric": "Thirst increases when thinking of food",
+    "grading": {
+      "high": ["Phosphoric acid", "Ignatia"],
+      "medium": ["Pulsatilla", "Lycopodium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Thought of food triggers craving for fluids",
+    "miasm": "Psora",
+    "notes": "Seen in anxious eaters"
+  },
+  {
+    "rubric": "Thirst with dryness in chest",
+    "grading": {
+      "high": ["Phosphorus", "Bryonia"],
+      "medium": ["Sulphur", "Hepar sulph"],
+      "low": ["Spongia"]
+    },
+    "modality": "Internal dryness or cough increases water need",
+    "miasm": "Psora",
+    "notes": "Lung dryness, early pneumonia"
+  },
+  {
+    "rubric": "Thirst worse after grief",
+    "grading": {
+      "high": ["Ignatia", "Phosphoric acid"],
+      "medium": ["Natrum mur", "Staphysagria"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Emotional suppression dries up system",
+    "miasm": "Psora",
+    "notes": "Deep sorrow, psychosomatic reactions"
+  },
+  {
+    "rubric": "Thirst with sensation of dust in throat",
+    "grading": {
+      "high": ["Bryonia", "Sulphur"],
+      "medium": ["Phosphorus", "Arsenicum album"],
+      "low": ["Silicea"]
+    },
+    "modality": "Feels like dry particles in throat, needs water",
+    "miasm": "Psora",
+    "notes": "Common in dry weather, chronic cough, or allergy"
+  },
+  {
+    "rubric": "Thirst for carbonated drinks",
+    "grading": {
+      "high": ["Phosphorus", "Lycopodium"],
+      "medium": ["China", "Sulphur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Desires fizzy water, soda, aerated drinks",
+    "miasm": "Psora",
+    "notes": "Seen in gastric trouble, bloating, weakness"
+  },
+  {
+    "rubric": "Thirst increases in company",
+    "grading": {
+      "high": ["Phosphorus", "Ignatia"],
+      "medium": ["Silicea", "Pulsatilla"],
+      "low": ["Staphysagria"]
+    },
+    "modality": "Feels dryness or heat in social situations",
+    "miasm": "Psora",
+    "notes": "Stage fright, social anxiety triggers dryness"
+  },
+  {
+    "rubric": "Thirst with swelling of tongue",
+    "grading": {
+      "high": ["Apis", "Lachesis"],
+      "medium": ["Mercurius", "Belladonna"],
+      "low": ["Nitric acid"]
+    },
+    "modality": "Tongue inflammation provokes desire for fluids",
+    "miasm": "Syphilitic",
+    "notes": "Ulcers, allergic reactions, mouth diseases"
+  },
+  {
+    "rubric": "Thirst after physical exertion",
+    "grading": {
+      "high": ["China", "Arnica"],
+      "medium": ["Veratrum album", "Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Fatigue and sweat create intense dryness",
+    "miasm": "Psora",
+    "notes": "Debilitating work, athletes, post-illness states"
+  },
+  {
+    "rubric": "Thirst worse after urination",
+    "grading": {
+      "high": ["Sarsaparilla", "Phosphorus"],
+      "medium": ["Cantharis", "Sulphur"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Passing urine increases dryness or weakness",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Kidney weakness, UTI, diabetes"
+  },
+  {
+    "rubric": "Thirst before sleep",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Lycopodium", "Natrum mur"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Feels urge to drink before lying down",
+    "miasm": "Psora",
+    "notes": "Mild liver sluggishness or heat in body"
+  },
+  {
+    "rubric": "Thirst with burning in urethra",
+    "grading": {
+      "high": ["Cantharis", "Apis"],
+      "medium": ["Sarsaparilla", "Nitric acid"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Burning pain in urine passage prompts fluid intake",
+    "miasm": "Syphilitic",
+    "notes": "UTI, bladder irritation, gonorrhea-related"
+  },
+  {
+    "rubric": "Thirst after deep emotions (jealousy, envy)",
+    "grading": {
+      "high": ["Lachesis", "Staphysagria"],
+      "medium": ["Ignatia", "Natrum mur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Emotional upheaval leads to dryness",
+    "miasm": "Psora",
+    "notes": "Psychosomatic link to competitive feelings"
+  },
+  {
+    "rubric": "Thirst during storm or electric weather",
+    "grading": {
+      "high": ["Rhododendron", "Phosphorus"],
+      "medium": ["Silicea", "Calcarea carb"],
+      "low": ["Sepia"]
+    },
+    "modality": "Feels atmospheric pressure changes and dryness",
+    "miasm": "Psora",
+    "notes": "Weather-sensitive constitutions"
+  },
+  {
+    "rubric": "Thirst immediately after sexual activity",
+    "grading": {
+      "high": ["Selenium", "China"],
+      "medium": ["Phosphorus", "Staphysagria"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Loss of vital fluids prompts fluid intake",
+    "miasm": "Psora/Sycosis",
+    "notes": "Post-coital weakness, neurasthenia"
+  },
+  {
+    "rubric": "Thirst after fright",
+    "grading": {
+      "high": ["Aconite", "Gelsemium"],
+      "medium": ["Ignatia", "Opium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Acute fear triggers intense dryness",
+    "miasm": "Psora",
+    "notes": "Useful in acute shocks, panic attacks"
+  },
+  {
+    "rubric": "Thirst during walking in open air",
+    "grading": {
+      "high": ["Pulsatilla", "Sulphur"],
+      "medium": ["Phosphorus", "Silicea"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Movement or outdoor air provokes dryness",
+    "miasm": "Psora",
+    "notes": "Circulatory or weather-sensitive people"
+  },
+  {
+    "rubric": "Thirst in children with worm complaints",
+    "grading": {
+      "high": ["Cina", "Spigelia"],
+      "medium": ["Teucrium", "Calcarea carb"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Parasites lead to digestive dryness and cravings",
+    "miasm": "Psora",
+    "notes": "Roundworms, pinworms, restlessness in kids"
+  },
+  {
+    "rubric": "Thirst for ice cold fluids even in winter",
+    "grading": {
+      "high": ["Phosphorus", "Veratrum album"],
+      "medium": ["Sulphur", "Arsenicum album"],
+      "low": ["Camphora"]
+    },
+    "modality": "Extreme internal heat demands chilling drinks",
+    "miasm": "Psora",
+    "notes": "Seen in fevers, hyperthyroidism"
+  },
+  {
+    "rubric": "Thirst worse from pressure on stomach",
+    "grading": {
+      "high": ["Nux vomica", "Bryonia"],
+      "medium": ["Pulsatilla", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Tight clothing or touch suppresses water desire",
+    "miasm": "Psora",
+    "notes": "Gastric complaints with sensitivity"
+  },
+  {
+    "rubric": "Thirst with nausea better after drinking",
+    "grading": {
+      "high": ["Ipecac", "Phosphorus"],
+      "medium": ["Arsenicum album", "Veratrum album"],
+      "low": ["Sepia"]
+    },
+    "modality": "Cold water helps stop nausea",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Useful in vomiting, motion sickness"
+  },
+  {
+    "rubric": "Thirst for warm fluids even during fever",
+    "grading": {
+      "high": ["Arsenicum album", "Hepar sulph"],
+      "medium": ["Nux vomica", "Lycopodium"],
+      "low": ["China"]
+    },
+    "modality": "Aversion to cold water even when body is hot",
+    "miasm": "Psora",
+    "notes": "Cold-sensitive constitutions, respiratory illness"
+  },
+  {
+    "rubric": "Thirst alternating with salivation",
+    "grading": {
+      "high": ["Mercurius", "Lachesis"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Dry and wet mouth phases alternate",
+    "miasm": "Syphilitic",
+    "notes": "Oral infections, ulcers"
+  },
+  {
+    "rubric": "Thirst when emotionally neglected",
+    "grading": {
+      "high": ["Natrum mur", "Ignatia"],
+      "medium": ["Staphysagria", "Pulsatilla"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Feeling unloved or isolated provokes dryness",
+    "miasm": "Psora",
+    "notes": "Abandonment, emotional trauma"
+  },
+  {
+    "rubric": "Thirst after diarrhea",
+    "grading": {
+      "high": ["China", "Veratrum album"],
+      "medium": ["Arsenicum album", "Podophyllum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Loss of fluids through bowels triggers intense thirst",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Useful in cholera, IBS, dehydration"
+  },
+  {
+    "rubric": "Thirst with craving for juicy fruits",
+    "grading": {
+      "high": ["Phosphorus", "Pulsatilla"],
+      "medium": ["Sulphur", "Natrum mur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Prefers water-rich fruits over plain fluids",
+    "miasm": "Psora",
+    "notes": "Seen in summer, gastric derangements"
+  },
+  {
+    "rubric": "Thirst worse after meals",
+    "grading": {
+      "high": ["Lycopodium", "Sulphur"],
+      "medium": ["Phosphorus", "Nux vomica"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Feels dryness or heat post food intake",
+    "miasm": "Psora",
+    "notes": "Indigestion, liver complaints, gastritis"
+  },
+  {
+    "rubric": "Thirst with sour eructations",
+    "grading": {
+      "high": ["Natrum phos", "Robinia"],
+      "medium": ["Nux vomica", "Pulsatilla"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Acid reflux and dryness co-occur",
+    "miasm": "Psora",
+    "notes": "Hyperacidity, GERD, dyspepsia"
+  },
+  {
+    "rubric": "Thirst before headache",
+    "grading": {
+      "high": ["Natrum mur", "Glonoinum"],
+      "medium": ["Silicea", "Lachesis"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Water desire as prodrome to migraine",
+    "miasm": "Psora",
+    "notes": "Useful in chronic migraine types"
+  },
+  {
+    "rubric": "Thirst with dryness of feet",
+    "grading": {
+      "high": ["Sulphur", "Silicea"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "General systemic dryness including soles",
+    "miasm": "Psora",
+    "notes": "Winter skin types, dry eczema"
+  },
+  {
+    "rubric": "Thirst alternating with aversion to water",
+    "grading": {
+      "high": ["Ipecac", "Lachesis"],
+      "medium": ["Pulsatilla", "Ignatia"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "One moment thirsty, next moment aversion",
+    "miasm": "Psora",
+    "notes": "Seen in nausea, pregnancy, psychogenic states"
+  },
+  {
+    "rubric": "Thirst for warm tea",
+    "grading": {
+      "high": ["Hepar sulph", "Causticum"],
+      "medium": ["Pulsatilla", "Nux vomica"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Craves mild warm drinks over water",
+    "miasm": "Psora",
+    "notes": "Constitutional cold patients, sore throats"
+  },
+  {
+    "rubric": "Thirst suppressed during anxiety",
+    "grading": {
+      "high": ["Gelsemium", "Argentum nitricum"],
+      "medium": ["Ignatia", "Aconite"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Fear or tension suppresses fluid desire",
+    "miasm": "Psora",
+    "notes": "Useful in performance anxiety, stage fright"
+  },
+  {
+    "rubric": "Thirst with flabby tongue",
+    "grading": {
+      "high": ["Mercurius", "Phosphoric acid"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Silicea"]
+    },
+    "modality": "Tongue appears swollen, marks on edges, dry",
+    "miasm": "Syphilitic",
+    "notes": "Systemic weakness, tongue pathologies"
+  },
+  {
+    "rubric": "Thirst better after perspiration",
+    "grading": {
+      "high": ["China", "Carbo veg"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "After sweat, thirst reduces",
+    "miasm": "Psora",
+    "notes": "In weakness, chronic fatigue, post-infection"
+  },
+  {
+    "rubric": "Thirst increases on seeing food",
+    "grading": {
+      "high": ["Phosphorus", "Ignatia"],
+      "medium": ["Lycopodium", "Sulphur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Visual food cues trigger dryness",
+    "miasm": "Psora",
+    "notes": "Hyperactive salivation or digestive cue mismatch"
+  },
+  {
+    "rubric": "Thirst with mouth ulcers",
+    "grading": {
+      "high": ["Mercurius", "Borax"],
+      "medium": ["Nitric acid", "Sulphur"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Ulcers create intense oral dryness",
+    "miasm": "Syphilitic",
+    "notes": "Aphthae, stomatitis, syphilitic ulcers"
+  },
+  {
+    "rubric": "Thirst with intolerance to fatty food",
+    "grading": {
+      "high": ["Pulsatilla", "Chelidonium"],
+      "medium": ["Nux vomica", "Antimonium crudum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Fat ingestion causes gastric dryness & heaviness",
+    "miasm": "Psora",
+    "notes": "Weak digestive constitutions"
+  },
+  {
+    "rubric": "Thirst with dryness of anus",
+    "grading": {
+      "high": ["Silicea", "Alumina"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Cracks or dry mucosa leads to water craving",
+    "miasm": "Psora",
+    "notes": "Chronic constipation cases"
+  },
+  {
+    "rubric": "Thirst with dryness of vagina",
+    "grading": {
+      "high": ["Sepia", "Natrum mur"],
+      "medium": ["Kreosotum", "Lilium tigrinum"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Hormonal dryness reflected in thirst",
+    "miasm": "Psora/Sycosis",
+    "notes": "Menopause, sexual dysfunction, post-delivery"
+  },
+  {
+    "rubric": "Thirst with unquenchable desire for cold drinks",
+    "grading": {
+      "high": ["Phosphorus", "Veratrum album"],
+      "medium": ["Sulphur", "Arsenicum album"],
+      "low": ["Camphora"]
+    },
+    "modality": "Cold drinks never satisfy dryness",
+    "miasm": "Psora",
+    "notes": "Chronic heat states, metabolic imbalance"
+  },
+  {
+    "rubric": "Thirst better after eating",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["China", "Lycopodium"],
+      "low": ["Sepia"]
+    },
+    "modality": "Eating stimulates moisture or settles dryness",
+    "miasm": "Psora",
+    "notes": "Gastric ulcer cases, acidity"
+  },
+  {
+    "rubric": "Thirst with blisters in mouth",
+    "grading": {
+      "high": ["Borax", "Mercurius"],
+      "medium": ["Nitric acid", "Sulphur"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Painful mouth eruptions provoke fluid desire",
+    "miasm": "Syphilitic",
+    "notes": "Oral mucosa inflammation, children"
+  },
+  {
+    "rubric": "Thirst with thick white coating on tongue",
+    "grading": {
+      "high": ["Antimonium crudum", "Mercurius"],
+      "medium": ["Nux vomica", "Sulphur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Sticky mouth, must drink often to cleanse",
+    "miasm": "Psora",
+    "notes": "GI disturbance, candidiasis, indigestion"
+  },
+  {
+    "rubric": "Thirst with sour taste in mouth",
+    "grading": {
+      "high": ["Natrum phos", "Robinia"],
+      "medium": ["Nux vomica", "Pulsatilla"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Feels constant sourness, drinks to neutralize",
+    "miasm": "Psora",
+    "notes": "GERD, sour eructations, hyperacidity"
+  },
+  {
+    "rubric": "Thirst suppressed in warm room",
+    "grading": {
+      "high": ["Pulsatilla", "Camphora"],
+      "medium": ["Silicea", "Phosphorus"],
+      "low": ["Sepia"]
+    },
+    "modality": "Heat or confinement suppresses thirst",
+    "miasm": "Psora",
+    "notes": "Constitutional warm aggravation"
+  },
+  {
+    "rubric": "Thirst with cough but drinking aggravates",
+    "grading": {
+      "high": ["Drosera", "Rumex"],
+      "medium": ["Spongia", "Phosphorus"],
+      "low": ["Causticum"]
+    },
+    "modality": "Thirsty during cough but water triggers more cough",
+    "miasm": "Psora",
+    "notes": "Paroxysmal or dry cough types"
+  },
+  {
+    "rubric": "Thirst after anger or indignation",
+    "grading": {
+      "high": ["Staphysagria", "Nux vomica"],
+      "medium": ["Chamomilla", "Ignatia"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Anger brings tightness and dryness in mouth",
+    "miasm": "Psora/Sycosis",
+    "notes": "Useful in psychosomatic or emotional cases"
+  },
+  {
+    "rubric": "Thirst before vomiting",
+    "grading": {
+      "high": ["Ipecac", "Phosphorus"],
+      "medium": ["Veratrum album", "Nux vomica"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Water desire precedes nausea or vomiting",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Emetic stage or reflex nausea"
+  },
+  {
+    "rubric": "Thirst during fever but aversion to water",
+    "grading": {
+      "high": ["Gelsemium", "Belladonna"],
+      "medium": ["Pulsatilla", "Bryonia"],
+      "low": ["Ferrum phos"]
+    },
+    "modality": "Feels thirsty but avoids drinking during fever",
+    "miasm": "Psora",
+    "notes": "Mismatch between sensation and desire"
+  },
+  {
+    "rubric": "Thirst at dawn",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Calcarea carb", "Lycopodium"],
+      "low": ["Sepia"]
+    },
+    "modality": "Wakes up early with dryness and need to drink",
+    "miasm": "Psora",
+    "notes": "Constitutional rubric for early risers"
+  },
+  {
+    "rubric": "Thirst with dry skin",
+    "grading": {
+      "high": ["Sulphur", "Arsenicum album"],
+      "medium": ["Phosphorus", "Calcarea carb"],
+      "low": ["Sepia"]
+    },
+    "modality": "External dryness reflected internally",
+    "miasm": "Psora",
+    "notes": "Winter aggravation, eczema, dry constitutions"
+  },
+  {
+    "rubric": "Thirst during faintness or syncope",
+    "grading": {
+      "high": ["Carbo veg", "Veratrum album"],
+      "medium": ["Camphora", "Phosphorus"],
+      "low": ["China"]
+    },
+    "modality": "Loss of fluids or circulation triggers water craving",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Rescue remedy state, collapse cases"
+  },
+  {
+    "rubric": "Thirst with constipation",
+    "grading": {
+      "high": ["Alumina", "Bryonia"],
+      "medium": ["Nux vomica", "Silicea"],
+      "low": ["Opium"]
+    },
+    "modality": "Dry stools, hard bowels correlate with thirst",
+    "miasm": "Psora",
+    "notes": "Dehydration-related dryness in GI"
+  },
+  {
+    "rubric": "Thirst after suppressed menses",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Natrum mur", "Lachesis"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Fluid balance altered due to hormonal blocks",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in puberty, menopause, PCOD"
+  },
+  {
+    "rubric": "Thirst with sensation of lump in throat",
+    "grading": {
+      "high": ["Ignatia", "Lachesis"],
+      "medium": ["Phosphorus", "Nux vomica"],
+      "low": ["Silicea"]
+    },
+    "modality": "Drinks relieve feeling of throat blockage",
+    "miasm": "Psora/Sycosis",
+    "notes": "Globus sensation, hysterical symptoms"
+  },
+  {
+    "rubric": "Thirst for fluids through straw or sips only",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Sulphur", "China"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Wants only small quantities at short intervals",
+    "miasm": "Psora",
+    "notes": "Important differentiating rubric in fevers"
+  },
+  {
+    "rubric": "Thirst increases when fasting",
+    "grading": {
+      "high": ["Sulphur", "China"],
+      "medium": ["Phosphorus", "Ignatia"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Prolonged gap between meals increases dryness",
+    "miasm": "Psora",
+    "notes": "Useful in religious fasting, GI weakness"
+  },
+  {
+    "rubric": "Thirst with greasy or sticky saliva",
+    "grading": {
+      "high": ["Mercurius", "Natrum mur"],
+      "medium": ["Antimonium crudum", "Sulphur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Salivary glands disordered, drinks needed to clear",
+    "miasm": "Psora",
+    "notes": "Oral dysbiosis, tongue coating"
+  },
+  {
+    "rubric": "Thirst with cracked lips",
+    "grading": {
+      "high": ["Bryonia", "Sulphur"],
+      "medium": ["Natrum mur", "Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Lips dry, painful; constant sipping needed",
+    "miasm": "Psora",
+    "notes": "Dehydration, fever, weather-related"
+  },
+  {
+    "rubric": "Thirst after sunstroke or heatstroke",
+    "grading": {
+      "high": ["Glonoinum", "Belladonna"],
+      "medium": ["Carbo veg", "Gelsemium"],
+      "low": ["Camphora"]
+    },
+    "modality": "Sudden heat exposure drains fluids",
+    "miasm": "Psora",
+    "notes": "Emergency rubric for thermal collapse"
+  },
+  {
+    "rubric": "Thirst but drinking causes pain",
+    "grading": {
+      "high": ["Cantharis", "Apis"],
+      "medium": ["Nitric acid", "Mercurius"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Desire exists but urination/burning follows",
+    "miasm": "Syphilitic",
+    "notes": "UTI, ulcers, local inflammation"
+  },
+  {
+    "rubric": "Thirst in aged persons with senility",
+    "grading": {
+      "high": ["Baryta carb", "Conium"],
+      "medium": ["Phosphoric acid", "Alumina"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Mental dullness or forgetfulness coexists",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Useful in dementia and degenerative brain disorders"
+  },
+  {
+    "rubric": "Thirst after fright followed by diarrhea",
+    "grading": {
+      "high": ["Gelsemium", "Aconite"],
+      "medium": ["Argentum nitricum", "Chamomilla"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Fear → bowel disturbance → thirst",
+    "miasm": "Psora",
+    "notes": "Acute fright reactions in children and adults"
+  },
+  {
+    "rubric": "Thirst with dryness of throat without desire to drink",
+    "grading": {
+      "high": ["Belladonna", "Ignatia"],
+      "medium": ["Camphora", "Pulsatilla"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Dry throat but no actual thirst or desire to drink",
+    "miasm": "Psora",
+    "notes": "Paradoxical symptom useful in psychological or febrile cases"
+  },
+  {
+    "rubric": "Thirst during menses",
+    "grading": {
+      "high": ["Sepia", "Calcarea carb"],
+      "medium": ["Lachesis", "Pulsatilla"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Menstrual flow accompanied by dryness or fluid need",
+    "miasm": "Psora/Sycosis",
+    "notes": "Useful in PMS or hormonal imbalance cases"
+  },
+  {
+    "rubric": "Thirst with tightness in chest",
+    "grading": {
+      "high": ["Phosphorus", "Bryonia"],
+      "medium": ["Lycopodium", "Antimonium tart"],
+      "low": ["Spongia"]
+    },
+    "modality": "Chest congestion or respiratory difficulty leads to thirst",
+    "miasm": "Psora",
+    "notes": "Seen in bronchitis, pneumonia, asthma"
+  },
+  {
+    "rubric": "Thirst increases before epileptic fit",
+    "grading": {
+      "high": ["Cuprum metallicum", "Bufo"],
+      "medium": ["Silicea", "Calcarea carb"],
+      "low": ["Stramonium"]
+    },
+    "modality": "Aura includes dryness or sudden water craving",
+    "miasm": "Syphilitic",
+    "notes": "Important rubric in seizure-prone patients"
+  },
+  {
+    "rubric": "Thirst for beer or fermented drinks",
+    "grading": {
+      "high": ["Lycopodium", "Nux vomica"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Desires alcohol-based or fermented liquids",
+    "miasm": "Psora/Sycosis",
+    "notes": "Useful in liver disorders, digestive weakness"
+  },
+  {
+    "rubric": "Thirst better after lying down",
+    "grading": {
+      "high": ["Sulphur", "Sepia"],
+      "medium": ["Calcarea carb", "Phosphorus"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Body rest reduces dryness",
+    "miasm": "Psora",
+    "notes": "Common in tired, overworked constitutions"
+  },
+  {
+    "rubric": "Thirst worse on lying down",
+    "grading": {
+      "high": ["Bryonia", "Arsenicum album"],
+      "medium": ["Nux vomica", "Lycopodium"],
+      "low": ["Silicea"]
+    },
+    "modality": "Worsens when reclining; needs sitting up to drink",
+    "miasm": "Psora",
+    "notes": "Seen in heart failure, bronchitis, GERD"
+  },
+  {
+    "rubric": "Thirst with cold extremities",
+    "grading": {
+      "high": ["Camphora", "Veratrum album"],
+      "medium": ["China", "Phosphorus"],
+      "low": ["Silicea"]
+    },
+    "modality": "Peripheral coldness with central dryness",
+    "miasm": "Psora",
+    "notes": "Common in collapse states or low vitality cases"
+  },
+  {
+    "rubric": "Thirst with red tip of tongue",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Belladonna", "Lycopodium"],
+      "low": ["Mercurius"]
+    },
+    "modality": "Tongue tip appears inflamed or cracked",
+    "miasm": "Psora",
+    "notes": "Chronic gastritis, emotional stress"
+  },
+  {
+    "rubric": "Thirst but water tastes bitter",
+    "grading": {
+      "high": ["Bryonia", "China"],
+      "medium": ["Nux vomica", "Antimonium crudum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Water intake is avoided due to unpleasant taste",
+    "miasm": "Psora",
+    "notes": "Liver dysfunction, fever states"
+  },
+  {
+    "rubric": "Thirst for large quantities but at long intervals",
+    "grading": {
+      "high": ["Bryonia", "Natrum mur"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Drinks a lot but rarely",
+    "miasm": "Psora",
+    "notes": "Classic keynote for Bryonia"
+  },
+  {
+    "rubric": "Thirst with coated tongue in typhoid",
+    "grading": {
+      "high": ["Baptisia", "Rhus tox"],
+      "medium": ["Arsenicum album", "Bryonia"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Severe systemic infection leads to dryness + dirty tongue",
+    "miasm": "Typhoid miasm / Psora",
+    "notes": "Important in febrile states with stupor"
+  },
+  {
+    "rubric": "Thirst with sneezing or coryza",
+    "grading": {
+      "high": ["Allium cepa", "Arsenicum album"],
+      "medium": ["Euphrasia", "Pulsatilla"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Flu or allergic rhinitis accompanied by dryness",
+    "miasm": "Psora",
+    "notes": "Seasonal cold, allergic rhinitis"
+  },
+  {
+    "rubric": "Thirst during teething in children",
+    "grading": {
+      "high": ["Calcarea carb", "Chamomilla"],
+      "medium": ["Silicea", "Belladonna"],
+      "low": ["Mag carb"]
+    },
+    "modality": "Gum irritation increases need for fluids",
+    "miasm": "Psora",
+    "notes": "Common in irritable teething infants"
+  },
+  {
+    "rubric": "Thirst before menstrual flow",
+    "grading": {
+      "high": ["Lachesis", "Sepia"],
+      "medium": ["Pulsatilla", "Natrum mur"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Dryness and emotional tension before periods",
+    "miasm": "Sycosis",
+    "notes": "Useful in PMS"
+  },
+  {
+    "rubric": "Thirst with yellow coated tongue",
+    "grading": {
+      "high": ["Mercurius", "Nux vomica"],
+      "medium": ["Sulphur", "Antimonium crudum"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Indicates GI and liver dysfunction",
+    "miasm": "Psora",
+    "notes": "Associated with foul taste and thirst"
+  },
+  {
+    "rubric": "Thirst in pregnancy",
+    "grading": {
+      "high": ["Sepia", "Nux vomica"],
+      "medium": ["Pulsatilla", "Phosphorus"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "Hormonal shifts increase fluid need",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in nausea of pregnancy, 1st trimester"
+  },
+  {
+    "rubric": "Thirst with metallic taste in mouth",
+    "grading": {
+      "high": ["Mercurius", "Phosphorus"],
+      "medium": ["Natrum mur", "Arsenicum album"],
+      "low": ["China"]
+    },
+    "modality": "Unpleasant taste drives frequent water intake",
+    "miasm": "Psora",
+    "notes": "Seen in metal toxicity, chronic infections"
+  },
+  {
+    "rubric": "Thirst increases with itching of skin",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Graphites", "Calcarea carb"],
+      "low": ["Sepia"]
+    },
+    "modality": "Skin symptoms linked to internal dryness",
+    "miasm": "Psora",
+    "notes": "Useful in eczema, urticaria, psoriasis"
+  },
+  {
+    "rubric": "Thirst with sensation of burning tongue",
+    "grading": {
+      "high": ["Sulphur", "Nitric acid"],
+      "medium": ["Phosphorus", "Mercurius"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Intense burning requires constant fluid sips",
+    "miasm": "Syphilitic",
+    "notes": "Ulcerative stomatitis, oral mucosa disorders"
+  },
+  {
+    "rubric": "Thirst with dry cough",
+    "grading": {
+      "high": ["Drosera", "Rumex"],
+      "medium": ["Spongia", "Phosphorus"],
+      "low": ["Causticum"]
+    },
+    "modality": "Coughing fits lead to dryness and need for water",
+    "miasm": "Psora",
+    "notes": "Useful in bronchial irritation, dry cough types"
+  },
+  {
+    "rubric": "Thirst with burning in stomach",
+    "grading": {
+      "high": ["Arsenicum album", "Nux vomica"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Stomach heat or acidity leads to thirst",
+    "miasm": "Psora",
+    "notes": "Seen in gastritis, peptic ulcers"
+  },
+  {
+    "rubric": "Thirst after profuse urination",
+    "grading": {
+      "high": ["Phosphoric acid", "China"],
+      "medium": ["Kali carb", "Lycopodium"],
+      "low": ["Silicea"]
+    },
+    "modality": "Loss of fluids through urine increases need to drink",
+    "miasm": "Psora",
+    "notes": "Seen in diabetes, polyuria, post-illness fatigue"
+  },
+  {
+    "rubric": "Thirst with nausea but vomiting after drinking",
+    "grading": {
+      "high": ["Ipecac", "Arsenicum album"],
+      "medium": ["Phosphorus", "Veratrum album"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Water intake causes gagging or immediate vomiting",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Keynote in gastroenteritis, cholera"
+  },
+  {
+    "rubric": "Thirst with dryness of scalp",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Silicea", "Calcarea carb"],
+      "low": ["Sepia"]
+    },
+    "modality": "Scalp dryness corresponds with systemic dryness",
+    "miasm": "Psora",
+    "notes": "Common in dry skin constitutions, dandruff"
+  },
+  {
+    "rubric": "Thirst worse in evening",
+    "grading": {
+      "high": ["Sulphur", "Lycopodium"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Drinks more towards night",
+    "miasm": "Psora",
+    "notes": "Useful in chronic GI or liver cases"
+  },
+  {
+    "rubric": "Thirst absent in all complaints",
+    "grading": {
+      "high": ["Pulsatilla", "Gelsemium"],
+      "medium": ["Antimonium crudum", "Camphora"],
+      "low": ["Ferrum phos"]
+    },
+    "modality": "Patient rarely drinks or refuses fluids",
+    "miasm": "Psora",
+    "notes": "Keynote of Pulsatilla; especially in children"
+  },
+  {
+    "rubric": "Thirst after fright or sudden shock",
+    "grading": {
+      "high": ["Aconite", "Gelsemium"],
+      "medium": ["Argentum nitricum", "Ignatia"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Trauma leads to dryness and desire to drink",
+    "miasm": "Psora",
+    "notes": "Useful in acute emergency states"
+  },
+  {
+    "rubric": "Thirst with trembling of hands",
+    "grading": {
+      "high": ["Gelsemium", "Phosphorus"],
+      "medium": ["Silicea", "Arsenicum album"],
+      "low": ["Mercurius"]
+    },
+    "modality": "Dehydration or nervous exhaustion cases",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Seen in weakness, anxiety"
+  },
+  {
+    "rubric": "Thirst with cold sweat on forehead",
+    "grading": {
+      "high": ["Veratrum album", "Camphora"],
+      "medium": ["Carbo veg", "Arsenicum album"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Shock, collapse, dehydration",
+    "miasm": "Psora",
+    "notes": "Important in collapse remedies"
+  },
+  {
+    "rubric": "Thirst better after vomiting",
+    "grading": {
+      "high": ["Ipecac", "Phosphorus"],
+      "medium": ["Veratrum album", "Arsenicum album"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Hydration restored after emesis",
+    "miasm": "Psora",
+    "notes": "Useful in GI irritation, vomiting cases"
+  },
+  {
+    "rubric": "Thirst on waking from sleep",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Lycopodium", "Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Early morning dryness",
+    "miasm": "Psora",
+    "notes": "Constitutional and gastric complaints"
+  },
+  {
+    "rubric": "Thirst with bloating or fullness",
+    "grading": {
+      "high": ["Lycopodium", "Carbo veg"],
+      "medium": ["Nux vomica", "China"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Gas or bloating triggers need to drink",
+    "miasm": "Psora",
+    "notes": "Gastro-intestinal sluggishness, flatulence"
+  },
+  {
+    "rubric": "Thirst with sensation of throat constriction",
+    "grading": {
+      "high": ["Lachesis", "Belladonna"],
+      "medium": ["Phosphorus", "Ignatia"],
+      "low": ["Stramonium"]
+    },
+    "modality": "Feels unable to swallow or tightness",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Common in diphtheria, tonsillitis"
+  },
+  {
+    "rubric": "Thirst worse on talking",
+    "grading": {
+      "high": ["Phosphorus", "Causticum"],
+      "medium": ["Pulsatilla", "Hepar sulph"],
+      "low": ["Spongia"]
+    },
+    "modality": "Speech dries mouth; desire for water follows",
+    "miasm": "Psora",
+    "notes": "Teachers, speakers, or throat conditions"
+  },
+  {
+    "rubric": "Thirst with frequent urination",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Natrum mur", "China"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Excessive output leads to increased input",
+    "miasm": "Psora",
+    "notes": "Common in diabetes, renal complaints"
+  },
+  {
+    "rubric": "Thirst while lying on left side",
+    "grading": {
+      "high": ["Phosphorus", "Lachesis"],
+      "medium": ["Sulphur", "Calcarea carb"],
+      "low": ["Silicea"]
+    },
+    "modality": "Body position changes water craving",
+    "miasm": "Psora",
+    "notes": "Rare keynote rubric"
+  },
+  {
+    "rubric": "Thirst with aphthous ulcers",
+    "grading": {
+      "high": ["Borax", "Mercurius"],
+      "medium": ["Nitric acid", "Sulphur"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Oral discomfort prompts drinking",
+    "miasm": "Syphilitic",
+    "notes": "Children, stomatitis, mouth ulcers"
+  },
+  {
+    "rubric": "Thirst with neuralgic headaches",
+    "grading": {
+      "high": ["Spigelia", "Belladonna"],
+      "medium": ["Natrum mur", "Phosphorus"],
+      "low": ["Silicea"]
+    },
+    "modality": "Head pain creates urge to sip water",
+    "miasm": "Psora",
+    "notes": "Useful in cluster headache, migraines"
+  },
+  {
+    "rubric": "Thirst with internal heat but cold externally",
+    "grading": {
+      "high": ["Arsenicum album", "Camphora"],
+      "medium": ["Sulphur", "Veratrum album"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Contradictory thermal states increase thirst",
+    "miasm": "Psora",
+    "notes": "Seen in fevers, collapse, severe weakness"
+  },
+  {
+    "rubric": "Thirst only for ice water",
+    "grading": {
+      "high": ["Phosphorus", "Bryonia"],
+      "medium": ["Sulphur", "Arsenicum album"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Nothing satisfies except extremely cold water",
+    "miasm": "Psora",
+    "notes": "Not just cold, but ice-cold desire"
+  },
+  {
+    "rubric": "Thirst with foamy or frothy saliva",
+    "grading": {
+      "high": ["Hydrophobinum", "Stramonium"],
+      "medium": ["Belladonna", "Mercurius"],
+      "low": ["Cuprum met"]
+    },
+    "modality": "Foam or bubbles in saliva cause discomfort",
+    "miasm": "Syphilitic",
+    "notes": "Rabies, seizures, severe inflammation"
+  },
+  {
+    "rubric": "Thirstless during fever",
+    "grading": {
+      "high": ["Pulsatilla", "Gelsemium"],
+      "medium": ["Antimonium crudum", "Ferrum phos"],
+      "low": ["Camphora"]
+    },
+    "modality": "No desire to drink despite high fever",
+    "miasm": "Psora",
+    "notes": "Common in mild, passive fevers; especially in children"
+  },
+  {
+    "rubric": "Thirst for large quantities at long intervals during fever",
+    "grading": {
+      "high": ["Bryonia", "Natrum mur"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Rhus tox"]
+    },
+    "modality": "Drinks a lot but infrequently; avoids frequent sips",
+    "miasm": "Psora",
+    "notes": "Keynote of Bryonia; acute inflammatory fevers"
+  },
+  {
+    "rubric": "Thirst for small quantities frequently during fever",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["China", "Sulphur"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Constant desire to sip water; cannot drink much at once",
+    "miasm": "Psora",
+    "notes": "Restlessness and weakness during high fevers"
+  },
+  {
+    "rubric": "Thirst increased only during chill stage of fever",
+    "grading": {
+      "high": ["Arsenicum album", "Eupatorium perfoliatum"],
+      "medium": ["Gelsemium", "Nux vomica"],
+      "low": ["Rhus tox"]
+    },
+    "modality": "Thirst seen during rigor or cold stage only",
+    "miasm": "Psora",
+    "notes": "Keynote for intermittent fevers like malaria"
+  },
+  {
+    "rubric": "Thirstless during chill but thirsty during heat",
+    "grading": {
+      "high": ["Belladonna", "Rhus tox"],
+      "medium": ["Gelsemium", "Ignatia"],
+      "low": ["Camphora"]
+    },
+    "modality": "Desire for water appears in heat stage of fever only",
+    "miasm": "Psora",
+    "notes": "Heat causes internal dryness and water craving"
+  },
+  {
+    "rubric": "Thirst before fever comes on",
+    "grading": {
+      "high": ["Arsenicum album", "Aconite"],
+      "medium": ["Chamomilla", "Nux vomica"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Onset of fever is preceded by dryness and thirst",
+    "miasm": "Psora",
+    "notes": "Useful in sudden onset fevers with restlessness"
+  },
+  {
+    "rubric": "Thirstless during entire febrile paroxysm",
+    "grading": {
+      "high": ["Pulsatilla", "Gelsemium"],
+      "medium": ["Antimonium tart", "Camphora"],
+      "low": ["Ignatia"]
+    },
+    "modality": "No desire to drink during chill, heat, or sweat stage",
+    "miasm": "Psora",
+    "notes": "Complete thirstlessness is important keynote"
+  },
+  {
+    "rubric": "Thirst during fever with dry mouth",
+    "grading": {
+      "high": ["Bryonia", "Phosphorus"],
+      "medium": ["Arsenicum album", "Sulphur"],
+      "low": ["China"]
+    },
+    "modality": "Dryness of lips and tongue increases need to drink",
+    "miasm": "Psora",
+    "notes": "Correlates with dehydration and systemic dryness"
+  },
+  {
+    "rubric": "Thirst with fever worse at night",
+    "grading": {
+      "high": ["Arsenicum album", "Sulphur"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Fever rises at night and causes intense thirst",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Nocturnal aggravation of febrile state"
+  },
+  {
+    "rubric": "Thirst with fever and intense restlessness",
+    "grading": {
+      "high": ["Arsenicum album", "Aconite"],
+      "medium": ["Veratrum album", "Rhus tox"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Anxiety and movement accompanied by water craving",
+    "miasm": "Psora",
+    "notes": "One of the strongest Arsenicum indications in fever"
+  },
+  {
+    "rubric": "Thirst with dry, cracked lips during fever",
+    "grading": {
+      "high": ["Bryonia", "Sulphur"],
+      "medium": ["Natrum mur", "Phosphorus"],
+      "low": ["Rhus tox"]
+    },
+    "modality": "Lips dry and cracked; frequent desire to moisten",
+    "miasm": "Psora",
+    "notes": "Useful in dehydrated, long-lasting fevers"
+  },
+  {
+    "rubric": "Thirst with high fever and delirium",
+    "grading": {
+      "high": ["Belladonna", "Stramonium"],
+      "medium": ["Hyoscyamus", "Veratrum album"],
+      "low": ["Aconite"]
+    },
+    "modality": "Thirst present despite mental confusion or delirium",
+    "miasm": "Syphilitic",
+    "notes": "Useful in meningitis, encephalitis, sunstroke"
+  },
+  {
+    "rubric": "Thirst with intense burning heat of body",
+    "grading": {
+      "high": ["Sulphur", "Aconite"],
+      "medium": ["Belladonna", "Phosphorus"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Feels as if on fire; demands water to cool down",
+    "miasm": "Psora",
+    "notes": "Often seen in febrile eruptions and inflammatory fevers"
+  },
+  {
+    "rubric": "Thirst after every rise of temperature",
+    "grading": {
+      "high": ["China", "Phosphoric acid"],
+      "medium": ["Natrum mur", "Bryonia"],
+      "low": ["Rhus tox"]
+    },
+    "modality": "Even slight fever rise triggers need to drink",
+    "miasm": "Psora",
+    "notes": "Common in post-illness weakness, dengue, or enteric fevers"
+  },
+  {
+    "rubric": "Thirst only during sweat stage of fever",
+    "grading": {
+      "high": ["Rhus tox", "China"],
+      "medium": ["Arsenicum album", "Pulsatilla"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Dryness felt during perspiration stage of fever cycle",
+    "miasm": "Psora",
+    "notes": "Seen in remittent and relapsing fevers"
+  },
+  {
+    "rubric": "Thirst during fever with flushed face",
+    "grading": {
+      "high": ["Belladonna", "Ferrum phos"],
+      "medium": ["Sulphur", "Pulsatilla"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Dry mouth and flushed cheeks accompany thirst",
+    "miasm": "Psora",
+    "notes": "Useful in early inflammatory fevers, especially in children"
+  },
+  {
+    "rubric": "Thirst worse from least exertion during fever",
+    "grading": {
+      "high": ["Gelsemium", "Arsenicum album"],
+      "medium": ["Phosphorus", "China"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Even talking or moving increases thirst and exhaustion",
+    "miasm": "Psora",
+    "notes": "Useful in fevers with great prostration"
+  },
+  {
+    "rubric": "Thirst during fever with distaste for water",
+    "grading": {
+      "high": ["Pulsatilla", "Antimonium crudum"],
+      "medium": ["Gelsemium", "Nux vomica"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Feels need to drink but dislikes taste or effort",
+    "miasm": "Psora",
+    "notes": "Useful in passive fevers and gastrointestinal involvement"
+  },
+  {
+    "rubric": "Thirst with sudden onset of fever",
+    "grading": {
+      "high": ["Aconite", "Belladonna"],
+      "medium": ["Arsenicum album", "Chamomilla"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Violent fever rise triggers dryness and thirst",
+    "miasm": "Psora",
+    "notes": "Often seen in influenza, acute tonsillitis"
+  },
+  {
+    "rubric": "Thirst during fever alternating with chills",
+    "grading": {
+      "high": ["Eupatorium perfoliatum", "Arsenicum album"],
+      "medium": ["Rhus tox", "Nux vomica"],
+      "low": ["Camphora"]
+    },
+    "modality": "Thirst occurs intermittently with cold-hot phases",
+    "miasm": "Psora",
+    "notes": "Important in intermittent fevers and dengue-like fevers"
+  },
+  {
+    "rubric": "Thirst during fever with headache",
+    "grading": {
+      "high": ["Belladonna", "Nux vomica"],
+      "medium": ["Phosphorus", "Gelsemium"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Throbbing or dull head pain with heat and thirst",
+    "miasm": "Psora",
+    "notes": "Common in viral fevers, flu, sunstroke"
+  },
+  {
+    "rubric": "Thirst during fever with chills running down the back",
+    "grading": {
+      "high": ["Eupatorium perfoliatum", "Arsenicum album"],
+      "medium": ["China", "Rhus tox"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Thirst increases when shivering or spine chills appear",
+    "miasm": "Psora",
+    "notes": "Keynote in malarial and dengue-like fevers"
+  },
+  {
+    "rubric": "Thirst during fever with weakness and trembling",
+    "grading": {
+      "high": ["Gelsemium", "Phosphoric acid"],
+      "medium": ["Arsenicum album", "Veratrum album"],
+      "low": ["China"]
+    },
+    "modality": "Trembling limbs, weak voice with desire to drink",
+    "miasm": "Psora",
+    "notes": "Seen in viral fevers, fatigue-dominant illnesses"
+  },
+  {
+    "rubric": "Thirst during fever with backache",
+    "grading": {
+      "high": ["Eupatorium perfoliatum", "Rhus tox"],
+      "medium": ["Nux vomica", "Bryonia"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Back or bone pain along with fever thirst",
+    "miasm": "Psora",
+    "notes": "Common in influenza, dengue, fever with myalgia"
+  },
+  {
+    "rubric": "Thirst during fever with coated tongue",
+    "grading": {
+      "high": ["Mercurius", "Baptisia"],
+      "medium": ["Nux vomica", "China"],
+      "low": ["Rhus tox"]
+    },
+    "modality": "Thirst arises from thick tongue coating",
+    "miasm": "Psora",
+    "notes": "Seen in typhoid, enteric fever, low-grade infections"
+  },
+  {
+    "rubric": "Thirst during fever with anxiety",
+    "grading": {
+      "high": ["Arsenicum album", "Aconite"],
+      "medium": ["Ignatia", "Phosphorus"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Patient feels uneasy, restless, and thirsty",
+    "miasm": "Psora",
+    "notes": "Seen in high fevers with mental agitation"
+  },
+  {
+    "rubric": "Thirst with alternate chills and heat in fever",
+    "grading": {
+      "high": ["Arsenicum album", "China"],
+      "medium": ["Eupatorium perfoliatum", "Rhus tox"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Cycle of hot and cold leads to alternating thirst levels",
+    "miasm": "Psora",
+    "notes": "Seen in relapsing, intermittent, or post-malarial fevers"
+  },
+  {
+    "rubric": "Thirst during fever with dry skin",
+    "grading": {
+      "high": ["Bryonia", "Sulphur"],
+      "medium": ["Phosphorus", "Belladonna"],
+      "low": ["China"]
+    },
+    "modality": "Skin hot but dry; dryness stimulates desire to drink",
+    "miasm": "Psora",
+    "notes": "Common in typhoid and measles"
+  },
+  {
+    "rubric": "Thirst during fever with inability to swallow",
+    "grading": {
+      "high": ["Belladonna", "Lachesis"],
+      "medium": ["Phytolacca", "Ignatia"],
+      "low": ["Stramonium"]
+    },
+    "modality": "Wants to drink but throat constriction prevents it",
+    "miasm": "Syphilitic",
+    "notes": "Seen in tonsillitis, diphtheria, scarlet fever"
+  },
+  {
+    "rubric": "Thirst during fever with desire for juicy things",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Pulsatilla", "Belladonna"],
+      "low": ["China"]
+    },
+    "modality": "Craves fruits or sour liquids rather than plain water",
+    "miasm": "Psora",
+    "notes": "Useful in child fevers and pregnancy fevers"
+  },
+  {
+    "rubric": "Thirstless despite sweating during fever",
+    "grading": {
+      "high": ["Gelsemium", "Pulsatilla"],
+      "medium": ["Ferrum phos", "Camphora"],
+      "low": ["Ignatia"]
+    },
+    "modality": "No desire to replenish fluid even when sweating heavily",
+    "miasm": "Psora",
+    "notes": "Common in viral fevers with lethargy"
+  },
+  {
+    "rubric": "Thirst during fever aggravated by speaking",
+    "grading": {
+      "high": ["Phosphorus", "Spongia"],
+      "medium": ["Hepar sulph", "Causticum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Talking dries mouth more; needs sips of water",
+    "miasm": "Psora",
+    "notes": "Seen in laryngitis and pharyngitis fevers"
+  },
+  {
+    "rubric": "Thirst during fever in children with irritability",
+    "grading": {
+      "high": ["Chamomilla", "Belladonna"],
+      "medium": ["Pulsatilla", "Nux vomica"],
+      "low": ["Silicea"]
+    },
+    "modality": "Child is hot, irritable, and demanding water or juice",
+    "miasm": "Psora",
+    "notes": "Keynote in pediatric fever management"
+  },
+  {
+    "rubric": "Thirst during fever better by cold drinks",
+    "grading": {
+      "high": ["Phosphorus", "Bryonia"],
+      "medium": ["Veratrum album", "Sulphur"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Feels relief by drinking cold water",
+    "miasm": "Psora",
+    "notes": "Seen in heat stroke, high-temperature cases"
+  },
+  {
+    "rubric": "Thirst during fever worse by drinking",
+    "grading": {
+      "high": ["Ipecac", "Veratrum album"],
+      "medium": ["Phosphorus", "Arsenicum album"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Water intake leads to nausea or vomiting",
+    "miasm": "Psora",
+    "notes": "Gastroenteritis, dengue, typhoid indications"
+  },
+  {
+    "rubric": "Thirst during fever with drowsiness",
+    "grading": {
+      "high": ["Gelsemium", "Opium"],
+      "medium": ["Baptisia", "Phosphoric acid"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Dull, sleepy but still craves sips of water",
+    "miasm": "Typhoid / Psora",
+    "notes": "Seen in low vitality fevers"
+  },
+  {
+    "rubric": "Thirst during fever for salty water",
+    "grading": {
+      "high": ["Natrum mur", "Phosphorus"],
+      "medium": ["Sulphur", "Lycopodium"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Patient requests salt in water or ORS-like drinks",
+    "miasm": "Psora",
+    "notes": "Dehydration, electrolyte imbalance cases"
+  },
+  {
+    "rubric": "Thirst with fever and rapid pulse",
+    "grading": {
+      "high": ["Aconite", "Belladonna"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Pulse >100, high fever, and strong thirst",
+    "miasm": "Psora",
+    "notes": "Acute inflammatory or septic fevers"
+  },
+  {
+    "rubric": "Thirst with fever and rapid respiration",
+    "grading": {
+      "high": ["Phosphorus", "Antimonium tart"],
+      "medium": ["Bryonia", "Aconite"],
+      "low": ["Spongia"]
+    },
+    "modality": "Increased breathing rate increases water demand",
+    "miasm": "Psora",
+    "notes": "Bronchopneumonia, pleuritis, acute chest fevers"
+  },
+  {
+    "rubric": "Thirst with fever and dry cough",
+    "grading": {
+      "high": ["Bryonia", "Phosphorus"],
+      "medium": ["Hepar sulph", "Spongia"],
+      "low": ["Antimonium tart"]
+    },
+    "modality": "Dry irritating cough forces frequent water sips",
+    "miasm": "Psora",
+    "notes": "Laryngitis, tracheitis, early pneumonia"
+  },
+  {
+    "rubric": "Thirst during fever with vertigo",
+    "grading": {
+      "high": ["Gelsemium", "Bryonia"],
+      "medium": ["Phosphorus", "China"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Dizziness during fever triggers desire to hydrate",
+    "miasm": "Psora",
+    "notes": "Common in influenza, enteric fevers, sunstroke"
+  },
+  {
+    "rubric": "Thirst during fever with bitter taste",
+    "grading": {
+      "high": ["Bryonia", "Nux vomica"],
+      "medium": ["China", "Antimonium crudum"],
+      "low": ["Chelidonium"]
+    },
+    "modality": "Thirst with offensive or bitter mouth taste",
+    "miasm": "Psora",
+    "notes": "Seen in hepatic fevers or GI fevers"
+  },
+  {
+    "rubric": "Thirst during fever for milk or creamy drinks",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids plain water, prefers milky or rich drinks",
+    "miasm": "Psora",
+    "notes": "Seen in delicate constitutions, often children"
+  },
+  {
+    "rubric": "Thirst before sweat stage in fever",
+    "grading": {
+      "high": ["China", "Arsenicum album"],
+      "medium": ["Rhus tox", "Bryonia"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Craves water just before perspiration begins",
+    "miasm": "Psora",
+    "notes": "Seen in malarial or typhoid fevers"
+  },
+  {
+    "rubric": "Thirst after vomiting during fever",
+    "grading": {
+      "high": ["Phosphorus", "Veratrum album"],
+      "medium": ["Arsenicum album", "Ipecac"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Feels parched and weak post emesis",
+    "miasm": "Psora",
+    "notes": "Seen in viral gastroenteritis, dengue fevers"
+  },
+  {
+    "rubric": "Thirst during fever with yellow tongue",
+    "grading": {
+      "high": ["Mercurius", "Nux vomica"],
+      "medium": ["Baptisia", "Chelidonium"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Coated tongue with yellow color triggers need to sip",
+    "miasm": "Psora",
+    "notes": "Seen in hepatic fevers, typhoid"
+  },
+  {
+    "rubric": "Thirst during fever better by warm drinks",
+    "grading": {
+      "high": ["Arsenicum album", "Hepar sulph"],
+      "medium": ["Rhus tox", "Spongia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Avoids cold water, prefers warm fluids",
+    "miasm": "Psora",
+    "notes": "Chilly patients with internal cold sensation"
+  },
+  {
+    "rubric": "Thirst during fever only when lying down",
+    "grading": {
+      "high": ["Phosphorus", "Lachesis"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Lying flat increases thirst sensation",
+    "miasm": "Psora",
+    "notes": "Rare rubric, position-specific"
+  },
+  {
+    "rubric": "Thirst during fever with sensation of sand in eyes",
+    "grading": {
+      "high": ["Euphrasia", "Sulphur"],
+      "medium": ["Nux vomica", "Belladonna"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Dry heat of eyes and mouth; water desired",
+    "miasm": "Psora",
+    "notes": "Seen in measles, eye-related fevers"
+  },
+  {
+    "rubric": "Thirst during fever with intense internal dryness",
+    "grading": {
+      "high": ["Bryonia", "Phosphorus"],
+      "medium": ["Sulphur", "Nux moschata"],
+      "low": ["China"]
+    },
+    "modality": "Feels internally dried out; needs constant sips",
+    "miasm": "Psora",
+    "notes": "Flu, dehydration, febrile collapse states"
+  },
+  {
+    "rubric": "Thirst during fever for cold carbonated drinks",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Natrum carb", "Sepia"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Desires soda, sparkling drinks instead of plain water",
+    "miasm": "Psora",
+    "notes": "Modern craving, seen in urban constitutions"
+  },
+  {
+    "rubric": "Thirst during fever worse in morning",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Phosphorus", "Pulsatilla"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Fever thirst felt more in early hours",
+    "miasm": "Psora",
+    "notes": "Typhoid, jaundice, post-COVID cases"
+  },
+  {
+    "rubric": "Thirst during fever with fetid sweat",
+    "grading": {
+      "high": ["Mercurius", "Baptisia"],
+      "medium": ["Silicea", "Sulphur"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Offensive body odor along with heat and thirst",
+    "miasm": "Syphilitic",
+    "notes": "Sepsis, advanced fevers, abscess-related fevers"
+  },
+  {
+    "rubric": "Thirst during fever with aversion to water",
+    "grading": {
+      "high": ["Pulsatilla", "Antimonium crudum"],
+      "medium": ["Gelsemium", "Ignatia"],
+      "low": ["Ferrum phos"]
+    },
+    "modality": "Patient refuses water even when hot",
+    "miasm": "Psora",
+    "notes": "Pediatric and passive constitutions"
+  },
+  {
+    "rubric": "Thirst during fever with burning palms and soles",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Medorrhinum", "Natrum mur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Burning sensation prompts water intake",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in chronic miasmatic fevers"
+  },
+  {
+    "rubric": "Thirst during fever worse during menses",
+    "grading": {
+      "high": ["Sepia", "Phosphorus"],
+      "medium": ["Lachesis", "Sulphur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Increased thirst when fever coincides with periods",
+    "miasm": "Psora",
+    "notes": "Fever + hormonal imbalance"
+  },
+  {
+    "rubric": "Thirst during fever with loss of appetite",
+    "grading": {
+      "high": ["Gelsemium", "Nux vomica"],
+      "medium": ["Pulsatilla", "Ferrum phos"],
+      "low": ["Silicea"]
+    },
+    "modality": "No hunger but thirst remains high",
+    "miasm": "Psora",
+    "notes": "Flu, typhoid, febrile GI cases"
+  },
+  {
+    "rubric": "Thirst during fever with frequent urination",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["China", "Pulsatilla"],
+      "low": ["Sepia"]
+    },
+    "modality": "Increased urinary output with fever and thirst",
+    "miasm": "Psora",
+    "notes": "Seen in UTI with fever or pyelonephritis"
+  },
+  {
+    "rubric": "Thirst during fever with bleeding gums or nose",
+    "grading": {
+      "high": ["Mercurius", "Phosphorus"],
+      "medium": ["Lachesis", "Nitric acid"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Hemorrhagic fevers or sepsis with dryness and thirst",
+    "miasm": "Syphilitic",
+    "notes": "Dengue hemorrhagic, typhus"
+  },
+  {
+    "rubric": "Thirst during fever only after midnight",
+    "grading": {
+      "high": ["Arsenicum album", "Sulphur"],
+      "medium": ["Phosphorus", "Lycopodium"],
+      "low": ["Sepia"]
+    },
+    "modality": "Patient becomes thirsty only late at night during fever",
+    "miasm": "Psora",
+    "notes": "Nocturnal aggravation, chronic fever types"
+  },
+  {
+    "rubric": "Thirst during fever with nausea on drinking",
+    "grading": {
+      "high": ["Ipecac", "Arsenicum album"],
+      "medium": ["Phosphorus", "Veratrum album"],
+      "low": ["Antimonium tart"]
+    },
+    "modality": "Feels nauseated or vomits when drinking during fever",
+    "miasm": "Psora",
+    "notes": "Seen in gastroenteritis, dengue, or heatstroke with nausea"
+  },
+  {
+    "rubric": "Thirst during fever with metallic taste in mouth",
+    "grading": {
+      "high": ["Mercurius", "Nitric acid"],
+      "medium": ["Nux vomica", "China"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Desire for water due to foul or metallic taste",
+    "miasm": "Syphilitic",
+    "notes": "Indicates toxic states; liver-related or septic fevers"
+  },
+  {
+    "rubric": "Thirst during fever with excessive salivation",
+    "grading": {
+      "high": ["Mercurius", "Kali bich"],
+      "medium": ["Antimonium crudum", "Ipecac"],
+      "low": ["Nitric acid"]
+    },
+    "modality": "Increased saliva but still craves water",
+    "miasm": "Syphilitic",
+    "notes": "Typhoid, ulcerative fevers with oral involvement"
+  },
+  {
+    "rubric": "Thirst during fever worse after eating",
+    "grading": {
+      "high": ["Nux vomica", "Phosphorus"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["China"]
+    },
+    "modality": "Food aggravates thirst due to heat or indigestion",
+    "miasm": "Psora",
+    "notes": "Useful in digestive fevers and bilious states"
+  },
+  {
+    "rubric": "Thirst during fever with burning in stomach",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Nux vomica", "Veratrum album"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desire to soothe burning gastric sensation",
+    "miasm": "Psora",
+    "notes": "Seen in fever with GI complaints or acidosis"
+  },
+  {
+    "rubric": "Thirst during fever with nausea on drinking",
+    "grading": {
+      "high": ["Ipecac", "Arsenicum album"],
+      "medium": ["Phosphorus", "Veratrum album"],
+      "low": ["Antimonium tart"]
+    },
+    "modality": "Feels nauseated or vomits when drinking during fever",
+    "miasm": "Psora",
+    "notes": "Seen in gastroenteritis, dengue, or heatstroke with nausea"
+  },
+  {
+    "rubric": "Thirst during fever with metallic taste in mouth",
+    "grading": {
+      "high": ["Mercurius", "Nitric acid"],
+      "medium": ["Nux vomica", "China"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Desire for water due to foul or metallic taste",
+    "miasm": "Syphilitic",
+    "notes": "Indicates toxic states; liver-related or septic fevers"
+  },
+  {
+    "rubric": "Thirst during fever with excessive salivation",
+    "grading": {
+      "high": ["Mercurius", "Kali bich"],
+      "medium": ["Antimonium crudum", "Ipecac"],
+      "low": ["Nitric acid"]
+    },
+    "modality": "Increased saliva but still craves water",
+    "miasm": "Syphilitic",
+    "notes": "Typhoid, ulcerative fevers with oral involvement"
+  },
+  {
+    "rubric": "Thirst during fever worse after eating",
+    "grading": {
+      "high": ["Nux vomica", "Phosphorus"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["China"]
+    },
+    "modality": "Food aggravates thirst due to heat or indigestion",
+    "miasm": "Psora",
+    "notes": "Useful in digestive fevers and bilious states"
+  },
+  {
+    "rubric": "Thirst during fever with burning in stomach",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Nux vomica", "Veratrum album"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desire to soothe burning gastric sensation",
+    "miasm": "Psora",
+    "notes": "Seen in fever with GI complaints or acidosis"
+  },
+  {
+    "rubric": "Thirst during fever with cough and expectoration",
+    "grading": {
+      "high": ["Hepar sulph", "Antimonium tart"],
+      "medium": ["Ipecac", "Kali bich"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Drinks relieve throat dryness from mucus irritation",
+    "miasm": "Psora",
+    "notes": "Seen in bronchitis or chest fevers with rattling cough"
+  },
+  {
+    "rubric": "Thirst with fever only when awake",
+    "grading": {
+      "high": ["Gelsemium", "Baptisia"],
+      "medium": ["Camphora", "Opium"],
+      "low": ["Stramonium"]
+    },
+    "modality": "No thirst during sleep phase despite fever",
+    "miasm": "Psora",
+    "notes": "Seen in drowsy, lethargic fevers (e.g., typhoid)"
+  },
+  {
+    "rubric": "Thirst during fever with pain in limbs",
+    "grading": {
+      "high": ["Eupatorium perfoliatum", "Bryonia"],
+      "medium": ["Rhus tox", "China"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Bone or limb aches increase need for fluids",
+    "miasm": "Psora",
+    "notes": "Influenza, viral fevers, dengue-like syndromes"
+  },
+  {
+    "rubric": "Thirst after fever subsides",
+    "grading": {
+      "high": ["China", "Phosphoric acid"],
+      "medium": ["Natrum mur", "Ferrum phos"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Follows prolonged heat phase or sweat loss",
+    "miasm": "Psora",
+    "notes": "Important in post-febrile weakness recovery"
+  },
+  {
+    "rubric": "Thirst during fever with fainting tendency",
+    "grading": {
+      "high": ["Veratrum album", "Camphora"],
+      "medium": ["Phosphorus", "China"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Weakness or syncope sensation prompts drinking",
+    "miasm": "Psora",
+    "notes": "Seen in collapse states, choleraic fevers"
+  },
+  {
+    "rubric": "Thirst during fever with nausea on drinking",
+    "grading": {
+      "high": ["Ipecac", "Arsenicum album"],
+      "medium": ["Phosphorus", "Veratrum album"],
+      "low": ["Antimonium tart"]
+    },
+    "modality": "Feels nauseated or vomits when drinking during fever",
+    "miasm": "Psora",
+    "notes": "Seen in gastroenteritis, dengue, or heatstroke with nausea"
+  },
+  {
+    "rubric": "Thirst during fever with metallic taste in mouth",
+    "grading": {
+      "high": ["Mercurius", "Nitric acid"],
+      "medium": ["Nux vomica", "China"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Desire for water due to foul or metallic taste",
+    "miasm": "Syphilitic",
+    "notes": "Indicates toxic states; liver-related or septic fevers"
+  },
+  {
+    "rubric": "Thirst during fever with excessive salivation",
+    "grading": {
+      "high": ["Mercurius", "Kali bich"],
+      "medium": ["Antimonium crudum", "Ipecac"],
+      "low": ["Nitric acid"]
+    },
+    "modality": "Increased saliva but still craves water",
+    "miasm": "Syphilitic",
+    "notes": "Typhoid, ulcerative fevers with oral involvement"
+  },
+  {
+    "rubric": "Thirst during fever worse after eating",
+    "grading": {
+      "high": ["Nux vomica", "Phosphorus"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["China"]
+    },
+    "modality": "Food aggravates thirst due to heat or indigestion",
+    "miasm": "Psora",
+    "notes": "Useful in digestive fevers and bilious states"
+  },
+  {
+    "rubric": "Thirst during fever with burning in stomach",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Nux vomica", "Veratrum album"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desire to soothe burning gastric sensation",
+    "miasm": "Psora",
+    "notes": "Seen in fever with GI complaints or acidosis"
+  },
+  {
+    "rubric": "Thirst during fever with cough and expectoration",
+    "grading": {
+      "high": ["Hepar sulph", "Antimonium tart"],
+      "medium": ["Ipecac", "Kali bich"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Drinks relieve throat dryness from mucus irritation",
+    "miasm": "Psora",
+    "notes": "Seen in bronchitis or chest fevers with rattling cough"
+  },
+  {
+    "rubric": "Thirst with fever only when awake",
+    "grading": {
+      "high": ["Gelsemium", "Baptisia"],
+      "medium": ["Camphora", "Opium"],
+      "low": ["Stramonium"]
+    },
+    "modality": "No thirst during sleep phase despite fever",
+    "miasm": "Psora",
+    "notes": "Seen in drowsy, lethargic fevers (e.g., typhoid)"
+  },
+  {
+    "rubric": "Thirst during fever with pain in limbs",
+    "grading": {
+      "high": ["Eupatorium perfoliatum", "Bryonia"],
+      "medium": ["Rhus tox", "China"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Bone or limb aches increase need for fluids",
+    "miasm": "Psora",
+    "notes": "Influenza, viral fevers, dengue-like syndromes"
+  },
+  {
+    "rubric": "Thirst after fever subsides",
+    "grading": {
+      "high": ["China", "Phosphoric acid"],
+      "medium": ["Natrum mur", "Ferrum phos"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Follows prolonged heat phase or sweat loss",
+    "miasm": "Psora",
+    "notes": "Important in post-febrile weakness recovery"
+  },
+  {
+    "rubric": "Thirst during fever with fainting tendency",
+    "grading": {
+      "high": ["Veratrum album", "Camphora"],
+      "medium": ["Phosphorus", "China"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Weakness or syncope sensation prompts drinking",
+    "miasm": "Psora",
+    "notes": "Seen in collapse states, choleraic fevers"
+  },
+  {
+    "rubric": "Thirst during fever with delirium",
+    "grading": {
+      "high": ["Belladonna", "Stramonium"],
+      "medium": ["Hyoscyamus", "Opium"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Despite delirium, asks for water or sips constantly",
+    "miasm": "Syphilitic",
+    "notes": "High fevers with CNS involvement"
+  },
+  {
+    "rubric": "Thirst during fever with rapid weight loss",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Tuberculinum", "Natrum mur"],
+      "low": ["Baptisia"]
+    },
+    "modality": "High metabolic rate or dehydration increases thirst",
+    "miasm": "Tubercular",
+    "notes": "Seen in chronic, wasting fevers"
+  },
+  {
+    "rubric": "Thirst during fever with offensive breath",
+    "grading": {
+      "high": ["Mercurius", "Baptisia"],
+      "medium": ["Nitric acid", "Nux vomica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Foul mouth leads to constant drinking or rinsing",
+    "miasm": "Syphilitic",
+    "notes": "Septic fevers, typhoid, diphtheria"
+  },
+  {
+    "rubric": "Thirst during fever with excessive dreams",
+    "grading": {
+      "high": ["Phosphorus", "Lachesis"],
+      "medium": ["Nux vomica", "Belladonna"],
+      "low": ["Silicea"]
+    },
+    "modality": "Disturbed sleep and vivid dreams with heat and thirst",
+    "miasm": "Psora",
+    "notes": "Common in viral fevers and acute mental agitation"
+  },
+  {
+    "rubric": "Thirst during fever with itching skin",
+    "grading": {
+      "high": ["Sulphur", "Arsenicum album"],
+      "medium": ["Psorinum", "Lycopodium"],
+      "low": ["Sepia"]
+    },
+    "modality": "Fever with dry, itchy skin triggers water desire",
+    "miasm": "Psora",
+    "notes": "Fever with urticaria, allergies, measles"
+  },
+  {
+    "rubric": "Thirst during fever with swollen tongue",
+    "grading": {
+      "high": ["Lachesis", "Mercurius"],
+      "medium": ["Nitric acid", "Belladonna"],
+      "low": ["Apis"]
+    },
+    "modality": "Swollen tongue causes dryness, leading to thirst",
+    "miasm": "Syphilitic",
+    "notes": "Seen in toxic or septic fevers with oral symptoms"
+  },
+  {
+    "rubric": "Thirst during fever with cold sweat",
+    "grading": {
+      "high": ["Veratrum album", "Camphora"],
+      "medium": ["China", "Carbo veg"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Profuse cold perspiration with exhaustion and thirst",
+    "miasm": "Psora",
+    "notes": "Choleraic or collapse fevers"
+  },
+  {
+    "rubric": "Thirst during fever better from fanning",
+    "grading": {
+      "high": ["Pulsatilla", "Carbo veg"],
+      "medium": ["Phosphorus", "China"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Feels better with air movement; heat with dryness causes thirst",
+    "miasm": "Psora",
+    "notes": "Seen in low vitality patients or women with hormonal imbalance"
+  },
+  {
+    "rubric": "Thirst during fever with trembling",
+    "grading": {
+      "high": ["Gelsemium", "Phosphoric acid"],
+      "medium": ["Arnica", "Veratrum album"],
+      "low": ["China"]
+    },
+    "modality": "Internal trembling, anxiety with heat and thirst",
+    "miasm": "Psora",
+    "notes": "Common in nervous or viral fevers"
+  },
+  {
+    "rubric": "Thirst during fever with red tip of tongue",
+    "grading": {
+      "high": ["Sulphur", "Belladonna"],
+      "medium": ["Lycopodium", "Natrum mur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Redness signifies inflammation with heat and thirst",
+    "miasm": "Psora",
+    "notes": "Seen in eruptive or measles-like fevers"
+  },
+  {
+    "rubric": "Thirst during fever only at night",
+    "grading": {
+      "high": ["Sulphur", "Arsenicum album"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "No thirst during day; excessive at night with fever",
+    "miasm": "Psora",
+    "notes": "Typical of chronic fevers or hormonal imbalance"
+  },
+  {
+    "rubric": "Thirst during fever with dry cracked lips",
+    "grading": {
+      "high": ["Bryonia", "Natrum mur"],
+      "medium": ["Arsenicum album", "Sulphur"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Cracks and dryness increase desire to drink frequently",
+    "miasm": "Psora",
+    "notes": "Useful in dry heat fevers or dehydration"
+  },
+  {
+    "rubric": "Thirst during fever with sensation of internal heat only",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Sepia", "Lycopodium"],
+      "low": ["Silicea"]
+    },
+    "modality": "Feels internally hot though externally cold",
+    "miasm": "Psora",
+    "notes": "Seen in auto-immune, hormonal fevers"
+  },
+  {
+    "rubric": "Thirst during fever with cold extremities and hot head",
+    "grading": {
+      "high": ["Belladonna", "Chamomilla"],
+      "medium": ["Pulsatilla", "Aconite"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "Peripheral coldness, central heat provokes thirst",
+    "miasm": "Psora",
+    "notes": "Children’s fevers, especially teething-related"
+  },
+  {
+    "rubric": "Thirst during fever with irritability and restlessness",
+    "grading": {
+      "high": ["Arsenicum album", "Chamomilla"],
+      "medium": ["Nux vomica", "Veratrum album"],
+      "low": ["Coffea"]
+    },
+    "modality": "Anxiety and movement aggravate heat and thirst",
+    "miasm": "Psora",
+    "notes": "Seen in acute states of fear, worry or pain"
+  },
+  {
+    "rubric": "Thirst during chill stage of fever",
+    "grading": {
+      "high": ["China", "Gelsemium"],
+      "medium": ["Natrum mur", "Arsenicum album"],
+      "low": ["Ferrum phos"]
+    },
+    "modality": "Chill with desire to drink despite shivering",
+    "miasm": "Psora",
+    "notes": "Malarial or relapsing fevers"
+  },
+  {
+    "rubric": "Thirst before fever begins",
+    "grading": {
+      "high": ["Eupatorium perfoliatum", "Bryonia"],
+      "medium": ["Gelsemium", "Rhus tox"],
+      "low": ["Baptisia"]
+    },
+    "modality": "Thirst comes as a premonitory symptom",
+    "miasm": "Psora",
+    "notes": "Important for early stages of infection or prodrome"
+  },
+  {
+    "rubric": "Thirst during fever with dryness of throat despite drinking",
+    "grading": {
+      "high": ["Phosphorus", "Bryonia"],
+      "medium": ["Belladonna", "Mercurius"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Drinking gives only temporary relief",
+    "miasm": "Psora",
+    "notes": "Seen in bronchitis, diphtheria, laryngitis-related fevers"
+  },
+  {
+    "rubric": "Thirst during fever alternating with aversion to water",
+    "grading": {
+      "high": ["Nux vomica", "Ipecac"],
+      "medium": ["Pulsatilla", "Sepia"],
+      "low": ["Arnica"]
+    },
+    "modality": "Fluctuation between craving and aversion",
+    "miasm": "Psora",
+    "notes": "Seen in psychological or erratic fever patterns"
+  },
+  {
+    "rubric": "Thirst during fever better from small sips frequently",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Lachesis", "Pulsatilla"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Small repeated drinks preferred over large quantities",
+    "miasm": "Psora",
+    "notes": "Very useful rubric in differential diagnosis"
+  }
+]

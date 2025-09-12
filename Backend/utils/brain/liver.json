@@ -1,0 +1,374 @@
+[
+  {
+    "disease": "Liver Complaints",
+    "tags": ["CommonChronic", "Abdomen", "Liver"],
+    "rubrics": [
+      {
+        "rubric": "Pain in liver region (right hypochondrium), worse pressure or deep inspiration",
+        "grading": {
+          "high": ["Chelidonium", "Carduus marianus"],
+          "medium": ["Bryonia", "Nux vomica"],
+          "low": ["Lycopodium", "Podophyllum"]
+        },
+        "modality": "Worse pressure, deep breathing, motion",
+        "miasm": "Psora-Sycosis",
+        "notes": "Most characteristic liver pain rubric"
+      },
+      {
+        "rubric": "Fatty liver with indigestion and bloating after fatty food",
+        "grading": {
+          "high": ["Chelidonium", "Lycopodium"],
+          "medium": ["Calcarea carb", "Phosphorus"],
+          "low": ["Nux vomica", "Antimonium crudum"]
+        },
+        "modality": "Worse fried food, better hot drinks",
+        "miasm": "Sycosis",
+        "notes": "Classic NAFLD picture"
+      },
+      {
+        "rubric": "Hepatitis with yellow sclera and bitter taste in mouth",
+        "grading": {
+          "high": ["Chionanthus", "Merc sol"],
+          "medium": ["Chelidonium", "Carduus marianus"],
+          "low": ["Nux vomica", "Berberis"]
+        },
+        "modality": "Worse morning, motion; better lying on right side",
+        "miasm": "Syphilitic",
+        "notes": "Acute liver inflammation picture"
+      },
+      {
+        "rubric": "Chronic liver congestion with enlarged liver and dragging sensation",
+        "grading": {
+          "high": ["Carduus marianus", "China"],
+          "medium": ["Chelidonium", "Lycopodium"],
+          "low": ["Nux vomica", "Boldo"]
+        },
+        "modality": "Better lying on left side",
+        "miasm": "Sycosis",
+        "notes": "Alcoholic, sluggish or toxic liver"
+      },
+      {
+        "rubric": "Clay-colored or greasy stools with offensive smell",
+        "grading": {
+          "high": ["Podophyllum", "Chelidonium"],
+          "medium": ["Phosphorus", "Nux vomica"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Worse morning, post-meal",
+        "miasm": "Psora",
+        "notes": "Liver cannot digest fats properly"
+      },
+      {
+        "rubric": "Jaundice with intense itching of skin",
+        "grading": {
+          "high": ["Chionanthus", "Natrum sulph"],
+          "medium": ["Sulphur", "Chelidonium"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Worse night, warmth",
+        "miasm": "Syphilitic",
+        "notes": "Often intrahepatic cholestasis"
+      },
+      {
+        "rubric": "Cirrhosis of liver with ascites and emaciation",
+        "grading": {
+          "high": ["Phosphorus", "Carduus marianus"],
+          "medium": ["Chionanthus", "China"],
+          "low": ["Nux vomica", "Digitalis"]
+        },
+        "modality": "Better lying on right side; worse motion",
+        "miasm": "Syphilitic-Tubercular",
+        "notes": "Advanced degenerative state"
+      },
+      {
+        "rubric": "Mental irritability and anger from liver affection",
+        "grading": {
+          "high": ["Nux vomica", "Chamomilla"],
+          "medium": ["Bryonia", "Chelidonium"],
+          "low": ["Carduus", "Sulphur"]
+        },
+        "modality": "Worse in morning, from heat, alcohol",
+        "miasm": "Psora",
+        "notes": "Liver-mind connection"
+      },
+      {
+        "rubric": "Liver pain radiating to right scapula",
+        "grading": {
+          "high": ["Chelidonium", "Berberis"],
+          "medium": ["Lycopodium", "Carduus"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Better from hot applications",
+        "miasm": "Psora-Sycosis",
+        "notes": "Referred gallbladder-liver pain"
+      },
+      {
+        "rubric": "Nausea and vomiting from liver dysfunction",
+        "grading": {
+          "high": ["Ipecac", "Chelidonium"],
+          "medium": ["Phosphorus", "Nux vomica"],
+          "low": ["Antimonium crudum"]
+        },
+        "modality": "Worse after eating, better cold water",
+        "miasm": "Psora",
+        "notes": "Gastric-liver axis symptoms"
+      },
+      {
+        "rubric": "Hepatitis B with liver enlargement and fatigue",
+        "grading": {
+          "high": ["Chelidonium", "Merc sol"],
+          "medium": ["Phosphorus", "Carduus marianus"],
+          "low": ["China", "Lycopodium"]
+        },
+        "modality": "Worse exertion, better rest",
+        "miasm": "Syphilitic",
+        "notes": "Virus-mediated chronic hepatic state"
+      }
+    ]
+  },
+  {
+    "disease": "Liver Complaints (Deep Set)",
+    "tags": [
+      "CommonChronic",
+      "Liver",
+      "Abdomen",
+      "Metabolic",
+      "Functional",
+      "Emotional"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Liver complaints after suppressed anger or long emotional restraint",
+        "grading": {
+          "high": ["Chamomilla", "Nux vomica"],
+          "medium": ["Staphysagria", "Lycopodium"],
+          "low": ["Sepia", "Chelidonium"]
+        },
+        "modality": "After insult, grief, or inability to express emotions",
+        "miasm": "Psora",
+        "notes": "Psychosomatic liver expression"
+      },
+      {
+        "rubric": "Liver complaints with eruptions: acne, itching, eczema",
+        "grading": {
+          "high": ["Sulphur", "Graphites"],
+          "medium": ["Lycopodium", "Chelidonium"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Skin flare-up with liver toxicity",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Liver-skin axis"
+      },
+      {
+        "rubric": "Pain in liver extending to clavicle and shoulder",
+        "grading": {
+          "high": ["Chelidonium", "Berberis vulgaris"],
+          "medium": ["Lycopodium", "Carduus"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Radiating pain pattern",
+        "miasm": "Psora-Sycosis",
+        "notes": "Gallbladder spasm referral"
+      },
+      {
+        "rubric": "Jaundice with confusion and slow mentation (hepatic coma)",
+        "grading": {
+          "high": ["Phosphorus", "Merc sol"],
+          "medium": ["Lachesis", "Digitalis"],
+          "low": ["China"]
+        },
+        "modality": "Late-stage liver degeneration",
+        "miasm": "Syphilitic",
+        "notes": "Toxic encephalopathy stage"
+      },
+      {
+        "rubric": "Liver complaints with sour eructations and bloating",
+        "grading": {
+          "high": ["Lycopodium", "Nux vomica"],
+          "medium": ["Iris versicolor", "Carbo veg"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Worse after rich food or wine",
+        "miasm": "Psora",
+        "notes": "Indigestion from liver suppression"
+      },
+      {
+        "rubric": "Liver complaints alternating with hemorrhoids",
+        "grading": {
+          "high": ["Sulphur", "Nux vomica"],
+          "medium": ["Aesculus", "Carduus"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "One condition improves, other worsens",
+        "miasm": "Sycosis",
+        "notes": "Venous congestion of portal tract"
+      },
+      {
+        "rubric": "Chronic liver disease with craving alcohol",
+        "grading": {
+          "high": ["Nux vomica", "Phosphorus"],
+          "medium": ["Sulphur", "Lachesis"],
+          "low": ["Digitalis"]
+        },
+        "modality": "Alcoholic cirrhosis",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Liver damage + craving coexist"
+      },
+      {
+        "rubric": "Liver complaints worse at 3–5 AM",
+        "grading": {
+          "high": ["Chelidonium", "Nux vomica"],
+          "medium": ["Sulphur", "China"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Early morning liver aggravation",
+        "miasm": "Psora",
+        "notes": "Matches liver detox circadian time"
+      },
+      {
+        "rubric": "Liver dysfunction with dullness, depression, mental inertia",
+        "grading": {
+          "high": ["Sepia", "Lycopodium"],
+          "medium": ["Nux vomica", "Chelidonium"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Loss of joy, flat affect",
+        "miasm": "Psora-Tubercular",
+        "notes": "Mind-liver axis disturbance"
+      },
+      {
+        "rubric": "Fatty liver in obese or diabetic individuals",
+        "grading": {
+          "high": ["Phosphorus", "Chelidonium"],
+          "medium": ["Calcarea carb", "Lycopodium"],
+          "low": ["Antimonium crudum"]
+        },
+        "modality": "Worse fried food, sweets",
+        "miasm": "Sycosis",
+        "notes": "Metabolic disease overlay"
+      }
+    ]
+  },
+  {
+    "disease": "Liver Complaints (Rare Rubrics)",
+    "tags": [
+      "CommonChronic",
+      "Liver",
+      "Advanced",
+      "RareModalities",
+      "ConfirmatorySigns"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Liver complaints better by bending forward",
+        "grading": {
+          "high": ["Colocynthis", "Mag phos"],
+          "medium": ["Chelidonium", "Bryonia"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Bending relieves liver colic or tightness",
+        "miasm": "Psora",
+        "notes": "Indicates cramping-type liver pain"
+      },
+      {
+        "rubric": "Liver complaints worse after vaccination",
+        "grading": {
+          "high": ["Thuja", "Silicea"],
+          "medium": ["Lycopodium", "Sulphur"],
+          "low": ["Merc sol"]
+        },
+        "modality": "After typhoid/hepatitis vaccination",
+        "miasm": "Sycosis",
+        "notes": "Post-vaccinal miasmatic activation"
+      },
+      {
+        "rubric": "Tension or tight band feeling in liver region",
+        "grading": {
+          "high": ["Bryonia", "Chelidonium"],
+          "medium": ["Lycopodium", "Sepia"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Feeling of constriction or pulling",
+        "miasm": "Psora",
+        "notes": "Band-like liver tension"
+      },
+      {
+        "rubric": "Spasmodic liver pain after eating",
+        "grading": {
+          "high": ["Colocynthis", "Nux vomica"],
+          "medium": ["Mag phos", "Chelidonium"],
+          "low": ["Carduus"]
+        },
+        "modality": "Severe pain after food, relieved by pressure",
+        "miasm": "Psora-Sycosis",
+        "notes": "Digestive trigger, gallbladder origin often"
+      },
+      {
+        "rubric": "Liver complaints during pregnancy or post-partum",
+        "grading": {
+          "high": ["Sepia", "Lycopodium"],
+          "medium": ["Pulsatilla", "Chelidonium"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Hormonal, gallbladder-liver axis disturbed",
+        "miasm": "Psora-Sycosis",
+        "notes": "Cholestasis of pregnancy or nausea post-partum"
+      },
+      {
+        "rubric": "Liver complaints alternating with chronic eczema",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Calcarea carb"],
+          "low": ["Sepia"]
+        },
+        "modality": "When eczema improves, liver gets worse",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Suppressed eruptions shifting to liver"
+      },
+      {
+        "rubric": "Liver complaints worse when lying on back, better standing",
+        "grading": {
+          "high": ["Chelidonium", "Bryonia"],
+          "medium": ["Carduus", "Nux vomica"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Pressure of diaphragm on liver",
+        "miasm": "Psora",
+        "notes": "Postural aggravation confirms liver heaviness"
+      },
+      {
+        "rubric": "Right-sided headache from liver congestion",
+        "grading": {
+          "high": ["Chelidonium", "Nux vomica"],
+          "medium": ["Lycopodium", "Sulphur"],
+          "low": ["Iris versicolor"]
+        },
+        "modality": "Right temple pain linked with liver fullness",
+        "miasm": "Psora",
+        "notes": "Headache < after rich food or inactivity"
+      },
+      {
+        "rubric": "Liver complaints with hot face and cold feet",
+        "grading": {
+          "high": ["Lycopodium", "Sulphur"],
+          "medium": ["Pulsatilla", "Sepia"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Circulatory imbalance from hepatic congestion",
+        "miasm": "Psora",
+        "notes": "Confirms circulation-liver dysfunction"
+      },
+      {
+        "rubric": "Liver complaints in shift workers or night duty people",
+        "grading": {
+          "high": ["Nux vomica", "Phosphorus"],
+          "medium": ["Sulphur", "Lycopodium"],
+          "low": ["China"]
+        },
+        "modality": "Circadian disruption, poor liver detox",
+        "miasm": "Psora-Tubercular",
+        "notes": "Chinese medicine ‘Liver Clock’ affected"
+      }
+    ]
+  }
+]

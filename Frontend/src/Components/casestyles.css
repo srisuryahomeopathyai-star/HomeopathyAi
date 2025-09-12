@@ -1,0 +1,262 @@
+
+.case-container {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom right, #fff8e1, #ffe0b2);
+  border: 2px solid #fdb813;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.case-section {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
+.case-section-title {
+  margin-bottom: 15px;
+  color: #333;
+  font-size: 20px;
+  font-weight: 600;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 6px;
+}
+.case-form-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 15px;
+  align-items: center;
+}
+.case-form-group {
+  flex: 1 1 200px;
+  display: flex;
+  flex-direction: column;
+}
+.case-label {
+  margin-bottom: 5px;
+  font-weight: 600;
+  color: #555;
+  font-size: 14px;
+}
+.case-input,
+.case-textarea {
+  padding: 8px 10px;
+  font-size: 14px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.case-input:focus,
+.case-textarea:focus {
+  border-color: #3498db;
+  box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+}
+.case-textarea {
+  min-height: 80px;
+  resize: vertical;
+  font-family: inherit;
+}
+.case-button {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 10px;
+  transition: background-color 0.3s;
+}
+.case-button:hover {
+  background-color: #2980b9;
+}
+.case-complaint-block {
+  background-color: transparent;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+.case-prescription-block {
+  background-color: transparent;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+.case-file-input-label {
+  font-weight: 600;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+.case-submitted-data-container {
+  margin-top: 30px;
+  padding: 15px;
+  background-color: #d4edda;
+  border: 1px solid #c3e6cb;
+  border-radius: 5px;
+  color: #155724;
+}
+
+/* General Layout */
+.cases-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px; /* ✅ Left and right padding */
+  box-sizing: border-box;
+}
+.cases-wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+  background: linear-gradient(to bottom right, #fff8e1, #ffe0b2);
+  border: 2px solid #fdb813;
+}
+
+.cases-wrapper form input,
+.cases-wrapper form textarea,
+.cases-wrapper form select {
+  width: 100%;
+  max-width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.cases-wrapper form h4 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Search Input */
+.cases-container input[type="text"] {
+  padding: 8px 12px;
+  width: 300px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+/* Table Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  text-align: left;
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+}
+
+thead {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Action Buttons */
+button {
+  margin-right: 6px;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 5px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+button[type="submit"] {
+  background-color: #28a745;
+  color: white;
+}
+
+button[type="button"] {
+  background-color: #007bff;
+  color: white;
+}
+
+button[type="button"].danger {
+  background-color: #dc3545;
+}
+
+/* Modal Layout */
+.modal-content input,
+.modal-content textarea {
+  width: 100%;
+  padding: 8px 10px;
+  margin: 6px 0 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.modal-content h4 {
+  margin-top: 15px;
+  font-size: 16px;
+  color: #333;
+}
+
+/* AI Summary Box */
+.ai-summary-box {
+  background: #f3f4f6;
+  padding: 12px 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  font-family: monospace;
+  font-size: 14px;
+  margin-top: 15px;
+  white-space: pre-wrap;
+  max-height: 300px;
+  overflow-y: auto;
+  color: #111;
+}
+
+/* Pagination */
+.pagination {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.pagination button {
+  margin: 0 4px;
+  padding: 6px 10px;
+  background-color: #eee;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.pagination button.active {
+  font-weight: bold;
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+/* Loading Spinner */
+.loading-img {
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+}
+
+/* Form Buttons Group */
+.form-actions {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}

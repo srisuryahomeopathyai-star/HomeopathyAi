@@ -1,0 +1,256 @@
+[
+  {
+    "disease": "Asthma",
+    "tags": ["CommonChronic", "Respiratory"],
+    "rubrics": [
+      {
+        "rubric": "Asthma < night",
+        "grading": {
+          "high": ["Arsenicum album", "Sambucus", "Spongia"],
+          "medium": ["Lachesis", "Nux vomica"],
+          "low": ["Kali carb", "Silicea"]
+        },
+        "modality": "Worse at night, after midnight",
+        "miasm": "Psora-Sycosis",
+        "notes": "Patient wakes with breathlessness and anxiety; needs to sit up to breathe"
+      },
+      {
+        "rubric": "Asthma after exertion",
+        "grading": {
+          "high": ["Arsenicum album", "Stannum metallicum"],
+          "medium": ["Ipecac", "Phosphorus"],
+          "low": ["Natrum sulph", "Sambucus"]
+        },
+        "modality": "Worse after physical activity or overexertion",
+        "miasm": "Psora",
+        "notes": "Shortness of breath and wheezing triggered by minimal exertion"
+      },
+      {
+        "rubric": "Asthma with dry wheezing",
+        "grading": {
+          "high": ["Spongia", "Ipecac"],
+          "medium": ["Antimonium tart", "Arsenicum album"],
+          "low": ["Carbo veg", "Bryonia"]
+        },
+        "modality": "No mucus expectoration; dry cough",
+        "miasm": "Psora-Sycosis",
+        "notes": "Dry, tight chest feeling with whistling respiration"
+      },
+      {
+        "rubric": "Asthma < lying down",
+        "grading": {
+          "high": ["Arsenicum", "Lachesis"],
+          "medium": ["Carbo veg", "Phosphorus"],
+          "low": ["Grindelia", "Digitalis"]
+        },
+        "modality": "Worse when reclining or during sleep",
+        "miasm": "Sycosis",
+        "notes": "Must sit up to breathe; attacks especially in early night"
+      },
+      {
+        "rubric": "Asthma alternating with skin eruptions",
+        "grading": {
+          "high": ["Psorinum", "Sulphur"],
+          "medium": ["Graphites", "Mezereum"],
+          "low": ["Sepia", "Kali sulph"]
+        },
+        "modality": "Suppressed skin leads to respiratory crisis",
+        "miasm": "Psora-Sycosis",
+        "notes": "Clear skin → asthma starts; eruption returns → breathing improves"
+      },
+      {
+        "rubric": "Child wakes from sleep gasping for air",
+        "grading": {
+          "high": ["Sambucus", "Spongia"],
+          "medium": ["Ipecac", "Arsenicum"],
+          "low": ["Kali carb", "Antimonium tart"]
+        },
+        "modality": "Sudden midnight attacks in children",
+        "miasm": "Psora",
+        "notes": "Especially in children; wakes up with suffocative cough"
+      }
+    ]
+  },
+  {
+    "disease": "Asthma",
+    "tags": ["CommonChronic", "Respiratory"],
+    "rubrics": [
+      {
+        "rubric": "Asthma < night",
+        "grading": {
+          "high": ["Arsenicum album", "Sambucus", "Spongia"],
+          "medium": ["Lachesis", "Nux vomica"],
+          "low": ["Kali carb", "Silicea"]
+        },
+        "modality": "Worse at night, especially after midnight",
+        "miasm": "Psora-Sycosis",
+        "notes": "Patient wakes suddenly with anxiety and breathlessness; must sit up"
+      },
+      {
+        "rubric": "Asthma after exertion",
+        "grading": {
+          "high": ["Arsenicum album", "Stannum metallicum"],
+          "medium": ["Ipecac", "Phosphorus"],
+          "low": ["Natrum sulph", "Sambucus"]
+        },
+        "modality": "Triggered by physical effort, walking, climbing stairs",
+        "miasm": "Psora",
+        "notes": "Wheezing, weakness and sweat after minimal effort"
+      },
+      {
+        "rubric": "Asthma < lying down",
+        "grading": {
+          "high": ["Arsenicum", "Lachesis"],
+          "medium": ["Phosphorus", "Carbo veg"],
+          "low": ["Grindelia", "Digitalis"]
+        },
+        "modality": "Worse when reclining or lying flat",
+        "miasm": "Sycosis",
+        "notes": "Must sit up or be propped to breathe"
+      },
+      {
+        "rubric": "Dry wheezing asthma",
+        "grading": {
+          "high": ["Spongia", "Ipecac"],
+          "medium": ["Arsenicum album", "Antimonium tart"],
+          "low": ["Bryonia", "Carbo veg"]
+        },
+        "modality": "Without mucus; wheezing sound predominates",
+        "miasm": "Psora-Sycosis",
+        "notes": "Constricted, tight feeling in chest"
+      },
+      {
+        "rubric": "Asthma alternating with skin eruptions",
+        "grading": {
+          "high": ["Psorinum", "Sulphur"],
+          "medium": ["Graphites", "Mezereum"],
+          "low": ["Sepia", "Kali sulph"]
+        },
+        "modality": "Breathing worse when skin improves and vice versa",
+        "miasm": "Psora-Sycosis",
+        "notes": "Suppressed skin symptoms lead to asthma flare"
+      },
+      {
+        "rubric": "Child wakes at night gasping for air",
+        "grading": {
+          "high": ["Sambucus", "Spongia"],
+          "medium": ["Arsenicum", "Ipecac"],
+          "low": ["Kali carb", "Antimonium tart"]
+        },
+        "modality": "Paroxysmal episodes with fear and choking",
+        "miasm": "Psora",
+        "notes": "Classic for sudden, dry, suffocative cough"
+      },
+      {
+        "rubric": "Asthma < cold air",
+        "grading": {
+          "high": ["Aconite", "Arsenicum album"],
+          "medium": ["Bryonia", "Kali bichromicum"],
+          "low": ["Spongia", "Silicea"]
+        },
+        "modality": "Worse in winter or exposure to cold wind",
+        "miasm": "Psora",
+        "notes": "Chilling triggers chest tightness"
+      },
+      {
+        "rubric": "Asthma < 2–3 AM",
+        "grading": {
+          "high": ["Arsenicum", "Kali carb"],
+          "medium": ["Spongia", "Lachesis"],
+          "low": ["Hepar sulph"]
+        },
+        "modality": "Early morning aggravation",
+        "miasm": "Psora-Sycosis",
+        "notes": "Attacks often recur at same time nightly"
+      },
+      {
+        "rubric": "Asthma < damp weather",
+        "grading": {
+          "high": ["Natrum sulph", "Dulcamara"],
+          "medium": ["Arsenicum", "Kali carb"],
+          "low": ["Thuja", "Pulsatilla"]
+        },
+        "modality": "Rainy season or monsoon triggers symptoms",
+        "miasm": "Sycosis",
+        "notes": "Allergic profile worsens in humidity"
+      },
+      {
+        "rubric": "Asthma < dust or allergens",
+        "grading": {
+          "high": ["Histaminum", "Sabadilla"],
+          "medium": ["Arsenicum", "Pulsatilla"],
+          "low": ["Sulphur", "Allium cepa"]
+        },
+        "modality": "Triggered by dust, smoke, animal dander",
+        "miasm": "Sycosis",
+        "notes": "Common in allergic asthma with nasal symptoms"
+      },
+      {
+        "rubric": "Asthma with bloating / < after meals",
+        "grading": {
+          "high": ["Lycopodium", "Nux vomica"],
+          "medium": ["China", "Carbo veg"],
+          "low": ["Colocynth"]
+        },
+        "modality": "Worse from fullness of abdomen or overeating",
+        "miasm": "Psora",
+        "notes": "Gastro-asthmatic connection, especially in indigestion"
+      },
+      {
+        "rubric": "Asthma with expectoration relieves",
+        "grading": {
+          "high": ["Antimonium tart", "Ipecac"],
+          "medium": ["Hepar sulph", "Spongia"],
+          "low": ["Senega"]
+        },
+        "modality": "Coughing out mucus gives relief",
+        "miasm": "Psora-Syphilis",
+        "notes": "Loose chest with rattling or bubbling sounds"
+      },
+      {
+        "rubric": "Asthma in obese patients",
+        "grading": {
+          "high": ["Calcarea carb", "Antimonium crudum"],
+          "medium": ["Graphites", "Sepia"],
+          "low": ["Ammonium carb"]
+        },
+        "modality": "Worse from exertion, stairs",
+        "miasm": "Psora-Sycosis",
+        "notes": "Slow, sluggish metabolism with dyspnea"
+      },
+      {
+        "rubric": "Asthma in elderly persons",
+        "grading": {
+          "high": ["Carbo veg", "Antimonium tart"],
+          "medium": ["Baryta carb", "Senega"],
+          "low": ["Digitalis"]
+        },
+        "modality": "Weak lungs, heart-lung overlap",
+        "miasm": "Sycosis",
+        "notes": "Low vitality, weak respiration"
+      },
+      {
+        "rubric": "Asthma with cardiac symptoms",
+        "grading": {
+          "high": ["Digitalis", "Laurocerasus"],
+          "medium": ["Grindelia", "Cactus"],
+          "low": ["Arsenicum", "Carbo veg"]
+        },
+        "modality": "Chest oppression, palpitations",
+        "miasm": "Syphilis",
+        "notes": "Breathing difficulty with cyanosis, poor heart tone"
+      },
+      {
+        "rubric": "Asthma from emotional stress or grief",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur"],
+          "medium": ["Sepia", "Pulsatilla"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Triggered after grief, suppressed emotions",
+        "miasm": "Psora",
+        "notes": "Mind-body link strong, often seen in teenagers or women"
+      }
+    ]
+  }
+]

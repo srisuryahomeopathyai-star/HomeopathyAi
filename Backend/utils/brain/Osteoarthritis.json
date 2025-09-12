@@ -1,0 +1,196 @@
+[
+  {
+    "disease": "Osteoarthritis",
+    "tags": [
+      "CommonChronic",
+      "JointPain",
+      "Degenerative",
+      "OA",
+      "WeightBearingJoint",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Knee pain < beginning to walk, > continued motion",
+        "grading": {
+          "high": ["Rhus toxicodendron", "Calcarea carb", "Causticum"],
+          "medium": ["Pulsatilla", "Ruta"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Pain < first motion, > after walking a while",
+        "miasm": "Sycosis",
+        "notes": "Classic keynote for early-stage osteoarthritis"
+      },
+      {
+        "rubric": "Joint stiffness after rest, better by gentle motion",
+        "grading": {
+          "high": ["Rhus tox", "Causticum", "Bryonia"],
+          "medium": ["Ruta", "Ferrum met"],
+          "low": ["Arnica"]
+        },
+        "modality": "Morning stiffness or < after sitting long",
+        "miasm": "Psora-Sycosis",
+        "notes": "Inflammatory stiffness typical in OA and overuse"
+      },
+      {
+        "rubric": "Painful, enlarged knee joint with creaking on motion",
+        "grading": {
+          "high": ["Causticum", "Calcarea fluor", "Silicea"],
+          "medium": ["Calcarea carb", "Hecla lava"],
+          "low": ["Fluoric acid"]
+        },
+        "modality": "Grating or popping sound in joint; deforming OA",
+        "miasm": "Syphilitic",
+        "notes": "Indicates cartilage loss and bony change"
+      },
+      {
+        "rubric": "Hip pain with stiffness and limping gait",
+        "grading": {
+          "high": ["Calcarea carb", "Rhus tox", "Colocynth"],
+          "medium": ["Bryonia", "Medorrhinum"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Pain < rising from seat or stairs",
+        "miasm": "Sycosis",
+        "notes": "OA of hip joint with weight-bearing pain"
+      },
+      {
+        "rubric": "OA pain worse in cold damp weather, better warmth",
+        "grading": {
+          "high": ["Dulcamara", "Rhus tox", "Calcarea carb"],
+          "medium": ["Causticum", "Kali carb"],
+          "low": ["Ruta"]
+        },
+        "modality": "< rainy season, < cold wind, > heat pads",
+        "miasm": "Sycosis",
+        "notes": "Weather-modality OA, especially spine & knees"
+      },
+      {
+        "rubric": "Finger joint nodules, swelling, deformity (Heberden’s nodes)",
+        "grading": {
+          "high": ["Silicea", "Causticum", "Calcarea fluor"],
+          "medium": ["Fluoric acid", "Ruta"],
+          "low": ["Hecla lava"]
+        },
+        "modality": "Hard swellings in DIP joints, stiffness, deformity",
+        "miasm": "Syphilitic",
+        "notes": "OA of small joints with bone overgrowth"
+      },
+      {
+        "rubric": "Back pain due to OA in lumbar or cervical spine",
+        "grading": {
+          "high": ["Calcarea fluor", "Rhus tox", "Bryonia"],
+          "medium": ["Silicea", "Causticum"],
+          "low": ["Fluoric acid"]
+        },
+        "modality": "Pain < movement, < damp; stiffness, restricted rotation",
+        "miasm": "Syphilitic",
+        "notes": "Spondylotic degeneration linked to OA pathology"
+      },
+      {
+        "rubric": "Joint pain < climbing stairs or squatting",
+        "grading": {
+          "high": ["Kali carb", "Calcarea carb", "Rhus tox"],
+          "medium": ["Sepia", "Ruta"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Difficulty in rising from squatting",
+        "miasm": "Psora-Sycosis",
+        "notes": "OA in knee or hip typically presents like this"
+      },
+      {
+        "rubric": "Cracking joints, painless or slightly stiff",
+        "grading": {
+          "high": ["Silicea", "Calcarea carb", "Causticum"],
+          "medium": ["Kali carb", "Pulsatilla"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "No pain but lots of cracking sounds",
+        "miasm": "Psoric-Syphilitic",
+        "notes": "Precursor or early OA state with crepitus"
+      }
+    ]
+  },
+  {
+    "disease": "Osteoarthritis – Intercurrent & Miasmatic",
+    "tags": [
+      "Intercurrent",
+      "Miasmatic",
+      "OA",
+      "JointDegeneration",
+      "SuppressedComplaint",
+      "Psora",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Chronic OA with hereditary tendency, obesity, metabolic origin",
+        "grading": {
+          "high": ["Calcarea carbonica", "Graphites", "Benzoic acid"],
+          "medium": ["Antimonium crudum", "Lycopodium"],
+          "low": ["Psorinum"]
+        },
+        "modality": "Slow onset, early stiffness, weight-bearing pain",
+        "miasm": "Psora-Sycosis",
+        "notes": "Constitutional miasm with fat, sluggish metabolism, uric acid link"
+      },
+      {
+        "rubric": "Joint degeneration after suppression (skin, urine, steroids)",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Thuja"],
+          "medium": ["Carcinosinum", "Medorrhinum"],
+          "low": ["Graphites"]
+        },
+        "modality": "OA follows eczema suppression or anti-inflammatory overuse",
+        "miasm": "Psora-Sycosis",
+        "notes": "Important in deep chronic OA or mixed cases"
+      },
+      {
+        "rubric": "OA with marked bony outgrowths, deformity, or ankylosis",
+        "grading": {
+          "high": ["Calcarea fluor", "Hecla lava", "Silicea"],
+          "medium": ["Fluoric acid", "Syphilinum"],
+          "low": ["Merc sol"]
+        },
+        "modality": "Joints enlarged, fixed, or fused; late-stage destructive arthritis",
+        "miasm": "Syphilitic",
+        "notes": "Bone-remedy intercurrents for severe joint pathology"
+      },
+      {
+        "rubric": "OA linked to grief, emotional shock, long-standing stress",
+        "grading": {
+          "high": ["Ignatia", "Staphysagria", "Natrum mur"],
+          "medium": ["Sepia", "Aurum met"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Pain started or worsened after a personal trauma or insult",
+        "miasm": "Psora",
+        "notes": "Mind-body layer key to unlock frozen chronicity"
+      },
+      {
+        "rubric": "Chronic OA with joint complaints alternating with skin or gut issues",
+        "grading": {
+          "high": ["Sulphur", "Lycopodium", "Graphites"],
+          "medium": ["Psorinum", "Thuja"],
+          "low": ["Sepia"]
+        },
+        "modality": "When joint pain lessens, eruptions or bloating appears",
+        "miasm": "Psora-Sycosis",
+        "notes": "Sycotic layers suppressed to joints"
+      },
+      {
+        "rubric": "OA with recurrent flares despite well-selected remedies",
+        "grading": {
+          "high": ["Carcinosinum", "Medorrhinum", "Psorinum"],
+          "medium": ["Tuberculinum", "Syphilinum"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Case relapses or moves to new joints over months",
+        "miasm": "Mixed Miasm",
+        "notes": "Requires intercurrent remedy to clear miasmatic block"
+      }
+    ]
+  }
+]

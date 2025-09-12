@@ -1,0 +1,1542 @@
+[
+  {
+    "rubric": "Chilly patient: always feels cold even in warm weather",
+    "grading": {
+      "high": ["Silicea", "Psorinum"],
+      "medium": ["Hepar sulph", "Arsenicum album"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Worse from slightest draft, cold air, winter; better in warm room",
+    "miasm": "Psora",
+    "notes": "Classical chilly constitution; often slow metabolism and shy nature"
+  },
+  {
+    "rubric": "Hot patient: cannot tolerate heat, always wants cold",
+    "grading": {
+      "high": ["Sulphur", "Lachesis"],
+      "medium": ["Medorrhinum", "Glonoinum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse in sun, closed rooms, warm bath; better from cool air",
+    "miasm": "Psora/Sycosis",
+    "notes": "Very reactive, irritable, energetic patients"
+  },
+  {
+    "rubric": "Wants head cool but body warm",
+    "grading": {
+      "high": ["Belladonna", "Sulphur"],
+      "medium": ["Pulsatilla", "Chamomilla"],
+      "low": ["Ferrum phos"]
+    },
+    "modality": "Uncovers head even during fever",
+    "miasm": "Psora",
+    "notes": "Seen in fevers, children, or inflammatory states"
+  },
+  {
+    "rubric": "Aversion to cold bathing",
+    "grading": {
+      "high": ["Hepar sulph", "Silicea"],
+      "medium": ["Calcarea carbonica", "Psorinum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Worse after exposure to cold water",
+    "miasm": "Psora",
+    "notes": "Seen in weak or sensitive constitutions"
+  },
+  {
+    "rubric": "Desire for open air even when chilly",
+    "grading": {
+      "high": ["Pulsatilla", "Phosphorus"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Wants fresh air despite cold sensitivity",
+    "miasm": "Psora/Sycosis",
+    "notes": "Contradictory thermal state; emotional or hormonal link"
+  },
+  {
+    "rubric": "Cannot bear covering during fever",
+    "grading": {
+      "high": ["Apis", "Belladonna"],
+      "medium": ["Glonoinum", "Lachesis"],
+      "low": ["Camphora"]
+    },
+    "modality": "Wants to be uncovered even if shivering",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Common in high-grade fevers and sudden congestion"
+  },
+  {
+    "rubric": "Sensitive to cold wind or draft",
+    "grading": {
+      "high": ["Hepar sulph", "Nux vomica"],
+      "medium": ["Rhus tox", "Dulcamara"],
+      "low": ["Silicea"]
+    },
+    "modality": "Worse from uncovered parts; can trigger complaints",
+    "miasm": "Psora",
+    "notes": "Often seen in respiratory or joint complaints"
+  },
+  {
+    "rubric": "Wants warm drinks, even in summer",
+    "grading": {
+      "high": ["Arsenicum album", "Hepar sulph"],
+      "medium": ["Lycopodium", "Silicea"],
+      "low": ["Sepia"]
+    },
+    "modality": "Cold drinks aggravate or cause cramps",
+    "miasm": "Psora",
+    "notes": "Classical chilly digestive pattern"
+  },
+  {
+    "rubric": "Feels hot in hands and feet, seeks cold exposure",
+    "grading": {
+      "high": ["Sulphur", "Medorrhinum"],
+      "medium": ["Lachesis", "Phosphorus"],
+      "low": ["Sanguinaria"]
+    },
+    "modality": "Uncovers feet at night, throws off bedcovers",
+    "miasm": "Psora/Sycosis",
+    "notes": "Often seen in menopausal, hyperthyroid, or restless patients"
+  },
+  {
+    "rubric": "Wants cold water even in chills",
+    "grading": {
+      "high": ["Phosphorus", "Veratrum album"],
+      "medium": ["Arsenicum album", "Bryonia"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Cold water soothes throat, internal heat",
+    "miasm": "Tubercular",
+    "notes": "Contrary thermal state indicating intense thirst"
+  },
+  {
+    "rubric": "Chilly patient with craving for cold food and drinks",
+    "grading": {
+      "high": ["Phosphorus", "Sepia"],
+      "medium": ["Silicea", "Calcarea phosphorica"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Cold inside but desires ice cream, cold water",
+    "miasm": "Psora/Tubercular",
+    "notes": "Contradictory thermal traits; often hormonal or emotional"
+  },
+  {
+    "rubric": "Hot patient yet dislikes cold food",
+    "grading": {
+      "high": ["Sulphur", "Lachesis"],
+      "medium": ["Medorrhinum", "Belladonna"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Feels hot but digestion better with warm food",
+    "miasm": "Psora/Sycosis",
+    "notes": "Hot outside, cold inside pattern"
+  },
+  {
+    "rubric": "Wants fan directly on face",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Lachesis", "Pulsatilla"],
+      "low": ["Camphora"]
+    },
+    "modality": "Better by moving air over face or head",
+    "miasm": "Psora",
+    "notes": "Seen in congestive states, fevers, or anxiety"
+  },
+  {
+    "rubric": "Wants to be wrapped up even in summer",
+    "grading": {
+      "high": ["Psorinum", "Silicea"],
+      "medium": ["Hepar sulph", "Calcarea carbonica"],
+      "low": ["Sepia"]
+    },
+    "modality": "Always feels cold irrespective of season",
+    "miasm": "Psora",
+    "notes": "Deep chilly diathesis; weak vitality and fear of draft"
+  },
+  {
+    "rubric": "One-sided heat sensation",
+    "grading": {
+      "high": ["Lachesis", "Medorrhinum"],
+      "medium": ["Sulphur", "Pulsatilla"],
+      "low": ["Thuja"]
+    },
+    "modality": "Only one side of body/head feels hot",
+    "miasm": "Sycosis",
+    "notes": "Asymmetrical heat — often left-sided"
+  },
+  {
+    "rubric": "Feet cold in bed, must find warm spot",
+    "grading": {
+      "high": ["Calcarea carbonica", "Silicea"],
+      "medium": ["Sepia", "Lycopodium"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Takes time to sleep due to cold feet",
+    "miasm": "Psora",
+    "notes": "Classic in poor circulation and hormonal states"
+  },
+  {
+    "rubric": "Burning of palms and soles at night",
+    "grading": {
+      "high": ["Sulphur", "Medorrhinum"],
+      "medium": ["Phosphorus", "Lachesis"],
+      "low": ["Kali bichromicum"]
+    },
+    "modality": "Must uncover or place on cold surface",
+    "miasm": "Psora/Sycosis",
+    "notes": "Common in menopausal women, diabetic patients"
+  },
+  {
+    "rubric": "Cannot tolerate cold wind on face",
+    "grading": {
+      "high": ["Hepar sulph", "Silicea"],
+      "medium": ["Dulcamara", "Bryonia"],
+      "low": ["Mercurius"]
+    },
+    "modality": "Exposure triggers neuralgia, sinusitis, or cough",
+    "miasm": "Psora",
+    "notes": "Sensitive respiratory or nervous systems"
+  },
+  {
+    "rubric": "Hot flushes with aversion to warm covering",
+    "grading": {
+      "high": ["Lachesis", "Glonoinum"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Aconite"]
+    },
+    "modality": "Worse during menopause or excitement",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Sudden, intense, and internally generated heat"
+  },
+  {
+    "rubric": "Desire to walk in open air regardless of cold",
+    "grading": {
+      "high": ["Pulsatilla", "Phosphorus"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Feels better mentally and physically when outdoors",
+    "miasm": "Psora",
+    "notes": "Air hunger; emotional relief with movement"
+  },
+  {
+    "rubric": "Cannot bear heat of sun",
+    "grading": {
+      "high": ["Glonoinum", "Lachesis"],
+      "medium": ["Belladonna", "Natrum mur"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse from sun exposure, prone to headaches or collapse",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Seen in sunstroke, hypertension, or climacteric states"
+  },
+  {
+    "rubric": "Chilly patient worse before menses",
+    "grading": {
+      "high": ["Sepia", "Calcarea carbonica"],
+      "medium": ["Pulsatilla", "Lachesis"],
+      "low": ["Silicea"]
+    },
+    "modality": "Hands and feet cold before periods; demands extra warmth",
+    "miasm": "Psora",
+    "notes": "Chilly thermal combined with hormonal disturbance"
+  },
+  {
+    "rubric": "Wants cold application on head during headache",
+    "grading": {
+      "high": ["Belladonna", "Glonoinum"],
+      "medium": ["Sanguinaria", "Natrum mur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Head feels hot, better from cool compress or wind",
+    "miasm": "Psora",
+    "notes": "Useful in congestive or throbbing headaches"
+  },
+  {
+    "rubric": "Better from wrapping up warmly",
+    "grading": {
+      "high": ["Hepar sulph", "Psorinum"],
+      "medium": ["Silicea", "Arsenicum album"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "All complaints better with warmth or heat packs",
+    "miasm": "Psora",
+    "notes": "Chilly diathesis, extreme sensitivity to cold"
+  },
+  {
+    "rubric": "Heat flushes ascending from chest to head",
+    "grading": {
+      "high": ["Lachesis", "Sulphur"],
+      "medium": ["Sepia", "Phosphorus"],
+      "low": ["Glonoinum"]
+    },
+    "modality": "Worse at night or on excitement",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Common in menopause, blood pressure imbalance"
+  },
+  {
+    "rubric": "Cold hands with hot head",
+    "grading": {
+      "high": ["Belladonna", "Sulphur"],
+      "medium": ["Chamomilla", "Gelsemium"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Thermal imbalance especially during fever",
+    "miasm": "Psora",
+    "notes": "Seen in acute fevers and children’s complaints"
+  },
+  {
+    "rubric": "Desires to lie uncovered despite being cold",
+    "grading": {
+      "high": ["Camphora", "Opium"],
+      "medium": ["Veratrum album", "Gelsemium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Paradoxical thermal response, worse if covered",
+    "miasm": "Syphilitic",
+    "notes": "Seen in collapse, coma, or severe nervous disorders"
+  },
+  {
+    "rubric": "Complaints from exposure to cold damp",
+    "grading": {
+      "high": ["Dulcamara", "Rhus tox"],
+      "medium": ["Calcarea carbonica", "Natrum sulph"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Triggers joint, urinary, or respiratory symptoms",
+    "miasm": "Psora/Sycosis",
+    "notes": "Classic in rheumatic or post-rainfall aggravation"
+  },
+  {
+    "rubric": "Worse in closed or stuffy rooms",
+    "grading": {
+      "high": ["Pulsatilla", "Sulphur"],
+      "medium": ["Phosphorus", "Lachesis"],
+      "low": ["Glonoinum"]
+    },
+    "modality": "Desires windows open, feels suffocated",
+    "miasm": "Psora",
+    "notes": "Fresh air ameliorates both mental and physical complaints"
+  },
+  {
+    "rubric": "Chilly spine or back despite warm weather",
+    "grading": {
+      "high": ["Silicea", "Phosphoric acid"],
+      "medium": ["Psorinum", "Carbo veg"],
+      "low": ["Sepia"]
+    },
+    "modality": "Wants heat on back even in summer",
+    "miasm": "Psora",
+    "notes": "Weak vitality or poor circulation"
+  },
+  {
+    "rubric": "Worse from uncovering any part",
+    "grading": {
+      "high": ["Hepar sulph", "Silicea"],
+      "medium": ["Calcarea carbonica", "Psorinum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Uncovering even a finger worsens symptoms",
+    "miasm": "Psora",
+    "notes": "Extreme cold sensitivity; deep psoric constitution"
+  },
+  {
+    "rubric": "Aversion to sun but desires heat",
+    "grading": {
+      "high": ["Sepia", "Natrum mur"],
+      "medium": ["Lachesis", "Pulsatilla"],
+      "low": ["Silicea"]
+    },
+    "modality": "Dislikes sunlight on face but prefers warmth on body",
+    "miasm": "Psora/Sycosis",
+    "notes": "Typical in hormonal imbalances or headaches"
+  },
+  {
+    "rubric": "Chilly but aversion to warm room",
+    "grading": {
+      "high": ["Pulsatilla", "Phosphorus"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Feels cold inside but mentally cannot tolerate warmth",
+    "miasm": "Psora",
+    "notes": "Seen in emotionally sensitive or hormonal patients"
+  },
+  {
+    "rubric": "Heat flushes with perspiration",
+    "grading": {
+      "high": ["Lachesis", "Sulphur"],
+      "medium": ["Sepia", "Sanguinaria"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Followed by sweating and weakness",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Common in menopausal and hypertensive patients"
+  },
+  {
+    "rubric": "Complaints from sudden temperature change",
+    "grading": {
+      "high": ["Aconite", "Dulcamara"],
+      "medium": ["Rhus tox", "Nux vomica"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Worse from going between hot and cold places quickly",
+    "miasm": "Psora",
+    "notes": "Seen in colds, neuralgia, and emotional shocks"
+  },
+  {
+    "rubric": "Feels heat internally but skin is cold",
+    "grading": {
+      "high": ["Arsenicum album", "Veratrum album"],
+      "medium": ["Camphora", "Phosphorus"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Sensation of internal burning with outward chill",
+    "miasm": "Syphilitic",
+    "notes": "Often found in collapse states or terminal illness"
+  },
+  {
+    "rubric": "Complaints during change of season",
+    "grading": {
+      "high": ["Dulcamara", "Rhus tox"],
+      "medium": ["Pulsatilla", "Silicea"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse from climate shift, especially from warm to cold",
+    "miasm": "Psora",
+    "notes": "Classic rubric for seasonal aggravations"
+  },
+  {
+    "rubric": "Wants cold things during fever",
+    "grading": {
+      "high": ["Phosphorus", "Veratrum album"],
+      "medium": ["Bryonia", "Apis"],
+      "low": ["Camphora"]
+    },
+    "modality": "Desires ice or cold drinks during febrile heat",
+    "miasm": "Tubercular",
+    "notes": "Contradictory state; heat outside, chill inside"
+  },
+  {
+    "rubric": "Heat with throbbing pulse and congestion",
+    "grading": {
+      "high": ["Belladonna", "Glonoinum"],
+      "medium": ["Lachesis", "Sanguinaria"],
+      "low": ["Aconite"]
+    },
+    "modality": "Flushed face, red ears, hot head",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Classic inflammatory or hypertensive picture"
+  },
+  {
+    "rubric": "Alternating coldness and heat in body",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Chill and heat come in waves",
+    "miasm": "Tubercular",
+    "notes": "Seen in malarial fevers, emotional instability"
+  },
+  {
+    "rubric": "Chilly patient even in summer",
+    "grading": {
+      "high": ["Psorinum", "Silicea"],
+      "medium": ["Calcarea carbonica", "Hepar sulph"],
+      "low": ["Sepia"]
+    },
+    "modality": "Worse from fans, air conditioning, cold air",
+    "miasm": "Psora",
+    "notes": "Extreme chilliness due to poor vital heat; seen in deep-seated chronic cases"
+  },
+  {
+    "rubric": "Burning sensation in soles at night",
+    "grading": {
+      "high": ["Sulphur", "Medorrhinum"],
+      "medium": ["Phosphorus", "Sanguinaria"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Wants to keep feet uncovered or out of bed",
+    "miasm": "Psora/Sycosis",
+    "notes": "Common in restless, hot-blooded constitutions or hormonal states"
+  },
+  {
+    "rubric": "Worse from sudden chill when overheated",
+    "grading": {
+      "high": ["Rhus tox", "Dulcamara"],
+      "medium": ["Aconite", "Belladonna"],
+      "low": ["Bryonia"]
+    },
+    "modality": "Chill after exertion, perspiration, or sun exposure",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Typical trigger for colds, joint pains, neuralgia"
+  },
+  {
+    "rubric": "Flushed heat in evening, especially face",
+    "grading": {
+      "high": ["Sulphur", "Sepia"],
+      "medium": ["Lachesis", "Glonoinum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Red cheeks, heat rises in evening or night",
+    "miasm": "Psora",
+    "notes": "Often linked to liver activity, menopausal heat, or suppressed eruptions"
+  },
+  {
+    "rubric": "Heat internally with cold sweat",
+    "grading": {
+      "high": ["Veratrum album", "Carbo veg"],
+      "medium": ["Camphora", "Arsenicum album"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Sweat is cold and clammy while heat is felt inside",
+    "miasm": "Syphilitic",
+    "notes": "Seen in collapse, cholera, heart failure states"
+  },
+  {
+    "rubric": "Better from hot applications",
+    "grading": {
+      "high": ["Arsenicum album", "Magnesium phosphoricum"],
+      "medium": ["Rhus tox", "Chamomilla"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Cramping or neuralgic pains relieved by warmth",
+    "miasm": "Psora",
+    "notes": "Key modality for colic, dysmenorrhea, toothache"
+  },
+  {
+    "rubric": "Complaints in early morning cold air",
+    "grading": {
+      "high": ["Dulcamara", "Silicea"],
+      "medium": ["Carbo veg", "Rhus tox"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Worse from dawn chill or early outdoor exposure",
+    "miasm": "Psora",
+    "notes": "Common trigger for cough, asthma, or sinusitis"
+  },
+  {
+    "rubric": "Wants warm clothes even when room is warm",
+    "grading": {
+      "high": ["Psorinum", "Calcarea carbonica"],
+      "medium": ["Silicea", "Sepia"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Feels vulnerable if uncovered",
+    "miasm": "Psora",
+    "notes": "Weak vitality or fear of exposure, common in chilly children"
+  },
+  {
+    "rubric": "Intolerant to both heat and cold",
+    "grading": {
+      "high": ["Sulphur", "Pulsatilla"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Sensitive to any thermal extremes",
+    "miasm": "Tubercular",
+    "notes": "Highly reactive systems; common in hormonal and emotional constitutions"
+  },
+  {
+    "rubric": "Feels heat only in localized areas (e.g., vertex, palms)",
+    "grading": {
+      "high": ["Sulphur", "Sanguinaria"],
+      "medium": ["Lachesis", "Phosphorus"],
+      "low": ["Calcarea phosphorica"]
+    },
+    "modality": "Burning or congested heat in specific body parts",
+    "miasm": "Psora",
+    "notes": "Often in menopausal flushes or migraines"
+  },
+  {
+    "rubric": "Sweats on slightest exertion with coldness",
+    "grading": {
+      "high": ["Calcarea carbonica", "Carbo veg"],
+      "medium": ["Phosphoric acid", "Silicea"],
+      "low": ["Psorinum"]
+    },
+    "modality": "Even light activity causes sweating with chilliness",
+    "miasm": "Psora",
+    "notes": "Seen in weak constitutions or during convalescence"
+  },
+  {
+    "rubric": "One part hot, another cold",
+    "grading": {
+      "high": ["Lachesis", "Sulphur"],
+      "medium": ["Arsenicum album", "Camphora"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Head hot, feet cold or vice versa",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Important rubric for circulatory imbalance or menopause"
+  },
+  {
+    "rubric": "Sensitive to temperature changes during menstruation",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla"],
+      "medium": ["Calcarea carbonica", "Sulphur"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Aggravation of symptoms due to heat or cold during menses",
+    "miasm": "Psora",
+    "notes": "Hormonal hypersensitivity, especially PMS-related"
+  },
+  {
+    "rubric": "Feels cold when undressing",
+    "grading": {
+      "high": ["Silicea", "Hepar sulph"],
+      "medium": ["Psorinum", "Calcarea carbonica"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Air on skin aggravates, wants to cover immediately",
+    "miasm": "Psora",
+    "notes": "Seen in children and chilly adults with poor heat regulation"
+  },
+  {
+    "rubric": "Complaints from cold bathing",
+    "grading": {
+      "high": ["Dulcamara", "Silicea"],
+      "medium": ["Hepar sulph", "Psorinum"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Cold water exposure brings on or worsens symptoms",
+    "miasm": "Psora",
+    "notes": "Triggers neuralgia, cough, or stiffness"
+  },
+  {
+    "rubric": "Burning heat in palms and soles in evening",
+    "grading": {
+      "high": ["Sulphur", "Sanguinaria"],
+      "medium": ["Medorrhinum", "Lachesis"],
+      "low": ["Sepia"]
+    },
+    "modality": "Worse in bed, must uncover or place on cold surface",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in diabetes, liver disorders, menopause"
+  },
+  {
+    "rubric": "Worse from cold feet",
+    "grading": {
+      "high": ["Sepia", "Silicea"],
+      "medium": ["Calcarea carbonica", "Nux vomica"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Cold feet lead to colds, menses suppression, or headache",
+    "miasm": "Psora",
+    "notes": "Cold feet as a trigger or maintaining cause"
+  },
+  {
+    "rubric": "Flashes of heat followed by chill",
+    "grading": {
+      "high": ["Lachesis", "Sulphur"],
+      "medium": ["Phosphorus", "Sanguinaria"],
+      "low": ["Sepia"]
+    },
+    "modality": "Cycle of flush and chill; worse during menopause",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Seen in climacteric phase, cardiac, or nervous complaints"
+  },
+  {
+    "rubric": "Sweats without heat",
+    "grading": {
+      "high": ["Calcarea carbonica", "Phosphoric acid"],
+      "medium": ["Psorinum", "Carbo veg"],
+      "low": ["China"]
+    },
+    "modality": "Profuse sweat even when not hot",
+    "miasm": "Psora",
+    "notes": "Seen in night sweats, TB, diabetes, anemia"
+  },
+  {
+    "rubric": "Head hot, body cold in fever",
+    "grading": {
+      "high": ["Belladonna", "Sulphur"],
+      "medium": ["Camphora", "Phosphorus"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Disproportionate thermal distribution",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Common in eruptive fevers or cerebral inflammation"
+  },
+  {
+    "rubric": "Chilliness with desire to lie down",
+    "grading": {
+      "high": ["Gelsemium", "Nux vomica"],
+      "medium": ["Ignatia", "Silicea"],
+      "low": ["China"]
+    },
+    "modality": "Chill drives patient to bed, often with exhaustion",
+    "miasm": "Psora",
+    "notes": "Seen in influenza, fatigue, and mental stress conditions"
+  },
+  {
+    "rubric": "Fever with aversion to warmth",
+    "grading": {
+      "high": ["Belladonna", "Lachesis"],
+      "medium": ["Glonoinum", "Phosphorus"],
+      "low": ["Sanguinaria"]
+    },
+    "modality": "Fever patients throw off covering, want air",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Common in congestive or eruptive fevers"
+  },
+  {
+    "rubric": "Chilly after eating",
+    "grading": {
+      "high": ["Nux vomica", "Silicea"],
+      "medium": ["Calcarea carbonica", "Sepia"],
+      "low": ["China"]
+    },
+    "modality": "Sensation of internal cold after meals",
+    "miasm": "Psora",
+    "notes": "Digestive weakness, liver stagnation"
+  },
+  {
+    "rubric": "Chill with dry skin and thirstlessness",
+    "grading": {
+      "high": ["Gelsemium", "Pulsatilla"],
+      "medium": ["Nux moschata", "Ferrum phos"],
+      "low": ["Silicea"]
+    },
+    "modality": "Dry skin, no desire for water despite fever",
+    "miasm": "Psora",
+    "notes": "Important in early stage of viral fevers or flu"
+  },
+  {
+    "rubric": "Heat with restlessness and anxiety",
+    "grading": {
+      "high": ["Arsenicum album", "Aconite"],
+      "medium": ["Belladonna", "Phosphorus"],
+      "low": ["Camphora"]
+    },
+    "modality": "Hot body and panicked mind; constant movement",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Useful in acute infections, anxiety fevers"
+  },
+  {
+    "rubric": "Hot face with cold extremities",
+    "grading": {
+      "high": ["Ferrum metallicum", "Belladonna"],
+      "medium": ["Lycopodium", "Sulphur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Facial congestion with cold hands and feet",
+    "miasm": "Psora",
+    "notes": "Common in circulatory imbalance, children, or anemia"
+  },
+  {
+    "rubric": "Feels hot but skin remains cold",
+    "grading": {
+      "high": ["Arsenicum album", "Camphora"],
+      "medium": ["Veratrum album", "Phosphorus"],
+      "low": ["China"]
+    },
+    "modality": "Patient complains of heat, but to touch they feel cold",
+    "miasm": "Syphilitic",
+    "notes": "Paradoxical state; can occur in sepsis or advanced fevers"
+  },
+  {
+    "rubric": "Wants to be covered during sweat",
+    "grading": {
+      "high": ["Silicea", "Calcarea carbonica"],
+      "medium": ["Psorinum", "Hepar sulph"],
+      "low": ["Sepia"]
+    },
+    "modality": "Chilly during or after perspiration",
+    "miasm": "Psora",
+    "notes": "Indicates deep vitality loss or endocrine dysfunction"
+  },
+  {
+    "rubric": "Wants windows open even in winter",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Pulsatilla", "Medorrhinum"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Better from fresh air and drafts",
+    "miasm": "Psora",
+    "notes": "Mentally and physically aggravated in closed spaces"
+  },
+  {
+    "rubric": "Heat alternates with chills frequently",
+    "grading": {
+      "high": ["Arsenicum album", "Ipecacuanha"],
+      "medium": ["Phosphorus", "China"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Changeable thermal state during illness",
+    "miasm": "Tubercular",
+    "notes": "Seen in intermittent fevers, nervous conditions"
+  },
+  {
+    "rubric": "Complaints worse from suppressed perspiration",
+    "grading": {
+      "high": ["Dulcamara", "Rhus tox"],
+      "medium": ["Belladonna", "Bryonia"],
+      "low": ["Chamomilla"]
+    },
+    "modality": "Getting chilled while sweating worsens complaints",
+    "miasm": "Psora",
+    "notes": "Often leads to rheumatism, colds, neuralgia"
+  },
+  {
+    "rubric": "Hot head, cold hands and feet in children",
+    "grading": {
+      "high": ["Belladonna", "Calcarea carbonica"],
+      "medium": ["Silicea", "Chamomilla"],
+      "low": ["Aconite"]
+    },
+    "modality": "Thermal imbalance seen in dentition or fever",
+    "miasm": "Psora",
+    "notes": "Important rubric in pediatric febrile conditions"
+  },
+  {
+    "rubric": "Wants to sleep uncovered despite being chilly",
+    "grading": {
+      "high": ["Camphora", "Opium"],
+      "medium": ["Veratrum album", "Phosphorus"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Patient uncovers instinctively even when cold",
+    "miasm": "Syphilitic",
+    "notes": "Paradoxical mental or toxic state"
+  },
+  {
+    "rubric": "Profuse offensive perspiration with chilliness",
+    "grading": {
+      "high": ["Psorinum", "Silicea"],
+      "medium": ["Calcarea carbonica", "Hepar sulph"],
+      "low": ["Sepia"]
+    },
+    "modality": "Sweat does not relieve; chilly even while sweating",
+    "miasm": "Psora",
+    "notes": "Deep chronic weakness or miasmatic block"
+  },
+  {
+    "rubric": "Wants hot food and drinks regardless of external heat",
+    "grading": {
+      "high": ["Arsenicum album", "Lycopodium"],
+      "medium": ["Hepar sulph", "Silicea"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Feels better after warm intake even in hot weather",
+    "miasm": "Psora",
+    "notes": "Digestive coldness; chilly inside"
+  },
+  {
+    "rubric": "Head feels hot with red face, rest of body cold",
+    "grading": {
+      "high": ["Ferrum metallicum", "Belladonna"],
+      "medium": ["Sulphur", "Sanguinaria"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Localized thermal congestion",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Common in fevers, hypertension, children"
+  },
+  {
+    "rubric": "Cold perspiration on forehead",
+    "grading": {
+      "high": ["Veratrum album", "Camphora"],
+      "medium": ["Carbo veg", "Arsenicum album"],
+      "low": ["China"]
+    },
+    "modality": "Forehead is cold and moist in shock or collapse",
+    "miasm": "Syphilitic",
+    "notes": "Very important rubric in critical cases"
+  },
+  {
+    "rubric": "Desire for fanning or to be fanned",
+    "grading": {
+      "high": ["Carbo veg", "Phosphorus"],
+      "medium": ["Sulphur", "Pulsatilla"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Relief from air movement, even if cold",
+    "miasm": "Psora",
+    "notes": "Low oxygenation state; respiratory or cardiac link"
+  },
+  {
+    "rubric": "Worse from sudden exposure to air after heat",
+    "grading": {
+      "high": ["Aconite", "Rhus tox"],
+      "medium": ["Dulcamara", "Bryonia"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Chills, stiffness, neuralgia after coming from sun into wind",
+    "miasm": "Psora",
+    "notes": "Key rubric for acute febrile or joint complaints"
+  },
+  {
+    "rubric": "Complaints aggravated in summer heat",
+    "grading": {
+      "high": ["Glonoinum", "Lachesis"],
+      "medium": ["Natrum mur", "Sulphur"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Symptoms worse in heat, sun, or warm weather",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Applies to skin, headache, blood pressure, and digestive issues"
+  },
+  {
+    "rubric": "Aversion to cold weather",
+    "grading": {
+      "high": ["Hepar sulph", "Silicea"],
+      "medium": ["Psorinum", "Calcarea carbonica"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Avoids winter, draft, and cold wind",
+    "miasm": "Psora",
+    "notes": "Chilly diathesis with poor immune defense"
+  },
+  {
+    "rubric": "Aversion to hot weather",
+    "grading": {
+      "high": ["Lachesis", "Glonoinum"],
+      "medium": ["Natrum mur", "Sulphur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse in summer, sun, or heat exposure",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Skin, headache, mental irritation worsens in heat"
+  },
+  {
+    "rubric": "Coldness of single parts (e.g., nose, fingers)",
+    "grading": {
+      "high": ["Carbo veg", "Silicea"],
+      "medium": ["Sepia", "Lycopodium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Localized chill even when body is warm",
+    "miasm": "Psora",
+    "notes": "Poor circulation, nervous weakness, chronic anemia"
+  },
+  {
+    "rubric": "Chill begins in back or between shoulder blades",
+    "grading": {
+      "high": ["Arsenicum album", "Gelsemium"],
+      "medium": ["Phosphorus", "Rhus tox"],
+      "low": ["China"]
+    },
+    "modality": "First chill perceived in spine/back",
+    "miasm": "Psora",
+    "notes": "Classical rubric for influenza, viral fevers"
+  },
+  {
+    "rubric": "Chill worse from uncovering",
+    "grading": {
+      "high": ["Hepar sulph", "Silicea"],
+      "medium": ["Calcarea carbonica", "Psorinum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Exposure of even a part worsens symptoms",
+    "miasm": "Psora",
+    "notes": "Chilly diathesis with weak heat retention"
+  },
+  {
+    "rubric": "Heat ascends from feet to head",
+    "grading": {
+      "high": ["Lachesis", "Sanguinaria"],
+      "medium": ["Glonoinum", "Sulphur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Sudden rise of heat, face flushes, head feels congested",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Menopausal flushes, congestive states"
+  },
+  {
+    "rubric": "Feels cold but cannot bear covering",
+    "grading": {
+      "high": ["Camphora", "Veratrum album"],
+      "medium": ["Arsenicum album", "Opium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Extreme internal cold yet aversion to blankets",
+    "miasm": "Syphilitic",
+    "notes": "Seen in shock, collapse, toxic states"
+  },
+  {
+    "rubric": "Complaints after chilling feet",
+    "grading": {
+      "high": ["Silicea", "Sepia"],
+      "medium": ["Calcarea carbonica", "Pulsatilla"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Cold feet trigger menses suppression, headache, UTI",
+    "miasm": "Psora",
+    "notes": "Maintaining cause for many complaints in women"
+  },
+  {
+    "rubric": "Sweating easily from slightest motion",
+    "grading": {
+      "high": ["Calcarea carbonica", "Silicea"],
+      "medium": ["China", "Phosphoric acid"],
+      "low": ["Psorinum"]
+    },
+    "modality": "Minimal effort triggers perspiration",
+    "miasm": "Psora",
+    "notes": "Seen in anemia, endocrine issues, low stamina cases"
+  },
+  {
+    "rubric": "Internal coldness with warm skin",
+    "grading": {
+      "high": ["Camphora", "Arsenicum album"],
+      "medium": ["Phosphorus", "Carbo veg"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Feels frozen inside while body feels warm externally",
+    "miasm": "Syphilitic",
+    "notes": "Contradictory state seen in nervous shock, infections"
+  },
+  {
+    "rubric": "Heat in vertex of head",
+    "grading": {
+      "high": ["Sulphur", "Sanguinaria"],
+      "medium": ["Sepia", "Lachesis"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Vertex feels burning hot, especially in evening or at night",
+    "miasm": "Psora",
+    "notes": "Common in menopause, liver disorders, or after suppressed eruptions"
+  },
+  {
+    "rubric": "Hot perspiration, offensive or sour",
+    "grading": {
+      "high": ["Silicea", "Calcarea carbonica"],
+      "medium": ["Sulphur", "Psorinum"],
+      "low": ["Mercurius"]
+    },
+    "modality": "Worse at night or after exertion",
+    "miasm": "Psora",
+    "notes": "Indicates slow metabolism, chronic infection, or hormonal disturbance"
+  },
+  {
+    "rubric": "Chill with trembling and desire for warmth",
+    "grading": {
+      "high": ["Aconite", "Nux vomica"],
+      "medium": ["Gelsemium", "Ignatia"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Cold shivers with internal anxiety and chill",
+    "miasm": "Psora",
+    "notes": "Early influenza, emotional shock, stress fever"
+  },
+  {
+    "rubric": "Wants to be covered head to toe",
+    "grading": {
+      "high": ["Hepar sulph", "Silicea"],
+      "medium": ["Psorinum", "Calcarea carbonica"],
+      "low": ["Sepia"]
+    },
+    "modality": "Extreme chilliness, worse from slightest draft",
+    "miasm": "Psora",
+    "notes": "Core constitutional rubric in chilly individuals"
+  },
+  {
+    "rubric": "Feels as if heat is rising up the spine",
+    "grading": {
+      "high": ["Sulphur", "Lachesis"],
+      "medium": ["Phosphorus", "Sanguinaria"],
+      "low": ["Sepia"]
+    },
+    "modality": "Usually occurs in evening or under stress",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Linked to kundalini-like sensations or neurological disturbance"
+  },
+  {
+    "rubric": "Coldness of stomach region",
+    "grading": {
+      "high": ["Arsenicum album", "Camphora"],
+      "medium": ["Phosphorus", "Veratrum album"],
+      "low": ["China"]
+    },
+    "modality": "Chill felt in epigastrium; worse from food/drinks",
+    "miasm": "Syphilitic",
+    "notes": "Common in gastroenteritis, collapse states, food poisoning"
+  },
+  {
+    "rubric": "Face hot, body cold",
+    "grading": {
+      "high": ["Belladonna", "Ferrum metallicum"],
+      "medium": ["Lycopodium", "Sulphur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Seen during fever or emotional excitement",
+    "miasm": "Psora",
+    "notes": "Circulatory imbalance; typical in sensitive children"
+  },
+  {
+    "rubric": "Chilly and wants hot drinks",
+    "grading": {
+      "high": ["Arsenicum album", "Nux vomica"],
+      "medium": ["Hepar sulph", "Ignatia"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Chilliness relieved by warm liquids",
+    "miasm": "Psora",
+    "notes": "Classical symptom in digestive or febrile conditions"
+  },
+  {
+    "rubric": "Burning in palms and soles with desire to uncover",
+    "grading": {
+      "high": ["Sulphur", "Medorrhinum"],
+      "medium": ["Sanguinaria", "Sepia"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse in evening and in bed",
+    "miasm": "Psora/Sycosis",
+    "notes": "Very characteristic in menopausal or liver cases"
+  },
+  {
+    "rubric": "Worse from bathing or exposure to water (thermally)",
+    "grading": {
+      "high": ["Dulcamara", "Silicea"],
+      "medium": ["Hepar sulph", "Psorinum"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Bathing triggers chill, headache, menses suppression, or cold",
+    "miasm": "Psora",
+    "notes": "Thermal shock or water-sensitivity in chronic patients"
+  },
+  {
+    "rubric": "Burning internally with icy coldness externally",
+    "grading": {
+      "high": ["Camphora", "Arsenicum album"],
+      "medium": ["Veratrum album", "Secale cornutum"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Feels burning heat inside but body is cold to touch",
+    "miasm": "Syphilitic",
+    "notes": "Seen in collapse states, hemorrhage, septic shock"
+  },
+  {
+    "rubric": "Coldness alternating with heat in waves",
+    "grading": {
+      "high": ["Arsenicum album", "Sulphur"],
+      "medium": ["Phosphorus", "Sepia"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Comes in sudden waves—chill, then flush",
+    "miasm": "Tubercular",
+    "notes": "Important in intermittent fevers, nervous sensitivity"
+  },
+  {
+    "rubric": "Chill comes on from slightest uncovering",
+    "grading": {
+      "high": ["Hepar sulph", "Silicea"],
+      "medium": ["Psorinum", "Calcarea carbonica"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Even uncovering a hand aggravates",
+    "miasm": "Psora",
+    "notes": "Chilly, hypersensitive patients; skin reaction to air"
+  },
+  {
+    "rubric": "Heat from least motion or exertion",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Sepia", "Lycopodium"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Slight activity leads to facial flush, heat",
+    "miasm": "Psora",
+    "notes": "Typical in weakened, hyperreactive constitutions"
+  },
+  {
+    "rubric": "Feels as if hot air is blowing on them",
+    "grading": {
+      "high": ["Glonoinum", "Belladonna"],
+      "medium": ["Lachesis", "Sanguinaria"],
+      "low": ["Sepia"]
+    },
+    "modality": "Especially around head, face, eyes",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Seen in migraine, hypertension, menopausal flush"
+  },
+  {
+    "rubric": "Coldness of nose tip",
+    "grading": {
+      "high": ["Carbo veg", "Silicea"],
+      "medium": ["Sepia", "Lycopodium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Nose feels cold, especially in open air",
+    "miasm": "Psora",
+    "notes": "Indicative of poor peripheral circulation"
+  },
+  {
+    "rubric": "Desires warmth but heat aggravates",
+    "grading": {
+      "high": ["Pulsatilla", "Phosphorus"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Craves warmth emotionally but physically suffers in it",
+    "miasm": "Psora",
+    "notes": "Important contradiction; indicates emotional-physical split"
+  },
+  {
+    "rubric": "Face and head hot, limbs icy cold",
+    "grading": {
+      "high": ["Ferrum metallicum", "Belladonna"],
+      "medium": ["Camphora", "Sulphur"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Seen in fevers, teething, headaches, and circulatory shocks",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Important in pediatric and cardiovascular conditions"
+  },
+  {
+    "rubric": "Aversion to covering despite chill",
+    "grading": {
+      "high": ["Opium", "Camphora"],
+      "medium": ["Veratrum album", "Arsenicum album"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Desires to be uncovered even if trembling",
+    "miasm": "Syphilitic",
+    "notes": "Collapse or toxic states with lost thermal regulation"
+  },
+  {
+    "rubric": "Burning of feet at night uncovers them",
+    "grading": {
+      "high": ["Sulphur", "Sanguinaria"],
+      "medium": ["Medorrhinum", "Phosphorus"],
+      "low": ["Sepia"]
+    },
+    "modality": "Worse in bed; patient sticks feet out of blankets",
+    "miasm": "Psora",
+    "notes": "Typical in liver complaints, hormonal disturbances"
+  },
+  {
+    "rubric": "Chill ascending from feet",
+    "grading": {
+      "high": ["Gelsemium", "Sepia"],
+      "medium": ["Phosphorus", "Ignatia"],
+      "low": ["Silicea"]
+    },
+    "modality": "Chill begins in feet and rises upward",
+    "miasm": "Psora",
+    "notes": "Common in nervous and febrile conditions; indicative of spine and CNS involvement"
+  },
+  {
+    "rubric": "Wants to keep hands and feet uncovered",
+    "grading": {
+      "high": ["Sulphur", "Sanguinaria"],
+      "medium": ["Medorrhinum", "Phosphorus"],
+      "low": ["Sepia"]
+    },
+    "modality": "Feels heat or burning, especially in limbs",
+    "miasm": "Psora/Sycosis",
+    "notes": "Often observed in menopausal or hepatic patients"
+  },
+  {
+    "rubric": "Chill with desire to be fanned",
+    "grading": {
+      "high": ["Carbo veg", "Phosphorus"],
+      "medium": ["Camphora", "Arsenicum album"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Cold but wants air flow for comfort",
+    "miasm": "Psora",
+    "notes": "Indicates poor peripheral oxygenation or shock"
+  },
+  {
+    "rubric": "Heat with redness and throbbing",
+    "grading": {
+      "high": ["Belladonna", "Glonoinum"],
+      "medium": ["Lachesis", "Sanguinaria"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Pulsation felt in head, face, or arteries with heat",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Congestive fevers, migraines, high blood pressure"
+  },
+  {
+    "rubric": "Coldness in single fingers or toes",
+    "grading": {
+      "high": ["Carbo veg", "Silicea"],
+      "medium": ["Sepia", "Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Isolated digits go icy cold, especially in stress",
+    "miasm": "Psora",
+    "notes": "Suggests poor circulation or nervous vascular response"
+  },
+  {
+    "rubric": "Profuse sweat on scalp during sleep",
+    "grading": {
+      "high": ["Silicea", "Calcarea carbonica"],
+      "medium": ["Mercurius", "Psorinum"],
+      "low": ["China"]
+    },
+    "modality": "Sweat on pillow area; worse at night",
+    "miasm": "Psora",
+    "notes": "Common in TB diathesis, lymphatic children, or hormonal imbalances"
+  },
+  {
+    "rubric": "Wants to lie on cold floor during fever",
+    "grading": {
+      "high": ["Secale cornutum", "Veratrum album"],
+      "medium": ["Camphora", "Phosphorus"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Better from direct contact with cold surfaces",
+    "miasm": "Syphilitic",
+    "notes": "Seen in collapse fevers, cerebral affections, or sunstroke"
+  },
+  {
+    "rubric": "Internal heat with cold extremities",
+    "grading": {
+      "high": ["Arsenicum album", "Camphora"],
+      "medium": ["Phosphorus", "Lachesis"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Inside feels burning while hands/feet are icy",
+    "miasm": "Syphilitic",
+    "notes": "Collapse, sepsis, deep infections"
+  },
+  {
+    "rubric": "Chill worse in a warm room",
+    "grading": {
+      "high": ["Ignatia", "Gelsemium"],
+      "medium": ["Sepia", "Pulsatilla"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Chill increases when covered or in closed spaces",
+    "miasm": "Psora",
+    "notes": "Mental component; paradoxical modality in fever"
+  },
+  {
+    "rubric": "Burning sensation with aversion to heat",
+    "grading": {
+      "high": ["Sulphur", "Sanguinaria"],
+      "medium": ["Medorrhinum", "Phosphorus"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Burning is worse in warm surroundings",
+    "miasm": "Psora",
+    "notes": "Useful in skin eruptions, menopausal flashes, headaches"
+  },
+  {
+    "rubric": "Feels hot but skin is dry and burning",
+    "grading": {
+      "high": ["Belladonna", "Sulphur"],
+      "medium": ["Sanguinaria", "Lachesis"],
+      "low": ["Glonoinum"]
+    },
+    "modality": "Heat without perspiration; body feels dry, especially in fever",
+    "miasm": "Psora",
+    "notes": "Typical in acute inflammatory fevers or sunstroke"
+  },
+  {
+    "rubric": "Cold feeling in bones",
+    "grading": {
+      "high": ["Mercurius", "Silicea"],
+      "medium": ["Arsenicum album", "Phosphorus"],
+      "low": ["China"]
+    },
+    "modality": "Deep internal chill, often not helped by external heat",
+    "miasm": "Syphilitic",
+    "notes": "Seen in bone diseases, malaria, and tuberculosis"
+  },
+  {
+    "rubric": "Wants cold drinks during chill",
+    "grading": {
+      "high": ["Veratrum album", "Phosphorus"],
+      "medium": ["Camphora", "Sanguinaria"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Despite chill, craves icy drinks",
+    "miasm": "Psora",
+    "notes": "Opposite of classical desire; shows contradiction in system"
+  },
+  {
+    "rubric": "Heat localized to face or head",
+    "grading": {
+      "high": ["Belladonna", "Sanguinaria"],
+      "medium": ["Glonoinum", "Lachesis"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Only head burns; body remains neutral or cold",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Cerebral congestion, menopausal heat, hypertension"
+  },
+  {
+    "rubric": "Chill worse from touch or pressure",
+    "grading": {
+      "high": ["China", "Nux vomica"],
+      "medium": ["Silicea", "Hepar sulph"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Chill comes on when part is touched or moved",
+    "miasm": "Psora",
+    "notes": "Seen in weakened or irritable constitutions"
+  },
+  {
+    "rubric": "Uncovers during sleep despite cold weather",
+    "grading": {
+      "high": ["Opium", "Camphora"],
+      "medium": ["Sulphur", "Medorrhinum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Patient kicks off blankets unconsciously",
+    "miasm": "Syphilitic",
+    "notes": "Seen in toxic, feverish, or neurologically dull patients"
+  },
+  {
+    "rubric": "Heat with desire to stretch or move limbs",
+    "grading": {
+      "high": ["Rhus tox", "Sulphur"],
+      "medium": ["Lycopodium", "Medorrhinum"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Heat and restlessness coexist; motion relieves",
+    "miasm": "Psora/Sycosis",
+    "notes": "Useful in rheumatic fevers or joint inflammatory cases"
+  },
+  {
+    "rubric": "Fever with no thirst and profuse sweat",
+    "grading": {
+      "high": ["Gelsemium", "Pulsatilla"],
+      "medium": ["Ferrum phos", "Silicea"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Sweat does not relieve; thirstless during heat",
+    "miasm": "Psora",
+    "notes": "Typical in viral fevers, slow onset influenza"
+  },
+  {
+    "rubric": "One hand hot, the other cold",
+    "grading": {
+      "high": ["Lachesis", "Sulphur"],
+      "medium": ["Sanguinaria", "Sepia"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Asymmetrical heat distribution",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Often found in menopausal or vascular imbalance cases"
+  },
+  {
+    "rubric": "Icy cold sweat on limbs",
+    "grading": {
+      "high": ["Veratrum album", "Camphora"],
+      "medium": ["Carbo veg", "Secale cornutum"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Collapse state; limbs cold, bathed in sweat",
+    "miasm": "Syphilitic",
+    "notes": "Critical rubric in cholera, collapse, shock, or end stage disease"
+  },
+  {
+    "rubric": "Chill alternating with heat without perspiration",
+    "grading": {
+      "high": ["Ignatia", "Nux vomica"],
+      "medium": ["Phosphorus", "Gelsemium"],
+      "low": ["Silicea"]
+    },
+    "modality": "Chill and heat come and go but no sweat follows",
+    "miasm": "Psora",
+    "notes": "Seen in nervous fevers or emotional disturbances"
+  },
+  {
+    "rubric": "Burning in back or between shoulder blades",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Lycopodium", "Sepia"],
+      "low": ["Sanguinaria"]
+    },
+    "modality": "Localized burning; worse from heat or pressure",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Related to liver, gallbladder, menopausal complaints"
+  },
+  {
+    "rubric": "Wants cold compress on head during heat",
+    "grading": {
+      "high": ["Belladonna", "Glonoinum"],
+      "medium": ["Sanguinaria", "Lachesis"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Head heat unbearable; cold gives relief",
+    "miasm": "Psora",
+    "notes": "Useful in migraines, congestion, menopausal flushes"
+  },
+  {
+    "rubric": "Fever with hunger",
+    "grading": {
+      "high": ["China", "Iodum"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Appetite remains or increases during fever",
+    "miasm": "Psora",
+    "notes": "Rare condition indicating good vitality or parasitic infection"
+  },
+  {
+    "rubric": "Chill with blueness of extremities",
+    "grading": {
+      "high": ["Camphora", "Carbo veg"],
+      "medium": ["Veratrum album", "Secale cornutum"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Bluish hands/feet in chill, collapse-like state",
+    "miasm": "Syphilitic",
+    "notes": "Critical rubric in shock, cholera, hypothermia"
+  },
+  {
+    "rubric": "Head feels cold during fever",
+    "grading": {
+      "high": ["Camphora", "Veratrum album"],
+      "medium": ["Arsenicum album", "Carbo veg"],
+      "low": ["Silicea"]
+    },
+    "modality": "Even during fever, scalp remains icy",
+    "miasm": "Syphilitic",
+    "notes": "Indicates collapse or CNS involvement"
+  },
+  {
+    "rubric": "Heat confined to palms and soles",
+    "grading": {
+      "high": ["Sulphur", "Sanguinaria"],
+      "medium": ["Medorrhinum", "Phosphorus"],
+      "low": ["Sepia"]
+    },
+    "modality": "Extremities hot, rest of body normal",
+    "miasm": "Psora",
+    "notes": "Liver or hormonal imbalance clue; common in chronic cases"
+  },
+  {
+    "rubric": "Wants cold air directly on body",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Pulsatilla", "Medorrhinum"],
+      "low": ["Sanguinaria"]
+    },
+    "modality": "Better from direct breeze, fan, open air",
+    "miasm": "Psora",
+    "notes": "Relieves mental and physical restlessness or heat"
+  },
+  {
+    "rubric": "Heat during sleep without waking",
+    "grading": {
+      "high": ["Sulphur", "Sepia"],
+      "medium": ["Calcarea carbonica", "Pulsatilla"],
+      "low": ["Psorinum"]
+    },
+    "modality": "Profuse heat or sweat in sleep but not disturbing sleep",
+    "miasm": "Psora",
+    "notes": "Seen in hormonal imbalances or latent chronic conditions"
+  },
+  {
+    "rubric": "Chill after urination",
+    "grading": {
+      "high": ["Sarsaparilla", "Sepia"],
+      "medium": ["Natrum mur", "Silicea"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Urination triggers shivering or chilliness",
+    "miasm": "Psora",
+    "notes": "Common in bladder weakness or female pelvic issues"
+  }
+]

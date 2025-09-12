@@ -1,0 +1,3157 @@
+[
+  {
+    "rubric": "EAR - DISCHARGE - PURULENT - offensive",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["night", "warm room"],
+      "better": ["cold application", "open air"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Psorinum", "Mercurius"],
+      "medium": ["Silicea", "Graphites", "Pulsatilla"],
+      "low": ["Kali bichromicum", "Tellurium", "Lycopodium"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - PAIN - stitching - extending to throat",
+    "rubric_type": "confirmatory",
+    "modalities": {
+      "worse": ["swallowing", "cold wind"],
+      "better": ["warm drinks", "covering ear"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Hepar sulph", "Belladonna"],
+      "medium": ["Merc sol", "Spigelia", "Aconite"],
+      "low": ["Silicea", "Kali mur", "Calcarea carb"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - NOISES - roaring",
+    "rubric_type": "mental",
+    "modalities": {
+      "worse": ["evening", "lying on painful side"],
+      "better": ["rising", "movement"]
+    },
+    "remedies": {
+      "high": ["China", "Salicylic acid", "Chininum sulph"],
+      "medium": ["Cinchona", "Carbo vegetabilis", "Kali carb"],
+      "low": ["Digitalis", "Lachesis", "Phosphorus"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - ECZEMA - external ear",
+    "rubric_type": "physical",
+    "modalities": {
+      "worse": ["scratching", "heat"],
+      "better": ["cold application"]
+    },
+    "remedies": {
+      "high": ["Graphites", "Petroleum", "Mezereum"],
+      "medium": ["Sulphur", "Tellurium", "Psorinum"],
+      "low": ["Calcarea sulph", "Lycopodium", "Arsenicum album"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - SENSITIVENESS - to wind",
+    "rubric_type": "modal",
+    "modalities": {
+      "worse": ["wind exposure", "drafts"],
+      "better": ["indoors", "warm clothing"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Silicea", "Chamomilla"],
+      "medium": ["Aconite", "Belladonna", "Merc sol"],
+      "low": ["Calcarea carb", "Pulsatilla", "Kali mur"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - HEARING - impaired - after otitis media",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["blowing nose", "early morning"],
+      "better": ["swallowing", "clearing throat"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Calcarea sulph", "Silicea"],
+      "medium": ["Merc sol", "Pulsatilla", "Psorinum"],
+      "low": ["Baryta mur", "Lycopodium", "Natrum sulph"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - DRUM - perforation of tympanum",
+    "rubric_type": "confirmatory",
+    "modalities": {
+      "worse": ["loud noise", "bathing"],
+      "better": ["dry air", "rest"]
+    },
+    "remedies": {
+      "high": ["Silicea", "Hepar sulph", "Psorinum"],
+      "medium": ["Tellurium", "Calcarea sulph", "Merc sol"],
+      "low": ["Kali bichromicum", "Lycopodium", "Petroleum"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - INFLAMMATION - with high fever",
+    "rubric_type": "acute",
+    "modalities": {
+      "worse": ["night", "touch", "noise"],
+      "better": ["rest", "warmth"]
+    },
+    "remedies": {
+      "high": ["Belladonna", "Chamomilla", "Aconitum"],
+      "medium": ["Hepar sulph", "Mercurius", "Ferrum phos"],
+      "low": ["Pulsatilla", "Sulphur", "Gelsemium"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - SWELLING - external ear - red and hot",
+    "rubric_type": "physical",
+    "modalities": {
+      "worse": ["evening", "pressure"],
+      "better": ["cold application", "open air"]
+    },
+    "remedies": {
+      "high": ["Belladonna", "Apis", "Hepar sulph"],
+      "medium": ["Pulsatilla", "Mezereum", "Petroleum"],
+      "low": ["Merc sol", "Graphites", "Arnica"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - BAROTRAUMA - from altitude or air travel",
+    "rubric_type": "clinical",
+    "modalities": {
+      "worse": ["air travel", "pressure change"],
+      "better": ["swallowing", "yawning"]
+    },
+    "remedies": {
+      "high": ["Ferrum phos", "Chamomilla", "Kali mur"],
+      "medium": ["Carbo vegetabilis", "Gelsemium", "Natrum sulph"],
+      "low": ["Borax", "Silicea", "Nux vomica"]
+    },
+    "source": "Clinical Experience"
+  },
+  {
+    "rubric": "EAR - SENSATION - stopped feeling - as if blocked",
+    "rubric_type": "modal",
+    "modalities": {
+      "worse": ["blowing nose", "climbing stairs"],
+      "better": ["yawning", "swallowing"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Pulsatilla"],
+      "medium": ["Chamomilla", "Merc sol", "Graphites"],
+      "low": ["Lycopodium", "Nux vomica", "Borax"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - PAIN - pulsating, throbbing - with fever",
+    "rubric_type": "acute",
+    "modalities": {
+      "worse": ["lying on affected side", "evening", "heat"],
+      "better": ["cold applications", "upright posture"]
+    },
+    "remedies": {
+      "high": ["Belladonna", "Chamomilla", "Hepar sulph"],
+      "medium": ["Merc sol", "Aconitum", "Ferrum phos"],
+      "low": ["Sulphur", "Pulsatilla", "Gelsemium"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - CRACKING - while chewing or swallowing",
+    "rubric_type": "mechanical",
+    "modalities": {
+      "worse": ["eating", "opening mouth wide"],
+      "better": ["rest jaw", "massage"],
+      "note": "Often linked with TMJ dysfunction"
+    },
+    "remedies": {
+      "high": ["Causticum", "Kali carb", "Pulsatilla"],
+      "medium": ["Natrum mur", "Lycopodium", "Rhus tox"],
+      "low": ["Silicea", "Phosphorus", "Mag carb"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - with nasal catarrh",
+    "rubric_type": "clinical",
+    "modalities": {
+      "worse": ["damp weather", "cold air"],
+      "better": ["dry air", "warm drinks"]
+    },
+    "remedies": {
+      "high": ["Kali bichromicum", "Pulsatilla", "Hepar sulph"],
+      "medium": ["Hydrastis", "Merc sol", "Sanguinaria"],
+      "low": ["Silicea", "Nux vomica", "Natrum mur"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - PAIN - extending to throat",
+    "rubric_type": "confirmatory",
+    "modalities": {
+      "worse": ["swallowing", "cold drinks"],
+      "better": ["warm applications", "covering ear and throat"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Merc sol", "Belladonna"],
+      "medium": ["Lachesis", "Chamomilla", "Baryta carb"],
+      "low": ["Silicea", "Kali mur", "Calcarea carb"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - VERTIGO - from ear disease",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["motion", "turning head", "getting up suddenly"],
+      "better": ["lying still", "dark room"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Gelsemium", "Conium"],
+      "medium": ["Phosphorus", "Bryonia", "Cocculus"],
+      "low": ["Silicea", "Theridion", "Lachesis"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - FULLNESS - sensation of pressure inside",
+    "rubric_type": "physical",
+    "modalities": {
+      "worse": ["climbing height", "during colds", "early morning"],
+      "better": ["yawning", "swallowing", "clearing throat"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Pulsatilla", "Merc sol"],
+      "medium": ["Silicea", "Lycopodium", "Hepar sulph"],
+      "low": ["Borax", "Hydrastis", "Nux vomica"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - PAIN - during coughing or sneezing",
+    "rubric_type": "modal",
+    "modalities": {
+      "worse": ["sneezing", "coughing", "sudden pressure"],
+      "better": ["rest", "warm applications"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Belladonna", "Chamomilla"],
+      "medium": ["Merc sol", "Kali bichromicum", "Spongia"],
+      "low": ["Lycopodium", "Aconite", "Silicea"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - NOISES - ringing, buzzing, humming",
+    "rubric_type": "mental",
+    "modalities": {
+      "worse": ["night", "quiet room"],
+      "better": ["noise", "movement", "pressure"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Salicylic acid", "China"],
+      "medium": ["Phosphorus", "Natrum salicylicum", "Lachesis"],
+      "low": ["Carbo vegetabilis", "Gelsemium", "Silicea"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - HEARING - sudden loss - after exposure to cold",
+    "rubric_type": "acute",
+    "modalities": {
+      "worse": ["cold air", "bathing", "wind exposure"],
+      "better": ["warmth", "covered ear"]
+    },
+    "remedies": {
+      "high": ["Aconite", "Silicea", "Hepar sulph"],
+      "medium": ["Calcarea carb", "Pulsatilla", "Merc sol"],
+      "low": ["Phosphorus", "Gelsemium", "Baryta mur"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - COLDNESS - of ears with warm body",
+    "rubric_type": "rare-confirmatory",
+    "modalities": {
+      "worse": ["open air", "cold exposure"],
+      "better": ["covering", "warm room"]
+    },
+    "remedies": {
+      "high": ["Silicea", "Calcarea carb", "Psorinum"],
+      "medium": ["Lycopodium", "Carbo vegetabilis", "Natrum mur"],
+      "low": ["Sepia", "Thuja", "Sulphur"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - HEAT - of ears with cold hands and feet",
+    "rubric_type": "confirmatory",
+    "modalities": {
+      "worse": ["evening", "mental exertion"],
+      "better": ["open air"]
+    },
+    "remedies": {
+      "high": ["Sulphur", "Lachesis", "Pulsatilla"],
+      "medium": ["Phosphorus", "Belladonna", "Ignatia"],
+      "low": ["Carcinosin", "Sepia", "Nux moschata"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - PAIN - before or during menses",
+    "rubric_type": "female-confirmatory",
+    "modalities": {
+      "worse": ["before menses", "cold exposure"],
+      "better": ["warmth", "onset of flow"]
+    },
+    "remedies": {
+      "high": ["Pulsatilla", "Sepia", "Graphites"],
+      "medium": ["Lachesis", "Magnesia carb", "Calcarea carb"],
+      "low": ["Cyclamen", "Natrum mur", "Ignatia"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - STIFFNESS - jaw with ear pain",
+    "rubric_type": "cross-system",
+    "modalities": {
+      "worse": ["chewing", "talking"],
+      "better": ["rest jaw", "warm compress"]
+    },
+    "remedies": {
+      "high": ["Causticum", "Rhus tox", "Kali carb"],
+      "medium": ["Mezereum", "Belladonna", "Spigelia"],
+      "low": ["Chelidonium", "Phytolacca", "Ruta"]
+    },
+    "source": "Clinical + Repertory"
+  },
+  {
+    "rubric": "EAR - COMPLAINTS - associated with eye strain or pain",
+    "rubric_type": "neuro-vascular",
+    "modalities": {
+      "worse": ["reading", "bright light"],
+      "better": ["resting eyes", "lying down"]
+    },
+    "remedies": {
+      "high": ["Gelsemium", "Phosphorus", "Ruta"],
+      "medium": ["Belladonna", "Spigelia", "Natrum mur"],
+      "low": ["Lachesis", "Conium", "Calcarea phosphorica"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - musty, mouldy, fungal odor",
+    "rubric_type": "rare-confirmatory",
+    "modalities": {
+      "worse": ["warm weather", "unhygienic conditions"],
+      "better": ["cleansing", "cool air"]
+    },
+    "remedies": {
+      "high": ["Psorinum", "Tellurium", "Sulphur"],
+      "medium": ["Silicea", "Hepar sulph", "Graphites"],
+      "low": ["Kali bichromicum", "Thuja", "Petroleum"]
+    },
+    "source": "Clinical + Complete Repertory"
+  },
+  {
+    "rubric": "EAR - OTITIS - recurrent - in children during teething",
+    "rubric_type": "pediatric-confirmatory",
+    "modalities": {
+      "worse": ["night", "teething phase"],
+      "better": ["carried", "cold application"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Belladonna", "Calcarea carb"],
+      "medium": ["Pulsatilla", "Hepar sulph", "Silicea"],
+      "low": ["Borax", "Cina", "Magnesia phos"]
+    },
+    "source": "Kent + Clinical Pediatrics"
+  },
+  {
+    "rubric": "EAR - PAIN - with enlarged tonsils or throat infection",
+    "rubric_type": "ENT cluster",
+    "modalities": {
+      "worse": ["swallowing", "night"],
+      "better": ["warm drinks", "rest"]
+    },
+    "remedies": {
+      "high": ["Baryta carb", "Belladonna", "Merc sol"],
+      "medium": ["Hepar sulph", "Lachesis", "Calcarea phos"],
+      "low": ["Nitric acid", "Kali bichromicum", "Lycopodium"]
+    },
+    "source": "Kent + ENT Clinical Notes"
+  },
+  {
+    "rubric": "EAR - SENSATION - something crawling or moving in ear (imagined)",
+    "rubric_type": "psychosomatic",
+    "modalities": {
+      "worse": ["night", "silence"],
+      "better": ["distraction", "noise"]
+    },
+    "remedies": {
+      "high": ["Anacardium", "Stramonium", "Agaricus"],
+      "medium": ["Ignatia", "Lachesis", "Hyoscyamus"],
+      "low": ["Cannabis indica", "Alumina", "Phosphorus"]
+    },
+    "source": "Kent + Mind section cross-reference"
+  },
+  {
+    "rubric": "EAR - NOISES - wake from sleep - buzzing or voices",
+    "rubric_type": "sleep-related",
+    "modalities": {
+      "worse": ["night", "before falling asleep"],
+      "better": ["changing position", "light noise"]
+    },
+    "remedies": {
+      "high": ["Phosphorus", "Kali bromatum", "Lachesis"],
+      "medium": ["Belladonna", "Opium", "China"],
+      "low": ["Cannabis indica", "Sulphur", "Gelsemium"]
+    },
+    "source": "Complete Repertory + Sleep Section"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - yellow-green, profuse, offensive - chronic otitis media",
+    "rubric_type": "pathological-deep",
+    "modalities": {
+      "worse": ["damp weather", "washing head"],
+      "better": ["dry air", "warmth"]
+    },
+    "remedies": {
+      "high": ["Merc sol", "Psorinum", "Hepar sulph"],
+      "medium": ["Silicea", "Tellurium", "Pulsatilla"],
+      "low": ["Kali mur", "Calcarea sulph", "Sulphur"]
+    },
+    "source": "Kent + Clinical Pathology"
+  },
+  {
+    "rubric": "EAR - POLYPUS - after recurrent discharges",
+    "rubric_type": "deep-confirmatory",
+    "modalities": {
+      "worse": ["moist environment", "cold bathing"],
+      "better": ["dry climate"]
+    },
+    "remedies": {
+      "high": ["Teucrium", "Calcarea carb", "Psorinum"],
+      "medium": ["Thuja", "Silicea", "Graphites"],
+      "low": ["Natrum mur", "Phosphorus", "Hepar sulph"]
+    },
+    "source": "Complete Repertory + Clinical"
+  },
+  {
+    "rubric": "EAR - EXOSTOSIS - bony growths in external canal",
+    "rubric_type": "pathological-rare",
+    "modalities": {
+      "worse": ["cold air", "night"],
+      "better": ["warmth"]
+    },
+    "remedies": {
+      "high": ["Calcarea fluorica", "Silicea", "Phosphorus"],
+      "medium": ["Baryta carb", "Merc sol", "Hepar sulph"],
+      "low": ["Kali bichromicum", "Thuja", "Carbo animalis"]
+    },
+    "source": "Clinical + Bone Section"
+  },
+  {
+    "rubric": "EAR - OTORRHOEA - after scarlet fever",
+    "rubric_type": "sequela-confirmatory",
+    "modalities": {
+      "worse": ["after febrile illness", "cold damp"],
+      "better": ["dry weather", "rest"]
+    },
+    "remedies": {
+      "high": ["Sulphur", "Psorinum", "Lycopodium"],
+      "medium": ["Merc sol", "Silicea", "Calcarea sulph"],
+      "low": ["Hepar sulph", "Tuberculinum", "Kali mur"]
+    },
+    "source": "Clinical Sequelae"
+  },
+  {
+    "rubric": "EAR - GLUE EAR - thick serous fluid behind tympanum",
+    "rubric_type": "clinical-confirmatory",
+    "modalities": {
+      "worse": ["after cold", "in children", "morning"],
+      "better": ["blowing nose", "heat"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Calcarea sulph"],
+      "medium": ["Pulsatilla", "Hepar sulph", "Baryta carb"],
+      "low": ["Natrum sulph", "Phosphorus", "Graphites"]
+    },
+    "source": "Clinical ENT"
+  },
+  {
+    "rubric": "EAR - MEMBRANA TYMPANI - retracted - after chronic catarrh",
+    "rubric_type": "pathological-confirmatory",
+    "modalities": {
+      "worse": ["early morning", "dry indoor heat"],
+      "better": ["steam inhalation", "clearing throat"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Pulsatilla", "Silicea"],
+      "medium": ["Calcarea carb", "Natrum mur", "Phosphorus"],
+      "low": ["Hepar sulph", "Baryta mur", "Tuberculinum"]
+    },
+    "source": "Complete Repertory + ENT Clinical"
+  },
+  {
+    "rubric": "EAR - MASTOIDITIS - after neglected otitis",
+    "rubric_type": "critical-deep",
+    "modalities": {
+      "worse": ["night", "lying on affected side", "touch"],
+      "better": ["pressure", "warmth"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Merc sol", "Belladonna"],
+      "medium": ["Silicea", "Calcarea phos", "Psorinum"],
+      "low": ["Phosphorus", "Kali iod", "Calcarea sulph"]
+    },
+    "source": "Clinical + Surgical Pathology"
+  },
+  {
+    "rubric": "EAR - TUBAL CATARRH - chronic Eustachian tube blockage",
+    "rubric_type": "deep-confirmatory",
+    "modalities": {
+      "worse": ["cold weather", "blowing nose", "smoke exposure"],
+      "better": ["dry climate", "swallowing"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Pulsatilla", "Silicea"],
+      "medium": ["Graphites", "Lycopodium", "Baryta carb"],
+      "low": ["Hepar sulph", "Calcarea carb", "Phosphorus"]
+    },
+    "source": "Kent + ENT Practice"
+  },
+  {
+    "rubric": "EAR - BOILS - in canal, recurrent",
+    "rubric_type": "local-deep",
+    "modalities": {
+      "worse": ["touch", "washing", "night"],
+      "better": ["warm compress", "gentle cleaning"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Silicea", "Calcarea sulph"],
+      "medium": ["Belladonna", "Psorinum", "Graphites"],
+      "low": ["Merc sol", "Petroleum", "Lycopodium"]
+    },
+    "source": "Complete Repertory + Clinical"
+  },
+  {
+    "rubric": "EAR - DEAFNESS - from cerumen impaction",
+    "rubric_type": "mechanical-confirmatory",
+    "modalities": {
+      "worse": ["after bathing", "moist weather"],
+      "better": ["cleaning ear", "warm oil instillation"]
+    },
+    "remedies": {
+      "high": ["Graphites", "Pulsatilla", "Causticum"],
+      "medium": ["Calcarea carb", "Silicea", "Lycopodium"],
+      "low": ["Natrum mur", "Chamomilla", "Carbo vegetabilis"]
+    },
+    "source": "Kent + Practical Cases"
+  },
+  {
+    "rubric": "EAR - PAIN - lightning-like, electric shock type",
+    "rubric_type": "neuralgic-confirmatory",
+    "modalities": {
+      "worse": ["cold air", "chewing", "swallowing"],
+      "better": ["warm applications", "rest"]
+    },
+    "remedies": {
+      "high": ["Spigelia", "Verbascum", "Chamomilla"],
+      "medium": ["Aconite", "Magnesia phos", "Causticum"],
+      "low": ["Kalmia", "Phosphorus", "Mezereum"]
+    },
+    "source": "Neuralgic Clinical Cases"
+  },
+  {
+    "rubric": "EAR - BURNING - in canal, without discharge",
+    "rubric_type": "rare-modal",
+    "modalities": {
+      "worse": ["evening", "touch", "warm air"],
+      "better": ["cool application", "uncovering"]
+    },
+    "remedies": {
+      "high": ["Sulphur", "Petroleum", "Graphites"],
+      "medium": ["Arsenicum", "Psorinum", "Tellurium"],
+      "low": ["Hepar sulph", "Chamomilla", "Calcarea carb"]
+    },
+    "source": "Kent + Clinical Observation"
+  },
+  {
+    "rubric": "EAR - TINNITUS - musical sounds or voices",
+    "rubric_type": "mental-confirmatory",
+    "modalities": {
+      "worse": ["night", "in silence"],
+      "better": ["external noise", "daytime"]
+    },
+    "remedies": {
+      "high": ["Anacardium", "Cannabis indica", "Phosphorus"],
+      "medium": ["Chininum sulph", "Lachesis", "Silicea"],
+      "low": ["China", "Sulphur", "Carbo vegetabilis"]
+    },
+    "source": "Kent + Mind Section"
+  },
+  {
+    "rubric": "EAR - DEAFNESS - after quinine or salicylate drugs",
+    "rubric_type": "drug-miasmatic",
+    "modalities": {
+      "worse": ["after drug use", "evening"],
+      "better": ["natural recovery", "detox"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Salicylic acid", "China"],
+      "medium": ["Phosphorus", "Carbo vegetabilis", "Lycopodium"],
+      "low": ["Pulsatilla", "Silicea", "Nux vomica"]
+    },
+    "source": "Clinical Drug Relationship"
+  },
+  {
+    "rubric": "EAR - STIFFNESS - inner ear, sensation as if locked",
+    "rubric_type": "sensorial-confirmatory",
+    "modalities": {
+      "worse": ["sudden movement", "loud noise"],
+      "better": ["silence", "stillness"]
+    },
+    "remedies": {
+      "high": ["Conium", "Plumbum", "Gelsemium"],
+      "medium": ["Kali carb", "Silicea", "Cocculus"],
+      "low": ["Phosphorus", "Causticum", "Belladonna"]
+    },
+    "source": "Clinical + Sensory Repertory"
+  },
+  {
+    "rubric": "EAR - PAIN - extending to teeth or throat",
+    "rubric_type": "radiating-confirmatory",
+    "modalities": {
+      "worse": ["swallowing", "cold drinks", "evening"],
+      "better": ["warmth", "external pressure"]
+    },
+    "remedies": {
+      "high": ["Mercurius", "Hepar sulph", "Belladonna"],
+      "medium": ["Phytolacca", "Lachesis", "Chamomilla"],
+      "low": ["Silicea", "Cistus canadensis", "Kali bichromicum"]
+    },
+    "source": "Clinical + Kent"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - like egg white or gluey",
+    "rubric_type": "mucosal-confirmatory",
+    "modalities": {
+      "worse": ["night", "bathing"],
+      "better": ["dry air"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Graphites", "Pulsatilla"],
+      "medium": ["Hydrastis", "Calcarea sulph", "Silicea"],
+      "low": ["Thuja", "Cistus", "Lemna minor"]
+    },
+    "source": "Boericke + Clinical"
+  },
+  {
+    "rubric": "EAR - SENSATION - air blowing into ear",
+    "rubric_type": "sensory-rare",
+    "modalities": {
+      "worse": ["wind", "sudden weather change"],
+      "better": ["warm hat", "indoors"]
+    },
+    "remedies": {
+      "high": ["Thuja", "Alumina", "Silicea"],
+      "medium": ["Psorinum", "Natrum carb", "Petroleum"],
+      "low": ["Nux vomica", "Carbo vegetabilis", "Ignatia"]
+    },
+    "source": "Sensorium Rubrics Collection"
+  },
+  {
+    "rubric": "EAR - OBSTRUCTION - sensation of valve closing",
+    "rubric_type": "perceptual-confirmatory",
+    "modalities": {
+      "worse": ["chewing", "air pressure changes", "morning"],
+      "better": ["swallowing", "yawning"]
+    },
+    "remedies": {
+      "high": ["Causticum", "Kali bichromicum", "Lycopodium"],
+      "medium": ["Silicea", "Gelsemium", "Plumbum"],
+      "low": ["Coccus cacti", "Natrum mur", "Selenium"]
+    },
+    "source": "Advanced Repertory + Clinical"
+  },
+  {
+    "rubric": "EAR - TINNITUS - after emotional grief or shock",
+    "rubric_type": "psychosomatic-confirmatory",
+    "modalities": {
+      "worse": ["night", "silence"],
+      "better": ["mental distraction", "activity"]
+    },
+    "remedies": {
+      "high": ["Ignatia", "Natrum mur", "Phosphoric acid"],
+      "medium": ["Aurum", "Lachesis", "Pulsatilla"],
+      "low": ["Causticum", "Cannabis indica", "Cyclamen"]
+    },
+    "source": "Mind-Body Clinical Rubrics"
+  },
+  {
+    "rubric": "EAR - ITCHING - deep inside canal, intolerable at night",
+    "rubric_type": "sensory-confirmatory",
+    "modalities": {
+      "worse": ["night", "warm bed", "scratching"],
+      "better": ["cool air", "gentle oil drops"]
+    },
+    "remedies": {
+      "high": ["Tellurium", "Sulphur", "Psorinum"],
+      "medium": ["Dolichos", "Petroleum", "Graphites"],
+      "low": ["Cistus", "Clematis erecta", "Mezereum"]
+    },
+    "source": "Boericke + Clinical Observations"
+  },
+  {
+    "rubric": "EAR - BOILS - recurrent, painful, sensitive to touch",
+    "rubric_type": "pathological-confirmatory",
+    "modalities": {
+      "worse": ["touch", "movement", "cold wind"],
+      "better": ["warmth", "rest", "after discharge"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Silicea", "Graphites"],
+      "medium": ["Calcarea sulph", "Mercurius", "Belladonna"],
+      "low": ["Lachesis", "Tarentula", "Calcarea fluor"]
+    },
+    "source": "Kent + Allen"
+  },
+  {
+    "rubric": "EAR - DRYNESS - inside, with echoing voice",
+    "rubric_type": "functional-sensory",
+    "modalities": {
+      "worse": ["swallowing", "dry weather", "fasting"],
+      "better": ["humid atmosphere", "drinking warm fluids"]
+    },
+    "remedies": {
+      "high": ["Kali bichromicum", "Alumina", "Phosphorus"],
+      "medium": ["Silicea", "Bryonia", "Petroleum"],
+      "low": ["Senega", "Borax", "Thuja"]
+    },
+    "source": "Sensory Clinical Rubrics"
+  },
+  {
+    "rubric": "EAR - ECZEMA - moist, offensive, crusting around auricle",
+    "rubric_type": "dermato-ear-confirmatory",
+    "modalities": {
+      "worse": ["sweat", "milk intake", "night"],
+      "better": ["cool bathing", "scratch till bleeding"]
+    },
+    "remedies": {
+      "high": ["Graphites", "Mezereum", "Petroleum"],
+      "medium": ["Viola tricolor", "Sulphur", "Calcarea carb"],
+      "low": ["Psorinum", "Tellurium", "Hepar sulph"]
+    },
+    "source": "Skin-Ear Combined Repertory"
+  },
+  {
+    "rubric": "EAR - SENSATION - plug with humming and loss of balance",
+    "rubric_type": "vestibular-confirmatory",
+    "modalities": {
+      "worse": ["stooping", "turning head", "evening"],
+      "better": ["lying still", "eyes closed"]
+    },
+    "remedies": {
+      "high": ["Chenopodium", "Conium", "Lycopodium"],
+      "medium": ["Gelsemium", "Cyclamen", "Tabacum"],
+      "low": ["Theridion", "Causticum", "Ambra grisea"]
+    },
+    "source": "Clinical Vertigo + Ear Rubrics"
+  },
+  {
+    "rubric": "EAR - PAIN - tearing, extending to teeth or throat",
+    "rubric_type": "deep-pathological",
+    "modalities": {
+      "worse": ["swallowing", "cold drinks", "at night"],
+      "better": ["warm applications", "lying on painful side"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Belladonna", "Mercurius"],
+      "medium": ["Lachesis", "Silicea", "Hepar sulph"],
+      "low": ["Plantago", "Capsicum", "Pulsatilla"]
+    },
+    "source": "Kent + Clinical Observation"
+  },
+  {
+    "rubric": "EAR - AILMENTS AFTER MEASLES - discharge with deafness",
+    "rubric_type": "clinical-confirmatory",
+    "modalities": {
+      "worse": ["evening", "exposure to cold", "wet hair"],
+      "better": ["dry warm air", "covered ear"]
+    },
+    "remedies": {
+      "high": ["Pulsatilla", "Kali sulphuricum", "Sulphur"],
+      "medium": ["Hepar sulph", "Mercurius", "Baryta carb"],
+      "low": ["Mezereum", "Psorinum", "Tuberculinum"]
+    },
+    "source": "Post-Measles Complications Clinical Set"
+  },
+  {
+    "rubric": "EAR - TUMORS - polypi in external auditory canal",
+    "rubric_type": "pathological-confirmatory",
+    "modalities": {
+      "worse": ["moist weather", "touch", "discharge"],
+      "better": ["dry weather", "after discharge"]
+    },
+    "remedies": {
+      "high": ["Calcarea carb", "Thuja", "Teucrium"],
+      "medium": ["Kali bichromicum", "Nitric acid", "Psorinum"],
+      "low": ["Sanguinaria", "Silicea", "Mercurius"]
+    },
+    "source": "Boericke + Hering Clinical Notes"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - blood-stained, acrid, fetid",
+    "rubric_type": "advanced-pathological",
+    "modalities": {
+      "worse": ["night", "washing", "during dentition (in children)"],
+      "better": ["open air", "drainage of pus"]
+    },
+    "remedies": {
+      "high": ["Mercurius", "Psorinum", "Hepar sulph"],
+      "medium": ["Silicea", "Tellurium", "Kali mur"],
+      "low": ["Mullein oil", "Bovista", "Carbo animalis"]
+    },
+    "source": "Chronic Otitis Rubrics + Boericke"
+  },
+  {
+    "rubric": "EAR - CHRONIC CATARRH - deafness with roaring, echoing voice",
+    "rubric_type": "chronic-functional",
+    "modalities": {
+      "worse": ["damp rooms", "blowing nose", "early morning"],
+      "better": ["dry climate", "nose cleared"],
+      "associated_symptoms": ["nasal obstruction", "thick post-nasal drip"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Hydrastis", "Lemna minor"],
+      "medium": ["Calcarea sulph", "Kali bichromicum", "Pulsatilla"],
+      "low": ["Alumina", "Teucrium", "Sambucus"]
+    },
+    "source": "ENT Clinical + Kent"
+  },
+  {
+    "rubric": "EAR - HERPES in and around ears",
+    "rubric_type": "pathological-confirmatory",
+    "modalities": {
+      "worse": ["cold weather", "scratching", "during fever"],
+      "better": ["warm applications", "sweating"]
+    },
+    "remedies": {
+      "high": ["Rhus toxicodendron", "Hepar sulphuris", "Graphites"],
+      "medium": ["Arsenicum album", "Mezereum", "Sulphur"],
+      "low": ["Croton tiglium", "Petroleum", "Tellurium"]
+    },
+    "source": "Boericke + Hering + Skin-Ear Cross Reference"
+  },
+  {
+    "rubric": "EAR - ECZEMA - moist, offensive, behind ears",
+    "rubric_type": "chronic-skin-linked",
+    "modalities": {
+      "worse": ["milk in children", "night", "wet weather"],
+      "better": ["dry air", "cooling lotions"]
+    },
+    "remedies": {
+      "high": ["Graphites", "Petroleum", "Mezereum"],
+      "medium": ["Calcarea carb", "Psorinum", "Hepar sulph"],
+      "low": ["Viola tricolor", "Antimonium crudum", "Sulphur"]
+    },
+    "source": "Kent + Boericke Clinical Skin-Ear Cases"
+  },
+  {
+    "rubric": "EAR - ROARING - as of waterfall or machinery",
+    "rubric_type": "neuro-functional",
+    "modalities": {
+      "worse": ["evening", "lying on affected side", "after anger"],
+      "better": ["open air", "rest"]
+    },
+    "remedies": {
+      "high": ["Chininum sulphuricum", "Salicylic acid", "Lachesis"],
+      "medium": ["China", "Cocculus", "Silicea"],
+      "low": ["Theridion", "Carbo vegetabilis", "Sulphur"]
+    },
+    "source": "Chronic Deafness Repertory + Kent"
+  },
+  {
+    "rubric": "EAR - CRACKLING sound while chewing or swallowing",
+    "rubric_type": "functional",
+    "modalities": {
+      "worse": ["swallowing", "mouth movements", "cold"],
+      "better": ["keeping still", "warmth"]
+    },
+    "remedies": {
+      "high": ["Kali muriaticum", "Pulsatilla", "Causticum"],
+      "medium": ["Silicea", "Calcarea phosphorica", "Thuja"],
+      "low": ["Ignatia", "Belladonna", "Borax"]
+    },
+    "source": "Clinical Observation + Kent + Boericke"
+  },
+  {
+    "rubric": "EAR - VERTIGO with ear fullness and tinnitus",
+    "rubric_type": "Meniere-like pathology",
+    "modalities": {
+      "worse": ["sudden motion", "stooping", "closing eyes"],
+      "better": ["lying still", "cold compress on head"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Gelsemium", "Bryonia"],
+      "medium": ["Conium", "Cyclamen", "Chenopodium"],
+      "low": ["Theridion", "Tabacum", "Cocculus"]
+    },
+    "source": "Vertigo-Tinnitus Syndromes (ENT clinical)"
+  },
+  {
+    "rubric": "EAR - EXUDATION - chronic, thick, offensive discharge",
+    "rubric_type": "chronic-suppurative",
+    "modalities": {
+      "worse": ["night", "warm room", "wet weather"],
+      "better": ["dry air", "cleaning ear gently"]
+    },
+    "remedies": {
+      "high": ["Mercurius", "Kali bichromicum", "Pulsatilla"],
+      "medium": ["Hepar sulph", "Psorinum", "Sulphur"],
+      "low": ["Tellurium", "Silicea", "Calcarea sulphurica"]
+    },
+    "source": "Kent + Clarke + Chronic Ear Discharges"
+  },
+  {
+    "rubric": "EAR - PUSTULES in auditory canal",
+    "rubric_type": "pathological",
+    "modalities": {
+      "worse": ["touch", "cold air", "damp weather"],
+      "better": ["warm applications"]
+    },
+    "remedies": {
+      "high": ["Hepar sulphuris", "Silicea", "Graphites"],
+      "medium": ["Mercurius", "Calcarea sulph", "Mezereum"],
+      "low": ["Sulphur", "Petroleum", "Psorinum"]
+    },
+    "source": "Boericke + Hering Pathological Section"
+  },
+  {
+    "rubric": "EAR - SENSATION - plugged as if with cotton or pressure",
+    "rubric_type": "functional-sensory",
+    "modalities": {
+      "worse": ["change of altitude", "blowing nose", "evening"],
+      "better": ["swallowing", "chewing", "external warmth"]
+    },
+    "remedies": {
+      "high": ["Kali muriaticum", "Chamomilla", "Pulsatilla"],
+      "medium": ["Calcarea carb", "Carbo vegetabilis", "Silicea"],
+      "low": ["Lycopodium", "Nux vomica", "Ferrum phosphoricum"]
+    },
+    "source": "Kent + Allen + ENT Symptom Cross"
+  },
+  {
+    "rubric": "EAR - HEMORRHAGE from ear",
+    "rubric_type": "traumatic-pathological",
+    "modalities": {
+      "worse": ["blow to the head", "fever", "suppuration"],
+      "better": ["cold compress", "head elevation"]
+    },
+    "remedies": {
+      "high": ["Hamamelis", "Arnica", "Belladonna"],
+      "medium": ["China", "Ferrum phosphoricum", "Lachesis"],
+      "low": ["Phosphorus", "Carbo vegetabilis", "Sulphuric acid"]
+    },
+    "source": "Clarke + Boericke + Trauma/Ear Reference"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - green, corroding, ichorous",
+    "rubric_type": "confirmatory-purulent",
+    "modalities": {
+      "worse": ["heat", "night", "scratching"],
+      "better": ["cool air", "cleaning ear"]
+    },
+    "remedies": {
+      "high": ["Psorinum", "Graphites", "Merc sol"],
+      "medium": ["Tellurium", "Calcarea sulph", "Hepar sulph"],
+      "low": ["Petroleum", "Silicea", "Sulphur"]
+    },
+    "source": "Chronic Discharges Clinical + Kent"
+  },
+  {
+    "rubric": "EAR - ECZEMA with thick crusts and offensive discharge",
+    "rubric_type": "skin-ear crossover",
+    "modalities": {
+      "worse": ["heat", "scratching", "night"],
+      "better": ["cooling", "gentle cleansing"]
+    },
+    "remedies": {
+      "high": ["Graphites", "Petroleum", "Mezereum"],
+      "medium": ["Sulphur", "Psorinum", "Calcarea sulphurica"],
+      "low": ["Tellurium", "Viola tricolor", "Hepar sulph"]
+    },
+    "source": "Boericke + Allen + Skin-Ear Clinical"
+  },
+  {
+    "rubric": "EAR - OTITIS media with bursting pain and tenacious discharge",
+    "rubric_type": "acute-suppurative",
+    "modalities": {
+      "worse": ["lying on affected side", "night", "cold air"],
+      "better": ["warmth", "head elevation"]
+    },
+    "remedies": {
+      "high": ["Hepar sulphuris", "Chamomilla", "Pulsatilla"],
+      "medium": ["Merc sol", "Kali bich", "Ferrum phos"],
+      "low": ["Silicea", "Capsicum", "Belladonna"]
+    },
+    "source": "Hering + Kent + Children ENT"
+  },
+  {
+    "rubric": "EAR - TUMORS - polypi in ear canal",
+    "rubric_type": "pathological-growth",
+    "modalities": {
+      "worse": ["dampness", "night"],
+      "better": ["dry air", "open air"]
+    },
+    "remedies": {
+      "high": ["Calcarea carbonica", "Teucrium", "Thuja"],
+      "medium": ["Psorinum", "Silicea", "Merc sol"],
+      "low": ["Sulphur", "Graphites", "Nitric acid"]
+    },
+    "source": "Boenninghausen + Kent + Clinical Growths"
+  },
+  {
+    "rubric": "EAR - HEARING - loss with cracking noises on swallowing",
+    "rubric_type": "eustachian tube dysfunction",
+    "modalities": {
+      "worse": ["blowing nose", "cold weather", "early morning"],
+      "better": ["warm drinks", "chewing", "swallowing"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Pulsatilla", "Silicea"],
+      "medium": ["Lycopodium", "Phosphorus", "Calcarea carb"],
+      "low": ["Chamomilla", "Ferrum phos", "Baryta carb"]
+    },
+    "source": "ENT Functional + Boericke"
+  },
+  {
+    "rubric": "EAR - ULCERATION in auditory canal with itching and burning",
+    "rubric_type": "pathological",
+    "modalities": {
+      "worse": ["touch", "heat", "night"],
+      "better": ["cold application", "gentle cleansing"]
+    },
+    "remedies": {
+      "high": ["Mezereum", "Tellurium", "Hepar sulph"],
+      "medium": ["Graphites", "Merc sol", "Sulphur"],
+      "low": ["Petroleum", "Psorinum", "Lachesis"]
+    },
+    "source": "Chronic Ulcers ENT + Hering"
+  },
+  {
+    "rubric": "EAR - SENSATION - as if air bubbles burst inside ear",
+    "rubric_type": "subjective sensation",
+    "modalities": {
+      "worse": ["swallowing", "climbing stairs", "blowing nose"],
+      "better": ["yawning", "chewing"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Hydrastis", "Pulsatilla"],
+      "medium": ["Silicea", "Lac caninum", "Lemna minor"],
+      "low": ["Baryta mur", "Ferrum phos", "Teucrium"]
+    },
+    "source": "Complete + ENT Subjective"
+  },
+  {
+    "rubric": "EAR - SENSATION - as if water trickling in the ear",
+    "rubric_type": "subjective illusion",
+    "modalities": {
+      "worse": ["after bath", "left side lying", "night"],
+      "better": ["head elevation", "drying"],
+      "note": "No actual discharge present"
+    },
+    "remedies": {
+      "high": ["Cyclamen", "Silicea", "Tellurium"],
+      "medium": ["Pulsatilla", "Natrum mur", "Chamomilla"],
+      "low": ["Elaps", "Phosphorus", "Lac caninum"]
+    },
+    "source": "Kent + Sensation-Based ENT"
+  },
+  {
+    "rubric": "EAR - ITCHING - deep inside ear with crawling sensation",
+    "rubric_type": "neurocutaneous",
+    "modalities": {
+      "worse": ["night", "heat", "talking"],
+      "better": ["cool air", "ear drops", "scratching"]
+    },
+    "remedies": {
+      "high": ["Tellurium", "Sulphur", "Psorinum"],
+      "medium": ["Dolichos", "Mezereum", "Petroleum"],
+      "low": ["Hepar sulph", "Graphites", "Antimonium crudum"]
+    },
+    "source": "Allen + Skin/ENT crossover"
+  },
+  {
+    "rubric": "EAR - FULLNESS with drumming and echoing own voice (autophony)",
+    "rubric_type": "tympanic pressure issue",
+    "modalities": {
+      "worse": ["talking", "swallowing", "closed room"],
+      "better": ["open air", "chewing", "moving jaw"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Phosphorus"],
+      "medium": ["Merc sol", "Pulsatilla", "Causticum"],
+      "low": ["Lac caninum", "Hepar sulph", "Lemna minor"]
+    },
+    "source": "Clinical ENT + Boericke"
+  },
+  {
+    "rubric": "EAR - CRACKLING sound on movement or chewing",
+    "rubric_type": "mechanical disturbance",
+    "modalities": {
+      "worse": ["swallowing", "cold drinks", "early morning"],
+      "better": ["warmth", "steam inhalation"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Pulsatilla", "Silicea"],
+      "medium": ["Phosphorus", "Calcarea fluor", "Natrum sulph"],
+      "low": ["Thuja", "Teucrium", "Chamomilla"]
+    },
+    "source": "Kent + ENT Physical Rubrics"
+  },
+  {
+    "rubric": "EAR - VERTIGO - as if falling sideways with nausea",
+    "rubric_type": "labyrinthine dysfunction",
+    "modalities": {
+      "worse": ["turning head quickly", "motion", "rising from bed"],
+      "better": ["lying still", "closing eyes"]
+    },
+    "remedies": {
+      "high": ["Conium", "Bryonia", "Gelsemium"],
+      "medium": ["Cocculus", "Theridion", "Phosphorus"],
+      "low": ["Chenopodium", "Tabacum", "Lac defloratum"]
+    },
+    "source": "Complete + Boenninghausen"
+  },
+  {
+    "rubric": "EAR - TINNITUS - high-pitched ringing in inner ear",
+    "rubric_type": "cochlear nerve disturbance",
+    "modalities": {
+      "worse": ["night", "silence", "after exposure to noise"],
+      "better": ["background noise", "distraction"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Salicylic acid", "Kali carbonicum"],
+      "medium": ["Phosphorus", "Carbo vegetabilis", "China"],
+      "low": ["Manganum", "Digitalis", "Chenopodium"]
+    },
+    "source": "Kent + Nash + Modern ENT Clinical"
+  },
+  {
+    "rubric": "EAR - SENSATION - plugged inner ear as if underwater",
+    "rubric_type": "auditory pressure disturbance",
+    "modalities": {
+      "worse": ["altitude", "diving", "swallowing"],
+      "better": ["Valsalva maneuver", "yawning"]
+    },
+    "remedies": {
+      "high": ["Lemna minor", "Kali mur", "Silicea"],
+      "medium": ["Hepar sulph", "Natrum sulph", "Merc sol"],
+      "low": ["Elaps", "Baryta mur", "Tellurium"]
+    },
+    "source": "ENT clinical repertory + Allen"
+  },
+  {
+    "rubric": "EAR - BALANCE disturbed with pressure in ears",
+    "rubric_type": "inner ear & vestibular",
+    "modalities": {
+      "worse": ["sudden head movements", "closing eyes", "dark room"],
+      "better": ["resting head", "light pressure on ears"]
+    },
+    "remedies": {
+      "high": ["Gelsemium", "Theridion", "Conium"],
+      "medium": ["Cocculus", "Argentum nitricum", "Lac defloratum"],
+      "low": ["Bromium", "Chenopodium", "Tabacum"]
+    },
+    "source": "Clinical + Nash + Allen"
+  },
+  {
+    "rubric": "EAR - TINNITUS - pulsating or heartbeat-like sound",
+    "rubric_type": "vascular tinnitus",
+    "modalities": {
+      "worse": ["night", "lying on left side", "quiet room"],
+      "better": ["head elevated", "daytime activity"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Digitalis", "Glonoinum"],
+      "medium": ["Phosphorus", "Cactus", "Lachesis"],
+      "low": ["Sulphur", "Chenopodium", "Natrum salicylicum"]
+    },
+    "source": "Boericke + Heart/Ear crossover rubrics"
+  },
+  {
+    "rubric": "EAR - HEARING - impaired - nerve deafness with roaring",
+    "rubric_type": "sensorineural hearing loss",
+    "modalities": {
+      "worse": ["after Meniere’s attack", "old age", "cold wind"],
+      "better": ["pressure", "chewing", "head down"]
+    },
+    "remedies": {
+      "high": ["Chenopodium", "Chininum sulph", "Phosphorus"],
+      "medium": ["Causticum", "Gelsemium", "Petroleum"],
+      "low": ["Salicylic acid", "Lac caninum", "Psorinum"]
+    },
+    "source": "Complete Repertory + Boericke + Nash"
+  },
+  {
+    "rubric": "EAR - NOISES - echoing voice in own head (autophony)",
+    "rubric_type": "inner ear echo perception",
+    "modalities": {
+      "worse": ["talking", "swallowing", "closing ears"],
+      "better": ["lying on painful side", "nasal clearing"]
+    },
+    "remedies": {
+      "high": ["Thuja", "Silicea", "Kali bichromicum"],
+      "medium": ["Hydrastis", "Calcarea carb", "Lemna minor"],
+      "low": ["Lac defloratum", "Hepar sulph", "Tellurium"]
+    },
+    "source": "ENT Clinical + Allen’s Symptom Register"
+  },
+  {
+    "rubric": "EAR - VERTIGO - with sensation of rotating objects",
+    "rubric_type": "labyrinthine vertigo",
+    "modalities": {
+      "worse": ["watching moving objects", "after rising", "motion"],
+      "better": ["eyes closed", "lying on back"]
+    },
+    "remedies": {
+      "high": ["Theridion", "Conium", "Cocculus"],
+      "medium": ["Phosphorus", "Gelsemium", "Bromium"],
+      "low": ["Cyclamen", "Pulsatilla", "Lac defloratum"]
+    },
+    "source": "Boenninghausen + Kent + Clinical rubrics"
+  },
+  {
+    "rubric": "EAR - TINNITUS - low buzzing as if machine running inside",
+    "rubric_type": "cochlear neural irritation",
+    "modalities": {
+      "worse": ["night", "lying on affected side", "after noise exposure"],
+      "better": ["background music", "distraction", "movement"]
+    },
+    "remedies": {
+      "high": ["Carbo vegetabilis", "Chininum sulph", "Salicylic acid"],
+      "medium": ["Graphites", "Phosphorus", "Causticum"],
+      "low": ["Chenopodium", "Manganum", "Onosmodium"]
+    },
+    "source": "Clinical repertory + Phatak + Boericke"
+  },
+  {
+    "rubric": "EAR - SENSATION - fullness and tightness deep inside ear",
+    "rubric_type": "inner ear pressure sensation",
+    "modalities": {
+      "worse": ["altitude", "after flying", "bending down"],
+      "better": ["swallowing", "blowing nose", "warmth"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Hepar sulph", "Merc sol"],
+      "medium": ["Silicea", "Lemna minor", "Natrum mur"],
+      "low": ["Psorinum", "Calcarea sulph", "Lac caninum"]
+    },
+    "source": "Allen + Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - TINNITUS - sudden onset after emotional shock or grief",
+    "rubric_type": "psychogenic auditory disturbance",
+    "modalities": {
+      "worse": ["night", "silence", "grief"],
+      "better": ["distraction", "talking", "daytime"]
+    },
+    "remedies": {
+      "high": ["Ignatia", "Natrum muriaticum", "Phosphoric acid"],
+      "medium": ["Aurum met", "Calcarea phosphorica", "Staphysagria"],
+      "low": ["Cimicifuga", "Anacardium", "Valeriana"]
+    },
+    "source": "Kent + Nash + Boericke"
+  },
+  {
+    "rubric": "EAR - VERTIGO - sensation as if falling backward",
+    "rubric_type": "labyrinthine balance disturbance",
+    "modalities": {
+      "worse": ["sudden head movement", "dark room", "closing eyes"],
+      "better": ["support", "light", "lying still"]
+    },
+    "remedies": {
+      "high": ["Gelsemium", "Argentum nitricum", "Baryta carbonica"],
+      "medium": ["Silicea", "Natrum mur", "Theridion"],
+      "low": ["Cocculus", "Causticum", "Conium"]
+    },
+    "source": "Boericke + Allen + Clarke"
+  },
+  {
+    "rubric": "EAR - HEARING - loss, alternating with noise",
+    "rubric_type": "fluctuating cochlear function",
+    "modalities": {
+      "worse": ["during cold", "after exertion", "in wind"],
+      "better": ["rest", "warmth", "covering ears"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Chenopodium", "Phosphorus"],
+      "medium": ["Calcarea carb", "Sulphur", "Magnesium carb"],
+      "low": ["Psorinum", "Carbo veg", "Petroleum"]
+    },
+    "source": "Complete Repertory + Allen’s Clinical"
+  },
+  {
+    "rubric": "EAR - NOISES - bubbling or gurgling sounds in inner ear",
+    "rubric_type": "endolymphatic hydrops or eustachian tube noise",
+    "modalities": {
+      "worse": ["after lying down", "swallowing", "cold air"],
+      "better": ["jaw movement", "warmth", "yawning"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Pulsatilla", "Hepar sulph"],
+      "medium": ["Lemna minor", "Silicea", "Calcarea sulph"],
+      "low": ["Psorinum", "Spigelia", "Tellurium"]
+    },
+    "source": "Phatak + Clinical + Boericke"
+  },
+  {
+    "rubric": "EAR - VERTIGO - inner ear vertigo with nausea and double vision",
+    "rubric_type": "labyrinth + ocular coordination issue",
+    "modalities": {
+      "worse": ["motion", "reading", "crowds"],
+      "better": ["lying on back", "quiet", "closing eyes"]
+    },
+    "remedies": {
+      "high": ["Cocculus", "Theridion", "Gelsemium"],
+      "medium": ["Conium", "Argentum nit", "Bromium"],
+      "low": ["Ipecac", "Cyclamen", "Petroleum"]
+    },
+    "source": "Hering Guiding Symptoms + Nash"
+  },
+  {
+    "rubric": "EAR - HEARING - loss - in elderly persons - with difficulty understanding words",
+    "rubric_type": "presbycusis (age-related cochlear degeneration)",
+    "modalities": {
+      "worse": ["crowds", "high-pitched sounds", "fatigue"],
+      "better": ["quiet surroundings", "morning", "rest"]
+    },
+    "remedies": {
+      "high": ["Baryta carbonica", "Phosphorus", "Carbo vegetabilis"],
+      "medium": ["Selenium", "Lycopodium", "Gelsemium"],
+      "low": ["Aurum mur natronatum", "Caladium", "Ambra grisea"]
+    },
+    "source": "Boericke + Allen + Clinical Repertory"
+  },
+  {
+    "rubric": "EAR - NOISES - echoing of own voice (autophony)",
+    "rubric_type": "eustachian tube dysfunction / middle-inner ear resonance",
+    "modalities": {
+      "worse": ["talking", "swallowing", "lying down"],
+      "better": ["sitting upright", "open air", "after yawning"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Graphites", "Mercurius"],
+      "medium": ["Hepar sulph", "Pulsatilla", "Petroleum"],
+      "low": ["Lemna minor", "Magnesia mur", "Psorinum"]
+    },
+    "source": "Complete Repertory + Clarke + Phatak"
+  },
+  {
+    "rubric": "EAR - HEARING - impaired after quinine or ototoxic drugs",
+    "rubric_type": "drug-induced sensorineural loss",
+    "modalities": {
+      "worse": ["evening", "continued exposure", "noise"],
+      "better": ["removal of cause", "rest", "quietness"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Salicylic acid", "Natrum salicylicum"],
+      "medium": ["Phosphorus", "Carbo vegetabilis", "Causticum"],
+      "low": ["Chenopodium", "Digitalis", "Plumbum"]
+    },
+    "source": "Hering + Boericke + Allen"
+  },
+  {
+    "rubric": "EAR - VERTIGO - with sensation of ears being blocked or full",
+    "rubric_type": "inner ear pressure dysfunction (hydrops, labyrinthitis)",
+    "modalities": {
+      "worse": ["after rising", "motion", "cold drinks"],
+      "better": ["lying still", "warmth", "swallowing"]
+    },
+    "remedies": {
+      "high": ["Lac caninum", "Conium", "Gelsemium"],
+      "medium": ["Silicea", "Tabacum", "Kali bichromicum"],
+      "low": ["Tellurium", "Pulsatilla", "Spigelia"]
+    },
+    "source": "Complete Repertory + Clinical Observations"
+  },
+  {
+    "rubric": "EAR - HEARING - intermittent - as if ear opens and shuts",
+    "rubric_type": "intermittent tubal obstruction / fluid variation",
+    "modalities": {
+      "worse": ["changing weather", "swallowing", "lying"],
+      "better": ["yawning", "clearing throat", "heat"]
+    },
+    "remedies": {
+      "high": ["Kali sulph", "Pulsatilla", "Merc sol"],
+      "medium": ["Chamomilla", "Silicea", "Calcarea sulph"],
+      "low": ["Lemna minor", "Ferrum phos", "Psorinum"]
+    },
+    "source": "Phatak + Boericke + Kent"
+  },
+  {
+    "rubric": "EAR - VERTIGO - sensation as if body turning in a circle - worse on turning head",
+    "rubric_type": "labyrinth dysfunction / positional vertigo",
+    "modalities": {
+      "worse": ["turning head", "getting up", "sudden movement"],
+      "better": ["lying still", "closing eyes", "supporting head"]
+    },
+    "remedies": {
+      "high": ["Conium", "Bryonia", "Gelsemium"],
+      "medium": ["Theridion", "Silicea", "Tabacum"],
+      "low": ["Cyclamen", "Cocculus", "Tellurium"]
+    },
+    "source": "Boericke + Allen + Nash"
+  },
+  {
+    "rubric": "EAR - NOISES - like wind blowing through tunnel",
+    "rubric_type": "cochlear or eustachian perception disorder",
+    "modalities": {
+      "worse": ["evening", "quiet surroundings", "after cold"],
+      "better": ["swallowing", "pressure", "open air"]
+    },
+    "remedies": {
+      "high": ["Lemna minor", "Kali mur", "Petroleum"],
+      "medium": ["Graphites", "Chenopodium", "Phosphorus"],
+      "low": ["Teucrium", "Causticum", "Selenium"]
+    },
+    "source": "Phatak + Clarke + Clinical Notes"
+  },
+  {
+    "rubric": "EAR - PAIN - deep-seated - extending to occiput or cervical spine",
+    "rubric_type": "auriculo-occipital nerve involvement / referred pain",
+    "modalities": {
+      "worse": ["cold", "touch", "swallowing", "neck strain"],
+      "better": ["warmth", "rest", "rubbing neck"]
+    },
+    "remedies": {
+      "high": ["Kali carbonicum", "Spigelia", "Gelsemium"],
+      "medium": ["Belladonna", "Silicea", "Chelidonium"],
+      "low": ["Cimicifuga", "Aesculus", "Ruta"]
+    },
+    "source": "Kent + Allen + Nash"
+  },
+  {
+    "rubric": "EAR - VERTIGO - as if floating or swaying, with nausea",
+    "rubric_type": "vestibular migraine / motion-related vertigo",
+    "modalities": {
+      "worse": ["movement", "light", "noise", "during menses"],
+      "better": ["darkness", "quiet", "lying still"]
+    },
+    "remedies": {
+      "high": ["Cocculus", "Gelsemium", "Sepia"],
+      "medium": ["Cyclamen", "Silicea", "Iris versicolor"],
+      "low": ["Theridion", "Chininum sulph", "Nux moschata"]
+    },
+    "source": "Boericke + Clinical Vertigo Texts"
+  },
+  {
+    "rubric": "EAR - HEARING - illusions; hears voices or music not present",
+    "rubric_type": "auditory hallucination / temporal lobe crossover",
+    "modalities": {
+      "worse": ["night", "alone", "anxiety states"],
+      "better": ["company", "talking", "activity"]
+    },
+    "remedies": {
+      "high": ["Anacardium", "Cannabis indica", "Stramonium"],
+      "medium": ["Lachesis", "Phosphorus", "Aurum metallicum"],
+      "low": ["Hyoscyamus", "Aethusa", "Cimicifuga"]
+    },
+    "source": "Hering + Boericke + Mental Repertory"
+  },
+  {
+    "rubric": "EAR - SENSATION - fullness or pressure deep inside ear - as if blocked by fluid",
+    "rubric_type": "endolymphatic hydrops / fluid imbalance / eustachian dysfunction",
+    "modalities": {
+      "worse": ["after flight", "during cold", "humidity"],
+      "better": ["swallowing", "dry weather", "warm drinks"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Mercurius dulcis", "Lemna minor"],
+      "medium": ["Hydrastis", "Silicea", "Pulsatilla"],
+      "low": ["Teucrium", "Natrum mur", "Hepar sulph"]
+    },
+    "source": "Boericke + Allen + Nash"
+  },
+  {
+    "rubric": "EAR - VERTIGO - worse with weather change or falling barometer",
+    "rubric_type": "inner ear pressure sensitivity / meteorological vertigo",
+    "modalities": {
+      "worse": ["rainy weather", "storm approaching", "cloudy sky"],
+      "better": ["sunshine", "indoors", "lying flat"]
+    },
+    "remedies": {
+      "high": ["Natrum sulph", "Phosphorus", "Gelsemium"],
+      "medium": ["Causticum", "Kali bich", "Spigelia"],
+      "low": ["Theridion", "Cyclamen", "Chininum sulph"]
+    },
+    "source": "Complete Repertory + Clinical Vertigo Sources"
+  },
+  {
+    "rubric": "EAR - HEARING - sudden loss - sensorineural origin, esp. after cold or virus",
+    "rubric_type": "inner ear nerve involvement / post-viral SNHL",
+    "modalities": {
+      "worse": ["after flu", "exposure to wind", "cold baths"],
+      "better": ["warmth", "after sweating", "hot food"]
+    },
+    "remedies": {
+      "high": ["Chenopodium", "Natrum salicylicum", "Mercurius sol"],
+      "medium": ["Phosphorus", "Kali mur", "Carbo vegetabilis"],
+      "low": ["Ferrum phos", "Hepar sulph", "Sulphur"]
+    },
+    "source": "Clarke + Nash + Clinical Homeopathy Journals"
+  },
+  {
+    "rubric": "EAR - PAIN - burning, tearing inside - as if nerves inflamed",
+    "rubric_type": "neuralgic otitis interna / neuritis",
+    "modalities": {
+      "worse": ["night", "wind", "jaw movement"],
+      "better": ["warm covering", "gentle rubbing", "closing jaw"]
+    },
+    "remedies": {
+      "high": ["Capsicum", "Plantago", "Spigelia"],
+      "medium": ["Verbascum", "Chamomilla", "Belladonna"],
+      "low": ["Kalmia", "Coffea", "Colocynthis"]
+    },
+    "source": "Kent + Allen + Clinical Notes"
+  },
+  {
+    "rubric": "EAR - NOISES - echoing or reverberating sound in ear",
+    "rubric_type": "inner ear distortion / nerve irregularity",
+    "modalities": {
+      "worse": ["speaking", "listening to music", "closed spaces"],
+      "better": ["open air", "sleep", "external noise"]
+    },
+    "remedies": {
+      "high": ["Graphites", "Causticum", "Kali bromatum"],
+      "medium": ["Phosphorus", "Thuja", "Mercurius"],
+      "low": ["Sulphur", "Agaricus", "Chininum sulph"]
+    },
+    "source": "Boericke + Phatak + Experience-based Materia Medica"
+  },
+  {
+    "rubric": "EAR - PAIN - during descent in airplane - intense deep boring pain",
+    "rubric_type": "barotrauma / eustachian tube dysfunction under pressure",
+    "modalities": {
+      "worse": ["plane landing", "rapid descent", "change in cabin pressure"],
+      "better": ["swallowing", "yawning", "Valsalva maneuver"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Chamomilla"],
+      "medium": ["Verbascum", "Carbo veg", "Ferrum phos"],
+      "low": ["Hydrastis", "Lemna minor", "Aconite"]
+    },
+    "source": "Clinical Aviation Cases + Allen + Boericke"
+  },
+  {
+    "rubric": "EAR - SENSATION - inner ear feels bruised, especially after trauma or surgery",
+    "rubric_type": "labyrinthine injury / surgical trauma / post-labyrinthectomy",
+    "modalities": {
+      "worse": ["touch", "loud noise", "movement"],
+      "better": ["rest", "soft sounds", "silence"]
+    },
+    "remedies": {
+      "high": ["Arnica", "Hypericum", "Bellis perennis"],
+      "medium": ["Phosphoric acid", "Ruta", "Symphytum"],
+      "low": ["Calendula", "Magnesium phosphoricum", "Staphysagria"]
+    },
+    "source": "Nash + Clarke + Clinical Trauma Compendium"
+  },
+  {
+    "rubric": "EAR - HEMORRHAGE - inner ear bleeding (esp. post head injury or extreme pressure)",
+    "rubric_type": "labyrinthine hemorrhage / temporal bone trauma",
+    "modalities": {
+      "worse": ["strain", "exertion", "trauma"],
+      "better": ["rest", "head elevation", "quiet"]
+    },
+    "remedies": {
+      "high": ["Hamamelis", "China", "Arnica"],
+      "medium": ["Phosphorus", "Crotalus", "Ferrum"],
+      "low": ["Lachesis", "Ipecac", "Millifolium"]
+    },
+    "source": "Boericke + Clinical ENT Journals"
+  },
+  {
+    "rubric": "EAR - SENSATION - swaying, rocking as if on a boat - Meniere's related vertigo",
+    "rubric_type": "endolymph imbalance / inner ear pressure dysregulation",
+    "modalities": {
+      "worse": ["turning head", "getting up", "crowds"],
+      "better": ["lying still", "closing eyes", "holding head"]
+    },
+    "remedies": {
+      "high": ["Theridion", "Bryonia", "Gelsemium"],
+      "medium": ["Tabacum", "Cocculus", "Conium"],
+      "low": ["Chenopodium", "Iodum", "Sulphur"]
+    },
+    "source": "Complete Repertory + Boericke + Clinical Vertigo Cases"
+  },
+  {
+    "rubric": "EAR - HEARING - bone conduction altered, hears own voice loudly (autophony)",
+    "rubric_type": "inner ear echo / bone transmission hypersensitivity",
+    "modalities": {
+      "worse": ["closed spaces", "talking", "vibration"],
+      "better": ["open air", "ear open", "resting jaw"]
+    },
+    "remedies": {
+      "high": ["Mercurius", "Causticum", "Graphites"],
+      "medium": ["Sulphur", "Kali carb", "Phosphorus"],
+      "low": ["Chininum sulph", "Calcarea carb", "Lachesis"]
+    },
+    "source": "Allen + Clinical ENT + Modern Homeopathy Texts"
+  },
+  {
+    "rubric": "EAR - VERTIGO - after viral infection - sudden loss of balance with nausea",
+    "rubric_type": "vestibular neuritis (post-viral)",
+    "modalities": {
+      "worse": ["movement", "turning head", "waking from sleep"],
+      "better": ["lying still", "dark room", "head support"]
+    },
+    "remedies": {
+      "high": ["Gelsemium", "Cocculus", "Phosphorus"],
+      "medium": ["Nux vomica", "Tabacum", "Belladonna"],
+      "low": ["Ipecac", "Kreosote", "Conium"]
+    },
+    "source": "Modern ENT + Kent + Clinical Vertigo Cases"
+  },
+  {
+    "rubric": "EAR - NOISES - echoing or double hearing (diplacusis), music sounds distorted",
+    "rubric_type": "inner ear nerve dysfunction / cochlear distortion",
+    "modalities": {
+      "worse": ["music", "multiple voices", "loud noise"],
+      "better": ["rest", "quiet", "ear plug"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Merc sol", "Phosphorus"],
+      "medium": ["China", "Natrum salicylicum", "Salicylic acidum"],
+      "low": ["Lachesis", "Causticum", "Silicea"]
+    },
+    "source": "Allen + Boericke + ENT Neurology"
+  },
+  {
+    "rubric": "EAR - HEARING - progressive unilateral loss with facial numbness",
+    "rubric_type": "acoustic neuroma (vestibular schwannoma)",
+    "modalities": {
+      "worse": ["long conversations", "jaw movement"],
+      "better": ["rest", "ear unplugged"]
+    },
+    "remedies": {
+      "high": ["Plumbum", "Phosphorus", "Conium"],
+      "medium": ["Baryta carb", "Lycopodium", "Ruta"],
+      "low": ["Cicuta", "Gelsemium", "Kali bichromicum"]
+    },
+    "source": "Clinical Neurology + Clarke + Farrington"
+  },
+  {
+    "rubric": "EAR - HEARING - fluctuates with joint pain or autoimmune complaints",
+    "rubric_type": "autoimmune inner ear disease (AIED)",
+    "modalities": {
+      "worse": ["weather change", "fatigue", "stress"],
+      "better": ["sleep", "warmth", "anti-inflammatory state"]
+    },
+    "remedies": {
+      "high": ["Sulphur", "Rhus tox", "Kali iod"],
+      "medium": ["Bryonia", "Ledum", "Natrum mur"],
+      "low": ["Guaiacum", "Apis", "Silicea"]
+    },
+    "source": "Autoimmune Clinical Homeopathy + Boericke"
+  },
+  {
+    "rubric": "EAR - INFLAMMATION - inner ear (labyrinthitis), sudden vertigo with hearing loss",
+    "rubric_type": "bacterial or viral labyrinthitis",
+    "modalities": {
+      "worse": ["head movement", "sitting up", "noise"],
+      "better": ["lying flat", "darkness", "silence"]
+    },
+    "remedies": {
+      "high": ["Belladonna", "Gelsemium", "Cocculus"],
+      "medium": ["Bryonia", "Kali bich", "Phosphorus"],
+      "low": ["Theridion", "Tabacum", "Ipecac"]
+    },
+    "source": "Clinical Neurology + Complete Repertory + Farrington"
+  },
+  {
+    "rubric": "EAR - NOISES - musical hallucinations - hears singing, orchestral sounds, hymns",
+    "rubric_type": "auditory hallucination (non-psychotic)",
+    "modalities": {
+      "worse": ["silence", "sleep deprivation", "elderly"],
+      "better": ["background noise", "talking", "ear stimulation"]
+    },
+    "remedies": {
+      "high": ["Anhalonium", "Cannabis indica", "Agaricus"],
+      "medium": ["Stramonium", "Lachesis", "Hyoscyamus"],
+      "low": ["Phosphorus", "Sulphur", "Chininum sulph"]
+    },
+    "source": "Clarke, Clinical Psychiatry, Neurosensory Homeopathy"
+  },
+  {
+    "rubric": "EAR - NOISES - hissing, gas leak sensation, frying sound",
+    "rubric_type": "inner ear hair cell damage (cochlear tinnitus)",
+    "modalities": {
+      "worse": ["night", "quiet room", "stress"],
+      "better": ["distraction", "soft ambient noise"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Salicylic acid", "Lycopodium"],
+      "medium": ["China", "Phosphorus", "Natrum salicylicum"],
+      "low": ["Silicea", "Kali sulph", "Theridion"]
+    },
+    "source": "Complete Repertory + Modern ENT Cases"
+  },
+  {
+    "rubric": "EAR - NOISES - pulsating - hears heartbeat in ear (pulsatile tinnitus)",
+    "rubric_type": "vascular origin tinnitus (carotid, venous hum, glomus tumor)",
+    "modalities": {
+      "worse": ["lying down", "neck pressure", "exertion"],
+      "better": ["elevation", "rest", "head turned"]
+    },
+    "remedies": {
+      "high": ["Glonoinum", "Belladonna", "Lachesis"],
+      "medium": ["Spigelia", "Digitalis", "Veratrum viride"],
+      "low": ["Ferrum met", "Cactus", "Baryta mur"]
+    },
+    "source": "Vascular Homeopathy + Hering + Farrington"
+  },
+  {
+    "rubric": "EAR - NOISES - with confusion or altered time perception",
+    "rubric_type": "temporal lobe disturbance or dissociative tinnitus",
+    "modalities": {
+      "worse": ["emotional shock", "sleep", "fever"],
+      "better": ["talking", "familiar surroundings"]
+    },
+    "remedies": {
+      "high": ["Anhalonium", "Cannabis indica", "Aurum"],
+      "medium": ["Natrum mur", "Hyoscyamus", "Belladonna"],
+      "low": ["Cimicifuga", "Platina", "Cocculus"]
+    },
+    "source": "Psychoneuro ENT Case Studies + Boericke"
+  },
+  {
+    "rubric": "EAR - NOISES - worse during emotional stress or grief",
+    "rubric_type": "psychosomatic tinnitus",
+    "modalities": {
+      "worse": ["grief", "overwork", "sadness"],
+      "better": ["music", "crying", "expression of emotion"]
+    },
+    "remedies": {
+      "high": ["Ignatia", "Natrum mur", "Phosphoric acid"],
+      "medium": ["Staphysagria", "Aur met", "Pulsatilla"],
+      "low": ["Sepia", "Causticum", "Calcarea phos"]
+    },
+    "source": "Kent + Mind-Body Repertory + Clinical ENT"
+  },
+  {
+    "rubric": "EAR - DEAFNESS - sudden, after emotional shock or fright",
+    "rubric_type": "neurogenic deafness post trauma",
+    "modalities": {
+      "worse": ["sudden fright", "bad news", "after grief"],
+      "better": ["rest", "reassurance", "sleep"]
+    },
+    "remedies": {
+      "high": ["Ignatia", "Aconite", "Opium"],
+      "medium": ["Phosphoric acid", "Gelsemium", "Chamomilla"],
+      "low": ["Pulsatilla", "Cocculus", "Stramonium"]
+    },
+    "source": "Allen, Clinical Shock Remedies + ENT Repertory"
+  },
+  {
+    "rubric": "EAR - HEARING - lost - autoimmune causes - fluctuating",
+    "rubric_type": "autoimmune inner ear disease (AIED)",
+    "modalities": {
+      "worse": ["stress", "infections", "hormonal shifts"],
+      "better": ["low sodium diet", "immunosuppressants (allopathic)", "calm"],
+      "concomitant": ["joint pains", "fatigue", "dizziness"]
+    },
+    "remedies": {
+      "high": ["Kali carbonicum", "Natrum sulph", "Phosphorus"],
+      "medium": ["Causticum", "Sepia", "Tuberculinum"],
+      "low": ["Calcarea fluor", "Hepar sulph", "Silicea"]
+    },
+    "source": "Modern Immunology + Systemic Autoimmune ENT Cases"
+  },
+  {
+    "rubric": "EAR - PAIN - deep inside head - < noise - associated with anxiety",
+    "rubric_type": "vestibular migraine or inner ear pressure disorders",
+    "modalities": {
+      "worse": ["loud noise", "movement", "mental exertion"],
+      "better": ["quiet", "lying in dark", "closing eyes"]
+    },
+    "remedies": {
+      "high": ["Kali bichromicum", "Gelsemium", "Spigelia"],
+      "medium": ["Belladonna", "Cocculus", "Glonoinum"],
+      "low": ["Iris versicolor", "Natrum mur", "Lobelia"]
+    },
+    "source": "Vertigo & Migraine Syndromes + Hering"
+  },
+  {
+    "rubric": "EAR - VERTIGO - with hearing loss and fullness",
+    "rubric_type": "Ménière’s disease / endolymphatic hydrops",
+    "modalities": {
+      "worse": ["salt", "stress", "weather changes"],
+      "better": ["lying down", "quiet", "head supported"]
+    },
+    "remedies": {
+      "high": ["Chenopodium", "Chininum sulph", "Gelsemium"],
+      "medium": ["Conium", "Phosphorus", "Theridion"],
+      "low": ["Cyclamen", "Silicea", "Lachesis"]
+    },
+    "source": "ENT Texts + Vertigo Clinical Cases"
+  },
+  {
+    "rubric": "EAR - NOISES - with irritability and desire to strike",
+    "rubric_type": "neuro-irritative tinnitus linked to mental restlessness",
+    "modalities": {
+      "worse": ["noise", "evening", "contradiction"],
+      "better": ["being alone", "darkness", "cold air"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Nux vomica", "Belladonna"],
+      "medium": ["Tarentula", "Veratrum album", "Lachesis"],
+      "low": ["Stramonium", "Hyoscyamus", "Anacardium"]
+    },
+    "source": "Mental Rubric Cross with ENT Rubrics"
+  },
+  {
+    "rubric": "EAR - DEAFNESS - from quinine, salicylates, or streptomycin",
+    "rubric_type": "ototoxicity-induced hearing loss",
+    "modalities": {
+      "worse": ["after malaria treatment", "long antibiotic use", "NSAIDs"],
+      "better": ["stopping the drug", "rest", "alkaline diet"]
+    },
+    "remedies": {
+      "high": ["Chininum sulphuricum", "Salicylicum acidum", "China"],
+      "medium": ["Phosphorus", "Kali bichromicum", "Carbo veg"],
+      "low": ["Ipecac", "Digitalis", "Sulphur"]
+    },
+    "source": "Boericke + Clinical Pharmacological Repertory"
+  },
+  {
+    "rubric": "EAR - NOISES - roaring, < by barometric pressure change",
+    "rubric_type": "inner ear hydrops / barometric tinnitus",
+    "modalities": {
+      "worse": ["airplane travel", "storm coming", "weather changes"],
+      "better": ["lying down", "warm applications", "yawning or swallowing"]
+    },
+    "remedies": {
+      "high": ["Silicea", "Theridion", "Spigelia"],
+      "medium": ["Natrum sulph", "Graphites", "Chenopodium"],
+      "low": ["Cyclamen", "Pulsatilla", "Conium"]
+    },
+    "source": "Complete Repertory + Aviation ENT Cases"
+  },
+  {
+    "rubric": "EAR - DEAFNESS - alternating with vertigo and visual aura",
+    "rubric_type": "vestibular migraine or central auditory processing disorder",
+    "modalities": {
+      "worse": ["mental exertion", "emotional tension", "bright light"],
+      "better": ["dark room", "quiet", "pressure on head"]
+    },
+    "remedies": {
+      "high": ["Iris versicolor", "Gelsemium", "Spigelia"],
+      "medium": ["Cicuta", "Phosphorus", "Sanguinaria"],
+      "low": ["Nux moschata", "Anacardium", "Lobelia"]
+    },
+    "source": "Cross-linked Rubrics: Ear + Vision + Head"
+  },
+  {
+    "rubric": "EAR - TINNITUS - with epileptic aura or seizure tendency",
+    "rubric_type": "neuro-auditory seizure prodrome",
+    "modalities": {
+      "worse": ["before seizures", "loud sounds", "overheating"],
+      "better": ["cold application", "rest", "pressure on temples"]
+    },
+    "remedies": {
+      "high": ["Cicuta virosa", "Cuprum metallicum", "Silicea"],
+      "medium": ["Agaricus", "Hydrocyanic acid", "Opium"],
+      "low": ["Helleborus", "Bufo", "Nux vomica"]
+    },
+    "source": "Neuro-Hearing Rubrics + Boericke"
+  },
+  {
+    "rubric": "EAR - VERTIGO - with nausea from slightest motion",
+    "rubric_type": "vestibular hypersensitivity or motion sickness",
+    "modalities": {
+      "worse": ["car travel", "boat ride", "even closing eyes while lying"],
+      "better": ["open eyes", "cold air", "keeping head still"]
+    },
+    "remedies": {
+      "high": ["Cocculus", "Theridion", "Tabacum"],
+      "medium": ["Petroleum", "Borax", "Conium"],
+      "low": ["Nux vomica", "Ipecac", "Kreosotum"]
+    },
+    "source": "Motion-Induced Ear Disorders + Kent"
+  },
+  {
+    "rubric": "EAR - VERTIGO - from labyrinthitis",
+    "rubric_type": "inner ear infection (labyrinthitis)",
+    "modalities": {
+      "worse": ["turning head", "walking", "loud sounds"],
+      "better": ["complete rest", "dark room", "lying still"]
+    },
+    "remedies": {
+      "high": ["Gelsemium", "Conium", "Cocculus"],
+      "medium": ["Chenopodium", "Bryonia", "Phosphorus"],
+      "low": ["Ipecac", "Pulsatilla", "Theridion"]
+    },
+    "source": "Boericke + ENT Clinical Manuals"
+  },
+  {
+    "rubric": "EAR - FULLNESS - sensation of pressure in inner ear",
+    "rubric_type": "Eustachian or cochlear pressure dysregulation",
+    "modalities": {
+      "worse": ["after flying", "during storms", "chewing"],
+      "better": ["yawning", "swallowing", "Valsalva maneuver"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Hydrastis"],
+      "medium": ["Merc sol", "Graphites", "Spigelia"],
+      "low": ["Baryta mur", "Belladonna", "Calcarea fluor"]
+    },
+    "source": "Hering + Clinical Notes"
+  },
+  {
+    "rubric": "EAR - DEAFNESS - gradually progressing, with cranial nerve signs",
+    "rubric_type": "acoustic neuroma or retrocochlear pathology",
+    "modalities": {
+      "worse": ["gradual", "head pressure", "facial tingling"],
+      "better": ["lying on opposite side", "avoiding noise"]
+    },
+    "remedies": {
+      "high": ["Conium", "Plumbum", "Phosphorus"],
+      "medium": ["Thuja", "Alumina", "Cicuta"],
+      "low": ["Arg nit", "Aurum mur", "Silicea"]
+    },
+    "source": "Clinical Neuro-Otology Rubrics"
+  },
+  {
+    "rubric": "EAR - TINNITUS - deep humming, like machinery",
+    "rubric_type": "sensorineural tinnitus",
+    "modalities": {
+      "worse": ["evening", "quiet room", "pressure"],
+      "better": ["distraction", "soft music"]
+    },
+    "remedies": {
+      "high": ["Salicylic acid", "Chenopodium", "Chininum sulph"],
+      "medium": ["Graphites", "Lachesis", "Sulphur"],
+      "low": ["Causticum", "Cyclamen", "Petroleum"]
+    },
+    "source": "Complete Repertory + ENT Research"
+  },
+  {
+    "rubric": "EAR - DEAFNESS - sudden, idiopathic (viral or vascular)",
+    "rubric_type": "idiopathic sudden sensorineural hearing loss (SSNHL)",
+    "modalities": {
+      "worse": ["waking up", "stress", "exposure to cold wind"],
+      "better": ["warmth", "lying on affected side"]
+    },
+    "remedies": {
+      "high": ["Aconite", "Belladonna", "Gelsemium"],
+      "medium": ["Phosphorus", "Chininum sulph", "Lachesis"],
+      "low": ["Nitric acid", "Carbo veg", "Silicea"]
+    },
+    "source": "ENT Emergency Protocols + Boericke"
+  },
+  {
+    "rubric": "EAR - VERTIGO - < by pressure in inner ear",
+    "rubric_type": "endolymphatic hydrops / Meniere’s disease",
+    "modalities": {
+      "worse": ["change in head position", "salt intake", "stormy weather"],
+      "better": ["lying still", "diuretics", "avoiding dairy"]
+    },
+    "remedies": {
+      "high": ["Natrum sulph", "Silicea", "Chininum sulph"],
+      "medium": ["Conium", "Hydrocotyle", "Theridion"],
+      "low": ["Pulsatilla", "Kali bich", "Spigelia"]
+    },
+    "source": "Modern ENT & Repertory Integration"
+  },
+  {
+    "rubric": "EAR - TINNITUS - pulsating, in rhythm with heart",
+    "rubric_type": "vascular tinnitus / glomus tumor possibility",
+    "modalities": {
+      "worse": ["silence", "lying down", "stress"],
+      "better": ["sitting up", "pressure on neck vessels"]
+    },
+    "remedies": {
+      "high": ["Glonoinum", "Belladonna", "Lachesis"],
+      "medium": ["Spigelia", "Phosphorus", "Cactus"],
+      "low": ["Digitalis", "Veratrum viride", "Aurum"]
+    },
+    "source": "Cardio-Neuro ENT Rubrics"
+  },
+  {
+    "rubric": "EAR - TINNITUS - < before menses, > after flow",
+    "rubric_type": "hormonal auditory sensitivity",
+    "modalities": {
+      "worse": ["before period", "emotional stress"],
+      "better": ["onset of menses", "relaxation"]
+    },
+    "remedies": {
+      "high": ["Lachesis", "Sepia", "Pulsatilla"],
+      "medium": ["Cyclamen", "Murex", "Natrum mur"],
+      "low": ["Mag carb", "Caulophyllum", "Kreosotum"]
+    },
+    "source": "Female Repertory Links"
+  },
+  {
+    "rubric": "EAR - DEAFNESS - partial, in right ear only",
+    "rubric_type": "unilateral partial sensorineural deafness",
+    "modalities": {
+      "worse": ["exertion", "right-sided lying"],
+      "better": ["rest", "cold compress on neck"]
+    },
+    "remedies": {
+      "high": ["Silicea", "Thuja", "Causticum"],
+      "medium": ["Merc sol", "Hepar sulph", "Kali mur"],
+      "low": ["Phosphorus", "Spigelia", "Arg nit"]
+    },
+    "source": "Complete Repertory + Lateral Remedies"
+  },
+  {
+    "rubric": "EAR - VERTIGO - with heaviness in occiput",
+    "rubric_type": "cervico-vestibular dysfunction",
+    "modalities": {
+      "worse": ["morning", "rising", "stooping"],
+      "better": ["back massage", "resting back on support"]
+    },
+    "remedies": {
+      "high": ["Gelsemium", "Lycopodium", "Cimicifuga"],
+      "medium": ["Phosphorus", "Conium", "Calc phos"],
+      "low": ["Rhus tox", "Natrum mur", "Cocculus"]
+    },
+    "source": "Neurovestibular Rubrics + Kent + Boericke"
+  },
+  {
+    "rubric": "EAR - PAIN - boring - inward - extending to throat",
+    "rubric_type": "deep-pathological",
+    "modalities": {
+      "worse": ["night", "swallowing"],
+      "better": ["warm drinks", "lying on affected side"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Merc sol", "Kali bich"],
+      "medium": ["Belladonna", "Chamomilla", "Silicea"],
+      "low": ["Baryta carb", "Lycopodium", "Verbascum"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - ABSCESS - mastoid region",
+    "rubric_type": "pathological",
+    "modalities": {
+      "worse": ["touch", "pressure"],
+      "better": ["warmth", "open air"]
+    },
+    "remedies": {
+      "high": ["Silicea", "Hepar sulph", "Mercurius"],
+      "medium": ["Psorinum", "Calcarea sulph", "Phosphorus"],
+      "low": ["Fluoric acid", "Carbo animalis", "Cistus"]
+    },
+    "source": "Boericke + Clinical"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - purulent - with offensive odor - chronic",
+    "rubric_type": "deep-confirmatory",
+    "modalities": {
+      "worse": ["cold bathing", "night"],
+      "better": ["dry climate", "sunlight"]
+    },
+    "remedies": {
+      "high": ["Psorinum", "Tellurium", "Merc sol"],
+      "medium": ["Kali bich", "Hepar sulph", "Graphites"],
+      "low": ["Sulphur", "Silicea", "Calcarea carb"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - ITCHING - deep in inner ear",
+    "rubric_type": "functional-confirmatory",
+    "modalities": {
+      "worse": ["heat", "dryness"],
+      "better": ["rubbing", "cool air"]
+    },
+    "remedies": {
+      "high": ["Sulphur", "Psorinum", "Kali bich"],
+      "medium": ["Tellurium", "Cina", "Petroleum"],
+      "low": ["Dolichos", "Mezereum", "Staphysagria"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - NOISES - like distant cannon fire",
+    "rubric_type": "rare-peculiar",
+    "modalities": {
+      "worse": ["night", "silence"],
+      "better": ["distraction", "noise"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Silicea", "Salicylic acid"],
+      "medium": ["China", "Cinchona", "Phosphorus"],
+      "low": ["Tabacum", "Theridion", "Kali mur"]
+    },
+    "source": "Boericke + Clinical"
+  },
+  {
+    "rubric": "EAR - EXUDATION - serous fluid - post-infection",
+    "rubric_type": "clinical-confirmatory",
+    "modalities": {
+      "worse": ["after fever", "damp weather"],
+      "better": ["sunlight", "dry environment"]
+    },
+    "remedies": {
+      "high": ["Calcarea sulph", "Silicea", "Mercurius dulcis"],
+      "medium": ["Graphites", "Baryta mur", "Kali mur"],
+      "low": ["Tuberculinum", "Hydrastis", "Natrum sulph"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - INFLAMMATION - inner ear - labyrinthitis",
+    "rubric_type": "deep-pathological",
+    "modalities": {
+      "worse": ["movement", "loud sounds"],
+      "better": ["absolute rest", "dark room"]
+    },
+    "remedies": {
+      "high": ["Gelsemium", "Cocculus", "Chenopodium"],
+      "medium": ["Conium", "Phosphorus", "Belladonna"],
+      "low": ["Salicylic acid", "Tabacum", "Theridion"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - PARALYSIS - auditory nerve",
+    "rubric_type": "rare-clinical",
+    "modalities": {
+      "worse": ["aging", "nerve damage"],
+      "better": ["hearing aid", "low tones"]
+    },
+    "remedies": {
+      "high": ["Phosphorus", "Chenopodium", "Salicylic acid"],
+      "medium": ["Conium", "China", "Baryta mur"],
+      "low": ["Plumbum", "Causticum", "Gelsemium"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - PAIN - pulsating - with heat in ear",
+    "rubric_type": "deep-inflammatory",
+    "modalities": {
+      "worse": ["night", "touch", "noise"],
+      "better": ["open air", "warm applications"]
+    },
+    "remedies": {
+      "high": ["Belladonna", "Hepar sulph", "Chamomilla"],
+      "medium": ["Merc sol", "Pulsatilla", "Silicea"],
+      "low": ["Mezereum", "Cistus", "Verbascum"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - watery - after measles",
+    "rubric_type": "post-infective-confirmatory",
+    "modalities": {
+      "worse": ["night", "cold air"],
+      "better": ["warmth", "covering"]
+    },
+    "remedies": {
+      "high": ["Pulsatilla", "Sulphur", "Psorinum"],
+      "medium": ["Kali sulph", "Tuberculinum", "Calcarea carb"],
+      "low": ["Thuja", "Baryta carb", "Natrum mur"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - INNER EAR - inflammation with vertigo and nausea",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["motion", "sudden head movements"],
+      "better": ["lying still", "closing eyes"]
+    },
+    "remedies": {
+      "high": ["Gelsemium", "Bryonia", "Cocculus"],
+      "medium": ["Conium", "Lachesis", "Belladonna"],
+      "low": ["Tabacum", "Chenopodium", "Theridion"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - INNER EAR - sensation as if water inside",
+    "rubric_type": "confirmatory",
+    "modalities": {
+      "worse": ["swallowing", "bending head"],
+      "better": ["lying on painful side", "warm applications"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Pulsatilla", "Silicea"],
+      "medium": ["Merc sol", "Chamomilla", "Hydrastis"],
+      "low": ["Ferrum phos", "Hepar sulph", "Borax"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - INNER EAR - noises with heart beat (pulsatile tinnitus)",
+    "rubric_type": "rare-confirmatory",
+    "modalities": {
+      "worse": ["lying on left side", "night"],
+      "better": ["elevating head", "quiet"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Glonoinum", "Lachesis"],
+      "medium": ["Ferrum met", "Belladonna", "Baryta mur"],
+      "low": ["Digitalis", "Phosphorus", "Spigelia"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - INNER EAR - pressure inward with dizziness",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["climbing stairs", "crowded places"],
+      "better": ["cool air", "firm pressure"]
+    },
+    "remedies": {
+      "high": ["Conium", "Theridion", "Gelsemium"],
+      "medium": ["Argentum nit", "Cocculus", "Natrum salicylicum"],
+      "low": ["Plumbum", "Chenopodium", "Tabacum"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - INNER EAR - tingling or crawling sensation",
+    "rubric_type": "confirmatory",
+    "modalities": {
+      "worse": ["night", "touch"],
+      "better": ["rubbing", "scratching"]
+    },
+    "remedies": {
+      "high": ["Sulphur", "Petroleum", "Psorinum"],
+      "medium": ["Arundo", "Tellurium", "Thuja"],
+      "low": ["Nitric acid", "Lycopodium", "Graphites"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - INNER EAR - humming as of bees",
+    "rubric_type": "rare",
+    "modalities": {
+      "worse": ["evening", "rest"],
+      "better": ["distraction", "noise"]
+    },
+    "remedies": {
+      "high": ["Cimicifuga", "Salicylic acid", "Chininum sulph"],
+      "medium": ["Thuja", "Phosphoric acid", "Spigelia"],
+      "low": ["Agaricus", "Allium cepa", "Silicea"]
+    },
+    "source": "Clinical + Tinnitus repertory"
+  },
+  {
+    "rubric": "EAR - INNER EAR - echoing of own voice (autophony)",
+    "rubric_type": "deep-confirmatory",
+    "modalities": {
+      "worse": ["talking", "swallowing"],
+      "better": ["pressure", "lying on painful side"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Calcarea carb"],
+      "medium": ["Natrum mur", "Graphites", "Pulsatilla"],
+      "low": ["Hepar sulph", "Merc sol", "Spongia"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - INNER EAR - cracking on swallowing",
+    "rubric_type": "specific",
+    "modalities": {
+      "worse": ["empty swallowing", "dry throat"],
+      "better": ["drinking warm water"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Ferrum phos", "Silicea"],
+      "medium": ["Merc sol", "Belladonna", "Arum triph"],
+      "low": ["Chamomilla", "Pulsatilla", "Hepar sulph"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - INNER EAR - fluid sensation with gurgling",
+    "rubric_type": "rare",
+    "modalities": {
+      "worse": ["bending forward", "morning"],
+      "better": ["sneezing", "head movement"]
+    },
+    "remedies": {
+      "high": ["Silicea", "Pulsatilla", "Kali mur"],
+      "medium": ["Hydrastis", "Merc sol", "Causticum"],
+      "low": ["Lemna minor", "Spongia", "Borax"]
+    },
+    "source": "Clinical + ENT references"
+  },
+  {
+    "rubric": "EAR - INNER EAR - pain extending to throat and teeth",
+    "rubric_type": "nerve involvement",
+    "modalities": {
+      "worse": ["swallowing", "chewing", "cold drinks"],
+      "better": ["warmth", "rest"]
+    },
+    "remedies": {
+      "high": ["Belladonna", "Chamomilla", "Merc sol"],
+      "medium": ["Hepar sulph", "Spigelia", "Arnica"],
+      "low": ["Lachesis", "Kali bichromicum", "Aconite"]
+    },
+    "source": "Kent + Allen"
+  },
+  {
+    "rubric": "EAR - EUSTACHIAN TUBE - obstruction sensation",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["during colds", "climbing", "swallowing"],
+      "better": ["yawning", "blowing nose", "warm drinks"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Pulsatilla", "Hydrastis"],
+      "medium": ["Silicea", "Mercurius", "Hepar sulph"],
+      "low": ["Calcarea fluor", "Baryta carb", "Nux vomica"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - LABYRINTHITIS - inflammation of inner ear",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["sudden movement", "cold", "noise"],
+      "better": ["lying still", "quiet"],
+      "accompanied_by": ["vertigo", "nausea", "deafness"]
+    },
+    "remedies": {
+      "high": ["Conium", "Chininum sulph", "Gelsemium"],
+      "medium": ["Phosphorus", "Cocculus", "Belladonna"],
+      "low": ["Silicea", "Salicylic acid", "Theridion"]
+    },
+    "source": "Clinical + Clarke"
+  },
+  {
+    "rubric": "EAR - INNER EAR - pain with cracking noises",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["swallowing", "chewing", "cold air"],
+      "better": ["warmth", "rest"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Hepar sulph", "Chamomilla"],
+      "medium": ["Merc sol", "Calcarea carb", "Graphites"],
+      "low": ["Silicea", "Nux vomica", "Belladonna"]
+    },
+    "source": "Kent + Boericke"
+  },
+  {
+    "rubric": "EAR - SENSATION - ear tightly plugged, no wax",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["cold weather", "after bathing", "flying"],
+      "better": ["swallowing", "pressure equalization"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Pulsatilla", "Silicea"],
+      "medium": ["Hepar sulph", "Merc sol", "Borax"],
+      "low": ["Hydrastis", "Phosphorus", "Lachesis"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - chronic offensive from inner ear",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["damp weather", "night", "cold wind"],
+      "better": ["dry climate", "cleaning discharge"]
+    },
+    "remedies": {
+      "high": ["Psorinum", "Merc sol", "Silicea"],
+      "medium": ["Calcarea sulph", "Graphites", "Kali bichrom"],
+      "low": ["Hepar sulph", "Tellurium", "Sulphur"]
+    },
+    "source": "Hering Guiding Symptoms"
+  },
+  {
+    "rubric": "EAR - INNER EAR - inflammation after flu",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["after influenza", "sudden sound", "light"],
+      "better": ["lying still", "dark room"]
+    },
+    "remedies": {
+      "high": ["Gelsemium", "Chininum sulph", "Phosphorus"],
+      "medium": ["Belladonna", "Conium", "Pulsatilla"],
+      "low": ["Cocculus", "Salicylic acid", "Theridion"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - DEAFNESS - due to Eustachian catarrh",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["damp weather", "chronic rhinitis"],
+      "better": ["after blowing nose"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Hydrastis", "Pulsatilla"],
+      "medium": ["Silicea", "Hepar sulph", "Merc sol"],
+      "low": ["Sanguinaria", "Causticum", "Calcarea carb"]
+    },
+    "source": "Boericke + Allen"
+  },
+  {
+    "rubric": "EAR - BALANCE - difficulty walking, unsteady",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["eyes closed", "sudden turns", "fatigue"],
+      "better": ["support", "lying down"]
+    },
+    "remedies": {
+      "high": ["Conium", "Gelsemium", "Cocculus"],
+      "medium": ["Phosphorus", "Lycopodium", "Chininum sulph"],
+      "low": ["Silicea", "Ambra grisea", "Theridion"]
+    },
+    "source": "Clarke + Kent"
+  },
+  {
+    "rubric": "EAR - INNER EAR - burning sensation",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["evening", "touch", "cold"],
+      "better": ["warmth", "rest"]
+    },
+    "remedies": {
+      "high": ["Capsicum", "Sulphur", "Chamomilla"],
+      "medium": ["Hepar sulph", "Merc sol", "Phosphorus"],
+      "low": ["Silicea", "Pulsatilla", "Graphites"]
+    },
+    "source": "Hering + Boericke"
+  },
+  {
+    "rubric": "EAR - EUSTACHIAN TUBE - click with swallowing",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["swallowing", "yawning", "pressure changes"],
+      "better": ["head elevation", "steam inhalation"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Pulsatilla"],
+      "medium": ["Merc sol", "Hepar sulph", "Borax"],
+      "low": ["Phosphorus", "Calcarea fluor", "Hydrastis"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - SENSITIVE to slightest noise - reverberates in ear",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["slight noise", "sudden sound", "music"],
+      "better": ["quiet", "covering ears"]
+    },
+    "remedies": {
+      "high": ["Nux vomica", "Silicea", "China"],
+      "medium": ["Belladonna", "Lycopodium", "Hepar sulph"],
+      "low": ["Pulsatilla", "Phosphorus", "Natrum carb"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - HEAT - burning sensation inside ears",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["evening", "anger", "menses"],
+      "better": ["cool air", "rest"]
+    },
+    "remedies": {
+      "high": ["Belladonna", "Sulphur", "Pulsatilla"],
+      "medium": ["Chamomilla", "Phosphorus", "Sanguinaria"],
+      "low": ["Lachesis", "Apis", "Causticum"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - EUSTACHIAN TUBE - obstruction sensation",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["swallowing", "cold", "pressure changes"],
+      "better": ["yawning", "blowing nose", "hot drinks"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Merc sol", "Pulsatilla"],
+      "medium": ["Hydrastis", "Silicea", "Causticum"],
+      "low": ["Ferrum phos", "Phosphorus", "Hepar sulph"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - JERKING - inward jerking sensation",
+    "rubric_type": "neurological",
+    "modalities": {
+      "worse": ["night", "rest", "after exertion"],
+      "better": ["gentle movement", "daytime"]
+    },
+    "remedies": {
+      "high": ["Zincum", "Agaricus", "Cina"],
+      "medium": ["Stramonium", "Hyoscyamus", "Cuprum met"],
+      "low": ["Veratrum album", "Belladonna", "Secale"]
+    },
+    "source": "Nash"
+  },
+  {
+    "rubric": "EAR - ECZEMA - inner ear canal eruptions",
+    "rubric_type": "skin-linked",
+    "modalities": {
+      "worse": ["scratching", "moisture", "heat"],
+      "better": ["cold application", "dry weather"]
+    },
+    "remedies": {
+      "high": ["Graphites", "Petroleum", "Mezereum"],
+      "medium": ["Sulphur", "Psorinum", "Calcarea sulph"],
+      "low": ["Hepar sulph", "Antimonium crudum", "Borax"]
+    },
+    "source": "Allen’s Keynotes"
+  },
+  {
+    "rubric": "EAR - SENSATION - water in the ear",
+    "rubric_type": "strange rare",
+    "modalities": {
+      "worse": ["bathing", "head movement", "morning"],
+      "better": ["lying on affected side", "ear cleaned"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Pulsatilla"],
+      "medium": ["Borax", "Thuja", "Natrum mur"],
+      "low": ["Causticum", "Hepar sulph", "Graphites"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - HEARING - impaired - with echoing voice",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["talking", "reading aloud"],
+      "better": ["quiet", "covering ears"]
+    },
+    "remedies": {
+      "high": ["Phosphorus", "Causticum", "Merc sol"],
+      "medium": ["Silicea", "Pulsatilla", "China"],
+      "low": ["Carbo veg", "Kali bichromicum", "Nux vomica"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - offensive - thick and greenish",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["night", "damp weather"],
+      "better": ["warm application", "after discharge"]
+    },
+    "remedies": {
+      "high": ["Psorinum", "Merc sol", "Calcarea sulph"],
+      "medium": ["Pulsatilla", "Hepar sulph", "Kali bichromicum"],
+      "low": ["Silicea", "Sulphur", "Lycopodium"]
+    },
+    "source": "Boericke"
+  },
+  {
+    "rubric": "EAR - SWELLING - of internal ear - inflammation",
+    "rubric_type": "deep pathology",
+    "modalities": {
+      "worse": ["cold", "touch", "pressure"],
+      "better": ["warmth", "rest"]
+    },
+    "remedies": {
+      "high": ["Belladonna", "Hepar sulph", "Chamomilla"],
+      "medium": ["Merc sol", "Silicea", "Pulsatilla"],
+      "low": ["Ferrum phos", "Lachesis", "Sulphur"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - PAIN - tearing pain - extends to teeth or throat",
+    "rubric_type": "deep nerve",
+    "modalities": {
+      "worse": ["swallowing", "cold drinks", "night"],
+      "better": ["warm applications", "rest"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Belladonna", "Merc sol"],
+      "medium": ["Spigelia", "Silicea", "Phytolacca"],
+      "low": ["Kali bichromicum", "Pulsatilla", "Hepar sulph"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - DISCHARGE - offensive - chronic otorrhoea",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["night", "damp weather", "bathing"],
+      "better": ["dry climate", "keeping ear dry"]
+    },
+    "remedies": {
+      "high": ["Psorinum", "Calcarea sulph", "Silicea"],
+      "medium": ["Hepar sulph", "Merc sol", "Pulsatilla"],
+      "low": ["Kali mur", "Graphites", "Sulphur"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - ITCHING - deep in canal",
+    "rubric_type": "sensory",
+    "modalities": {
+      "worse": ["night", "warmth of bed"],
+      "better": ["scratching", "cold applications"]
+    },
+    "remedies": {
+      "high": ["Dolichos", "Psorinum", "Sulphur"],
+      "medium": ["Graphites", "Petroleum", "Thuja"],
+      "low": ["Arundo", "Lycopodium", "Mezereum"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - ECZEMA - behind and around ear",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["scratching", "milk exposure (children)"],
+      "better": ["cool air", "bathing with plain water"]
+    },
+    "remedies": {
+      "high": ["Graphites", "Petroleum", "Mezereum"],
+      "medium": ["Sulphur", "Calcarea carb", "Viola tricolor"],
+      "low": ["Psorinum", "Hepar sulph", "Oleander"]
+    },
+    "source": "Boericke + Clinical"
+  },
+  {
+    "rubric": "EAR - TUMOR - mastoid region - post infection",
+    "rubric_type": "pathological",
+    "modalities": {
+      "worse": ["cold air", "pressure"],
+      "better": ["hot applications"]
+    },
+    "remedies": {
+      "high": ["Calcarea fluor", "Silicea", "Hepar sulph"],
+      "medium": ["Merc iodatum", "Belladonna", "Phosphorus"],
+      "low": ["Kali iod", "Carbo animalis", "Baryta carb"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - PAIN - tearing - radiating to jaw and neck",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["chewing", "cold drinks"],
+      "better": ["warmth", "rest"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Belladonna", "Spigelia"],
+      "medium": ["Merc sol", "Hepar sulph", "Kali bich"],
+      "low": ["Silicea", "Mezereum", "Phytolacca"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "EAR - INFLAMMATION - inner - chronic - with deafness",
+    "rubric_type": "pathological",
+    "modalities": {
+      "worse": ["damp weather", "night"],
+      "better": ["dry warm climate"]
+    },
+    "remedies": {
+      "high": ["Calcarea sulph", "Silicea", "Merc sol"],
+      "medium": ["Graphites", "Pulsatilla", "Hepar sulph"],
+      "low": ["Sulphur", "Petroleum", "Baryta mur"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "EAR - HEMORRHAGE - from ear - after head trauma",
+    "rubric_type": "rare-confirmatory",
+    "modalities": {
+      "worse": ["movement", "bending forward"],
+      "better": ["lying still"]
+    },
+    "remedies": {
+      "high": ["Arnica", "Hypericum", "Natrum sulph"],
+      "medium": ["Hamamelis", "China", "Phosphorus"],
+      "low": ["Ledum", "Belladonna", "Crotalus"]
+    },
+    "source": "Clinical"
+  },
+  {
+    "rubric": "EAR - SENSATION - plugged - after cold or flying",
+    "rubric_type": "sensory",
+    "modalities": {
+      "worse": ["cold air", "air pressure", "evening"],
+      "better": ["swallowing", "yawning"]
+    },
+    "remedies": {
+      "high": ["Pulsatilla", "Kali mur", "Silicea"],
+      "medium": ["Merc sol", "Graphites", "Phosphorus"],
+      "low": ["Borax", "Chamomilla", "Natrum mur"]
+    },
+    "source": "Boericke + Kent"
+  },
+  {
+    "rubric": "EAR - PAIN - on swallowing",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["swallowing", "night", "cold"],
+      "better": ["warm drinks", "rest"]
+    },
+    "remedies": {
+      "high": ["Merc sol", "Hepar sulph", "Belladonna"],
+      "medium": ["Lachesis", "Kali bich", "Chamomilla"],
+      "low": ["Aurum mur", "Silicea", "Baryta mur"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "EAR - SENSITIVITY - to wind or sound - deep nerve type",
+    "rubric_type": "sensory",
+    "modalities": {
+      "worse": ["wind", "loud noise", "music"],
+      "better": ["covering ears", "quiet place"]
+    },
+    "remedies": {
+      "high": ["Nux vomica", "Belladonna", "Lycopodium"],
+      "medium": ["China", "Ignatia", "Theridion"],
+      "low": ["Phosphorus", "Asarum", "Carbo veg"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EAR PAIN - during dentition",
+    "rubric_type": "clinical",
+    "modalities": {
+      "worse": ["teething", "lying on painful side", "evening"],
+      "better": ["warmth", "being carried", "pressure"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Belladonna", "Pulsatilla"],
+      "medium": ["Calcarea carbonica", "Silicea", "Hepar sulphuris"],
+      "low": ["Magnesia phosphorica", "Ferrum phosphoricum", "Borax"]
+    },
+    "source": "Kent"
+  },
+  {
+    "rubric": "CHILDREN - OTITIS MEDIA - recurrent",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["cold weather", "bathing", "milk allergy"],
+      "better": ["dry climate", "heat"]
+    },
+    "remedies": {
+      "high": ["Silicea", "Tuberculinum", "Calcarea carbonica"],
+      "medium": ["Lycopodium", "Mercurius solubilis", "Pulsatilla"],
+      "low": ["Sulphur", "Kali muriaticum", "Chamomilla"]
+    },
+    "source": "Boericke & Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EAR DISCHARGE - thick yellow-green",
+    "rubric_type": "clinical",
+    "modalities": {
+      "worse": ["cold damp", "evening", "school-going"],
+      "better": ["warmth", "summer"]
+    },
+    "remedies": {
+      "high": ["Pulsatilla", "Mercurius", "Hepar sulphuris"],
+      "medium": ["Sulphur", "Calcarea sulphurica", "Silicea"],
+      "low": ["Graphites", "Kali bichromicum", "Psorinum"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "CHILDREN - DEAFNESS - after ear infections",
+    "rubric_type": "deep",
+    "modalities": {
+      "worse": ["chronic otitis", "post-vaccination", "cold exposure"],
+      "better": ["dry warmth", "constitutional remedy"]
+    },
+    "remedies": {
+      "high": ["Silicea", "Carbo vegetabilis", "Calcarea phosphorica"],
+      "medium": ["Baryta carbonica", "Kali muriaticum", "Natrum sulphuricum"],
+      "low": ["Sulphur", "Lycopodium", "Psorinum"]
+    },
+    "source": "Clinical + Kent"
+  },
+  {
+    "rubric": "CHILDREN - PULLING EARS - with restlessness",
+    "rubric_type": "confirmatory",
+    "modalities": {
+      "worse": ["evening", "after anger", "dentition"],
+      "better": ["carried", "diverted attention"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Cina", "Belladonna"],
+      "medium": ["Pulsatilla", "Calcarea carbonica", "Tuberculinum"],
+      "low": ["Sulphur", "Lycopodium", "Sanicula"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EAR INFECTION - after MMR vaccination",
+    "rubric_type": "clinical/modern",
+    "modalities": {
+      "worse": ["post-vaccination", "cold weather", "damp rooms"],
+      "better": ["constitutional remedy", "warmth"]
+    },
+    "remedies": {
+      "high": ["Thuja", "Silicea", "Sulphur"],
+      "medium": ["Tuberculinum", "Hepar sulph", "Merc sol"],
+      "low": ["Medorrhinum", "Carcinosin", "Pulsatilla"]
+    },
+    "source": "Modern Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EARACHE - wakes from sleep crying",
+    "rubric_type": "confirmatory",
+    "modalities": {
+      "worse": ["midnight", "lying down", "dentition"],
+      "better": ["being carried", "warm compress"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Belladonna", "Pulsatilla"],
+      "medium": ["Silicea", "Mag phos", "Merc sol"],
+      "low": ["Ferrum phos", "Calc carb", "Cina"]
+    },
+    "source": "Kent + Practical Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EAR DISCHARGE - offensive, chronic",
+    "rubric_type": "deep miasmatic",
+    "modalities": {
+      "worse": ["cold bathing", "school stress", "night"],
+      "better": ["open air", "warm applications"]
+    },
+    "remedies": {
+      "high": ["Psorinum", "Hepar sulph", "Silicea"],
+      "medium": ["Sulphur", "Calcarea sulph", "Merc sol"],
+      "low": ["Lycopodium", "Baryta carb", "Tuberculinum"]
+    },
+    "source": "Complete Repertory + Boericke"
+  },
+  {
+    "rubric": "CHILDREN - OTITIS MEDIA - with developmental delay",
+    "rubric_type": "constitutional",
+    "modalities": {
+      "worse": ["vaccinations", "chronic cold", "milk intolerance"],
+      "better": ["constitutional remedy", "speech therapy"]
+    },
+    "remedies": {
+      "high": ["Baryta carbonica", "Tuberculinum", "Silicea"],
+      "medium": ["Calcarea phosphorica", "Carcinosin", "Sulphur"],
+      "low": ["Natrum mur", "Thuja", "Zincum met"]
+    },
+    "source": "Clinical + Constitutional"
+  },
+  {
+    "rubric": "CHILDREN - FEVER WITH EARACHE - sudden, violent",
+    "rubric_type": "acute",
+    "modalities": {
+      "worse": ["evening", "noise", "touch"],
+      "better": ["quiet", "rest", "head raised"]
+    },
+    "remedies": {
+      "high": ["Belladonna", "Ferrum phos", "Chamomilla"],
+      "medium": ["Aconite", "Pulsatilla", "Hepar sulph"],
+      "low": ["Merc sol", "Gelsemium", "Sulphur"]
+    },
+    "source": "Allen's Keynotes + Kent"
+  },
+  {
+    "rubric": "CHILDREN - EAR TROUBLES - after anger or fright",
+    "rubric_type": "emotional etiology",
+    "modalities": {
+      "worse": ["after punishment", "night", "alone"],
+      "better": ["mother’s presence", "being held"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Stramonium", "Ignatia"],
+      "medium": ["Belladonna", "Staphysagria", "Pulsatilla"],
+      "low": ["Aconite", "Natrum mur", "Cina"]
+    },
+    "source": "Kent + Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EAR DISCHARGE - recurrent, since measles",
+    "rubric_type": "post-viral/chronic",
+    "modalities": {
+      "worse": ["dampness", "cold exposure"],
+      "better": ["sunlight", "constitutional remedy"]
+    },
+    "remedies": {
+      "high": ["Tuberculinum", "Silicea", "Psorinum"],
+      "medium": ["Calc sulph", "Hepar sulph", "Sulphur"],
+      "low": ["Merc sol", "Kali bich", "Nitric acid"]
+    },
+    "source": "Boericke + Clinical Experience"
+  },
+  {
+    "rubric": "CHILDREN - EARACHE - from teething",
+    "rubric_type": "specific modality",
+    "modalities": {
+      "worse": ["dentition", "touch", "evening"],
+      "better": ["carrying child", "gentle pressure"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Calcarea carbonica", "Belladonna"],
+      "medium": ["Mag phos", "Silicea", "Pulsatilla"],
+      "low": ["Cina", "Kreosotum", "Ferrum phos"]
+    },
+    "source": "Kent + Allen’s Keynotes"
+  },
+  {
+    "rubric": "CHILDREN - OTITIS MEDIA - with enlarged tonsils/adenoids",
+    "rubric_type": "constitutional ENT pattern",
+    "modalities": {
+      "worse": ["milk", "night", "lying flat"],
+      "better": ["mouth breathing", "raising head"]
+    },
+    "remedies": {
+      "high": ["Baryta carbonica", "Calcarea phosphorica", "Tuberculinum"],
+      "medium": ["Hydrastis", "Silicea", "Hepar sulph"],
+      "low": ["Lycopodium", "Kali muriaticum", "Carcinosin"]
+    },
+    "source": "Complete Repertory + Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EAR DISCHARGE - blood-stained or thick green",
+    "rubric_type": "confirmatory local symptom",
+    "modalities": {
+      "worse": ["bathing", "night"],
+      "better": ["open air", "dry cotton"]
+    },
+    "remedies": {
+      "high": ["Merc sol", "Hepar sulph", "Kali bich"],
+      "medium": ["Pulsatilla", "Silicea", "Psorinum"],
+      "low": ["Nitric acid", "Sulphur", "Calc sulph"]
+    },
+    "source": "Boericke + Practical Experience"
+  },
+  {
+    "rubric": "CHILDREN - EAR - OTITIS MEDIA - from suppressed skin eruptions",
+    "rubric_type": "miasmatic etiology",
+    "modalities": {
+      "worse": ["after measles suppression", "cold damp weather"],
+      "better": ["discharge returns", "warmth"]
+    },
+    "remedies": {
+      "high": ["Psorinum", "Sulphur", "Graphites"],
+      "medium": ["Tuberculinum", "Petroleum", "Hepar sulph"],
+      "low": ["Antimonium crudum", "Tellurium", "Medorrhinum"]
+    },
+    "source": "Hering + Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EAR - PAIN - night aggravation with weeping",
+    "rubric_type": "emotional-behavioral",
+    "modalities": {
+      "worse": ["midnight to 4am", "lying on painful side"],
+      "better": ["rocking", "being carried fast"]
+    },
+    "remedies": {
+      "high": ["Chamomilla", "Belladonna", "Pulsatilla"],
+      "medium": ["Borax", "Cina", "Mag phos"],
+      "low": ["Sanicula", "Lachesis", "Merc viv"]
+    },
+    "source": "Kent + Allen"
+  },
+  {
+    "rubric": "CHILDREN - EAR - DISCHARGE - offensive, acrid, excoriating",
+    "rubric_type": "discharge characteristic",
+    "modalities": {
+      "worse": ["during dentition", "wet weather"],
+      "better": ["dry air", "constitutional support"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Merc sol", "Psorinum"],
+      "medium": ["Calcarea sulph", "Silicea", "Tellurium"],
+      "low": ["Sulphur", "Nitric acid", "Kali bich"]
+    },
+    "source": "Boericke + Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EAR - HEARING IMPAIRED - after recurrent ear infections",
+    "rubric_type": "chronic aftermath",
+    "modalities": {
+      "worse": ["after otitis media", "during winter"],
+      "better": ["summer", "constitutional remedy"]
+    },
+    "remedies": {
+      "high": ["Calcarea carbonica", "Baryta carbonica", "Silicea"],
+      "medium": ["Tuberculinum", "Phosphorus", "Natrum sulph"],
+      "low": ["Graphites", "Carbo veg", "Kali sulph"]
+    },
+    "source": "Complete Repertory + Clinical Cases"
+  },
+  {
+    "rubric": "CHILDREN - EAR - OTITIS - with nose blockage and mouth breathing",
+    "rubric_type": "ENT complex",
+    "modalities": {
+      "worse": ["night", "cold air", "milk products"],
+      "better": ["warm drinks", "sleeping upright"]
+    },
+    "remedies": {
+      "high": ["Calcarea carb", "Baryta carb", "Hydrastis"],
+      "medium": ["Silicea", "Hepar sulph", "Kali bich"],
+      "low": ["Tuberculinum", "Lemna minor", "Carbo veg"]
+    },
+    "source": "ENT Clinical Repertory + Experience"
+  },
+  {
+    "rubric": "CHILDREN - EAR - OTITIS MEDIA - recurring after every cold",
+    "rubric_type": "recurrent infection",
+    "modalities": {
+      "worse": ["cold wind", "teething", "night"],
+      "better": ["warmth", "dry climate"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Calcarea carb"],
+      "medium": ["Natrum mur", "Tuberculinum", "Baryta carb"],
+      "low": ["Lycopodium", "Psorinum", "Hepar sulph"]
+    },
+    "source": "Boericke + Clinical"
+  },
+  {
+    "rubric": "CHILDREN - EAR - TINNITUS - after repeated ear discharge",
+    "rubric_type": "chronic aftermath",
+    "modalities": {
+      "worse": ["quiet room", "evening"],
+      "better": ["background noise", "pressure over ear"]
+    },
+    "remedies": {
+      "high": ["Chininum sulph", "Silicea", "Carbo veg"],
+      "medium": ["Salicylic acid", "Kali mur", "Phosphorus"],
+      "low": ["China", "Pulsatilla", "Conium"]
+    },
+    "source": "Complete Repertory"
+  },
+  {
+    "rubric": "CHILDREN - EAR - ECZEMA around and behind ears",
+    "rubric_type": "skin + ENT connection",
+    "modalities": {
+      "worse": ["milk aggravates", "night", "scratching"],
+      "better": ["cooling application", "open air"]
+    },
+    "remedies": {
+      "high": ["Graphites", "Petroleum", "Mezereum"],
+      "medium": ["Sulphur", "Viola tricolor", "Psorinum"],
+      "low": ["Arum triphyllum", "Tellurium", "Lycopodium"]
+    },
+    "source": "Skin Repertory + Allen"
+  },
+  {
+    "rubric": "CHILDREN - EAR - SENSITIVE TO WIND - causes ear pain",
+    "rubric_type": "modal sensitivity",
+    "modalities": {
+      "worse": ["wind exposure", "cold bath"],
+      "better": ["covering ear", "warm wrapping"]
+    },
+    "remedies": {
+      "high": ["Hepar sulph", "Chamomilla", "Belladonna"],
+      "medium": ["Calcarea carb", "Pulsatilla", "Kali mur"],
+      "low": ["Silicea", "Arsenicum", "Mag phos"]
+    },
+    "source": "Kent + Boericke"
+  },
+  {
+    "rubric": "CHILDREN - EAR - BLOCKED SENSATION - during airplane flights or altitude change",
+    "rubric_type": "pressure-related",
+    "modalities": {
+      "worse": ["change of altitude", "swallowing fails to help"],
+      "better": ["equalizing pressure", "chewing gum"]
+    },
+    "remedies": {
+      "high": ["Kali mur", "Silicea", "Chamomilla"],
+      "medium": ["Belladonna", "Baryta carb", "Phosphorus"],
+      "low": ["Carbo veg", "Agraphis nutans", "Natrum mur"]
+    },
+    "source": "ENT Clinical Reference + Experience"
+  },
+  {
+    "rubric": "CHILDREN - EAR - OTITIS MEDIA - with delayed speech development",
+    "rubric_type": "developmental impact",
+    "modalities": {
+      "worse": ["cold damp weather", "bottle feeding", "post-measles"],
+      "better": ["warm compress", "alternate nostril breathing"]
+    },
+    "remedies": {
+      "high": ["Baryta carb", "Kali mur", "Calcarea carb"],
+      "medium": ["Tuberculinum", "Silicea", "Agraphis nutans"],
+      "low": ["Natrum mur", "Mercurius dulcis", "Lac caninum"]
+    },
+    "source": "Pediatric Clinical + Murphy"
+  },
+  {
+    "rubric": "CHILDREN - EAR - VERTIGO - after ear infections",
+    "rubric_type": "post-otitis complication",
+    "modalities": {
+      "worse": ["sudden head movement", "getting up from bed"],
+      "better": ["lying still", "cold drinks"]
+    },
+    "remedies": {
+      "high": ["Silicea", "Conium", "Phosphorus"],
+      "medium": ["Gelsemium", "Baryta mur", "Belladonna"],
+      "low": ["Cyclamen", "Natrum salicylicum", "Chenopodium"]
+    },
+    "source": "Allen + Experience + Inner Ear Rubrics"
+  },
+  {
+    "rubric": "CHILDREN - EAR - OTORRHEA - chronic, foul-smelling, green discharge",
+    "rubric_type": "chronic ear discharge",
+    "modalities": {
+      "worse": ["at night", "lying on affected side", "milk products"],
+      "better": ["warmth", "drainage"]
+    },
+    "remedies": {
+      "high": ["Psorinum", "Hepar sulph", "Merc sol"],
+      "medium": ["Kali bichromicum", "Silicea", "Tellurium"],
+      "low": ["Mezereum", "Nitric acid", "Calc sulph"]
+    },
+    "source": "Boericke + Clinical Pediatric Otology"
+  },
+  {
+    "rubric": "CHILDREN - EAR - GLUE EAR (serous otitis media) - with hearing loss",
+    "rubric_type": "fluid behind eardrum",
+    "modalities": {
+      "worse": ["in damp climate", "school environment"],
+      "better": ["elevation of head", "dry air"]
+    },
+    "remedies": {
+      "high": ["Agraphis nutans", "Kali mur", "Silicea"],
+      "medium": ["Calcarea sulph", "Baryta mur", "Pulsatilla"],
+      "low": ["Hydrastis", "Merc sol", "Tuberculinum"]
+    },
+    "source": "Complete Repertory + Clarke"
+  },
+  {
+    "rubric": "CHILDREN - EAR - AUTISTIC FEATURES with repeated ear infections",
+    "rubric_type": "neuro-developmental + ENT link",
+    "modalities": {
+      "worse": ["vaccinations", "teething", "post-cold"],
+      "better": ["routine", "soothing background music"]
+    },
+    "remedies": {
+      "high": ["Baryta carb", "Carcinosin", "Agraphis nutans"],
+      "medium": ["Tuberculinum", "Medorrhinum", "Hyoscyamus"],
+      "low": ["Stramonium", "Tarentula hispanica", "Belladonna"]
+    },
+    "source": "Clinical Observation + Neuro-Immune Repertory"
+  }
+]

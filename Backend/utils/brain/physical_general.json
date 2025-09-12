@@ -1,0 +1,229 @@
+[
+    {
+      "category": "Modalities – Seasonal Effects",
+      "rubrics": [
+        {
+          "rubric": "Aggravation in summer",
+          "remedies": ["Nat-c", "Glon", "Lach", "Sulph", "Ant-c"]
+        },
+        {
+          "rubric": "Aggravation in winter",
+          "remedies": ["Sil", "Calc", "Hep", "Caust", "Psor"]
+        },
+        {
+          "rubric": "Aggravation in rainy season",
+          "remedies": ["Rhus-t", "Nux-v", "Dulc", "Nat-s", "Bry"]
+        },
+        {
+          "rubric": "Aggravation in spring",
+          "remedies": ["Sang", "Psor", "Puls", "Kali-bi"]
+        },
+        {
+          "rubric": "Aggravation in autumn",
+          "remedies": ["Carb-v", "Sulph", "Bry", "Dulc"]
+        },
+        {
+          "rubric": "Amelioration in summer",
+          "remedies": ["Med", "Sep", "Calc", "Ign"]
+        },
+        {
+          "rubric": "Amelioration in winter",
+          "remedies": ["Camph", "Psor", "Verat"]
+        },
+        {
+          "rubric": "Amelioration in rainy weather",
+          "remedies": ["Kali-c", "Ign", "Med"]
+        }
+      ],
+      "keyPoints": [
+        {
+          "description": "Natrum carbonicum and Glonoinum suffer in summer – sunstroke, headache, heat aggravation.",
+          "confirmatoryRemedies": ["Nat-c", "Glon"]
+        },
+        {
+          "description": "Silicea and Hepar are very sensitive to cold, especially during winter.",
+          "confirmatoryRemedies": ["Sil", "Hep"]
+        },
+        {
+          "description": "Rhus tox and Dulcamara worsen during rainy, damp seasons.",
+          "confirmatoryRemedies": ["Rhus-t", "Dulc"]
+        },
+        {
+          "description": "Sepia and Medorrhinum feel better in dry, warm summer weather.",
+          "confirmatoryRemedies": ["Sep", "Med"]
+        },
+        {
+          "description": "Psorinum suffers in both winter and spring – marked aggravation from cold, change of season.",
+          "confirmatoryRemedies": ["Psor"]
+        }
+      ]
+    },
+    {
+      "category": "Appetite",
+      "rubrics": [
+        { "rubric": "Appetite increased (ravenous hunger)", "remedies": ["Phos", "China", "Iod", "Sulph", "Calc", "Lyc", "Psor", "Med"] },
+        { "rubric": "Appetite decreased (loss of appetite)", "remedies": ["Puls", "Sep", "Ign", "Nat-m", "Chin", "Staph", "Nux-v"] },
+        { "rubric": "Appetite entirely lost", "remedies": ["Sep", "Ign", "Nat-m", "Ars", "Nux-v", "China"] },
+        { "rubric": "Appetite wanting in morning", "remedies": ["Nux-v", "Sep", "Nat-m", "Sulph", "Puls"] },
+        { "rubric": "Appetite poor in evening", "remedies": ["Sulph", "Sep", "Lyc", "Puls"] },
+        { "rubric": "Appetite increased at night", "remedies": ["Phos", "Sulph", "Iod", "China", "Psor"] },
+        { "rubric": "Appetite with aversion to food", "remedies": ["Puls", "Sep", "Ign", "Ipecac", "Nat-m"] },
+        { "rubric": "Appetite only for dainties", "remedies": ["Puls", "Staph", "Sulph", "Cina"] },
+        { "rubric": "Appetite with nausea", "remedies": ["Ipecac", "Puls", "Sep", "Ars", "Bry", "Nux-v"] },
+        { "rubric": "Appetite with thirstlessness", "remedies": ["Puls", "Ant-t", "Gels", "Chin", "Sep"] },
+        { "rubric": "Appetite increased, yet emaciates", "remedies": ["Iod", "Nat-m", "Abrot", "Tub", "Psor"] },
+        { "rubric": "Appetite with disgust for food", "remedies": ["Ign", "Sep", "Ipecac", "Nux-v", "Ars"] },
+        { "rubric": "Craving to eat but gets full quickly", "remedies": ["Lyc", "Chin", "Sulph", "Ign", "Nat-m"] },
+        { "rubric": "Appetite with constant desire to nibble", "remedies": ["Lyc", "Phos", "Anac", "Sulph"] },
+        { "rubric": "Appetite absent with weakness", "remedies": ["China", "Phos-ac", "Ars", "Sep", "Sil"] },
+        { "rubric": "Aversion to food during headache", "remedies": ["Ipecac", "Nux-v", "Sep", "Bry"] },
+        { "rubric": "Appetite increased during diarrhea", "remedies": ["China", "Phos", "Sulph"] },
+        { "rubric": "Hunger immediately after eating", "remedies": ["Iod", "China", "Sulph", "Anac", "Abrot"] },
+        { "rubric": "Appetite with craving for indigestible things (chalk, clay)", "remedies": ["Alum", "Calc", "Verat", "Psor", "China"] },
+        { "rubric": "Loss of appetite from grief", "remedies": ["Ign", "Nat-m", "Sep", "Staph"] },
+        { "rubric": "Aversion to food smell", "remedies": ["Sep", "Ipecac", "Nux-v", "Ant-t", "Ars"] },
+        { "rubric": "Hunger with trembling if not eating", "remedies": ["Lyc", "Ign", "Sulph", "China", "Phos"] },
+        { "rubric": "Hungry but cannot eat much", "remedies": ["Ign", "Nat-m", "Lyc", "Chin"] },
+        { "rubric": "Appetite lost during fever", "remedies": ["Gels", "Acon", "Ars", "Bapt", "Bry"] }
+      ]
+    },
+    {
+        "category": "Desires / Cravings",
+        "rubrics": [
+            {
+                "rubric": "Desire for sweets",
+                "remedies": [
+                    "Arg-n",
+                    "Lyc",
+                    "Phos",
+                    "Sulph"
+                ]
+            },
+            {
+                "rubric": "Desire for salt",
+                "remedies": [
+                    "Nat-m",
+                    "Carc",
+                    "Tub",
+                    "Calc"
+                ]
+            },
+            {
+                "rubric": "Desire for spicy food",
+                "remedies": [
+                    "Rhus-t",
+                    "Sulph",
+                    "Med"
+                ]
+            },
+            {
+                "rubric": "Desire for sour things",
+                "remedies": [
+                    "Sep",
+                    "Phos",
+                    "Nit-ac",
+                    "Cham"
+                ]
+            },
+            {
+                "rubric": "Desire for cold drinks",
+                "remedies": [
+                    "Phos",
+                    "Sulph",
+                    "Verat"
+                ]
+            },
+            {
+                "rubric": "Desire for warm drinks",
+                "remedies": [
+                    "Ars",
+                    "Bry",
+                    "Rhus-t"
+                ]
+            },
+            {
+                "rubric": "Desire for beer",
+                "remedies": [
+                    "Nux-v",
+                    "Sulph",
+                    "Lach"
+                ]
+            },
+            {
+                "rubric": "Desire for wine",
+                "remedies": [
+                    "Sulph",
+                    "Nux-v",
+                    "Lach",
+                    "Med"
+                ]
+            },
+            {
+                "rubric": "Desire for coffee",
+                "remedies": [
+                    "Nux-v",
+                    "Cham",
+                    "Ign"
+                ]
+            },
+            {
+                "rubric": "Desire for ice or ice-cream",
+                "remedies": [
+                    "Phos",
+                    "Calc",
+                    "Puls"
+                ]
+            },
+            {
+                "rubric": "Desire for chalk or lime",
+                "remedies": [
+                    "Calc",
+                    "Alum",
+                    "Verat"
+                ]
+            },
+            {
+                "rubric": "Desire for indigestible things",
+                "remedies": [
+                    "Alum",
+                    "Verat",
+                    "China"
+                ]
+            },
+            {
+                "rubric": "Desire for eggs",
+                "remedies": [
+                    "Sulph",
+                    "Calc",
+                    "Psor"
+                ]
+            },
+            {
+                "rubric": "Desire for smoked food",
+                "remedies": [
+                    "Tub",
+                    "Carc",
+                    "Nux-v"
+                ]
+            },
+            {
+                "rubric": "Desire for fatty food",
+                "remedies": [
+                    "Pul",
+                    "Iod",
+                    "Sulph"
+                ]
+            },
+            {
+                "rubric": "Desire for raw food",
+                "remedies": [
+                    "Carc",
+                    "Tub",
+                    "Nat-m"
+                ]
+            }
+        ]
+    }
+    
+  ]
+  

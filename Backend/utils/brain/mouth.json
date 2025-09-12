@@ -1,0 +1,191 @@
+[
+  {
+    "rubric": "Mouth - Ulcers inside cheek or lips",
+    "grading": {
+      "high": ["Merc", "Borax", "Nit-ac"],
+      "medium": ["Kali-chl", "Sulph", "Nat-m"],
+      "low": ["Phos", "Ars", "Bell"]
+    },
+    "modality": "Worse from salty food, touch, night",
+    "miasm": "Syphilis",
+    "notes": "Painful aphthous or syphilitic ulcers. Mercurius for offensive smell and salivation; Borax for tender ulcers that bleed easily."
+  },
+  {
+    "rubric": "Mouth - Dryness without thirst",
+    "grading": {
+      "high": ["Nux-m", "Puls", "Lyc"],
+      "medium": ["Bell", "Bry", "Phos"],
+      "low": ["Op", "Rhus-t"]
+    },
+    "modality": "Morning on waking, during fever",
+    "miasm": "Psora",
+    "notes": "Strange contradiction: mouth dry but no desire to drink. Nux moschata is highly specific."
+  },
+  {
+    "rubric": "Mouth - Foul odor, halitosis",
+    "grading": {
+      "high": ["Merc", "Kreos", "Nux-v"],
+      "medium": ["Sulph", "Carbo-v", "Hepar"],
+      "low": ["Psor", "Sil", "Nat-m"]
+    },
+    "modality": "Worse in morning, with coated tongue",
+    "miasm": "Syphilis-Psora",
+    "notes": "Foul breath from dental decay, infections, or digestive issues. Merc and Kreosote are key remedies."
+  },
+  {
+    "rubric": "Mouth - Salivation profuse",
+    "grading": {
+      "high": ["Merc", "Ipecac", "Ant-t"],
+      "medium": ["Nux-v", "Lach", "Phos"],
+      "low": ["Sil", "Bell", "Nat-m"]
+    },
+    "modality": "During sleep, fever, teething",
+    "miasm": "Syphilis",
+    "notes": "Excessive drooling especially in mouth ulcers, teething or during sleep. Mercurius is the strongest remedy here."
+  },
+  {
+    "rubric": "Mouth - Burning sensation in tongue or palate",
+    "grading": {
+      "high": ["Ars", "Sulph", "Nit-ac"],
+      "medium": ["Phos", "Lyc", "Merc"],
+      "low": ["Borax", "Bell", "Kali-bi"]
+    },
+    "modality": "Worse from spicy food, hot drinks",
+    "miasm": "Psora",
+    "notes": "Burning mouth syndrome, menopausal or nutritional causes. Arsenicum and Sulphur are highly indicated."
+  },
+  {
+    "rubric": "Mouth - Metallic taste",
+    "grading": {
+      "high": ["Merc", "Nux-v", "Phos"],
+      "medium": ["Nit-ac", "Ars", "Bry"],
+      "low": ["Ipecac", "Sep", "Lach"]
+    },
+    "modality": "With fever, medications, ulcers",
+    "miasm": "Syphilis",
+    "notes": "Metallic taste common in toxic states or ulcerative mouth issues. Mercurius and Phosphorus are top choices."
+  },
+  {
+    "rubric": "Mouth - Bluish discoloration of gums",
+    "grading": {
+      "high": ["Plumb", "Merc", "Op"],
+      "medium": ["Lach", "Sulph", "Carbo-v"],
+      "low": ["Nux-v", "Phos", "Chel"]
+    },
+    "modality": "In chronic diseases, lead poisoning, debility",
+    "miasm": "Syphilis",
+    "notes": "Bluish gums seen in metal toxicity (e.g., lead), chronic ulcerative conditions. Plumbum is the leading remedy."
+  },
+  {
+    "rubric": "Mouth - Swelling of gums",
+    "grading": {
+      "high": ["Merc", "Bell", "Kreos"],
+      "medium": ["Sulph", "Phos", "Carb-v"],
+      "low": ["Ars", "Lach"]
+    },
+    "modality": "Worse from touch, during fever",
+    "miasm": "Syphilis",
+    "notes": "Swollen, inflamed gums with or without pain. Mercurius and Belladonna are highly effective."
+  },
+  {
+    "rubric": "Mouth - Ulcers inside cheek or lips",
+    "grading": {
+      "high": ["Merc", "Borax", "Nit-ac"],
+      "medium": ["Kali-chl", "Sulph", "Nat-m"],
+      "low": ["Phos", "Ars", "Bell"]
+    },
+    "modality": "Worse from salty food, touch, night",
+    "miasm": "Syphilis",
+    "notes": "Painful aphthous or syphilitic ulcers. Mercurius for offensive smell and salivation; Borax for tender ulcers that bleed easily."
+  },
+  {
+    "rubric": "Mouth - Ulcers on tongue or gums",
+    "grading": {
+      "high": ["Nit-ac", "Merc", "Kali-chl"],
+      "medium": ["Borax", "Carb-ac", "Sulph"],
+      "low": ["Lach", "Ars"]
+    },
+    "modality": "Worse during fever, hot food",
+    "miasm": "Syphilis",
+    "notes": "Painful ulcers with red borders or deep cracks. Nitric acid often for sharp, splinter-like pains."
+  },
+  {
+    "rubric": "Mouth - Aphthae in children",
+    "grading": {
+      "high": ["Borax", "Calc-c", "Merc"],
+      "medium": ["Sulph", "Kali-m", "Nux-v"],
+      "low": ["Cham", "Hepar"]
+    },
+    "modality": "Worse from sour food, milk, at night",
+    "miasm": "Psora-Syphilis",
+    "notes": "White patches or ulcers, painful while feeding. Borax is mild and effective in infants."
+  },
+  {
+    "rubric": "Teeth - Decay rapid, black, crumbling",
+    "grading": {
+      "high": ["Kreos", "Staph", "Merc"],
+      "medium": ["Calc", "Sil", "Carb-v"],
+      "low": ["Cham", "Hep"]
+    },
+    "modality": "Worse at night, sweet food",
+    "miasm": "Syphilis",
+    "notes": "Rapid caries especially in children. Kreosotum is a key remedy when teeth decay soon after eruption."
+  },
+  {
+    "rubric": "Teeth - Pain drawing, tearing, neuralgic",
+    "grading": {
+      "high": ["Cham", "Coff", "Mag-p"],
+      "medium": ["Bell", "Staph", "Plantago"],
+      "low": ["Puls", "Merc", "Sil"]
+    },
+    "modality": "Worse at night, from cold air, touch",
+    "miasm": "Psora",
+    "notes": "Severe dental pain especially during teething. Chamomilla when child is very irritable and sleepless."
+  },
+  {
+    "rubric": "Teeth - Grinding of teeth (Bruxism)",
+    "grading": {
+      "high": ["Cina", "Tub", "Bell"],
+      "medium": ["Cham", "Coff", "Merc"],
+      "low": ["Stram", "Sil"]
+    },
+    "modality": "During sleep, with worms or anxiety",
+    "miasm": "Tubercular",
+    "notes": "Common in worm infestations, stress, or neurotic children. Cina and Tuberculinum highly effective."
+  },
+
+  {
+    "rubric": "Teeth - Looseness of teeth without pain",
+    "grading": {
+      "high": ["Merc", "Phos", "Carb-v"],
+      "medium": ["Sil", "Thuja", "Fl-ac"],
+      "low": ["Nat-m", "Borax"]
+    },
+    "modality": "With receding gums, old age or bone disease",
+    "miasm": "Syphilis",
+    "notes": "Teeth feel loose or fall out without inflammation. Phosphorus and Mercurius help prevent early loss."
+  },
+
+  {
+    "rubric": "Mouth - Obstruction of salivary ducts / stone formation",
+    "grading": {
+      "high": ["Calc-fl", "Sil", "Merc"],
+      "medium": ["Phos", "Lach", "Bar-c"],
+      "low": ["Bell", "Carb-v"]
+    },
+    "modality": "Worse from chewing, before meals",
+    "miasm": "Sycosis",
+    "notes": "Blocked salivary glands (e.g., submandibular swelling, sialolithiasis). Calcarea fluor and Silicea help resolve obstruction."
+  },
+  {
+    "rubric": "Mouth - Lips dry, cracked, crusted",
+    "grading": {
+      "high": ["Nat-m", "Bry", "Sulph"],
+      "medium": ["Borax", "Graph", "Petrol"],
+      "low": ["Bell", "Ars"]
+    },
+    "modality": "Worse in winter, from heat, talking",
+    "miasm": "Psora",
+    "notes": "Chapped lips with crusts, fissures, bleeding. Natrum mur and Petroleum are highly specific for chronic dryness."
+  }
+]

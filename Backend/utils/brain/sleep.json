@@ -1,0 +1,1001 @@
+[
+  {
+    "rubric": "Sleep position - on abdomen",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Medorrhinum", "Calcarea carbonica", "Tuberculinum"],
+    "mediumGradeDrugs": ["Sepia", "Lycopodium"],
+    "lowGradeDrugs": ["Kali bichromicum", "Natrum muriaticum"]
+  },
+  {
+    "rubric": "Sleep position - on back with hands over head",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Sulphur", "Lycopodium", "Phosphorus"],
+    "mediumGradeDrugs": ["Nux vomica", "Bryonia"],
+    "lowGradeDrugs": ["Silicea", "Calcarea phosphorica"]
+  },
+  {
+    "rubric": "Sleep position - on left side",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Lachesis", "Kali carbonicum"],
+    "mediumGradeDrugs": ["Spongia", "Lycopodium"],
+    "lowGradeDrugs": ["Cactus grandiflorus", "Arnica"]
+  },
+  {
+    "rubric": "Sleep position - on right side",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Pulsatilla", "Phosphorus"],
+    "mediumGradeDrugs": ["Chelidonium", "Sulphur"],
+    "loSwGradeDrugs": ["Ferrum metallicum", "Magnesium carbonicum"]
+  },
+  {
+    "rubric": "Sleep position - fetal/knees drawn up",
+    "miasm": "Psora/Sycosis",
+    "highGradeDrugs": ["Colocynth", "Magnesium phosphoricum", "Medorrhinum"],
+    "mediumGradeDrugs": ["Chamomilla", "Sulphur"],
+    "lowGradeDrugs": ["Kali bichromicum", "Dioscorea"]
+  },
+  {
+    "rubric": "Sleep with arms overhead",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Sulphur", "Phosphorus"],
+    "mediumGradeDrugs": ["Lycopodium", "Natrum muriaticum"],
+    "lowGradeDrugs": ["Calcarea phosphorica"]
+  },
+  {
+    "rubric": "Sleep - legs uncovered",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Medorrhinum", "Sulphur"],
+    "mediumGradeDrugs": ["Sepia", "Chamomilla"],
+    "lowGradeDrugs": ["Silicea", "Thuja"]
+  },
+  {
+    "rubric": "Sleep - without pillow / head low",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Gelsemium", "Glonoinum"],
+    "mediumGradeDrugs": ["Belladonna", "Nux vomica"],
+    "lowGradeDrugs": ["Arnica", "Lobelia inflata"]
+  },
+  {
+    "rubric": "Sleep - buttocks elevated",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Chamomilla", "Dioscorea", "Colocynth"],
+    "mediumGradeDrugs": ["Spigelia", "Belladonna"],
+    "lowGradeDrugs": ["Aloe", "Pulsatilla"]
+  },
+  {
+    "rubric": "Sleep - half sitting",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Arsenicum album", "Kali carbonicum"],
+    "mediumGradeDrugs": ["Antimonium tart", "Lobelia inflata"],
+    "lowGradeDrugs": ["Grindelia", "Spongia"]
+  },
+  {
+    "rubric": "Sleep - restlessness, frequent change of position",
+    "miasm": "Psora/Syphilis",
+    "highGradeDrugs": [
+      "Rhus toxicodendron",
+      "Arsenicum album",
+      "Zincum metallicum"
+    ],
+    "mediumGradeDrugs": ["Chamomilla", "Nux vomica"],
+    "lowGradeDrugs": ["Coffea", "Sulphur"]
+  },
+  {
+    "rubric": "Sleep - head covered",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Medorrhinum", "Chamomilla"],
+    "mediumGradeDrugs": ["Baryta carbonica", "Lycopodium"],
+    "lowGradeDrugs": ["Stramonium", "Phosphorus"]
+  },
+  {
+    "rubric": "Sleep - arms tightly held to body",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Stramonium", "Cina"],
+    "mediumGradeDrugs": ["Belladonna", "Veratrum album"],
+    "lowGradeDrugs": ["Platina", "Hyoscyamus"]
+  },
+  {
+    "rubric": "Sleep - curled like a ball",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Medorrhinum", "Baryta carbonica"],
+    "mediumGradeDrugs": ["Sepia", "Pulsatilla"],
+    "lowGradeDrugs": ["Silicea", "Ignatia"]
+  },
+  {
+    "rubric": "Sleep - unrefreshing",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Nux vomica", "Phosphoric acid", "Silicea"],
+    "mediumGradeDrugs": ["Lycopodium", "Sepia"],
+    "lowGradeDrugs": ["Kali phosphoricum", "Sulphur"]
+  },
+  {
+    "rubric": "Sleep - difficulty falling asleep",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Coffea", "Calcarea phosphorica", "Lycopodium"],
+    "mediumGradeDrugs": ["Nux vomica", "Aconite"],
+    "lowGradeDrugs": ["Ignatia", "Chamomilla"]
+  },
+  {
+    "rubric": "Sleep - wakes too early (2–4 AM)",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Lycopodium", "Kali carbonicum", "Arsenicum album"],
+    "mediumGradeDrugs": ["Sulphur", "Sepia"],
+    "lowGradeDrugs": ["Aurum metallicum", "Natrum muriaticum"]
+  },
+  {
+    "rubric": "Sleep - wakes often during night",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Nux vomica", "Arsenicum album", "Sulphur"],
+    "mediumGradeDrugs": ["Rhus toxicodendron", "Phosphorus"],
+    "lowGradeDrugs": ["Ignatia", "China"]
+  },
+  {
+    "rubric": "Sleep - disturbed by slightest noise",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Coffea", "Arsenicum album", "Nux vomica"],
+    "mediumGradeDrugs": ["Chamomilla", "Lachesis"],
+    "lowGradeDrugs": ["Phosphorus", "Opium"]
+  },
+  {
+    "rubric": "Sleep - sleeps in short naps",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Arnica", "Nux vomica"],
+    "mediumGradeDrugs": ["Sulphur", "Kali phosphoricum"],
+    "lowGradeDrugs": ["Phosphoric acid", "Sepia"]
+  },
+  {
+    "rubric": "Sleep - excessive sleepiness",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Phosphoric acid", "Kali bromatum", "Gelsemium"],
+    "mediumGradeDrugs": ["Nux moschata", "Opium"],
+    "lowGradeDrugs": ["Ignatia", "Lachesis"]
+  },
+  {
+    "rubric": "Sleep - falling asleep while talking or sitting",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Kali bromatum", "Opium", "Gelsemium"],
+    "mediumGradeDrugs": ["Antimonium tart", "Baryta carbonica"],
+    "lowGradeDrugs": ["Sepia", "Calcarea carb"]
+  },
+  {
+    "rubric": "Sleep - drowsiness without sleep",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Gelsemium", "Ignatia", "Belladonna"],
+    "mediumGradeDrugs": ["Cocculus", "China"],
+    "lowGradeDrugs": ["Baptisia", "Arnica"]
+  },
+  {
+    "rubric": "Sleep - sleeplessness from thoughts",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Coffea", "Argentum nitricum", "Nux vomica"],
+    "mediumGradeDrugs": ["Lycopodium", "Natrum muriaticum"],
+    "lowGradeDrugs": ["Pulsatilla", "Silicea"]
+  },
+  {
+    "rubric": "Sleep - jerking of limbs",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Zincum metallicum", "Agaricus", "Cuprum metallicum"],
+    "mediumGradeDrugs": ["Gelsemium", "Ignatia"],
+    "lowGradeDrugs": ["Stramonium", "Opium"]
+  },
+  {
+    "rubric": "Sleep - talking during sleep",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Phosphorus", "Lachesis", "Sulphur"],
+    "mediumGradeDrugs": ["Stramonium", "Hyoscyamus"],
+    "lowGradeDrugs": ["Kali bromatum", "Calcarea carbonica"]
+  },
+  {
+    "rubric": "Sleep - moaning or groaning during sleep",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Stramonium", "Belladonna", "Phosphorus"],
+    "mediumGradeDrugs": ["Hyoscyamus", "Cina"],
+    "lowGradeDrugs": ["Ignatia", "Lycopodium"]
+  },
+  {
+    "rubric": "Sleep - screaming during sleep",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Stramonium", "Cina", "Belladonna"],
+    "mediumGradeDrugs": ["Aconitum", "Hyoscyamus"],
+    "lowGradeDrugs": ["Chamomilla", "Veratrum album"]
+  },
+  {
+    "rubric": "Sleep - sudden waking with fear or startle",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Aconitum", "Stramonium", "Belladonna"],
+    "mediumGradeDrugs": ["Opium", "Lachesis"],
+    "lowGradeDrugs": ["Arsenicum album", "Calcarea carbonica"]
+  },
+  {
+    "rubric": "Sleep - sudden waking with choking sensation",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Lachesis", "Sambucus", "Arsenicum album"],
+    "mediumGradeDrugs": ["Spongia", "Grindelia"],
+    "lowGradeDrugs": ["Antimonium tart", "Hepar sulph"]
+  },
+  {
+    "rubric": "Sleep - bruxism (teeth grinding)",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Cina", "Belladonna", "Chamomilla"],
+    "mediumGradeDrugs": ["Santoninum", "Hyoscyamus"],
+    "lowGradeDrugs": ["Silicea", "Tuberculinum"]
+  },
+  {
+    "rubric": "Sleep - groaning with teeth grinding",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Cina", "Teucrium", "Spigelia"],
+    "mediumGradeDrugs": ["Chamomilla", "Belladonna"],
+    "lowGradeDrugs": ["Lachesis", "Crotalus"]
+  },
+  {
+    "rubric": "Sleep - crying during sleep",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Pulsatilla", "Ignatia", "Natrum muriaticum"],
+    "mediumGradeDrugs": ["Chamomilla", "Calcarea carbonica"],
+    "lowGradeDrugs": ["Cina", "Sepia"]
+  },
+  {
+    "rubric": "Sleep - tossing and turning",
+    "miasm": "Psora/Sycosis",
+    "highGradeDrugs": [
+      "Rhus toxicodendron",
+      "Arsenicum album",
+      "Zincum metallicum"
+    ],
+    "mediumGradeDrugs": ["Nux vomica", "Sulphur"],
+    "lowGradeDrugs": ["Chamomilla", "Coffea"]
+  },
+  {
+    "rubric": "Sleep - snoring during sleep",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Lemna minor", "Opium", "Nux vomica"],
+    "mediumGradeDrugs": ["Laurocerasus", "Calcarea carbonica"],
+    "lowGradeDrugs": ["China", "Baryta carbonica"]
+  },
+  {
+    "rubric": "Sleep - sleep apnea episodes",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Lachesis", "Sambucus", "Grindelia"],
+    "mediumGradeDrugs": ["Spongia", "Antimonium tart"],
+    "lowGradeDrugs": ["Opium", "Glonoinum"]
+  },
+  {
+    "rubric": "Sleep - bruxism (grinding teeth at night)",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Cina", "Chamomilla", "Belladonna"],
+    "mediumGradeDrugs": ["Santoninum", "Hyoscyamus"],
+    "lowGradeDrugs": ["Tuberculinum", "Silicea"]
+  },
+  {
+    "rubric": "Sleep - somnambulism (sleep walking)",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Kali bromatum", "Silicea", "Stramonium"],
+    "mediumGradeDrugs": ["Phosphorus", "Hyoscyamus"],
+    "lowGradeDrugs": ["Natrum muriaticum", "Sulphur"]
+  },
+  {
+    "rubric": "Sleep - night terrors (with screams, fear, no recall)",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Stramonium", "Belladonna", "Cina"],
+    "mediumGradeDrugs": ["Hyoscyamus", "Veratrum album"],
+    "lowGradeDrugs": ["Ignatia", "Aconitum"]
+  },
+  {
+    "rubric": "Sleep - narcolepsy (falling asleep suddenly during the day)",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Kali bromatum", "Gelsemium", "Opium"],
+    "mediumGradeDrugs": ["Antimonium tart", "Baryta carbonica"],
+    "lowGradeDrugs": ["Sepia", "Ignatia"]
+  },
+  {
+    "rubric": "Sleep - cataleptic sleep (deep, trance-like, immobile)",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Opium", "Lachesis", "Stramonium"],
+    "mediumGradeDrugs": ["Ignatia", "Hyoscyamus"],
+    "lowGradeDrugs": ["Agaricus", "Anacardium"]
+  },
+  {
+    "rubric": "Sleep - unconsciousness with stertorous breathing",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Opium", "Laurocerasus", "Glonoinum"],
+    "mediumGradeDrugs": ["Baryta carbonica", "Antimonium tart"],
+    "lowGradeDrugs": ["Nux moschata", "Phosphorus"]
+  },
+  {
+    "rubric": "Sleep - difficulty waking (heavy, prolonged sleep)",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Opium", "Gelsemium", "Baryta carbonica"],
+    "mediumGradeDrugs": ["Antimonium tart", "Phosphoric acid"],
+    "lowGradeDrugs": ["Lycopodium", "Silicea"]
+  },
+  {
+    "rubric": "Sleep - twilight sleep / semi-conscious",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Anhalonium", "Opium", "Agaricus"],
+    "mediumGradeDrugs": ["Stramonium", "Hyoscyamus"],
+    "lowGradeDrugs": ["Kali bromatum", "Cannabis indica"]
+  },
+  {
+    "remedy": "Sulphur",
+    "sleepKeynote": "Sleeps in short naps; wakes early; feels refreshed even with little sleep; lies on back with hands overhead",
+    "miasm": "Psora",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Very characteristic pattern; useful in constitutional cases and children"
+  },
+  {
+    "remedy": "Medorrhinum",
+    "sleepKeynote": "Sleeps in knee-chest position; sleeps all day, awake at night; uncovers legs during sleep",
+    "miasm": "Sycosis",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Important keynote for children and adults with restless hypersexual or ADHD traits"
+  },
+  {
+    "remedy": "Lycopodium",
+    "sleepKeynote": "Wakes frequently between 2–4 AM; sleeps on right side; unrefreshing sleep",
+    "miasm": "Sycosis",
+    "confirmatoryValue": "Medium",
+    "clinicalNote": "Common in liver or digestive complaints with intellectual fatigue"
+  },
+  {
+    "remedy": "Calcarea carbonica",
+    "sleepKeynote": "Perspires on head during sleep; fears in dreams; sleepy during the day",
+    "miasm": "Psora",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Classic keynote in children with sluggish development and phobia"
+  },
+  {
+    "remedy": "Coffea cruda",
+    "sleepKeynote": "Sleeplessness from over-excitement; hyperalert to noises; very light sleep",
+    "miasm": "Psora",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Marked sensitivity to joy, pain, or stimulation; often acute insomnia"
+  },
+  {
+    "remedy": "Opium",
+    "sleepKeynote": "Deep, heavy, unconscious sleep; stertorous breathing; hard to wake",
+    "miasm": "Syphilis",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Indicated in comatose states or drug-induced sleep problems"
+  },
+  {
+    "remedy": "Nux vomica",
+    "sleepKeynote": "Cannot sleep after 3 AM; irritable insomnia; drowsy in evening but sleepless at night",
+    "miasm": "Psora",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Suited to businesspersons, students, or drug/alcohol-related disorders"
+  },
+  {
+    "remedy": "Phosphorus",
+    "sleepKeynote": "Fearful dreams; talking and moaning during sleep; prefers right side",
+    "miasm": "Psora",
+    "confirmatoryValue": "Medium",
+    "clinicalNote": "Common in oversensitive constitutions and hemorrhagic tendencies"
+  },
+  {
+    "remedy": "Stramonium",
+    "sleepKeynote": "Screams in sleep; wakes with terror; night terrors; sees ghosts",
+    "miasm": "Syphilis",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Top remedy in neurological or fear-based pediatric cases"
+  },
+  {
+    "remedy": "Zincum metallicum",
+    "sleepKeynote": "Jerking of legs and twitching in sleep; restless feet; can't lie still",
+    "miasm": "Psora/Sycosis",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Important in ADHD, autism spectrum, and cerebral fatigue"
+  },
+  {
+    "remedy": "Belladonna",
+    "sleepKeynote": "Starts in sleep; sudden waking with fear; vivid dreams",
+    "miasm": "Syphilis",
+    "confirmatoryValue": "Medium",
+    "clinicalNote": "Common in high fevers, acute states, and hypersensitive children"
+  },
+  {
+    "remedy": "Kali bromatum",
+    "sleepKeynote": "Falls asleep while sitting or talking; restless dreams; sleepwalking",
+    "miasm": "Sycosis",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Indicated in epilepsy, memory loss, and behavioral disorders"
+  },
+  {
+    "remedy": "Ignatia",
+    "sleepKeynote": "Sleeplessness after grief or disappointment; sighing and sobbing during sleep",
+    "miasm": "Psora",
+    "confirmatoryValue": "High",
+    "clinicalNote": "Very useful in emotional suppression, especially in females"
+  },
+  {
+    "rubric": "Sleep - crying during sleep (infants and children)",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Cina", "Chamomilla", "Pulsatilla"],
+    "mediumGradeDrugs": ["Ignatia", "Belladonna"],
+    "lowGradeDrugs": ["Calcarea carbonica", "Silicea"]
+  },
+  {
+    "rubric": "Sleep - night terrors in children",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Stramonium", "Cina", "Belladonna"],
+    "mediumGradeDrugs": ["Hyoscyamus", "Aconitum"],
+    "lowGradeDrugs": ["Veratrum album", "Ignatia"]
+  },
+  {
+    "rubric": "Sleep - talking, grinding teeth, worms",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Cina", "Santoninum", "Spigelia"],
+    "mediumGradeDrugs": ["Teucrium", "Chamomilla"],
+    "lowGradeDrugs": ["Silicea", "Calcarea carbonica"]
+  },
+  {
+    "rubric": "Sleep - colic disturbing sleep",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Colocynth", "Chamomilla", "Dioscorea"],
+    "mediumGradeDrugs": ["Magnesia phosphorica", "Belladonna"],
+    "lowGradeDrugs": ["Nux vomica", "Aethusa cynapium"]
+  },
+  {
+    "rubric": "Sleep - restlessness and hyperactivity at bedtime",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Tarentula hispanica", "Stramonium", "Medorrhinum"],
+    "mediumGradeDrugs": ["Tuberculinum", "Lachesis"],
+    "lowGradeDrugs": ["Zincum metallicum", "Sulphur"]
+  },
+  {
+    "rubric": "Sleep - frequent waking with thirst or hunger",
+    "miasm": "Psora/Sycosis",
+    "highGradeDrugs": ["Phosphorus", "Calcarea carbonica", "China"],
+    "mediumGradeDrugs": ["Lycopodium", "Arsenicum album"],
+    "lowGradeDrugs": ["Natrum muriaticum", "Silicea"]
+  },
+  {
+    "rubric": "Sleep - sleeps only when rocked or carried",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Chamomilla", "Cina", "Pulsatilla"],
+    "mediumGradeDrugs": ["Belladonna", "Borax"],
+    "lowGradeDrugs": ["Aethusa", "Sanicula"]
+  },
+  {
+    "rubric": "Sleep - frightened by dark or nightmares",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Stramonium", "Calcarea carbonica", "Aconitum"],
+    "mediumGradeDrugs": ["Silicea", "Pulsatilla"],
+    "lowGradeDrugs": ["Kali phosphoricum", "Opium"]
+  },
+  {
+    "rubric": "Sleep - bedwetting during deep sleep",
+    "miasm": "Psora/Sycosis",
+    "highGradeDrugs": ["Causticum", "Equisetum", "Sepia"],
+    "mediumGradeDrugs": ["Kreosotum", "Calcarea phosphorica"],
+    "lowGradeDrugs": ["Sulphur", "Belladonna"]
+  },
+  {
+    "rubric": "Sleep - autism spectrum children (insomnia, night wandering)",
+    "miasm": "Syphilis/Sycosis",
+    "highGradeDrugs": [
+      "Stramonium",
+      "Tarentula hispanica",
+      "Zincum metallicum"
+    ],
+    "mediumGradeDrugs": ["Tuberculinum", "Medorrhinum"],
+    "lowGradeDrugs": ["Hyoscyamus", "Baryta carbonica"]
+  },
+  {
+    "miasm": "Psora",
+    "coreThemes": "Functional disturbances, light sleep, sensitivity, restlessness",
+    "keyRubrics": [
+      {
+        "rubric": "Difficulty falling asleep",
+        "highGradeDrugs": ["Coffea", "Lycopodium", "Calcarea phosphorica"]
+      },
+      {
+        "rubric": "Unrefreshing sleep",
+        "highGradeDrugs": ["Silicea", "Nux vomica", "Phosphoric acid"]
+      },
+      {
+        "rubric": "Restlessness in sleep",
+        "highGradeDrugs": [
+          "Zincum metallicum",
+          "Rhus toxicodendron",
+          "Chamomilla"
+        ]
+      },
+      {
+        "rubric": "Sleeps in short naps",
+        "highGradeDrugs": ["Arnica", "Sulphur"]
+      },
+      {
+        "rubric": "Teeth grinding in sleep",
+        "highGradeDrugs": ["Cina", "Chamomilla"]
+      },
+      {
+        "rubric": "Crying during sleep",
+        "highGradeDrugs": ["Pulsatilla", "Cina"]
+      }
+    ]
+  },
+  {
+    "miasm": "Sycosis",
+    "coreThemes": "Excess, compulsion, periodicity, deeper dysfunction, inversion of sleep cycle",
+    "keyRubrics": [
+      {
+        "rubric": "Snoring during sleep",
+        "highGradeDrugs": ["Lemna minor", "Opium"]
+      },
+      {
+        "rubric": "Sleep during daytime, wakeful at night",
+        "highGradeDrugs": ["Medorrhinum", "Kali bromatum"]
+      },
+      {
+        "rubric": "Narcolepsy - sudden daytime sleep",
+        "highGradeDrugs": ["Gelsemium", "Kali bromatum"]
+      },
+      {
+        "rubric": "Excessive sleepiness (hypersomnia)",
+        "highGradeDrugs": ["Phosphoric acid", "Nux moschata"]
+      },
+      {
+        "rubric": "Fetal sleep position",
+        "highGradeDrugs": ["Medorrhinum", "Magnesium phosphoricum"]
+      },
+      {
+        "rubric": "Hyperactive or restless before sleep (children)",
+        "highGradeDrugs": ["Tarentula hispanica", "Medorrhinum"]
+      }
+    ]
+  },
+  {
+    "miasm": "Syphilis",
+    "coreThemes": "Destruction, violence, fear, neurological derangement, depth pathology",
+    "keyRubrics": [
+      {
+        "rubric": "Sleep apnea episodes",
+        "highGradeDrugs": ["Lachesis", "Sambucus"]
+      },
+      {
+        "rubric": "Night terrors with screaming",
+        "highGradeDrugs": ["Stramonium", "Belladonna"]
+      },
+      {
+        "rubric": "Sleep - starts with fear or jerking",
+        "highGradeDrugs": ["Belladonna", "Aconitum"]
+      },
+      {
+        "rubric": "Sleepwalking (somnambulism)",
+        "highGradeDrugs": ["Kali bromatum", "Stramonium"]
+      },
+      {
+        "rubric": "Cataleptic sleep / trance-like unconsciousness",
+        "highGradeDrugs": ["Opium", "Anhalonium"]
+      },
+      {
+        "rubric": "Choking, suffocation sensation in sleep",
+        "highGradeDrugs": ["Lachesis", "Grindelia"]
+      }
+    ]
+  },
+  {
+    "rubric": "Sleeplessness after grief",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Ignatia", "Natrum muriaticum", "Phosphoric acid"],
+    "mediumGradeDrugs": ["Aurum metallicum", "Causticum"],
+    "lowGradeDrugs": ["Pulsatilla", "Sepia"]
+  },
+  {
+    "rubric": "Sleeplessness from overexcitement or joy",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Coffea", "Chamomilla", "Phosphorus"],
+    "mediumGradeDrugs": ["Belladonna", "Cina"],
+    "lowGradeDrugs": ["Lycopodium", "Calcarea phosphorica"]
+  },
+  {
+    "rubric": "Sleep disturbed after anger",
+    "miasm": "Psora/Sycosis",
+    "highGradeDrugs": ["Nux vomica", "Chamomilla", "Staphysagria"],
+    "mediumGradeDrugs": ["Colocynth", "Belladonna"],
+    "lowGradeDrugs": ["Ignatia", "Natrum muriaticum"]
+  },
+  {
+    "rubric": "Sleeplessness due to anxiety or overthinking",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Coffea", "Argentum nitricum", "Nux vomica"],
+    "mediumGradeDrugs": ["Arsenicum album", "Lycopodium"],
+    "lowGradeDrugs": ["Silicea", "Natrum muriaticum"]
+  },
+  {
+    "rubric": "Sleep disturbed after humiliation or insult",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Staphysagria", "Aurum metallicum", "Ignatia"],
+    "mediumGradeDrugs": ["Natrum muriaticum", "Pulsatilla"],
+    "lowGradeDrugs": ["Lachesis", "Anacardium"]
+  },
+  {
+    "rubric": "Sleep broken by fright or fear",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Stramonium", "Aconitum", "Belladonna"],
+    "mediumGradeDrugs": ["Opium", "Hyoscyamus"],
+    "lowGradeDrugs": ["Gelsemium", "Calcarea carbonica"]
+  },
+  {
+    "rubric": "Sleep disturbed by suppressed emotions",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Ignatia", "Natrum muriaticum", "Staphysagria"],
+    "mediumGradeDrugs": ["Sepia", "Causticum"],
+    "lowGradeDrugs": ["Silicea", "Phosphoric acid"]
+  },
+  {
+    "rubric": "Waking from sleep with anxiety",
+    "miasm": "Sycosis/Syphilis",
+    "highGradeDrugs": ["Arsenicum album", "Calcarea carbonica", "Lachesis"],
+    "mediumGradeDrugs": ["Phosphorus", "Nux vomica"],
+    "lowGradeDrugs": ["Pulsatilla", "Ignatia"]
+  },
+  {
+    "rubric": "Sleeplessness after excitement or anticipation",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Coffea", "Gelsemium", "Argentum nitricum"],
+    "mediumGradeDrugs": ["Lycopodium", "Phosphorus"],
+    "lowGradeDrugs": ["Aconitum", "Belladonna"]
+  },
+  {
+    "rubric": "Restless sleep in children after punishment or scolding",
+    "miasm": "Psora/Syphilis",
+    "highGradeDrugs": ["Cina", "Stramonium", "Ignatia"],
+    "mediumGradeDrugs": ["Staphysagria", "Chamomilla"],
+    "lowGradeDrugs": ["Hyoscyamus", "Medorrhinum"]
+  },
+  {
+    "rubric": "Sleeplessness from flatulence or abdominal bloating",
+    "miasm": "Psora/Sycosis",
+    "highGradeDrugs": ["Lycopodium", "Carbo vegetabilis", "China"],
+    "mediumGradeDrugs": ["Nux vomica", "Colocynth"],
+    "lowGradeDrugs": ["Raphanus", "Pulsatilla"]
+  },
+  {
+    "rubric": "Sleeplessness due to cough",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Drosera", "Spongia", "Belladonna"],
+    "mediumGradeDrugs": ["Rumex", "Hepar sulph"],
+    "lowGradeDrugs": ["Phosphorus", "Hyoscyamus"]
+  },
+  {
+    "rubric": "Sleeplessness during fever",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Belladonna", "Aconitum", "Gelsemium"],
+    "mediumGradeDrugs": ["Baptisia", "Bryonia"],
+    "lowGradeDrugs": ["Arsenicum album", "Ferrum phosphoricum"]
+  },
+  {
+    "rubric": "Sleep disturbed by hunger or empty stomach",
+    "miasm": "Psora",
+    "highGradeDrugs": ["China", "Calcarea carbonica", "Sulphur"],
+    "mediumGradeDrugs": ["Lycopodium", "Phosphorus"],
+    "lowGradeDrugs": ["Antimonium crudum", "Ignatia"]
+  },
+  {
+    "rubric": "Sleep disturbed by full stomach or overeating",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Nux vomica", "Carbo vegetabilis", "Pulsatilla"],
+    "mediumGradeDrugs": ["Lycopodium", "Antimonium crudum"],
+    "lowGradeDrugs": ["Colocynth", "Ipecac"]
+  },
+  {
+    "rubric": "Sleeplessness during menstruation",
+    "miasm": "Psora/Syphilis",
+    "highGradeDrugs": ["Cimicifuga", "Sepia", "Pulsatilla"],
+    "mediumGradeDrugs": ["Lachesis", "Ignatia"],
+    "lowGradeDrugs": ["Cyclamen", "Magnesia phosphorica"]
+  },
+  {
+    "rubric": "Sleep disturbed by urination urge at night",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Lycopodium", "Equisetum", "Causticum"],
+    "mediumGradeDrugs": ["Sabal serrulata", "Sulphur"],
+    "lowGradeDrugs": ["Sepia", "Sarsaparilla"]
+  },
+  {
+    "rubric": "Sleeplessness due to itching of skin",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Sulphur", "Psorinum", "Graphites"],
+    "mediumGradeDrugs": ["Arsenicum album", "Kali sulphuricum"],
+    "lowGradeDrugs": ["Hepar sulph", "Natrum mur"]
+  },
+  {
+    "rubric": "Sleeplessness due to pain (joint, head, neuralgic)",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Chamomilla", "Colocynth", "Magnesia phosphorica"],
+    "mediumGradeDrugs": ["Belladonna", "Arnica"],
+    "lowGradeDrugs": ["Rhus tox", "Bryonia"]
+  },
+  {
+    "rubric": "Sleep worsened lying flat (needs propped up)",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Arsenicum album", "Grindelia", "Sambucus"],
+    "mediumGradeDrugs": ["Antimonium tart", "Spongia"],
+    "lowGradeDrugs": ["Digitalis", "Lachesis"]
+  },
+  {
+    "rubric": "Sleep - on back with arms over head",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Sulphur", "Phosphorus", "Calcarea carbonica"],
+    "mediumGradeDrugs": ["Lycopodium", "Silicea"],
+    "lowGradeDrugs": ["Aconitum", "Sepia"]
+  },
+  {
+    "rubric": "Sleep - on abdomen (prone position)",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Medorrhinum", "Pulsatilla", "Tuberculinum"],
+    "mediumGradeDrugs": ["Sulphur", "Chamomilla"],
+    "lowGradeDrugs": ["Kali bromatum", "Mercurius"]
+  },
+  {
+    "rubric": "Sleep - on right side",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Phosphorus", "Lycopodium", "Nux vomica"],
+    "mediumGradeDrugs": ["Silicea", "Natrum muriaticum"],
+    "lowGradeDrugs": ["Pulsatilla", "Bryonia"]
+  },
+  {
+    "rubric": "Sleep - on left side",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Lachesis", "Thuja", "Kali carbonicum"],
+    "mediumGradeDrugs": ["Natrum sulph", "Arsenicum album"],
+    "lowGradeDrugs": ["Digitalis", "Anacardium"]
+  },
+  {
+    "rubric": "Sleep - with knees drawn up (fetal position)",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Medorrhinum", "Magnesium phosphoricum", "Sepia"],
+    "mediumGradeDrugs": ["Pulsatilla", "Sulphur"],
+    "lowGradeDrugs": ["Ignatia", "Stramonium"]
+  },
+  {
+    "rubric": "Sleep - sitting or propped up (cannot lie flat)",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Arsenicum album", "Sambucus", "Grindelia"],
+    "mediumGradeDrugs": ["Antimonium tart", "Spongia"],
+    "lowGradeDrugs": ["Digitalis", "Laurocerasus"]
+  },
+  {
+    "rubric": "Sleep - with head low and feet high",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Ferrum metallicum", "Carbo vegetabilis"],
+    "mediumGradeDrugs": ["Lachesis", "Glonoinum"],
+    "lowGradeDrugs": ["Calcarea phosphorica", "Veratrum album"]
+  },
+  {
+    "rubric": "Sleep - cannot sleep unless legs are uncovered",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Medorrhinum", "Sulphur", "Lachesis"],
+    "mediumGradeDrugs": ["Sepia", "Phosphorus"],
+    "lowGradeDrugs": ["Silicea", "Chamomilla"]
+  },
+  {
+    "rubric": "Sleep - changes position frequently",
+    "miasm": "Psora",
+    "highGradeDrugs": [
+      "Rhus toxicodendron",
+      "Zincum metallicum",
+      "Arsenicum album"
+    ],
+    "mediumGradeDrugs": ["Sulphur", "Chamomilla"],
+    "lowGradeDrugs": ["Nux vomica", "China"]
+  },
+  {
+    "rubric": "Sleep - wakes when turning on left side",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Lachesis", "Digitalis"],
+    "mediumGradeDrugs": ["Spongia", "Kali carbonicum"],
+    "lowGradeDrugs": ["Silicea", "Arsenicum album"]
+  },
+  {
+    "rubric": "Sleep - ameliorated after stool",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Nux vomica", "Sulphur"],
+    "mediumGradeDrugs": ["Sepia", "Natrum mur"],
+    "lowGradeDrugs": ["Lycopodium"]
+  },
+  {
+    "rubric": "Sleep - only possible on hard surface",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Arnica", "Rhus toxicodendron"],
+    "mediumGradeDrugs": ["Bryonia", "Calcarea fluorica"],
+    "lowGradeDrugs": ["Ruta", "Sulphur"]
+  },
+  {
+    "rubric": "Sleep - better in open air or window open",
+    "miasm": "Psora/Sycosis",
+    "highGradeDrugs": ["Pulsatilla", "Sulphur", "Lachesis"],
+    "mediumGradeDrugs": ["Phosphorus", "Medorrhinum"],
+    "lowGradeDrugs": ["Hepar sulph", "Calcarea phosphorica"]
+  },
+  {
+    "rubric": "Sleep - dreams prevent falling asleep",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Anhalonium", "Cannabis indica", "Stramonium"],
+    "mediumGradeDrugs": ["Phosphorus", "Ignatia"],
+    "lowGradeDrugs": ["Zincum", "Silicea"]
+  },
+  {
+    "rubric": "Sleep - better after cold bathing",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Medorrhinum", "Sulphur"],
+    "mediumGradeDrugs": ["Calcarea carbonica", "Phosphorus"],
+    "lowGradeDrugs": ["Silicea", "Psorinum"]
+  },
+  {
+    "rubric": "Sleep - disturbed by pain in heels",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Causticum", "Rhus tox"],
+    "mediumGradeDrugs": ["Ruta", "Arnica"],
+    "lowGradeDrugs": ["Silicea", "Kali carbonicum"]
+  },
+  {
+    "rubric": "Sleep - cannot sleep unless certain prayer is recited",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Stramonium", "Thuja"],
+    "mediumGradeDrugs": ["Arsenicum album", "Hyoscyamus"],
+    "lowGradeDrugs": ["Medorrhinum", "Cannabis indica"]
+  },
+  {
+    "rubric": "Sleep - disturbed by pulsations in head or body",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Glonoinum", "Belladonna"],
+    "mediumGradeDrugs": ["Pulsatilla", "Nux vomica"],
+    "lowGradeDrugs": ["Gelsemium", "Lachesis"]
+  },
+  {
+    "rubric": "Sleep - better lying with feet elevated",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Carbo vegetabilis", "Digitalis"],
+    "mediumGradeDrugs": ["Ferrum metallicum", "Lachesis"],
+    "lowGradeDrugs": ["Arsenicum", "Calcarea fluorica"]
+  },
+  {
+    "rubric": "Sleep - occurs immediately after eating",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Nux moschata", "Lycopodium"],
+    "mediumGradeDrugs": ["China", "Antimonium crudum"],
+    "lowGradeDrugs": ["Phosphorus", "Sepia"]
+  },
+  {
+    "rubric": "Sleeplessness before midnight",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Sulphur", "Coffea", "Arsenicum album"],
+    "mediumGradeDrugs": ["Phosphorus", "Belladonna"],
+    "lowGradeDrugs": ["Ignatia", "Sepia"]
+  },
+  {
+    "rubric": "Sleeplessness after midnight",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Nux vomica", "Lycopodium", "Kali carbonicum"],
+    "mediumGradeDrugs": ["Arnica", "Medorrhinum"],
+    "lowGradeDrugs": ["Silicea", "Calcarea carbonica"]
+  },
+  {
+    "rubric": "Sleeplessness < 3 AM",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Nux vomica", "Arsenicum album", "Rhus toxicodendron"],
+    "mediumGradeDrugs": ["Sepia", "Gelsemium"],
+    "lowGradeDrugs": ["Chamomilla", "Zincum"]
+  },
+  {
+    "rubric": "Wakes between 1–2 AM",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Lachesis", "Lycopodium", "Pulsatilla"],
+    "mediumGradeDrugs": ["China", "Natrum sulph"],
+    "lowGradeDrugs": ["Hepar sulph", "Kali sulph"]
+  },
+  {
+    "rubric": "Wakes between 2–4 AM",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Lycopodium", "Phosphoric acid", "Digitalis"],
+    "mediumGradeDrugs": ["Kali bromatum", "Silicea"],
+    "lowGradeDrugs": ["Ignatia", "China"]
+  },
+  {
+    "rubric": "Drowsiness or irresistible sleep during daytime",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Gelsemium", "Opium", "Baryta carbonica"],
+    "mediumGradeDrugs": ["Antimonium tart", "Phosphoric acid"],
+    "lowGradeDrugs": ["Sepia", "Ignatia"]
+  },
+  {
+    "rubric": "Sleepy after meals (especially lunch)",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Nux moschata", "China", "Lycopodium"],
+    "mediumGradeDrugs": ["Antimonium crudum", "Calcarea carbonica"],
+    "lowGradeDrugs": ["Phosphorus", "Sepia"]
+  },
+  {
+    "rubric": "Sleeplessness between 4–6 AM (early waking)",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Sulphur", "Arsenicum album", "Silicea"],
+    "mediumGradeDrugs": ["Natrum mur", "Phosphorus"],
+    "lowGradeDrugs": ["Causticum", "Sepia"]
+  },
+  {
+    "rubric": "Wakes too early and cannot sleep again",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Sulphur", "Phosphorus", "Pulsatilla"],
+    "mediumGradeDrugs": ["Lycopodium", "Sepia"],
+    "lowGradeDrugs": ["Natrum muriaticum", "Zincum"]
+  },
+  {
+    "rubric": "Wakes at fixed hour every night",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Arsenicum album", "Lachesis", "Kali carbonicum"],
+    "mediumGradeDrugs": ["Nux vomica", "Digitalis"],
+    "lowGradeDrugs": ["Silicea", "Rhus tox"]
+  },
+  {
+    "rubric": "Sleep disturbed during pregnancy",
+    "miasm": "Psora/Sycosis",
+    "highGradeDrugs": ["Sepia", "Cimicifuga", "Pulsatilla"],
+    "mediumGradeDrugs": ["Nux vomica", "Lycopodium"],
+    "lowGradeDrugs": ["Kali carbonicum", "Ignatia"]
+  },
+  {
+    "rubric": "Sleep disturbed during lactation",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Pulsatilla", "Coffea", "Sepia"],
+    "mediumGradeDrugs": ["Chamomilla", "Calcarea carbonica"],
+    "lowGradeDrugs": ["Aethusa cynapium", "Rhus toxicodendron"]
+  },
+  {
+    "rubric": "Sleep irregular in old age",
+    "miasm": "Psora/Syphilis",
+    "highGradeDrugs": ["Sulphur", "Baryta carbonica", "Conium"],
+    "mediumGradeDrugs": ["Lycopodium", "Digitalis"],
+    "lowGradeDrugs": ["Phosphoric acid", "Causticum"]
+  },
+  {
+    "rubric": "Sleep disturbed in infants (non-pathological)",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Chamomilla", "Cina", "Belladonna"],
+    "mediumGradeDrugs": ["Borax", "Calcarea carbonica"],
+    "lowGradeDrugs": ["Aethusa", "Sanicula"]
+  },
+  {
+    "rubric": "Sleeplessness during acute fever",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Belladonna", "Aconitum", "Arsenicum album"],
+    "mediumGradeDrugs": ["Baptisia", "Gelsemium"],
+    "lowGradeDrugs": ["Bryonia", "Opium"]
+  },
+  {
+    "rubric": "Sleepiness with chronic liver disease",
+    "miasm": "Sycosis",
+    "highGradeDrugs": ["Chelidonium", "Lycopodium", "China"],
+    "mediumGradeDrugs": ["Nux vomica", "Sulphur"],
+    "lowGradeDrugs": ["Carduus marianus", "Phosphorus"]
+  },
+  {
+    "rubric": "Sleep disturbed during convalescence",
+    "miasm": "Psora",
+    "highGradeDrugs": ["Phosphoric acid", "China", "Calcarea phosphorica"],
+    "mediumGradeDrugs": ["Gelsemium", "Sulphur"],
+    "lowGradeDrugs": ["Stannum", "Silicea"]
+  },
+  {
+    "rubric": "Excessive sleep in mental retardation or cerebral weakness",
+    "miasm": "Syphilis",
+    "highGradeDrugs": ["Baryta carbonica", "Opium", "Zincum metallicum"],
+    "mediumGradeDrugs": ["Bufo", "Agaricus"],
+    "lowGradeDrugs": ["Silicea", "Calcarea carbonica"]
+  },
+  {
+    "rubric": "Sleeplessness due to hormonal imbalance (thyroid, menopause)",
+    "miasm": "Psora/Sycosis",
+    "highGradeDrugs": ["Lachesis", "Sepia", "Calcarea carbonica"],
+    "mediumGradeDrugs": ["Natrum muriaticum", "Ignatia"],
+    "lowGradeDrugs": ["Graphites", "Phosphorus"]
+  },
+  {
+    "rubric": "Sleepiness with sluggish circulation or anemia",
+    "miasm": "Psora",
+    "highGradeDrugs": ["China", "Ferrum metallicum", "Phosphoric acid"],
+    "mediumGradeDrugs": ["Pulsatilla", "Calcarea phosphorica"],
+    "lowGradeDrugs": ["Silicea", "Sepia"]
+  }
+]

@@ -1,0 +1,5330 @@
+[
+  {
+    "rubric": "Face - Expression - Anxious",
+    "grading": {
+      "high": [
+        "Ars",
+        "Acon",
+        "Verat"
+      ],
+      "medium": [
+        "Bell",
+        "Gels"
+      ],
+      "low": [
+        "Phos",
+        "Stram"
+      ]
+    },
+    "modality": "Worse during fever, during anticipation, in chronic illness",
+    "miasm": "Psora",
+    "notes": "Common in acute fear states and illness-related anxiety"
+  },
+  {
+    "rubric": "Face - Expression - Idiotic / Imbecile",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Op",
+        "Stram"
+      ],
+      "medium": [
+        "Helleb",
+        "Cann-i"
+      ],
+      "low": [
+        "Plumb",
+        "Agar"
+      ]
+    },
+    "modality": "Seen in mental retardation, brain trauma, post-seizure",
+    "miasm": "Syphilis",
+    "notes": "Loss of facial intelligence; blank, lifeless look"
+  },
+  {
+    "rubric": "Face - Discoloration - Pale",
+    "grading": {
+      "high": [
+        "Ars",
+        "China",
+        "Calc"
+      ],
+      "medium": [
+        "Phos-ac",
+        "Ferr",
+        "Nat-m"
+      ],
+      "low": [
+        "Sep",
+        "Lyc"
+      ]
+    },
+    "modality": "Worse during anemia, cold, or fear",
+    "miasm": "Psora",
+    "notes": "Chronic pallor from nutritional or emotional causes"
+  },
+  {
+    "rubric": "Face - Greasy / Oily appearance",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Psor"
+      ],
+      "medium": [
+        "Thuja",
+        "Hepar"
+      ],
+      "low": [
+        "Kali-b",
+        "Nat-m"
+      ]
+    },
+    "modality": "Worse after meals, puberty, heat",
+    "miasm": "Sycosis",
+    "notes": "Seborrheic, T-zone oiliness, often with acne"
+  },
+  {
+    "rubric": "Face - Wrinkled - premature",
+    "grading": {
+      "high": [
+        "Op",
+        "Sulph",
+        "Phos"
+      ],
+      "medium": [
+        "Ars",
+        "Nat-m"
+      ],
+      "low": [
+        "Calc",
+        "Lyc"
+      ]
+    },
+    "modality": "After long illness or stress",
+    "miasm": "Tubercular",
+    "notes": "Face appears aged before time, sunken features"
+  },
+  {
+    "rubric": "Eyes - Deep set / sunken",
+    "grading": {
+      "high": [
+        "Ars",
+        "China"
+      ],
+      "medium": [
+        "Phos",
+        "Calc"
+      ],
+      "low": [
+        "Verat",
+        "Ign"
+      ]
+    },
+    "modality": "After exhaustion, grief, long fever",
+    "miasm": "Tubercular",
+    "notes": "Suggests chronic illness or inner depletion"
+  },
+  {
+    "rubric": "Lips - Blue / cyanotic",
+    "grading": {
+      "high": [
+        "Op",
+        "Carbo-v"
+      ],
+      "medium": [
+        "Lach",
+        "Cupr"
+      ],
+      "low": [
+        "Ant-t"
+      ]
+    },
+    "modality": "During collapse, heart or respiratory issues",
+    "miasm": "Syphilis",
+    "notes": "Peripheral circulation failure; often critical"
+  },
+  {
+    "rubric": "Nose - Red tip",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Lach"
+      ],
+      "medium": [
+        "Nat-c",
+        "Psor"
+      ],
+      "low": [
+        "Bell",
+        "Lyc"
+      ]
+    },
+    "modality": "After anger, during digestion",
+    "miasm": "Psora",
+    "notes": "Often linked to chronic dyspepsia or alcoholism"
+  },
+  {
+    "rubric": "Beard - Patchy hair loss (Alopecia Areata)",
+    "grading": {
+      "high": [
+        "Fl-ac",
+        "Phos"
+      ],
+      "medium": [
+        "Nat-m",
+        "Graph"
+      ],
+      "low": [
+        "Syph",
+        "Thuj"
+      ]
+    },
+    "modality": "After stress or auto-immune illness",
+    "miasm": "Syphilis",
+    "notes": "Bald patches especially in beard region"
+  },
+  {
+    "rubric": "Chin - Cleft / dimple",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Sulph"
+      ],
+      "medium": [
+        "Lach",
+        "Fl-ac"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "Constitutional; inherited",
+    "miasm": "Psora",
+    "notes": "Considered a personality indicator in classical constitutions"
+  },
+  {
+    "rubric": "Face - Puffy after sleep",
+    "grading": {
+      "high": [
+        "Op",
+        "Lach",
+        "Apis"
+      ],
+      "medium": [
+        "Kali-c",
+        "Ars"
+      ],
+      "low": [
+        "Calc",
+        "Sep"
+      ]
+    },
+    "modality": "Worse in morning or after long naps",
+    "miasm": "Psora",
+    "notes": "Common in venous stagnation and hypersensitivity constitutions"
+  },
+  {
+    "rubric": "Face - One-sided redness",
+    "grading": {
+      "high": [
+        "Cham",
+        "Bell"
+      ],
+      "medium": [
+        "Phos",
+        "Sulph"
+      ],
+      "low": [
+        "Arn",
+        "Stram"
+      ]
+    },
+    "modality": "Worse during dentition, fever, anger",
+    "miasm": "Psora",
+    "notes": "Often seen in children during irritability or fever"
+  },
+  {
+    "rubric": "Face - Twitching of facial muscles",
+    "grading": {
+      "high": [
+        "Agar",
+        "Cicuta"
+      ],
+      "medium": [
+        "Zinc",
+        "Ign"
+      ],
+      "low": [
+        "Tarent",
+        "Gels"
+      ]
+    },
+    "modality": "Worse from emotion, stress, after convulsions",
+    "miasm": "Sycosis",
+    "notes": "Common in neurotic and epileptiform states"
+  },
+  {
+    "rubric": "Face - Sunken and hollow",
+    "grading": {
+      "high": [
+        "Verat",
+        "Ars"
+      ],
+      "medium": [
+        "Carbo-v",
+        "Phos-ac"
+      ],
+      "low": [
+        "China",
+        "Sil"
+      ]
+    },
+    "modality": "After long illness, dehydration",
+    "miasm": "Tubercular",
+    "notes": "Hippocratic appearance in chronic wasting diseases"
+  },
+  {
+    "rubric": "Face - Dry and cracked",
+    "grading": {
+      "high": [
+        "Graph",
+        "Petrol",
+        "Sulph"
+      ],
+      "medium": [
+        "Bry",
+        "Ars"
+      ],
+      "low": [
+        "Psor",
+        "Nat-m"
+      ]
+    },
+    "modality": "Worse in winter, exposure to wind, bathing",
+    "miasm": "Psora",
+    "notes": "Common in eczema, sensitive skin types"
+  },
+  {
+    "rubric": "Face - Redness during anger",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Cham"
+      ],
+      "medium": [
+        "Ign",
+        "Lach"
+      ],
+      "low": [
+        "Bell",
+        "Phos"
+      ]
+    },
+    "modality": "Triggered by emotional outbursts",
+    "miasm": "Psora",
+    "notes": "Useful constitutional cue for choleric types"
+  },
+  {
+    "rubric": "Forehead - Oily shine",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Psor"
+      ],
+      "medium": [
+        "Thuja",
+        "Kali-b"
+      ],
+      "low": [
+        "Nat-m",
+        "Ant-c"
+      ]
+    },
+    "modality": "Worse in adolescence, heat, spicy foods",
+    "miasm": "Sycosis",
+    "notes": "T-zone oiliness with acne tendency"
+  },
+  {
+    "rubric": "Face - Unwashed appearance",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Psor"
+      ],
+      "medium": [
+        "Mez",
+        "Sep"
+      ],
+      "low": [
+        "Graph"
+      ]
+    },
+    "modality": "Worse on waking, during skin eruptions",
+    "miasm": "Psora",
+    "notes": "Dirty, grimy skin; neglected feel even if clean"
+  },
+  {
+    "rubric": "Eyes - Puffy eyelids",
+    "grading": {
+      "high": [
+        "Apis",
+        "Kali-c"
+      ],
+      "medium": [
+        "Lach",
+        "Ars"
+      ],
+      "low": [
+        "Calc",
+        "Nat-m"
+      ]
+    },
+    "modality": "Worse in morning, allergies, nephritis",
+    "miasm": "Psora",
+    "notes": "Seen in allergic constitutions, edema-prone"
+  },
+  {
+    "rubric": "Face - Freckles / pigmentation",
+    "grading": {
+      "high": [
+        "Sep",
+        "Berberis"
+      ],
+      "medium": [
+        "Thuja",
+        "Graph"
+      ],
+      "low": [
+        "Lyc",
+        "Nat-c"
+      ]
+    },
+    "modality": "Worse after sun, pregnancy",
+    "miasm": "Sycosis",
+    "notes": "Chloasma-like marks on cheeks and nose bridge"
+  },
+  {
+    "rubric": "Nose - Saddle-shaped",
+    "grading": {
+      "high": [
+        "Syph",
+        "Merc"
+      ],
+      "medium": [
+        "Aur",
+        "Kali-i"
+      ],
+      "low": [
+        "Med",
+        "Fl-ac"
+      ]
+    },
+    "modality": "Congenital or syphilitic destruction",
+    "miasm": "Syphilis",
+    "notes": "Classical destructive feature; high diagnostic value"
+  },
+  {
+    "rubric": "Face - Blue discoloration",
+    "grading": {
+      "high": [
+        "Op",
+        "Cupr",
+        "Carbo-v"
+      ],
+      "medium": [
+        "Lach",
+        "Ant-t"
+      ],
+      "low": [
+        "Hydroc-ac"
+      ]
+    },
+    "modality": "Worse in asphyxia, respiratory failure",
+    "miasm": "Syphilis",
+    "notes": "Seen in convulsions, cyanosis, and toxic states"
+  },
+  {
+    "rubric": "Face - Flushed after eating",
+    "grading": {
+      "high": [
+        "Ferr",
+        "Sulph"
+      ],
+      "medium": [
+        "Lyc",
+        "Calc"
+      ],
+      "low": [
+        "Nux-v"
+      ]
+    },
+    "modality": "During digestion; food aggravation",
+    "miasm": "Psora",
+    "notes": "Useful in liver disorders and gastric constitutions"
+  },
+  {
+    "rubric": "Face - Mask-like expression",
+    "grading": {
+      "high": [
+        "Plb",
+        "Gels"
+      ],
+      "medium": [
+        "Caust",
+        "Merc"
+      ],
+      "low": [
+        "Op",
+        "Aur"
+      ]
+    },
+    "modality": "Worse in Parkinsonism, nerve disorders",
+    "miasm": "Syphilis",
+    "notes": "Loss of facial expression; rigidity or paralysis"
+  },
+  {
+    "rubric": "Chin - Trembles while talking",
+    "grading": {
+      "high": [
+        "Gels",
+        "Ign"
+      ],
+      "medium": [
+        "Zinc",
+        "Op"
+      ],
+      "low": [
+        "Caust"
+      ]
+    },
+    "modality": "Worse in stage fear, emotions",
+    "miasm": "Tubercular",
+    "notes": "Important in nervous constitutions and exam anxiety"
+  },
+  {
+    "rubric": "Lips - Peeling skin",
+    "grading": {
+      "high": [
+        "Graph",
+        "Psor"
+      ],
+      "medium": [
+        "Petrol",
+        "Nat-m"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "Worse in winter, low hydration",
+    "miasm": "Psora",
+    "notes": "Crusty, flaky lips – often with dry skin constitution"
+  },
+  {
+    "rubric": "Beard - Eczema / eruptions",
+    "grading": {
+      "high": [
+        "Mez",
+        "Sulph"
+      ],
+      "medium": [
+        "Rhus-t",
+        "Petrol"
+      ],
+      "low": [
+        "Graph"
+      ]
+    },
+    "modality": "Worse after shaving, heat",
+    "miasm": "Psora",
+    "notes": "Crusting, scaling and itching in beard region"
+  },
+  {
+    "rubric": "Eyes - Expression - Piercing or Sharp",
+    "grading": {
+      "high": [
+        "Phos",
+        "Sulph"
+      ],
+      "medium": [
+        "Nux-v",
+        "Stram"
+      ],
+      "low": [
+        "Lach"
+      ]
+    },
+    "modality": "Strong gaze during emotion or attack",
+    "miasm": "Psora",
+    "notes": "Sharp, forceful eyes; often indicates aggression"
+  },
+  {
+    "rubric": "Lips - Herpetic eruptions",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Apis",
+        "Sep"
+      ],
+      "low": [
+        "Petrol",
+        "Borax"
+      ]
+    },
+    "modality": "Triggered by sun, cold, menses",
+    "miasm": "Sycosis",
+    "notes": "Blisters or ulcers on lips with burning/stinging"
+  },
+  {
+    "rubric": "Forehead - Blue veins visible",
+    "grading": {
+      "high": [
+        "Calc",
+        "Phos"
+      ],
+      "medium": [
+        "Cina",
+        "Fl-ac"
+      ],
+      "low": [
+        "Tub",
+        "Nat-m"
+      ]
+    },
+    "modality": "In fair, thin-skinned patients",
+    "miasm": "Tubercular",
+    "notes": "Visible venous pattern over forehead – children and chronic cases"
+  },
+  {
+    "rubric": "Forehead - Prominent / bulging",
+    "grading": {
+      "high": [
+        "Calc",
+        "Baryta-c"
+      ],
+      "medium": [
+        "Sil",
+        "Tub"
+      ],
+      "low": [
+        "Med"
+      ]
+    },
+    "modality": "Especially in children; hereditary or rickets-related",
+    "miasm": "Tubercular",
+    "notes": "Observed in delayed development or bone disorders"
+  },
+  {
+    "rubric": "Nose - Tip red and swollen",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Psor"
+      ],
+      "medium": [
+        "Nat-c",
+        "Lach"
+      ],
+      "low": [
+        "Rhus-t"
+      ]
+    },
+    "modality": "Worse after alcohol, heat, or gastric disturbance",
+    "miasm": "Psora",
+    "notes": "Linked to digestive complaints or alcoholism"
+  },
+  {
+    "rubric": "Face - Old looking in children",
+    "grading": {
+      "high": [
+        "Calc",
+        "Bar-c"
+      ],
+      "medium": [
+        "Op",
+        "Iod"
+      ],
+      "low": [
+        "Tub",
+        "Psor"
+      ]
+    },
+    "modality": "Children with growth retardation or malnutrition",
+    "miasm": "Tubercular",
+    "notes": "Constitutional appearance in failure-to-thrive"
+  },
+  {
+    "rubric": "Face - Blotchy red appearance",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Bell",
+        "Lach"
+      ],
+      "low": [
+        "Sep",
+        "Psor"
+      ]
+    },
+    "modality": "Worse in heat, emotions, eruptions suppressed",
+    "miasm": "Psora",
+    "notes": "Often linked with suppressed skin disorders"
+  },
+  {
+    "rubric": "Face - Transparent with blue veins",
+    "grading": {
+      "high": [
+        "Calc",
+        "Phos"
+      ],
+      "medium": [
+        "Cina",
+        "Fl-ac"
+      ],
+      "low": [
+        "Tub",
+        "Sil"
+      ]
+    },
+    "modality": "Common in fair, thin children",
+    "miasm": "Tubercular",
+    "notes": "Veins visible under skin; weak constitutions"
+  },
+  {
+    "rubric": "Beard - Sparse or absent in adult",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Phos"
+      ],
+      "medium": [
+        "Sil",
+        "Tub"
+      ],
+      "low": [
+        "Med"
+      ]
+    },
+    "modality": "Delayed puberty or endocrine disorders",
+    "miasm": "Tubercular",
+    "notes": "Used in male hypogonadism or developmental delay"
+  },
+  {
+    "rubric": "Chin - Receding",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Med"
+      ],
+      "medium": [
+        "Sil",
+        "Calc"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "Constitutional; inherited or hormonal",
+    "miasm": "Syphilis",
+    "notes": "Weak lower jaw; associated with inferiority complex"
+  },
+  {
+    "rubric": "Face - Cold sweat on face",
+    "grading": {
+      "high": [
+        "Verat",
+        "Camph"
+      ],
+      "medium": [
+        "Carbo-v",
+        "Ars"
+      ],
+      "low": [
+        "Op",
+        "China"
+      ]
+    },
+    "modality": "During collapse or acute fear",
+    "miasm": "Psora",
+    "notes": "Important in shock, collapse, gastroenteritis"
+  },
+  {
+    "rubric": "Face - Emaciated with large eyes",
+    "grading": {
+      "high": [
+        "Tub",
+        "Phos"
+      ],
+      "medium": [
+        "Sil",
+        "Ars"
+      ],
+      "low": [
+        "China",
+        "Med"
+      ]
+    },
+    "modality": "Chronic emaciation, children, loss of appetite",
+    "miasm": "Tubercular",
+    "notes": "Typical in marasmus or post-fever weakness"
+  },
+  {
+    "rubric": "Face - Flushed with excitement",
+    "grading": {
+      "high": [
+        "Bell",
+        "Phos"
+      ],
+      "medium": [
+        "Ferr",
+        "Sulph"
+      ],
+      "low": [
+        "Cham",
+        "Puls"
+      ]
+    },
+    "modality": "After emotional expression, exertion",
+    "miasm": "Psora",
+    "notes": "Useful in extroverted constitutions"
+  },
+  {
+    "rubric": "Lips - Constant licking of lips",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Calc"
+      ],
+      "medium": [
+        "Merc",
+        "Arg-n"
+      ],
+      "low": [
+        "Tub",
+        "Psor"
+      ]
+    },
+    "modality": "In nervous children, during fevers",
+    "miasm": "Psora",
+    "notes": "Used in children with anxiety or dehydration"
+  },
+  {
+    "rubric": "Lips - Pale",
+    "grading": {
+      "high": [
+        "China",
+        "Ferr"
+      ],
+      "medium": [
+        "Nat-m",
+        "Calc"
+      ],
+      "low": [
+        "Sep",
+        "Phos-ac"
+      ]
+    },
+    "modality": "After blood loss or anemia",
+    "miasm": "Psora",
+    "notes": "Suggestive of anemia and nutritional issues"
+  },
+  {
+    "rubric": "Lips - Blue on exposure to cold",
+    "grading": {
+      "high": [
+        "Carbo-v",
+        "Op"
+      ],
+      "medium": [
+        "Ant-t",
+        "Cupr"
+      ],
+      "low": [
+        "Phos",
+        "Verat"
+      ]
+    },
+    "modality": "Cold exposure or collapse",
+    "miasm": "Syphilis",
+    "notes": "Used in cyanotic tendencies, heart failure"
+  },
+  {
+    "rubric": "Eyes - Staring look",
+    "grading": {
+      "high": [
+        "Stram",
+        "Bell"
+      ],
+      "medium": [
+        "Hyos",
+        "Op"
+      ],
+      "low": [
+        "Phos",
+        "Ign"
+      ]
+    },
+    "modality": "During delirium, fear, ecstasy",
+    "miasm": "Psora",
+    "notes": "Seen in mania, delirium, intense fright"
+  },
+  {
+    "rubric": "Eyes - Lusterless / dull expression",
+    "grading": {
+      "high": [
+        "Gels",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Sep",
+        "Op"
+      ],
+      "low": [
+        "Ign",
+        "Caust"
+      ]
+    },
+    "modality": "After grief, long illness",
+    "miasm": "Psora",
+    "notes": "Lack of spark; common in depression, debility"
+  },
+  {
+    "rubric": "Eyebrows - Loss of lateral eyebrow (madarosis)",
+    "grading": {
+      "high": [
+        "Sep",
+        "Syph"
+      ],
+      "medium": [
+        "Graph",
+        "Nat-m"
+      ],
+      "low": [
+        "Psor",
+        "Sil"
+      ]
+    },
+    "modality": "Often in thyroid disorders, leprosy",
+    "miasm": "Syphilis",
+    "notes": "Outer third eyebrow loss – important diagnostic clue"
+  },
+  {
+    "rubric": "Forehead - Red patches",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Bell"
+      ],
+      "medium": [
+        "Rhus-t",
+        "Lach"
+      ],
+      "low": [
+        "Nat-m",
+        "Psor"
+      ]
+    },
+    "modality": "Worse in heat, anger, alcohol",
+    "miasm": "Psora",
+    "notes": "Associated with flushes, eruptions, or liver heat"
+  },
+  {
+    "rubric": "Face - Expression - Wild / delirious",
+    "grading": {
+      "high": [
+        "Stram",
+        "Bell"
+      ],
+      "medium": [
+        "Hyos",
+        "Acon"
+      ],
+      "low": [
+        "Tarent",
+        "Op"
+      ]
+    },
+    "modality": "During fever or delirium",
+    "miasm": "Psora",
+    "notes": "Manic look with staring, dilated pupils"
+  },
+  {
+    "rubric": "Face - Twitching on speaking",
+    "grading": {
+      "high": [
+        "Ign",
+        "Gels"
+      ],
+      "medium": [
+        "Agar",
+        "Zinc"
+      ],
+      "low": [
+        "Tarent"
+      ]
+    },
+    "modality": "Worse from emotions or stage fright",
+    "miasm": "Psora",
+    "notes": "Speech anxiety or neurologic tension"
+  },
+  {
+    "rubric": "Chin - Dimpled / cleft",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Sulph"
+      ],
+      "medium": [
+        "Lach",
+        "Fl-ac"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "Constitutional feature",
+    "miasm": "Psora",
+    "notes": "Often seen in assertive or expressive personalities"
+  },
+  {
+    "rubric": "Face - Acne on chin",
+    "grading": {
+      "high": [
+        "Sep",
+        "Kali-br",
+        "Sil"
+      ],
+      "medium": [
+        "Hepar",
+        "Sulph"
+      ],
+      "low": [
+        "Nat-m",
+        "Calc"
+      ]
+    },
+    "modality": "Worse before menses, after fatty food",
+    "miasm": "Sycosis",
+    "notes": "Hormonal acne focus on chin or jawline"
+  },
+  {
+    "rubric": "Face - Rosacea with visible veins",
+    "grading": {
+      "high": [
+        "Carbo-an",
+        "Lach",
+        "Sulph"
+      ],
+      "medium": [
+        "Kali-i",
+        "Psor"
+      ],
+      "low": [
+        "Phos",
+        "Rhus-t"
+      ]
+    },
+    "modality": "Worse with spicy food, alcohol, sun",
+    "miasm": "Sycosis",
+    "notes": "Chronic vascular facial redness with visible capillaries"
+  },
+  {
+    "rubric": "Face - Sweat cold and clammy",
+    "grading": {
+      "high": [
+        "Verat",
+        "Camph",
+        "Carbo-v"
+      ],
+      "medium": [
+        "Ars",
+        "Tab"
+      ],
+      "low": [
+        "Ant-t",
+        "Op"
+      ]
+    },
+    "modality": "During collapse, fear, diarrhea",
+    "miasm": "Psora",
+    "notes": "Important in acute, collapsing states"
+  },
+  {
+    "rubric": "Face - Greasy with comedones",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Psor"
+      ],
+      "medium": [
+        "Thuja",
+        "Hepar"
+      ],
+      "low": [
+        "Ant-c",
+        "Kali-br"
+      ]
+    },
+    "modality": "Worse in adolescence, oily skin type",
+    "miasm": "Sycosis",
+    "notes": "Oily skin with blackheads; seborrhea tendency"
+  },
+  {
+    "rubric": "Lips - Cracks in corners (angular cheilitis)",
+    "grading": {
+      "high": [
+        "Graph",
+        "Nat-m"
+      ],
+      "medium": [
+        "Petrol",
+        "Nit-ac"
+      ],
+      "low": [
+        "Calc",
+        "Psor"
+      ]
+    },
+    "modality": "Worse in winter, dehydration",
+    "miasm": "Psora",
+    "notes": "Common in malnourished or dry skin constitutions"
+  },
+  {
+    "rubric": "Face - Perspiration oily",
+    "grading": {
+      "high": [
+        "Psor",
+        "Thuja"
+      ],
+      "medium": [
+        "Sil",
+        "Sulph"
+      ],
+      "low": [
+        "Kali-s"
+      ]
+    },
+    "modality": "Worse after eating or exertion",
+    "miasm": "Sycosis",
+    "notes": "Sticky, oily sweat with sebaceous overactivity"
+  },
+  {
+    "rubric": "Face - Moles and warts",
+    "grading": {
+      "high": [
+        "Thuja",
+        "Caust"
+      ],
+      "medium": [
+        "Nat-m",
+        "Sulph"
+      ],
+      "low": [
+        "Ant-c",
+        "Psor"
+      ]
+    },
+    "modality": "Genetic tendency; worse with suppression",
+    "miasm": "Sycosis",
+    "notes": "Brown moles or hard warts on face"
+  },
+  {
+    "rubric": "Nose - Flattened bridge (saddle nose)",
+    "grading": {
+      "high": [
+        "Syph",
+        "Merc"
+      ],
+      "medium": [
+        "Aur",
+        "Fl-ac"
+      ],
+      "low": [
+        "Med",
+        "Kali-i"
+      ]
+    },
+    "modality": "Congenital or syphilitic origin",
+    "miasm": "Syphilis",
+    "notes": "Destructive, congenital, or leprosy-related sign"
+  },
+  {
+    "rubric": "Chin - Pointed",
+    "grading": {
+      "high": [
+        "Ign",
+        "Nat-m"
+      ],
+      "medium": [
+        "Fl-ac",
+        "Sil"
+      ],
+      "low": [
+        "Tub"
+      ]
+    },
+    "modality": "Constitutional",
+    "miasm": "Tubercular",
+    "notes": "Sharp, narrow jaw; typical of tubercular constitutions"
+  },
+  {
+    "rubric": "Face - Yellowish discoloration",
+    "grading": {
+      "high": [
+        "Chel",
+        "China"
+      ],
+      "medium": [
+        "Nat-s",
+        "Lyc"
+      ],
+      "low": [
+        "Sep",
+        "Sulph"
+      ]
+    },
+    "modality": "Worse with liver issues, chronic indigestion",
+    "miasm": "Psora",
+    "notes": "Jaundice-like tint, sallow skin tone"
+  },
+  {
+    "rubric": "Lips - Thick and large",
+    "grading": {
+      "high": [
+        "Ant-t",
+        "Calc"
+      ],
+      "medium": [
+        "Phos",
+        "Merc"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Especially in children; constitutional trait",
+    "miasm": "Sycosis",
+    "notes": "Also observed in endocrine or allergic tendencies"
+  },
+  {
+    "rubric": "Nose - Red veins (telangiectasia)",
+    "grading": {
+      "high": [
+        "Lach",
+        "Carbo-an"
+      ],
+      "medium": [
+        "Sulph",
+        "Kali-i"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse in alcoholics, heat exposure",
+    "miasm": "Sycosis",
+    "notes": "Common in facial rosacea or hepatic states"
+  },
+  {
+    "rubric": "Face - Tense / stretched skin appearance",
+    "grading": {
+      "high": [
+        "Plb",
+        "Caust"
+      ],
+      "medium": [
+        "Gels",
+        "Op"
+      ],
+      "low": [
+        "Agar"
+      ]
+    },
+    "modality": "During paralysis, nerve involvement",
+    "miasm": "Syphilis",
+    "notes": "Mask-like tension in Parkinsonism or paralysis"
+  },
+  {
+    "rubric": "Face - Dark circles under eyes",
+    "grading": {
+      "high": [
+        "Sep",
+        "Lyc",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Ferr",
+        "Nat-m"
+      ],
+      "low": [
+        "Sil",
+        "Sulph"
+      ]
+    },
+    "modality": "After grief, loss of sleep, anemia",
+    "miasm": "Tubercular",
+    "notes": "Important for mental/emotional cases and children"
+  },
+  {
+    "rubric": "Eyebrows - Very thick / bushy",
+    "grading": {
+      "high": [
+        "Thuja",
+        "Sulph"
+      ],
+      "medium": [
+        "Sil",
+        "Med"
+      ],
+      "low": [
+        "Calc",
+        "Graph"
+      ]
+    },
+    "modality": "Constitutional; sometimes hirsutism",
+    "miasm": "Sycosis",
+    "notes": "Associated with hormonal excess"
+  },
+  {
+    "rubric": "Face - Patches of depigmentation",
+    "grading": {
+      "high": [
+        "Sep",
+        "Sulph"
+      ],
+      "medium": [
+        "Psor",
+        "Calc"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "After skin eruptions or autoimmune",
+    "miasm": "Syphilis",
+    "notes": "Used in vitiligo and post-inflammatory skin changes"
+  },
+  {
+    "rubric": "Face - Expression - Melancholic / sad",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Ign",
+        "Sep"
+      ],
+      "medium": [
+        "Phos-ac",
+        "Caust"
+      ],
+      "low": [
+        "Psor",
+        "Sil"
+      ]
+    },
+    "modality": "During grief, depression",
+    "miasm": "Psora",
+    "notes": "Pale, drooping features; chronic sadness"
+  },
+  {
+    "rubric": "Face - Heat with no perspiration",
+    "grading": {
+      "high": [
+        "Bell",
+        "Bry"
+      ],
+      "medium": [
+        "Apis",
+        "Sulph"
+      ],
+      "low": [
+        "Acon",
+        "Camph"
+      ]
+    },
+    "modality": "High fever states, inflammation",
+    "miasm": "Psora",
+    "notes": "Useful in febrile or eruptive conditions"
+  },
+  {
+    "rubric": "Lips - Twitching or trembling",
+    "grading": {
+      "high": [
+        "Gels",
+        "Ign"
+      ],
+      "medium": [
+        "Zinc",
+        "Op"
+      ],
+      "low": [
+        "Stram"
+      ]
+    },
+    "modality": "During stress, fright, stage fear",
+    "miasm": "Psora",
+    "notes": "Often early sign in neurotic constitutions"
+  },
+  {
+    "rubric": "Beard - Tenderness / pain on shaving",
+    "grading": {
+      "high": [
+        "Mez",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Petrol",
+        "Graph"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "Worse after shaving, winter",
+    "miasm": "Psora",
+    "notes": "Beard skin eruptions, eczema, or folliculitis"
+  },
+  {
+    "rubric": "Face - Cheeks sunken with prominent cheekbones",
+    "grading": {
+      "high": [
+        "Phos",
+        "Tub",
+        "Sil"
+      ],
+      "medium": [
+        "China",
+        "Ars"
+      ],
+      "low": [
+        "Psor",
+        "Med"
+      ]
+    },
+    "modality": "After long illness, malnutrition",
+    "miasm": "Tubercular",
+    "notes": "Hollow cheeks, typical in consumption-type cases"
+  },
+  {
+    "rubric": "Face - Yellow saddle across nose and cheeks",
+    "grading": {
+      "high": [
+        "Sep",
+        "Sulph"
+      ],
+      "medium": [
+        "Kali-s",
+        "Nat-s"
+      ],
+      "low": [
+        "Calc",
+        "Lyc"
+      ]
+    },
+    "modality": "Worse with hormonal imbalance, sun exposure",
+    "miasm": "Sycosis",
+    "notes": "Chloasma/melasma distribution across cheeks and nose"
+  },
+  {
+    "rubric": "Face - Drooping of one side",
+    "grading": {
+      "high": [
+        "Caust",
+        "Gels",
+        "Plb"
+      ],
+      "medium": [
+        "Op",
+        "Acon"
+      ],
+      "low": [
+        "Ign",
+        "Lach"
+      ]
+    },
+    "modality": "During paralysis, stroke, Bell’s palsy",
+    "miasm": "Syphilis",
+    "notes": "Asymmetrical droop due to nerve weakness"
+  },
+  {
+    "rubric": "Lips - Everted / turned outward",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Bell"
+      ],
+      "medium": [
+        "Stram",
+        "Op"
+      ],
+      "low": [
+        "Hyos"
+      ]
+    },
+    "modality": "During convulsions, fevers",
+    "miasm": "Psora",
+    "notes": "Lower lip often turns outward; used in unconscious states"
+  },
+  {
+    "rubric": "Face - Bloated with pale skin",
+    "grading": {
+      "high": [
+        "Calc",
+        "Ars",
+        "Op"
+      ],
+      "medium": [
+        "China",
+        "Nat-m"
+      ],
+      "low": [
+        "Sep",
+        "Sil"
+      ]
+    },
+    "modality": "After weakness, renal or liver disease",
+    "miasm": "Psora",
+    "notes": "Swollen, soft face with puffiness and anemia"
+  },
+  {
+    "rubric": "Face - Face shiny as if polished",
+    "grading": {
+      "high": [
+        "Ars",
+        "Psor",
+        "Sil"
+      ],
+      "medium": [
+        "Sulph",
+        "Petrol"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "Worse in seborrhea, chronic skin issues",
+    "miasm": "Sycosis",
+    "notes": "Oily, reflective skin texture"
+  },
+  {
+    "rubric": "Face - White spots or depigmented patches",
+    "grading": {
+      "high": [
+        "Sep",
+        "Psor",
+        "Syph"
+      ],
+      "medium": [
+        "Calc",
+        "Sulph"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "After eruptions or chronic illness",
+    "miasm": "Syphilis",
+    "notes": "Vitiligo-type appearance"
+  },
+  {
+    "rubric": "Face - Brown patch on one cheek",
+    "grading": {
+      "high": [
+        "Sep",
+        "Sulph"
+      ],
+      "medium": [
+        "Lyc",
+        "Nat-m"
+      ],
+      "low": [
+        "Kali-s",
+        "Thuja"
+      ]
+    },
+    "modality": "Worse after pregnancy, hormonal changes",
+    "miasm": "Sycosis",
+    "notes": "Hormonal pigmentation linked to uterine disorders"
+  },
+  {
+    "rubric": "Nose - Enlarged bulbous tip (rhinophyma)",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Carbo-an"
+      ],
+      "medium": [
+        "Lach",
+        "Psor"
+      ],
+      "low": [
+        "Calc",
+        "Phos"
+      ]
+    },
+    "modality": "Worse with alcoholism, chronic digestion issues",
+    "miasm": "Sycosis",
+    "notes": "Thickened nose with red tip, typical in late rosacea"
+  },
+  {
+    "rubric": "Face - Expression - Blank / indifferent",
+    "grading": {
+      "high": [
+        "Op",
+        "Gels",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Ign",
+        "Sep"
+      ],
+      "low": [
+        "Sil",
+        "Med"
+      ]
+    },
+    "modality": "After grief, exhaustion, brain fog",
+    "miasm": "Psora",
+    "notes": "Lack of affect, flat expression"
+  },
+  {
+    "rubric": "Lips - Upper lip swollen",
+    "grading": {
+      "high": [
+        "Apis",
+        "Bell",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sulph",
+        "Psor"
+      ],
+      "low": [
+        "Hepar"
+      ]
+    },
+    "modality": "Worse in allergies, eruptions, hot weather",
+    "miasm": "Sycosis",
+    "notes": "May accompany facial eruptions or urticaria"
+  },
+  {
+    "rubric": "Chin - Protruding jaw",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Med",
+        "Tub"
+      ],
+      "medium": [
+        "Fl-ac",
+        "Sil"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "Hereditary or constitutional",
+    "miasm": "Tubercular",
+    "notes": "Forward projecting chin or mandible"
+  },
+  {
+    "rubric": "Eyebrows - Raised constantly",
+    "grading": {
+      "high": [
+        "Phos",
+        "Stram"
+      ],
+      "medium": [
+        "Hyos",
+        "Op"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "modality": "During surprise, fear, hyper-alertness",
+    "miasm": "Psora",
+    "notes": "Startled, expectant facial theme"
+  },
+  {
+    "rubric": "Face - Ashen / grayish discoloration",
+    "grading": {
+      "high": [
+        "Carbo-v",
+        "Op",
+        "Ars"
+      ],
+      "medium": [
+        "Verat",
+        "Sec"
+      ],
+      "low": [
+        "China"
+      ]
+    },
+    "modality": "Collapse, cardiac failure, late-stage disease",
+    "miasm": "Syphilis",
+    "notes": "Seen in terminal or critical collapse states"
+  },
+  {
+    "rubric": "Face - Expression - Frightened / terror-struck",
+    "grading": {
+      "high": [
+        "Acon",
+        "Stram"
+      ],
+      "medium": [
+        "Bell",
+        "Op"
+      ],
+      "low": [
+        "Gels",
+        "Puls"
+      ]
+    },
+    "modality": "During panic, nightmares, fever",
+    "miasm": "Psora",
+    "notes": "Eyes wide, pupils dilated; acute terror"
+  },
+  {
+    "rubric": "Nose - Constant rubbing or twitching",
+    "grading": {
+      "high": [
+        "Cina",
+        "Ign"
+      ],
+      "medium": [
+        "Cham",
+        "Zinc"
+      ],
+      "low": [
+        "Agar",
+        "Sil"
+      ]
+    },
+    "modality": "Common in worms, allergic rhinitis",
+    "miasm": "Psora",
+    "notes": "Seen in irritable, itchy nasal complaints"
+  },
+  {
+    "rubric": "Face - Dark patch on forehead",
+    "grading": {
+      "high": [
+        "Sep",
+        "Sulph"
+      ],
+      "medium": [
+        "Nat-m",
+        "Kali-s"
+      ],
+      "low": [
+        "Lyc"
+      ]
+    },
+    "modality": "Worse in uterine disorders, pregnancy",
+    "miasm": "Sycosis",
+    "notes": "Classic chloasma zone"
+  },
+  {
+    "rubric": "Lips - Dry with cracks in middle",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Graph",
+        "Petrol"
+      ],
+      "medium": [
+        "Sep",
+        "Calc"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "modality": "Worse in winter, fasting, dehydration",
+    "miasm": "Psora",
+    "notes": "Central lip fissure often indicates dryness constitution"
+  },
+  {
+    "rubric": "Face - Expression - Sneering / sarcastic",
+    "grading": {
+      "high": [
+        "Lach",
+        "Nux-v"
+      ],
+      "medium": [
+        "Med",
+        "Anac"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During arguments, dominance, cynicism",
+    "miasm": "Sycosis",
+    "notes": "Crooked smile or mocking tone seen on face"
+  },
+  {
+    "rubric": "Forehead - Perspiration during sleep",
+    "grading": {
+      "high": [
+        "Sil",
+        "Calc",
+        "Sanic"
+      ],
+      "medium": [
+        "China",
+        "Phos"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Common in children, chronic fatigue",
+    "miasm": "Psora",
+    "notes": "Night sweat with weak immunity or rickets"
+  },
+  {
+    "rubric": "Face - Expression - Proud / haughty",
+    "grading": {
+      "high": [
+        "Plat",
+        "Lach"
+      ],
+      "medium": [
+        "Nux-v",
+        "Sulph"
+      ],
+      "low": [
+        "Phos",
+        "Med"
+      ]
+    },
+    "modality": "During conversation, leadership, ego display",
+    "miasm": "Sycosis",
+    "notes": "Chin elevated, nose up – signature haughty look"
+  },
+  {
+    "rubric": "Face - Swelling under eyes (bags)",
+    "grading": {
+      "high": [
+        "Kali-c",
+        "Apis"
+      ],
+      "medium": [
+        "Lyc",
+        "Nat-m"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse in morning, sleep deprivation, allergies",
+    "miasm": "Psora",
+    "notes": "Puffy under-eye area – chronic toxicity or kidney issue"
+  },
+  {
+    "rubric": "Lips - Blue and cold",
+    "grading": {
+      "high": [
+        "Carbo-v",
+        "Camph"
+      ],
+      "medium": [
+        "Cupr",
+        "Ant-t"
+      ],
+      "low": [
+        "Verat"
+      ]
+    },
+    "modality": "During collapse, heart failure, cyanosis",
+    "miasm": "Syphilis",
+    "notes": "Indicates poor oxygenation or cold extremity state"
+  },
+  {
+    "rubric": "Forehead - Deep horizontal lines",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Sulph"
+      ],
+      "medium": [
+        "Nat-m",
+        "Sep"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "modality": "Constitutional; worse with worry, old age",
+    "miasm": "Psora",
+    "notes": "Worry lines; mental strain or liver involvement"
+  },
+  {
+    "rubric": "Chin - Covered with small pimples",
+    "grading": {
+      "high": [
+        "Kali-br",
+        "Sil",
+        "Sep"
+      ],
+      "medium": [
+        "Hepar",
+        "Sulph"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "modality": "Worse during menses, stress",
+    "miasm": "Sycosis",
+    "notes": "Hormonal acne flare-ups"
+  },
+  {
+    "rubric": "Face - Wrinkled in young persons",
+    "grading": {
+      "high": [
+        "Ars",
+        "Sep"
+      ],
+      "medium": [
+        "Sulph",
+        "Psor"
+      ],
+      "low": [
+        "Sil",
+        "Nat-m"
+      ]
+    },
+    "modality": "After long illness, anxiety, grief",
+    "miasm": "Tubercular",
+    "notes": "Premature aging appearance"
+  },
+  {
+    "rubric": "Face - Twitching one-sided",
+    "grading": {
+      "high": [
+        "Cicuta",
+        "Agar"
+      ],
+      "medium": [
+        "Ign",
+        "Zinc"
+      ],
+      "low": [
+        "Gels",
+        "Op"
+      ]
+    },
+    "modality": "Worse with excitement, stress",
+    "miasm": "Psora",
+    "notes": "Unilateral facial spasms – chorea or convulsions"
+  },
+  {
+    "rubric": "Eyes - Surprised look",
+    "grading": {
+      "high": [
+        "Stram",
+        "Hyos"
+      ],
+      "medium": [
+        "Acon",
+        "Bell"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During panic, fright, startle",
+    "miasm": "Psora",
+    "notes": "Eyebrows raised, eyes wide – sudden shock"
+  },
+  {
+    "rubric": "Face - Face red with pale ring around mouth",
+    "grading": {
+      "high": [
+        "Cham",
+        "Bell"
+      ],
+      "medium": [
+        "Ferr",
+        "Lach"
+      ],
+      "low": [
+        "Puls"
+      ]
+    },
+    "modality": "During dentition, fever",
+    "miasm": "Psora",
+    "notes": "Useful in infant fevers or irritable children"
+  },
+  {
+    "rubric": "Face - Pigmented patch on temple",
+    "grading": {
+      "high": [
+        "Sep",
+        "Sulph"
+      ],
+      "medium": [
+        "Kali-s",
+        "Nat-m"
+      ],
+      "low": [
+        "Phos",
+        "Calc"
+      ]
+    },
+    "modality": "Worse in hormonal issues or sun",
+    "miasm": "Sycosis",
+    "notes": "Localized chloasma or post-inflammatory mark"
+  },
+  {
+    "rubric": "Beard - Premature graying",
+    "grading": {
+      "high": [
+        "Phos",
+        "Lyc"
+      ],
+      "medium": [
+        "Sil",
+        "Nat-m"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse after stress, grief, exhaustion",
+    "miasm": "Tubercular",
+    "notes": "Early hair whitening, esp. in young adults"
+  },
+  {
+    "rubric": "Nose - Dryness with crusts",
+    "grading": {
+      "high": [
+        "Graph",
+        "Kali-bi"
+      ],
+      "medium": [
+        "Nit-ac",
+        "Petrol"
+      ],
+      "low": [
+        "Sulph",
+        "Psor"
+      ]
+    },
+    "modality": "Worse in winter, dust, chronic rhinitis",
+    "miasm": "Psora",
+    "notes": "Nasal mucosa crusts and bleeding"
+  },
+  {
+    "rubric": "Chin - Covered with white patches",
+    "grading": {
+      "high": [
+        "Sep",
+        "Psor",
+        "Sulph"
+      ],
+      "medium": [
+        "Nat-m",
+        "Calc"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "modality": "Post-eczema, fungal infections",
+    "miasm": "Syphilis",
+    "notes": "Local vitiligo or post-inflammatory depigmentation"
+  },
+  {
+    "rubric": "Face - Red nose tip with acne",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Kali-br"
+      ],
+      "medium": [
+        "Psor",
+        "Hepar"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "modality": "Worse with fatty food, puberty",
+    "miasm": "Sycosis",
+    "notes": "Localized acne rosacea on nasal tip"
+  },
+  {
+    "rubric": "Face - Expression - Arrogant",
+    "grading": {
+      "high": [
+        "Plat",
+        "Lach"
+      ],
+      "medium": [
+        "Sulph",
+        "Nux-v"
+      ],
+      "low": [
+        "Med"
+      ]
+    },
+    "modality": "During dominance, anger, ego states",
+    "miasm": "Sycosis",
+    "notes": "Classic condescending facial posture"
+  },
+  {
+    "rubric": "Lips - Dry and constantly wet by tongue",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Psor",
+        "Graph"
+      ],
+      "low": [
+        "Calc",
+        "Sil"
+      ]
+    },
+    "modality": "In nervous states, fevers",
+    "miasm": "Psora",
+    "notes": "Self-soothing behavior in children and anxious patients"
+  },
+  {
+    "rubric": "Face - Blue discoloration around mouth",
+    "grading": {
+      "high": [
+        "Cupr",
+        "Op",
+        "Carbo-v"
+      ],
+      "medium": [
+        "Ant-t",
+        "Verat"
+      ],
+      "low": [
+        "Camph"
+      ]
+    },
+    "modality": "During asphyxia, convulsions, heart failure",
+    "miasm": "Syphilis",
+    "notes": "Cyanotic ring around lips – emergency clue"
+  },
+  {
+    "rubric": "Face - Peeling skin after eruptions",
+    "grading": {
+      "high": [
+        "Graph",
+        "Mez"
+      ],
+      "medium": [
+        "Sulph",
+        "Psor"
+      ],
+      "low": [
+        "Petrol"
+      ]
+    },
+    "modality": "Post-eczema, allergic rash healing",
+    "miasm": "Psora",
+    "notes": "Skin exfoliation after eruptions"
+  },
+  {
+    "rubric": "Forehead - Oily with small boils",
+    "grading": {
+      "high": [
+        "Kali-br",
+        "Sil"
+      ],
+      "medium": [
+        "Hepar",
+        "Psor"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "Worse in adolescents, stress, sweets",
+    "miasm": "Sycosis",
+    "notes": "Common acne site – sebaceous overactivity"
+  },
+  {
+    "rubric": "Face - Pale with red spots on cheeks",
+    "grading": {
+      "high": [
+        "Phos",
+        "Ferr"
+      ],
+      "medium": [
+        "Puls",
+        "Nat-m"
+      ],
+      "low": [
+        "China"
+      ]
+    },
+    "modality": "During tuberculosis, anemia",
+    "miasm": "Tubercular",
+    "notes": "Typical butterfly rash pattern"
+  },
+  {
+    "rubric": "Eyebrows - One raised higher than the other",
+    "grading": {
+      "high": [
+        "Lach",
+        "Ign"
+      ],
+      "medium": [
+        "Plb",
+        "Stram"
+      ],
+      "low": [
+        "Op"
+      ]
+    },
+    "modality": "During sarcasm, facial nerve involvement",
+    "miasm": "Sycosis",
+    "notes": "Asymmetry in expression; often linked with personality traits"
+  },
+  {
+    "rubric": "Eyes - Upper eyelid drooping (ptosis)",
+    "grading": {
+      "high": [
+        "Caust",
+        "Gels"
+      ],
+      "medium": [
+        "Sep",
+        "Plb"
+      ],
+      "low": [
+        "Lyc",
+        "Op"
+      ]
+    },
+    "modality": "Worse after fatigue, paralysis, grief",
+    "miasm": "Syphilis",
+    "notes": "Seen in neurological weakness or exhaustion"
+  },
+  {
+    "rubric": "Nose - Flared nostrils during breathing",
+    "grading": {
+      "high": [
+        "Ant-t",
+        "Phos"
+      ],
+      "medium": [
+        "Lach",
+        "Ars"
+      ],
+      "low": [
+        "Verat"
+      ]
+    },
+    "modality": "During respiratory distress, asthma, fever",
+    "miasm": "Psora",
+    "notes": "Nasal alae move during inspiration; dyspnea sign"
+  },
+  {
+    "rubric": "Cheeks - Red spot on one cheek",
+    "grading": {
+      "high": [
+        "Phos",
+        "Ferr",
+        "Cham"
+      ],
+      "medium": [
+        "Bell",
+        "Puls"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "During teething, tuberculosis, emotional states",
+    "miasm": "Tubercular",
+    "notes": "Unilateral flush; may alternate sides"
+  },
+  {
+    "rubric": "Face - Puffiness after waking",
+    "grading": {
+      "high": [
+        "Kali-c",
+        "Apis"
+      ],
+      "medium": [
+        "Lyc",
+        "China"
+      ],
+      "low": [
+        "Psor",
+        "Sulph"
+      ]
+    },
+    "modality": "Worse in morning, after salty food",
+    "miasm": "Psora",
+    "notes": "Morning facial edema; kidney or liver indications"
+  },
+  {
+    "rubric": "Face - Glossy skin appearance",
+    "grading": {
+      "high": [
+        "Ars",
+        "Graph"
+      ],
+      "medium": [
+        "Psor",
+        "Sil"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "In eczema or chronic skin conditions",
+    "miasm": "Sycosis",
+    "notes": "Tight shiny skin often after eruptions suppressed"
+  },
+  {
+    "rubric": "Lips - Upper lip protruded / thickened",
+    "grading": {
+      "high": [
+        "Thuja",
+        "Calc"
+      ],
+      "medium": [
+        "Sil",
+        "Sulph"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "modality": "In adenoids, dental deformities",
+    "miasm": "Sycosis",
+    "notes": "Used in children with open mouth and breathing issues"
+  },
+  {
+    "rubric": "Face - Eruptions along hairline",
+    "grading": {
+      "high": [
+        "Graph",
+        "Petrol"
+      ],
+      "medium": [
+        "Mez",
+        "Psor"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "Worse in winter, sweating, scalp eruptions",
+    "miasm": "Psora",
+    "notes": "Crusty or dry eruptions bordering hair margin"
+  },
+  {
+    "rubric": "Face - Face looks greasy but feels dry",
+    "grading": {
+      "high": [
+        "Psor",
+        "Nat-m"
+      ],
+      "medium": [
+        "Graph",
+        "Sil"
+      ],
+      "low": [
+        "Sep"
+      ]
+    },
+    "modality": "In seborrhea, nutritional imbalance",
+    "miasm": "Psora",
+    "notes": "Contradictory symptom of oily-dry skin"
+  },
+  {
+    "rubric": "Cheeks - Dimple on one cheek only",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Phos"
+      ],
+      "medium": [
+        "Med",
+        "Sil"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "Constitutional",
+    "miasm": "Tubercular",
+    "notes": "Asymmetric dimples – often hereditary"
+  },
+  {
+    "rubric": "Forehead - Sweating only on forehead",
+    "grading": {
+      "high": [
+        "Sil",
+        "Calc"
+      ],
+      "medium": [
+        "Phos",
+        "China"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse at night, during sleep",
+    "miasm": "Psora",
+    "notes": "Often linked with calcium deficiency or weak digestion"
+  },
+  {
+    "rubric": "Beard - Hair falling in patches (Alopecia barbae)",
+    "grading": {
+      "high": [
+        "Fl-ac",
+        "Phos",
+        "Thuj"
+      ],
+      "medium": [
+        "Sil",
+        "Psor"
+      ],
+      "low": [
+        "Med"
+      ]
+    },
+    "modality": "After stress or auto-immune",
+    "miasm": "Syphilis",
+    "notes": "Circular bald patches in beard area"
+  },
+  {
+    "rubric": "Face - One side red, other pale",
+    "grading": {
+      "high": [
+        "Cham",
+        "Phos"
+      ],
+      "medium": [
+        "Puls",
+        "Bell"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During teething, menses, fever",
+    "miasm": "Psora",
+    "notes": "Important polarity symptom"
+  },
+  {
+    "rubric": "Nose - Nose tip shiny",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Psor"
+      ],
+      "medium": [
+        "Calc",
+        "Thuja"
+      ],
+      "low": [
+        "Lyc"
+      ]
+    },
+    "modality": "Oily skin tendency, sebaceous hyperactivity",
+    "miasm": "Sycosis",
+    "notes": "Often linked with acne and rosacea"
+  },
+  {
+    "rubric": "Lips - Bleeding on slightest crack",
+    "grading": {
+      "high": [
+        "Nit-ac",
+        "Merc"
+      ],
+      "medium": [
+        "Graph",
+        "Sulph"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse in winter, dry weather",
+    "miasm": "Syphilis",
+    "notes": "Common in cracked, dry lips with fissures"
+  },
+  {
+    "rubric": "Face - Sagging skin around mouth",
+    "grading": {
+      "high": [
+        "Plb",
+        "Sep"
+      ],
+      "medium": [
+        "Nat-m",
+        "Sil"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "In old age, depression, nervous weakness",
+    "miasm": "Syphilis",
+    "notes": "Jowls or loose skin; loss of tone"
+  },
+  {
+    "rubric": "Face - Constant facial tics",
+    "grading": {
+      "high": [
+        "Agar",
+        "Cicuta"
+      ],
+      "medium": [
+        "Ign",
+        "Tarent"
+      ],
+      "low": [
+        "Zinc"
+      ]
+    },
+    "modality": "Worse from stress, concentration",
+    "miasm": "Psora",
+    "notes": "Twitching, blinking, grimacing – functional origin"
+  },
+  {
+    "rubric": "Eyes - Lower lid swollen and bluish",
+    "grading": {
+      "high": [
+        "Apis",
+        "Kali-c"
+      ],
+      "medium": [
+        "China",
+        "Ars"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "In malnourished, kidney-involved cases",
+    "miasm": "Psora",
+    "notes": "Chronic under-eye swelling with discoloration"
+  },
+  {
+    "rubric": "Face - Shriveled / dried up",
+    "grading": {
+      "high": [
+        "Op",
+        "Camph",
+        "Carbo-v"
+      ],
+      "medium": [
+        "Ars",
+        "China"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During collapse, marasmus, old age",
+    "miasm": "Tubercular",
+    "notes": "Skin sticks to bones; lack of vitality"
+  },
+  {
+    "rubric": "Chin - Frequent rubbing with hand",
+    "grading": {
+      "high": [
+        "Cina",
+        "Tarent"
+      ],
+      "medium": [
+        "Cham",
+        "Zinc"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During irritation, itching, attention-seeking",
+    "miasm": "Psora",
+    "notes": "Repetitive self-touching gestures"
+  },
+  {
+    "rubric": "Face - Unilateral sweating",
+    "grading": {
+      "high": [
+        "Lach",
+        "Thuja"
+      ],
+      "medium": [
+        "Phos",
+        "Sil"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "During sleep or exertion",
+    "miasm": "Sycosis",
+    "notes": "Sweat appears on one side of face only"
+  },
+  {
+    "rubric": "Forehead - Blue veins visible",
+    "grading": {
+      "high": [
+        "Calc",
+        "Fl-ac"
+      ],
+      "medium": [
+        "Nat-m",
+        "Phos"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "In children, after illness",
+    "miasm": "Tubercular",
+    "notes": "Indicative of weak constitution and anemia"
+  },
+  {
+    "rubric": "Face - Expression - Dull, lifeless",
+    "grading": {
+      "high": [
+        "Op",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Sep",
+        "Nat-m"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During depression, exhaustion, trauma",
+    "miasm": "Psora",
+    "notes": "Blank stare, no light in eyes"
+  },
+  {
+    "rubric": "Face - Crusts around nostrils and lips",
+    "grading": {
+      "high": [
+        "Graph",
+        "Ant-c"
+      ],
+      "medium": [
+        "Sil",
+        "Psor"
+      ],
+      "low": [
+        "Petrol"
+      ]
+    },
+    "modality": "Worse in winter, in children",
+    "miasm": "Psora",
+    "notes": "Dry crusty eruptions or herpes near mouth/nose"
+  },
+  {
+    "rubric": "Lips - Tongue constantly licking upper lip",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Ign"
+      ],
+      "medium": [
+        "Sil",
+        "Phos-ac"
+      ],
+      "low": [
+        "Graph"
+      ]
+    },
+    "modality": "During anxiety, fever, talking",
+    "miasm": "Psora",
+    "notes": "Habitual motion, often unconscious"
+  },
+  {
+    "rubric": "Face - Jaw trembles while speaking",
+    "grading": {
+      "high": [
+        "Gels",
+        "Op"
+      ],
+      "medium": [
+        "Ign",
+        "Plb"
+      ],
+      "low": [
+        "Zinc"
+      ]
+    },
+    "modality": "During fright, weakness, stage fear",
+    "miasm": "Psora",
+    "notes": "Seen in public speaking or neurological cases"
+  },
+  {
+    "rubric": "Cheeks - Excessive redness with burning",
+    "grading": {
+      "high": [
+        "Bell",
+        "Sulph"
+      ],
+      "medium": [
+        "Ars",
+        "Psor"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "modality": "Worse with sun, wine, fever",
+    "miasm": "Psora",
+    "notes": "Rosy red cheeks with heat or flush"
+  },
+  {
+    "rubric": "Face - Twitching of chin muscles",
+    "grading": {
+      "high": [
+        "Agar",
+        "Cicuta"
+      ],
+      "medium": [
+        "Ign",
+        "Zinc"
+      ],
+      "low": [
+        "Tarent"
+      ]
+    },
+    "modality": "During tension, nervousness",
+    "miasm": "Psora",
+    "notes": "Seen in stress-related or convulsive states"
+  },
+  {
+    "rubric": "Face - Jaw stiffness",
+    "grading": {
+      "high": [
+        "Plb",
+        "Caust"
+      ],
+      "medium": [
+        "Stram",
+        "Gels"
+      ],
+      "low": [
+        "Cicuta"
+      ]
+    },
+    "modality": "During fear, stroke, trauma",
+    "miasm": "Syphilis",
+    "notes": "Lockjaw or tetanic stiffness"
+  },
+  {
+    "rubric": "Nose - Constant itching at tip",
+    "grading": {
+      "high": [
+        "Cina",
+        "Sulph"
+      ],
+      "medium": [
+        "Psor",
+        "Ant-c"
+      ],
+      "low": [
+        "Cham"
+      ]
+    },
+    "modality": "In worms, allergy, anxiety",
+    "miasm": "Psora",
+    "notes": "Children with worms often show this sign"
+  },
+  {
+    "rubric": "Eyes - Lachrymal corners red and raw",
+    "grading": {
+      "high": [
+        "Euphr",
+        "Graph"
+      ],
+      "medium": [
+        "Psor",
+        "Sulph"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "Worse in wind, during cold",
+    "miasm": "Psora",
+    "notes": "Corner of eyes red and sore; conjunctival dryness"
+  },
+  {
+    "rubric": "Face - Expression - Devotional / absorbed",
+    "grading": {
+      "high": [
+        "Ign",
+        "Puls"
+      ],
+      "medium": [
+        "Phos",
+        "Sil"
+      ],
+      "low": [
+        "Med"
+      ]
+    },
+    "modality": "During prayer, deep emotion",
+    "miasm": "Psora",
+    "notes": "Calm, inward face seen in spiritual types"
+  },
+  {
+    "rubric": "Forehead - Furrowed vertically between eyebrows",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Lyc"
+      ],
+      "medium": [
+        "Calc",
+        "Sep"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "In chronic worry, digestive issues",
+    "miasm": "Psora",
+    "notes": "Mental strain or liver indication"
+  },
+  {
+    "rubric": "Face - Skin dry and scaling around mouth",
+    "grading": {
+      "high": [
+        "Graph",
+        "Petrol"
+      ],
+      "medium": [
+        "Sil",
+        "Sulph"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "In cold, post-eczema or fungal",
+    "miasm": "Psora",
+    "notes": "Cheilitis-like skin symptoms"
+  },
+  {
+    "rubric": "Face - Lower lip hanging or everted",
+    "grading": {
+      "high": [
+        "Op",
+        "Phos"
+      ],
+      "medium": [
+        "Stram",
+        "Zinc"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "In coma, shock, drooling",
+    "miasm": "Syphilis",
+    "notes": "Used in neurological depression or low tone"
+  },
+  {
+    "rubric": "Face - Corners of mouth turned downward",
+    "grading": {
+      "high": [
+        "Ign",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sil",
+        "Sep"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During sadness, grief, introversion",
+    "miasm": "Psora",
+    "notes": "Melancholy expression marker"
+  },
+  {
+    "rubric": "Face - Eczema behind ears extending to face",
+    "grading": {
+      "high": [
+        "Graph",
+        "Mez"
+      ],
+      "medium": [
+        "Petrol",
+        "Sil"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "Worse in children, winter",
+    "miasm": "Psora",
+    "notes": "Typical infant eczema route"
+  },
+  {
+    "rubric": "Face - Expression - Deep anxiety with fear",
+    "grading": {
+      "high": [
+        "Acon",
+        "Ars"
+      ],
+      "medium": [
+        "Phos",
+        "Gels"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During anticipation, panic attacks",
+    "miasm": "Psora",
+    "notes": "Facial expression of dread and foreboding"
+  },
+  {
+    "rubric": "Nose - Perspiration at root of nose",
+    "grading": {
+      "high": [
+        "Sil",
+        "Calc"
+      ],
+      "medium": [
+        "Psor",
+        "Sulph"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "During sleep or weakness",
+    "miasm": "Psora",
+    "notes": "Seen in rickety or asthenic children"
+  },
+  {
+    "rubric": "Beard - Thick, hard hair with follicular eruptions",
+    "grading": {
+      "high": [
+        "Mez",
+        "Petrol"
+      ],
+      "medium": [
+        "Sulph",
+        "Sil"
+      ],
+      "low": [
+        "Ant-c"
+      ]
+    },
+    "modality": "Worse after shaving, sweat, friction",
+    "miasm": "Sycosis",
+    "notes": "Barbae area boils and folliculitis"
+  },
+  {
+    "rubric": "Forehead - Wrinkled during worry or thinking",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Sil",
+        "Lyc"
+      ],
+      "medium": [
+        "Calc",
+        "Sep"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During stress, responsibility, study",
+    "miasm": "Psora",
+    "notes": "Intellectual facial tension; common in responsible types"
+  },
+  {
+    "rubric": "Nose - Small and pinched",
+    "grading": {
+      "high": [
+        "Carbo-v",
+        "Ars",
+        "Op"
+      ],
+      "medium": [
+        "Sil",
+        "Lyc"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "After prolonged illness, exhaustion",
+    "miasm": "Tubercular",
+    "notes": "Malnourished appearance in debilitated individuals"
+  },
+  {
+    "rubric": "Eyes - Surroundings dark and sunken",
+    "grading": {
+      "high": [
+        "China",
+        "Phos",
+        "Nat-m"
+      ],
+      "medium": [
+        "Ars",
+        "Sil"
+      ],
+      "low": [
+        "Sep"
+      ]
+    },
+    "modality": "In weakness, grief, sleeplessness",
+    "miasm": "Tubercular",
+    "notes": "Dark periorbital zones; anemia or mental stress"
+  },
+  {
+    "rubric": "Face - Yellow patch above eyebrows",
+    "grading": {
+      "high": [
+        "Sep",
+        "Sulph"
+      ],
+      "medium": [
+        "Lyc",
+        "Kali-s"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "Worse in hormonal imbalance",
+    "miasm": "Sycosis",
+    "notes": "Chloasma or endocrine pigmentation"
+  },
+  {
+    "rubric": "Face - Left side more expressive than right",
+    "grading": {
+      "high": [
+        "Lach",
+        "Ign"
+      ],
+      "medium": [
+        "Stram",
+        "Med"
+      ],
+      "low": [
+        "Plb"
+      ]
+    },
+    "modality": "During talking, argument, excitement",
+    "miasm": "Sycosis",
+    "notes": "Left-sided facial dominance or expressiveness"
+  },
+  {
+    "rubric": "Chin - Long and pointed",
+    "grading": {
+      "high": [
+        "Sil",
+        "Phos"
+      ],
+      "medium": [
+        "Calc",
+        "Med"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Constitutional",
+    "miasm": "Tubercular",
+    "notes": "Typical tubercular facial structure"
+  },
+  {
+    "rubric": "Face - Trembling of muscles around mouth",
+    "grading": {
+      "high": [
+        "Gels",
+        "Cicuta",
+        "Agar"
+      ],
+      "medium": [
+        "Ign",
+        "Zinc"
+      ],
+      "low": [
+        "Stram"
+      ]
+    },
+    "modality": "During anxiety, convulsions",
+    "miasm": "Psora",
+    "notes": "Seen in nervous exhaustion or tension"
+  },
+  {
+    "rubric": "Face - Glossy eruptions on chin",
+    "grading": {
+      "high": [
+        "Graph",
+        "Mez"
+      ],
+      "medium": [
+        "Petrol",
+        "Sulph"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "Worse in winter, oily skin types",
+    "miasm": "Sycosis",
+    "notes": "Seborrheic skin changes with luster"
+  },
+  {
+    "rubric": "Beard - Grey streak in center only",
+    "grading": {
+      "high": [
+        "Phos",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sil",
+        "Fl-ac"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "After grief or chronic worry",
+    "miasm": "Tubercular",
+    "notes": "Selective premature greying – constitutional"
+  },
+  {
+    "rubric": "Face - Asymmetrical lower jaw",
+    "grading": {
+      "high": [
+        "Plb",
+        "Caust"
+      ],
+      "medium": [
+        "Ign",
+        "Op"
+      ],
+      "low": [
+        "Stram"
+      ]
+    },
+    "modality": "In paralysis, facial trauma",
+    "miasm": "Syphilis",
+    "notes": "Notable jaw line deviation"
+  },
+  {
+    "rubric": "Face - Dusky hue with red cheeks",
+    "grading": {
+      "high": [
+        "Ferr",
+        "Phos"
+      ],
+      "medium": [
+        "Sulph",
+        "Puls"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "In anemia, low-grade fever",
+    "miasm": "Tubercular",
+    "notes": "Pallor mixed with flush – dual sign"
+  },
+  {
+    "rubric": "Eyes - Wide open during sleep",
+    "grading": {
+      "high": [
+        "Op",
+        "Bell"
+      ],
+      "medium": [
+        "Hyos",
+        "Stram"
+      ],
+      "low": [
+        "Puls"
+      ]
+    },
+    "modality": "During fever, unconsciousness",
+    "miasm": "Psora",
+    "notes": "Sleep with open eyes – nervous system clue"
+  },
+  {
+    "rubric": "Nose - Nose tip flattened",
+    "grading": {
+      "high": [
+        "Merc",
+        "Syph"
+      ],
+      "medium": [
+        "Ars",
+        "Psor"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "Congenital or post-destruction",
+    "miasm": "Syphilis",
+    "notes": "Used in destructive bone disease cases"
+  },
+  {
+    "rubric": "Lips - Constant chewing of lips",
+    "grading": {
+      "high": [
+        "Ign",
+        "Stram"
+      ],
+      "medium": [
+        "Tarent",
+        "Sil"
+      ],
+      "low": [
+        "Zinc"
+      ]
+    },
+    "modality": "During restlessness, anxiety",
+    "miasm": "Psora",
+    "notes": "Seen in children or sensitive types"
+  },
+  {
+    "rubric": "Face - Expression - Excitement with eyes shining",
+    "grading": {
+      "high": [
+        "Phos",
+        "Stram"
+      ],
+      "medium": [
+        "Sulph",
+        "Puls"
+      ],
+      "low": [
+        "Lach"
+      ]
+    },
+    "modality": "During performance, inspiration",
+    "miasm": "Psora",
+    "notes": "Spiritual or artistic stimulation expression"
+  },
+  {
+    "rubric": "Chin - Double chin in lean persons",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Calc"
+      ],
+      "medium": [
+        "Sil",
+        "Nat-m"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Constitutional, lymphatic children",
+    "miasm": "Psora",
+    "notes": "Unusual adiposity in thin constitutions"
+  },
+  {
+    "rubric": "Face - Cracked skin with bleeding",
+    "grading": {
+      "high": [
+        "Graph",
+        "Petrol"
+      ],
+      "medium": [
+        "Sulph",
+        "Mez"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse in winter, dry air",
+    "miasm": "Psora",
+    "notes": "Deep fissures that bleed – important skin rubric"
+  },
+  {
+    "rubric": "Face - Veins prominent during anger or cough",
+    "grading": {
+      "high": [
+        "Bell",
+        "Stram"
+      ],
+      "medium": [
+        "Lach",
+        "Sulph"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "modality": "During violence, heat, effort",
+    "miasm": "Psora",
+    "notes": "Hypertensive or high-intensity conditions"
+  },
+  {
+    "rubric": "Face - Skin shiny, stretched tightly",
+    "grading": {
+      "high": [
+        "Ars",
+        "Petrol"
+      ],
+      "medium": [
+        "Sil",
+        "Psor"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "modality": "In tension, edema, skin issues",
+    "miasm": "Sycosis",
+    "notes": "Glassy appearance – common in post-eruption healing"
+  },
+  {
+    "rubric": "Lips - Blackish discoloration",
+    "grading": {
+      "high": [
+        "Ars",
+        "Ant-t"
+      ],
+      "medium": [
+        "Verat",
+        "Op"
+      ],
+      "low": [
+        "Camph"
+      ]
+    },
+    "modality": "During cholera, collapse, deep disease",
+    "miasm": "Syphilis",
+    "notes": "Dark cyanotic lips in acute low vitality states"
+  },
+  {
+    "rubric": "Face - Twitching of upper lip",
+    "grading": {
+      "high": [
+        "Agar",
+        "Cicuta"
+      ],
+      "medium": [
+        "Ign",
+        "Zinc"
+      ],
+      "low": [
+        "Stram"
+      ]
+    },
+    "modality": "During anxiety, anticipation, or fatigue",
+    "miasm": "Psora",
+    "notes": "Nervous facial habit seen in sensitive or stressed patients"
+  },
+  {
+    "rubric": "Nose - Constant twitching of ala nasi",
+    "grading": {
+      "high": [
+        "Ant-t",
+        "Sulph"
+      ],
+      "medium": [
+        "Cina",
+        "Phos"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During fever, respiratory distress, worms",
+    "miasm": "Psora",
+    "notes": "Fluttering movement of nostrils; dyspnea or childhood cases"
+  },
+  {
+    "rubric": "Face - Cracked corners of mouth (angular cheilitis)",
+    "grading": {
+      "high": [
+        "Graph",
+        "Sulph"
+      ],
+      "medium": [
+        "Nat-m",
+        "Petrol"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "Worse in winter, with licking lips, malnutrition",
+    "miasm": "Psora",
+    "notes": "Common in children or vitamin deficiency states"
+  },
+  {
+    "rubric": "Beard - Sparse hair growth in young men",
+    "grading": {
+      "high": [
+        "Phos",
+        "Sil"
+      ],
+      "medium": [
+        "Fl-ac",
+        "Med"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "modality": "Constitutional, after illness",
+    "miasm": "Tubercular",
+    "notes": "Delayed or minimal beard growth due to hormonal/constitutional issues"
+  },
+  {
+    "rubric": "Face - Expression - Fearful with wide eyes",
+    "grading": {
+      "high": [
+        "Stram",
+        "Acon"
+      ],
+      "medium": [
+        "Hyos",
+        "Op"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "modality": "During panic, nightmares, trauma",
+    "miasm": "Psora",
+    "notes": "Terror expression; acute states or hysterical fears"
+  },
+  {
+    "rubric": "Face - Expression - Sad with drooping eyelids",
+    "grading": {
+      "high": [
+        "Ign",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sep",
+        "Sil"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "In grief, hormonal sadness, exhaustion",
+    "miasm": "Psora",
+    "notes": "Drooped face in emotionally withdrawn individuals"
+  },
+  {
+    "rubric": "Lips - Tendency to peel or strip skin off lips",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Sil",
+        "Sulph"
+      ],
+      "low": [
+        "Graph"
+      ]
+    },
+    "modality": "Nervous habit, fever, dryness",
+    "miasm": "Psora",
+    "notes": "Often unconscious habit in sensitive children or adults"
+  },
+  {
+    "rubric": "Face - Freckles or brown spots on cheekbones",
+    "grading": {
+      "high": [
+        "Sep",
+        "Kali-s"
+      ],
+      "medium": [
+        "Sulph",
+        "Phos"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "Worse with sun exposure, hormonal imbalance",
+    "miasm": "Sycosis",
+    "notes": "Chloasma or sun pigmentation patterns"
+  },
+  {
+    "rubric": "Face - Eruptions aggravated by shaving",
+    "grading": {
+      "high": [
+        "Thuja",
+        "Petrol"
+      ],
+      "medium": [
+        "Mez",
+        "Sulph"
+      ],
+      "low": [
+        "Ant-c"
+      ]
+    },
+    "modality": "After shaving, with sweat, or sensitive skin",
+    "miasm": "Sycosis",
+    "notes": "Folliculitis and shaving-induced acne"
+  },
+  {
+    "rubric": "Forehead - Cold perspiration during fever",
+    "grading": {
+      "high": [
+        "Verat",
+        "Camph",
+        "Carbo-v"
+      ],
+      "medium": [
+        "Gels",
+        "China"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "During collapse, low vitality states",
+    "miasm": "Syphilis",
+    "notes": "One of the key signs in cholera, typhoid-like collapse"
+  },
+  {
+    "rubric": "Face - Skin taut and shiny after eruptions heal",
+    "grading": {
+      "high": [
+        "Mez",
+        "Ars"
+      ],
+      "medium": [
+        "Graph",
+        "Petrol"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "Post-vesicular or weepy eruptions",
+    "miasm": "Sycosis",
+    "notes": "Stretched skin after suppressive or natural healing"
+  },
+  {
+    "rubric": "Chin - Asymmetrical or lopsided",
+    "grading": {
+      "high": [
+        "Plb",
+        "Caust"
+      ],
+      "medium": [
+        "Lach",
+        "Op"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Constitutional or post-paralysis",
+    "miasm": "Syphilis",
+    "notes": "Notable in stroke cases or old facial palsy"
+  },
+  {
+    "rubric": "Eyes - One lid higher than the other",
+    "grading": {
+      "high": [
+        "Gels",
+        "Caust"
+      ],
+      "medium": [
+        "Ign",
+        "Plb"
+      ],
+      "low": [
+        "Lyc"
+      ]
+    },
+    "modality": "Worse in anxiety, paralysis, neurological",
+    "miasm": "Psora",
+    "notes": "Partial ptosis or uneven muscle tone"
+  },
+  {
+    "rubric": "Face - Deep lines from nose to mouth corners",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Sep"
+      ],
+      "medium": [
+        "Sulph",
+        "Calc"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "In chronic digestive, hormonal cases",
+    "miasm": "Psora",
+    "notes": "Also called nasolabial lines; often in aging or chronic grief"
+  },
+  {
+    "rubric": "Face - Boils on face during puberty",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Hepar",
+        "Sil"
+      ],
+      "medium": [
+        "Kali-br",
+        "Psor"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "modality": "Worse with sweets, heat, poor hygiene",
+    "miasm": "Sycosis",
+    "notes": "Typical of adolescent sebaceous overload"
+  },
+  {
+    "rubric": "Face - Drooping jaw during sleep",
+    "grading": {
+      "high": [
+        "Op",
+        "Carbo-v"
+      ],
+      "medium": [
+        "Stram",
+        "Zinc"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "modality": "During coma, deep sleep, low vitality",
+    "miasm": "Syphilis",
+    "notes": "Jaw open loosely, especially in dying or exhausted cases"
+  },
+  {
+    "rubric": "Eyes - Eyes roll upward during sleep or fainting",
+    "grading": {
+      "high": [
+        "Cicuta",
+        "Op",
+        "Stram"
+      ],
+      "medium": [
+        "Gels",
+        "Bell"
+      ],
+      "low": [
+        "Zinc"
+      ]
+    },
+    "modality": "During epilepsy, convulsions, collapse",
+    "miasm": "Psora",
+    "notes": "Classic sign of convulsive or unconsciousness states"
+  },
+  {
+    "rubric": "Face - Oily skin with blackheads on cheeks",
+    "grading": {
+      "high": [
+        "Kali-br",
+        "Sulph"
+      ],
+      "medium": [
+        "Hepar",
+        "Graph"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse in puberty, stress, poor hygiene",
+    "miasm": "Sycosis",
+    "notes": "Comedone-dominant oily skin type"
+  },
+  {
+    "rubric": "Face - Expression - Childlike innocence",
+    "grading": {
+      "high": [
+        "Calc",
+        "Phos",
+        "Puls"
+      ],
+      "medium": [
+        "Sil",
+        "Nat-m"
+      ],
+      "low": [
+        "Med"
+      ]
+    },
+    "modality": "In gentle constitutions, after recovery",
+    "miasm": "Psora",
+    "notes": "Soft gaze, trusting eyes, serene face"
+  },
+  {
+    "rubric": "Lips - One side drooping",
+    "grading": {
+      "high": [
+        "Caust",
+        "Plb"
+      ],
+      "medium": [
+        "Ign",
+        "Gels"
+      ],
+      "low": [
+        "Lach"
+      ]
+    },
+    "modality": "In facial palsy, after stroke or exhaustion",
+    "miasm": "Syphilis",
+    "notes": "Partial facial droop – early sign of neurological involvement"
+  },
+  {
+    "rubric": "Face - Greasy skin with large open pores",
+    "grading": {
+      "high": [
+        "Thuja",
+        "Sulph"
+      ],
+      "medium": [
+        "Sil",
+        "Kali-br"
+      ],
+      "low": [
+        "Graph"
+      ]
+    },
+    "modality": "Worse after eating oily food, during hormonal imbalance",
+    "miasm": "Sycosis",
+    "notes": "Classic sycotic skin presentation with sebaceous overactivity"
+  },
+  {
+    "rubric": "Face - Red blotches after embarrassment",
+    "grading": {
+      "high": [
+        "Puls",
+        "Phos"
+      ],
+      "medium": [
+        "Nat-m",
+        "Ign"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "Triggered by emotional stimuli, attention",
+    "miasm": "Psora",
+    "notes": "Sensitive skin reacting to social or emotional triggers"
+  },
+  {
+    "rubric": "Lips - White ring around lips in children",
+    "grading": {
+      "high": [
+        "Calc",
+        "China"
+      ],
+      "medium": [
+        "Sil",
+        "Ferr"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During malnutrition, after diarrhea",
+    "miasm": "Psora",
+    "notes": "Seen in worm infestations or chronic indigestion"
+  },
+  {
+    "rubric": "Beard - Painful folliculitis after shaving",
+    "grading": {
+      "high": [
+        "Hepar",
+        "Mez"
+      ],
+      "medium": [
+        "Petrol",
+        "Thuja"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "Worse after shaving, in warm climate",
+    "miasm": "Sycosis",
+    "notes": "Boil-like eruptions with burning pain post-shave"
+  },
+  {
+    "rubric": "Face - Redness with visible capillaries (telangiectasia)",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Phos"
+      ],
+      "medium": [
+        "Carbo-v",
+        "Lach"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse with alcohol, heat, exertion",
+    "miasm": "Sycosis",
+    "notes": "Rosacea and vascular congestion pattern"
+  },
+  {
+    "rubric": "Eyes - Twitching of eyelids during anxiety",
+    "grading": {
+      "high": [
+        "Agar",
+        "Ign"
+      ],
+      "medium": [
+        "Gels",
+        "Zinc"
+      ],
+      "low": [
+        "Stram"
+      ]
+    },
+    "modality": "Worse from coffee, sleeplessness, emotions",
+    "miasm": "Psora",
+    "notes": "Common sign in nervous tension or screen fatigue"
+  },
+  {
+    "rubric": "Chin - Recessed or receding chin",
+    "grading": {
+      "high": [
+        "Baryta-c",
+        "Calc"
+      ],
+      "medium": [
+        "Sil",
+        "Med"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Constitutional, genetic",
+    "miasm": "Psora",
+    "notes": "Backward-placed chin often seen in timid personalities"
+  },
+  {
+    "rubric": "Nose - Pale bluish discoloration in cold",
+    "grading": {
+      "high": [
+        "Camph",
+        "Verat"
+      ],
+      "medium": [
+        "Carbo-v",
+        "Ars"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "During cold exposure, collapse, shock",
+    "miasm": "Syphilis",
+    "notes": "Peripheral cyanosis seen in low circulation states"
+  },
+  {
+    "rubric": "Forehead - Shiny and oily even when rest of face is dry",
+    "grading": {
+      "high": [
+        "Psor",
+        "Sulph"
+      ],
+      "medium": [
+        "Graph",
+        "Sil"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "In seborrheic types, endocrine imbalance",
+    "miasm": "Psora",
+    "notes": "Paradoxical skin condition seen in some tubercular constitutions"
+  },
+  {
+    "rubric": "Face - Constant muscle clenching of jaw",
+    "grading": {
+      "high": [
+        "Stram",
+        "Cicuta"
+      ],
+      "medium": [
+        "Ign",
+        "Zinc"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "modality": "Worse during sleep, anger, fear",
+    "miasm": "Syphilis",
+    "notes": "Seen in bruxism and emotional suppression"
+  },
+  {
+    "rubric": "Lips - Constant smacking or pressing together",
+    "grading": {
+      "high": [
+        "Cina",
+        "Zinc"
+      ],
+      "medium": [
+        "Tarent",
+        "Sil"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During restlessness, attention-seeking",
+    "miasm": "Psora",
+    "notes": "Often seen in children with worms or irritation"
+  },
+  {
+    "rubric": "Face - Constant touching or rubbing of face",
+    "grading": {
+      "high": [
+        "Tarent",
+        "Cina"
+      ],
+      "medium": [
+        "Ign",
+        "Zinc"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "During anxiety, in children, during thinking",
+    "miasm": "Psora",
+    "notes": "Habitual motion – often a subconscious trait"
+  },
+  {
+    "rubric": "Eyes - Staring fixedly without blinking",
+    "grading": {
+      "high": [
+        "Stram",
+        "Bell"
+      ],
+      "medium": [
+        "Hyos",
+        "Phos"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During excitement, horror, hallucination",
+    "miasm": "Psora",
+    "notes": "Frightened, entranced or manic stare"
+  },
+  {
+    "rubric": "Face - Expression - Sneering or sarcastic smile",
+    "grading": {
+      "high": [
+        "Lach",
+        "Plat"
+      ],
+      "medium": [
+        "Ign",
+        "Stram"
+      ],
+      "low": [
+        "Op"
+      ]
+    },
+    "modality": "During emotional repression, conflict",
+    "miasm": "Sycosis",
+    "notes": "Superior or cynical expression type"
+  },
+  {
+    "rubric": "Face - Hollow temples with emaciation",
+    "grading": {
+      "high": [
+        "China",
+        "Tub",
+        "Phos"
+      ],
+      "medium": [
+        "Nat-m",
+        "Sil"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During chronic illness, poor nutrition",
+    "miasm": "Tubercular",
+    "notes": "Wasting with visible temporal depressions"
+  },
+  {
+    "rubric": "Face - Dusky red hue during fever",
+    "grading": {
+      "high": [
+        "Bell",
+        "Op"
+      ],
+      "medium": [
+        "Acon",
+        "Ant-t"
+      ],
+      "low": [
+        "Bry"
+      ]
+    },
+    "modality": "During heat stage of fever",
+    "miasm": "Psora",
+    "notes": "Congested, hot, flushed face"
+  },
+  {
+    "rubric": "Lips - Twitching or slight jerking",
+    "grading": {
+      "high": [
+        "Gels",
+        "Agar"
+      ],
+      "medium": [
+        "Ign",
+        "Zinc"
+      ],
+      "low": [
+        "Stram"
+      ]
+    },
+    "modality": "During stress, in sleep, exhaustion",
+    "miasm": "Psora",
+    "notes": "Seen in nervous and highly sensitive types"
+  },
+  {
+    "rubric": "Face - Look of constant surprise or raised eyebrows",
+    "grading": {
+      "high": [
+        "Stram",
+        "Hyos"
+      ],
+      "medium": [
+        "Lach",
+        "Phos"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During excitement, overstimulation",
+    "miasm": "Psora",
+    "notes": "Hyper-alert appearance; observed in acute mania or thrill"
+  },
+  {
+    "rubric": "Chin - Jerking or nodding motion involuntary",
+    "grading": {
+      "high": [
+        "Zinc",
+        "Agar"
+      ],
+      "medium": [
+        "Ign",
+        "Stram"
+      ],
+      "low": [
+        "Plb"
+      ]
+    },
+    "modality": "In sleep, weakness, during conversation",
+    "miasm": "Psora",
+    "notes": "Seen in aged or weakened neurological cases"
+  },
+  {
+    "rubric": "Face - Deep furrows in cheek in old age",
+    "grading": {
+      "high": [
+        "Op",
+        "Plb"
+      ],
+      "medium": [
+        "Sep",
+        "Sulph"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During emaciation, grief, collapse",
+    "miasm": "Syphilis",
+    "notes": "Facial wasting; folds deepening over years"
+  },
+  {
+    "rubric": "Face - Eruptions worse before menses",
+    "grading": {
+      "high": [
+        "Sep",
+        "Puls"
+      ],
+      "medium": [
+        "Kali-s",
+        "Lyc"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "Aggravation before or during menstruation",
+    "miasm": "Sycosis",
+    "notes": "Hormonal acne or pimples linked to menses"
+  },
+  {
+    "rubric": "Face - Brown patches during pregnancy (melasma)",
+    "grading": {
+      "high": [
+        "Sep",
+        "Kali-s"
+      ],
+      "medium": [
+        "Puls",
+        "Sulph"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "During pregnancy or hormonal change",
+    "miasm": "Sycosis",
+    "notes": "Pigmentation across cheeks and forehead"
+  },
+  {
+    "rubric": "Face - Hollow eyes with pale skin",
+    "grading": {
+      "high": [
+        "China",
+        "Nat-m"
+      ],
+      "medium": [
+        "Phos",
+        "Sil"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During anemia, chronic illness",
+    "miasm": "Tubercular",
+    "notes": "Seen in weakness, loss of blood or nutrition"
+  },
+  {
+    "rubric": "Lips - Peeling of inner lip mucosa",
+    "grading": {
+      "high": [
+        "Borax",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sil",
+        "Sulph"
+      ],
+      "low": [
+        "Graph"
+      ]
+    },
+    "modality": "Worse in dryness, irritation",
+    "miasm": "Psora",
+    "notes": "Seen in children and in mouth ulcers"
+  },
+  {
+    "rubric": "Face - Twitching during fever or sleep",
+    "grading": {
+      "high": [
+        "Bell",
+        "Cicuta"
+      ],
+      "medium": [
+        "Zinc",
+        "Gels"
+      ],
+      "low": [
+        "Stram"
+      ]
+    },
+    "modality": "During delirium, febrile convulsions",
+    "miasm": "Psora",
+    "notes": "Involuntary movements in high temperatures"
+  },
+  {
+    "rubric": "Eyes - Black circles in children",
+    "grading": {
+      "high": [
+        "Calc",
+        "Cina"
+      ],
+      "medium": [
+        "Sil",
+        "Nat-m"
+      ],
+      "low": [
+        "Ferr"
+      ]
+    },
+    "modality": "During worm infestation, anemia, hunger",
+    "miasm": "Psora",
+    "notes": "Periorbital discoloration with irritability"
+  },
+  {
+    "rubric": "Face - Twitching of zygomatic muscles",
+    "grading": {
+      "high": [
+        "Agar",
+        "Ign"
+      ],
+      "medium": [
+        "Gels",
+        "Zinc"
+      ],
+      "low": [
+        "Tarent"
+      ]
+    },
+    "modality": "During laughing, anxiety, exhaustion",
+    "miasm": "Psora",
+    "notes": "Facial tics or tremors of cheek muscles"
+  },
+  {
+    "rubric": "Lips - Ulcers on vermillion border",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Merc"
+      ],
+      "medium": [
+        "Sulph",
+        "Borax"
+      ],
+      "low": [
+        "Graph"
+      ]
+    },
+    "modality": "After fever, in herpes, or dryness",
+    "miasm": "Syphilis",
+    "notes": "Small aphthae or cold sore appearance"
+  },
+  {
+    "rubric": "Beard - Loss of hair in circular patches",
+    "grading": {
+      "high": [
+        "Fl-ac",
+        "Phos"
+      ],
+      "medium": [
+        "Thuja",
+        "Mez"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "After emotional shock, fungal infection",
+    "miasm": "Syphilis",
+    "notes": "Alopecia areata of beard region"
+  },
+  {
+    "rubric": "Chin - Prominent cleft in chin",
+    "grading": {
+      "high": [
+        "Sil",
+        "Med"
+      ],
+      "medium": [
+        "Calc",
+        "Lyc"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "modality": "Constitutional, familial",
+    "miasm": "Tubercular",
+    "notes": "Seen in determined, active personalities"
+  },
+  {
+    "rubric": "Face - Emaciated with prominent cheekbones",
+    "grading": {
+      "high": [
+        "Tub",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sil",
+        "Phos"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "After long illness, overwork, grief",
+    "miasm": "Tubercular",
+    "notes": "Skeletal look, wasting disorders"
+  },
+  {
+    "rubric": "Face - Wrinkled and loose in old age",
+    "grading": {
+      "high": [
+        "Op",
+        "Plb"
+      ],
+      "medium": [
+        "Sulph",
+        "Graph"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "With age, cachexia",
+    "miasm": "Syphilis",
+    "notes": "Deep wrinkling, often after long illness"
+  },
+  {
+    "rubric": "Forehead - Red vertical line in center",
+    "grading": {
+      "high": [
+        "Lyc",
+        "Sulph"
+      ],
+      "medium": [
+        "Nat-m",
+        "Sep"
+      ],
+      "low": [
+        "Phos"
+      ]
+    },
+    "modality": "During anger, headache",
+    "miasm": "Psora",
+    "notes": "Visible red midline vein during emotion"
+  },
+  {
+    "rubric": "Face - Continuous movement of facial muscles",
+    "grading": {
+      "high": [
+        "Tarent",
+        "Zinc"
+      ],
+      "medium": [
+        "Agar",
+        "Stram"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "In chorea, restlessness",
+    "miasm": "Psora",
+    "notes": "Hyperkinetic face in nervous disorders"
+  },
+  {
+    "rubric": "Face - Yellow discoloration after jaundice",
+    "grading": {
+      "high": [
+        "Chel",
+        "China"
+      ],
+      "medium": [
+        "Phos",
+        "Sulph"
+      ],
+      "low": [
+        "Nat-s"
+      ]
+    },
+    "modality": "After liver issues, hepatitis",
+    "miasm": "Psora",
+    "notes": "Persistent yellow tinge post-recovery"
+  },
+  {
+    "rubric": "Eyes - One pupil dilated more than other",
+    "grading": {
+      "high": [
+        "Bell",
+        "Stram"
+      ],
+      "medium": [
+        "Hyos",
+        "Plb"
+      ],
+      "low": [
+        "Op"
+      ]
+    },
+    "modality": "In brain affections, fear, delirium",
+    "miasm": "Syphilis",
+    "notes": "Anisocoria – dangerous neurological sign"
+  },
+  {
+    "rubric": "Lips - Swollen and inverted lower lip",
+    "grading": {
+      "high": [
+        "Phos",
+        "Op"
+      ],
+      "medium": [
+        "Zinc",
+        "Ant-t"
+      ],
+      "low": [
+        "Camph"
+      ]
+    },
+    "modality": "In low vitality, during stupor",
+    "miasm": "Syphilis",
+    "notes": "Hangs loose, appears puffy or everted"
+  },
+  {
+    "rubric": "Face - Pale with perspiration on upper lip",
+    "grading": {
+      "high": [
+        "Gels",
+        "Verat"
+      ],
+      "medium": [
+        "Phos",
+        "Sil"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During exhaustion, stage fright",
+    "miasm": "Psora",
+    "notes": "Fine sweat film seen in nervous types"
+  },
+  {
+    "rubric": "Nose - Tip red and swollen",
+    "grading": {
+      "high": [
+        "Ars",
+        "Sulph"
+      ],
+      "medium": [
+        "Ant-c",
+        "Sil"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse in drinkers, after cold",
+    "miasm": "Sycosis",
+    "notes": "Common in rosacea, alcoholic facies"
+  },
+  {
+    "rubric": "Face - Jerking of lower jaw during sleep",
+    "grading": {
+      "high": [
+        "Cicuta",
+        "Zinc"
+      ],
+      "medium": [
+        "Gels",
+        "Stram"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During dreams, convulsions",
+    "miasm": "Psora",
+    "notes": "Seen in chorea, epilepsy, fever states"
+  },
+  {
+    "rubric": "Face - Pale with greenish hue",
+    "grading": {
+      "high": [
+        "China",
+        "Nat-m"
+      ],
+      "medium": [
+        "Phos",
+        "Ferr"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "After hemorrhage, diarrhea, malaria",
+    "miasm": "Tubercular",
+    "notes": "Sickly appearance after chronic fluid loss"
+  },
+  {
+    "rubric": "Lips - Dry, cracked and bleed easily",
+    "grading": {
+      "high": [
+        "Graph",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sulph",
+        "Borax"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During fever, winter, dryness",
+    "miasm": "Psora",
+    "notes": "Sensitive dry lips with painful cracks"
+  },
+  {
+    "rubric": "Face - Cold with blue lips",
+    "grading": {
+      "high": [
+        "Camph",
+        "Verat"
+      ],
+      "medium": [
+        "Carbo-v",
+        "Ars"
+      ],
+      "low": [
+        "Op"
+      ]
+    },
+    "modality": "During collapse, shock, cholera",
+    "miasm": "Syphilis",
+    "notes": "Cyanosis and chilliness in low vitality cases"
+  },
+  {
+    "rubric": "Eyes - Dark rings and puffiness in children",
+    "grading": {
+      "high": [
+        "Calc",
+        "Cina"
+      ],
+      "medium": [
+        "Sil",
+        "Ferr"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "With worms, anemia, poor sleep",
+    "miasm": "Psora",
+    "notes": "Characteristic sign in undernourished or wormy children"
+  },
+  {
+    "rubric": "Chin - Pointed and narrow",
+    "grading": {
+      "high": [
+        "Sil",
+        "Phos"
+      ],
+      "medium": [
+        "Lyc",
+        "Med"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Constitutional, tubercular",
+    "miasm": "Tubercular",
+    "notes": "Long, narrow jaw often seen in artistic, delicate types"
+  },
+  {
+    "rubric": "Beard - Eruptions with pus around roots",
+    "grading": {
+      "high": [
+        "Hepar",
+        "Sil"
+      ],
+      "medium": [
+        "Graph",
+        "Petrol"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "Worse in heat, humidity, shaving",
+    "miasm": "Sycosis",
+    "notes": "Folliculitis and pustules in beard region"
+  },
+  {
+    "rubric": "Face - Muscles distorted during convulsions",
+    "grading": {
+      "high": [
+        "Cicuta",
+        "Stram"
+      ],
+      "medium": [
+        "Cupr",
+        "Zinc"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "modality": "During epilepsy, tetanus, hysteria",
+    "miasm": "Syphilis",
+    "notes": "Severe distortion in nervous storms"
+  },
+  {
+    "rubric": "Nose - Constant rubbing of nose tip",
+    "grading": {
+      "high": [
+        "Cina",
+        "Sil"
+      ],
+      "medium": [
+        "Ign",
+        "Zinc"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "In worms, irritation, habit",
+    "miasm": "Psora",
+    "notes": "Child rubs or scratches nose repeatedly"
+  },
+  {
+    "rubric": "Face - Greasy sheen on cheeks and forehead",
+    "grading": {
+      "high": [
+        "Thuja",
+        "Sulph"
+      ],
+      "medium": [
+        "Kali-br",
+        "Sil"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse in heat, oily diet, adolescence",
+    "miasm": "Sycosis",
+    "notes": "Typical acne-prone greasy complexion"
+  },
+  {
+    "rubric": "Lips - White ulcers inside lower lip",
+    "grading": {
+      "high": [
+        "Merc",
+        "Borax"
+      ],
+      "medium": [
+        "Nat-m",
+        "Kali-chl"
+      ],
+      "low": [
+        "Sulph"
+      ]
+    },
+    "modality": "After fever, hot drinks, dentition",
+    "miasm": "Syphilis",
+    "notes": "Painful aphthae with raw sensation"
+  },
+  {
+    "rubric": "Face - Expression - Appears intoxicated",
+    "grading": {
+      "high": [
+        "Hyos",
+        "Op"
+      ],
+      "medium": [
+        "Bell",
+        "Stram"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "modality": "During delirium, brain affections",
+    "miasm": "Syphilis",
+    "notes": "Dull, blank, vacant or drunken appearance"
+  },
+  {
+    "rubric": "Forehead - Sweat beads with anxiety",
+    "grading": {
+      "high": [
+        "Gels",
+        "Ars"
+      ],
+      "medium": [
+        "Sil",
+        "Phos"
+      ],
+      "low": [
+        "Nat-m"
+      ]
+    },
+    "modality": "During fright, examination, anticipation",
+    "miasm": "Psora",
+    "notes": "Mild, anxious sweat seen in nervous types"
+  },
+  {
+    "rubric": "Eyes - Lower eyelid swollen with itching",
+    "grading": {
+      "high": [
+        "Graph",
+        "Puls"
+      ],
+      "medium": [
+        "Sil",
+        "Kali-s"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse in heat, dust, eye strain",
+    "miasm": "Psora",
+    "notes": "Seen in blepharitis or allergic eye conditions"
+  },
+  {
+    "rubric": "Face - Eczema with thick crusts on cheeks",
+    "grading": {
+      "high": [
+        "Graph",
+        "Mez"
+      ],
+      "medium": [
+        "Petrol",
+        "Sulph"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Worse in cold, suppressed eruptions",
+    "miasm": "Sycosis",
+    "notes": "Oozing eruptions forming thick yellow scabs"
+  },
+  {
+    "rubric": "Face - Pale with flabby muscles",
+    "grading": {
+      "high": [
+        "Calc",
+        "Baryta-c"
+      ],
+      "medium": [
+        "Sil",
+        "Psor"
+      ],
+      "low": [
+        "Sep"
+      ]
+    },
+    "modality": "Constitutional, rickets, lymphatic",
+    "miasm": "Psora",
+    "notes": "Poor muscle tone and paleness in scrofulous children"
+  },
+  {
+    "rubric": "Face - Swelling of parotid gland",
+    "grading": {
+      "high": [
+        "Bell",
+        "Rhus-t"
+      ],
+      "medium": [
+        "Merc",
+        "Puls"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "During mumps, after cold",
+    "miasm": "Sycosis",
+    "notes": "Painful or hard parotid enlargement"
+  },
+  {
+    "rubric": "Lips - Upper lip protrudes or thickened",
+    "grading": {
+      "high": [
+        "Calc",
+        "Sil"
+      ],
+      "medium": [
+        "Med",
+        "Tub"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Scrofulous, in dentition or rickets",
+    "miasm": "Tubercular",
+    "notes": "Often seen in adenoid children"
+  },
+  {
+    "rubric": "Chin - Trembling while speaking",
+    "grading": {
+      "high": [
+        "Gels",
+        "Agar"
+      ],
+      "medium": [
+        "Zinc",
+        "Ign"
+      ],
+      "low": [
+        "Stram"
+      ]
+    },
+    "modality": "During stage fright, exhaustion",
+    "miasm": "Psora",
+    "notes": "Indicates nervous instability or anticipation"
+  },
+  {
+    "rubric": "Face - Jerking of one side of face",
+    "grading": {
+      "high": [
+        "Cupr",
+        "Cicuta"
+      ],
+      "medium": [
+        "Zinc",
+        "Stram"
+      ],
+      "low": [
+        "Ign"
+      ]
+    },
+    "modality": "During convulsions, after fright",
+    "miasm": "Syphilis",
+    "notes": "One-sided tics or spasms – facial chorea"
+  },
+  {
+    "rubric": "Face - Discoloration - bluish with cold extremities",
+    "grading": {
+      "high": [
+        "Carbo-v",
+        "Camph"
+      ],
+      "medium": [
+        "Verat",
+        "Op"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "In collapse, shock, cholera",
+    "miasm": "Syphilis",
+    "notes": "End-stage look – cyanosis with icy skin"
+  },
+  {
+    "rubric": "Face - Shrunken, old-looking in children",
+    "grading": {
+      "high": [
+        "Abrotanum",
+        "Iod"
+      ],
+      "medium": [
+        "Calc",
+        "Tub"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "After diarrhea, malnutrition, wasting",
+    "miasm": "Tubercular",
+    "notes": "Prematurely aged appearance in marasmic children"
+  },
+  {
+    "rubric": "Eyes - Lids turned inward (entropion)",
+    "grading": {
+      "high": [
+        "Staph",
+        "Graph"
+      ],
+      "medium": [
+        "Sil",
+        "Merc"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Chronic inflammation, post-ulceration",
+    "miasm": "Syphilis",
+    "notes": "Eyelashes may irritate cornea; seen in chronic blepharitis"
+  },
+  {
+    "rubric": "Face - Bright red cheeks with pale forehead",
+    "grading": {
+      "high": [
+        "Ferr",
+        "Cham"
+      ],
+      "medium": [
+        "Sulph",
+        "Bell"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "modality": "During dentition, evening fever",
+    "miasm": "Psora",
+    "notes": "Feverish or congested children; red and white contrast"
+  },
+  {
+    "rubric": "Lips - Constant wetting of lips with tongue",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Cina"
+      ],
+      "medium": [
+        "Sil",
+        "Ign"
+      ],
+      "low": [
+        "Zinc"
+      ]
+    },
+    "modality": "During tension, worms, unconscious habit",
+    "miasm": "Psora",
+    "notes": "Common childhood behavior linked to dryness or stress"
+  },
+  {
+    "rubric": "Face - Muscles relaxed and hanging",
+    "grading": {
+      "high": [
+        "Op",
+        "Carbo-v"
+      ],
+      "medium": [
+        "Gels",
+        "Zinc"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During collapse, deep sleep, paralysis",
+    "miasm": "Syphilis",
+    "notes": "Seen in coma, extreme fatigue or deathbed states"
+  },
+  {
+    "rubric": "Eyes - Bags under eyes in young people",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Calc",
+        "Sil"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "From overstudy, grief, exhaustion",
+    "miasm": "Psora",
+    "notes": "Tired, weak constitutions with eye puffiness"
+  },
+  {
+    "rubric": "Forehead - Heavy sensation or pressure",
+    "grading": {
+      "high": [
+        "Bry",
+        "Nux-v"
+      ],
+      "medium": [
+        "Gels",
+        "Ign"
+      ],
+      "low": [
+        "Sep"
+      ]
+    },
+    "modality": "Worse from noise, light, movement",
+    "miasm": "Psora",
+    "notes": "Tension felt over the brow; headache-type expression"
+  },
+  {
+    "rubric": "Face - Stiff, mask-like expression",
+    "grading": {
+      "high": [
+        "Caust",
+        "Plb"
+      ],
+      "medium": [
+        "Zinc",
+        "Op"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "modality": "After facial paralysis, stroke, Parkinsonism",
+    "miasm": "Syphilis",
+    "notes": "Loss of facial animation; rigid look"
+  },
+  {
+    "rubric": "Face - Twitching around eyes and nose",
+    "grading": {
+      "high": [
+        "Agar",
+        "Cina"
+      ],
+      "medium": [
+        "Zinc",
+        "Ign"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "modality": "In children, worms, nervous habits",
+    "miasm": "Psora",
+    "notes": "Facial tics – mostly in sensitive and hyperactive types"
+  },
+  {
+    "rubric": "Face - Shining red nose (acne rosacea)",
+    "grading": {
+      "high": [
+        "Sulph",
+        "Carbo-an"
+      ],
+      "medium": [
+        "Thuja",
+        "Nat-m"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "In alcoholics, liver complaints",
+    "miasm": "Sycosis",
+    "notes": "Chronic red bulbous nose with visible vessels"
+  },
+  {
+    "rubric": "Chin - Dimple deep and prominent",
+    "grading": {
+      "high": [
+        "Sil",
+        "Med"
+      ],
+      "medium": [
+        "Calc",
+        "Phos"
+      ],
+      "low": [
+        "Lyc"
+      ]
+    },
+    "modality": "Constitutional trait",
+    "miasm": "Tubercular",
+    "notes": "Seen in charismatic or artistic temperaments"
+  },
+  {
+    "rubric": "Face - Sallow, earthy complexion",
+    "grading": {
+      "high": [
+        "Sulph",
+        "China"
+      ],
+      "medium": [
+        "Psor",
+        "Nat-m"
+      ],
+      "low": [
+        "Ferr"
+      ]
+    },
+    "modality": "In liver complaints, poor digestion",
+    "miasm": "Psora",
+    "notes": "Dirty-looking, yellow-grey tone"
+  },
+  {
+    "rubric": "Face - Jerking of corners of mouth",
+    "grading": {
+      "high": [
+        "Zinc",
+        "Stram"
+      ],
+      "medium": [
+        "Cicuta",
+        "Ign"
+      ],
+      "low": [
+        "Tarent"
+      ]
+    },
+    "modality": "During conversation, convulsions, sleep",
+    "miasm": "Psora",
+    "notes": "Tics or grimaces often linked to anxiety or chorea"
+  },
+  {
+    "rubric": "Face - Alternating red and pale",
+    "grading": {
+      "high": [
+        "Cham",
+        "Ferr"
+      ],
+      "medium": [
+        "Bell",
+        "Puls"
+      ],
+      "low": [
+        "Calc"
+      ]
+    },
+    "modality": "During fever, dentition, irritability",
+    "miasm": "Psora",
+    "notes": "Child flushes and turns pale alternately"
+  },
+  {
+    "rubric": "Face - Expression - Detached or dreamy",
+    "grading": {
+      "high": [
+        "Cann-i",
+        "Phos-ac"
+      ],
+      "medium": [
+        "Nat-m",
+        "Sil"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During exhaustion, grief, depression",
+    "miasm": "Psora",
+    "notes": "Absent-minded or floating expression"
+  },
+  {
+    "rubric": "Face - Expression - Craving to be alone; avoids eye contact",
+    "grading": {
+      "high": [
+        "Nat-m",
+        "Ign"
+      ],
+      "medium": [
+        "Sep",
+        "Puls"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "During grief, depression, emotional suppression",
+    "miasm": "Psora",
+    "notes": "Withdrawn facial look; avoids social connection"
+  },
+  {
+    "rubric": "Lips - Upper lip twitches when angry or anxious",
+    "grading": {
+      "high": [
+        "Zinc",
+        "Agar"
+      ],
+      "medium": [
+        "Ign",
+        "Stram"
+      ],
+      "low": [
+        "Op"
+      ]
+    },
+    "modality": "During suppressed emotions, nervousness",
+    "miasm": "Psora",
+    "notes": "Minor facial twitching linked to inner conflict"
+  },
+  {
+    "rubric": "Face - Constant frowning, vertical lines between eyebrows",
+    "grading": {
+      "high": [
+        "Nux-v",
+        "Lyc"
+      ],
+      "medium": [
+        "Ign",
+        "Sep"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "Chronic anger, irritability, concentration",
+    "miasm": "Psora",
+    "notes": "Habitual expression; seen in critical, tense types"
+  },
+  {
+    "rubric": "Eyes - Rolling upward during convulsions",
+    "grading": {
+      "high": [
+        "Cicuta",
+        "Stram"
+      ],
+      "medium": [
+        "Bell",
+        "Zinc"
+      ],
+      "low": [
+        "Gels"
+      ]
+    },
+    "modality": "During epilepsy, fainting, hysteria",
+    "miasm": "Syphilis",
+    "notes": "Indicative of seizure disorders or neuro spasms"
+  },
+  {
+    "rubric": "Beard - Grey hair in early youth",
+    "grading": {
+      "high": [
+        "Phos-ac",
+        "Lyc"
+      ],
+      "medium": [
+        "Calc",
+        "Nat-m"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "After shock, grief, overwork",
+    "miasm": "Tubercular",
+    "notes": "Premature aging trait in sensitive, exhausted constitutions"
+  },
+  {
+    "rubric": "Face - Expression of deep sadness with drooping corners of mouth",
+    "grading": {
+      "high": [
+        "Ign",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sep",
+        "Phos-ac"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "During grief, loss, despair",
+    "miasm": "Psora",
+    "notes": "Seen in melancholic or unresponsive depressive states"
+  },
+  {
+    "rubric": "Eyes - Dull, lifeless, with no reaction to light or emotion",
+    "grading": {
+      "high": [
+        "Op",
+        "Hyos"
+      ],
+      "medium": [
+        "Phos",
+        "Zinc"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "During stupor, coma, or intense trauma",
+    "miasm": "Syphilis",
+    "notes": "Blank, soulless gaze with low vitality"
+  },
+  {
+    "rubric": "Face - Constant facial licking or mouthing in children",
+    "grading": {
+      "high": [
+        "Cina",
+        "Tarent"
+      ],
+      "medium": [
+        "Zinc",
+        "Ign"
+      ],
+      "low": [
+        "Psor"
+      ]
+    },
+    "modality": "During hyperactivity, worms, oral fixation",
+    "miasm": "Psora",
+    "notes": "Self-stimulating behavior in nervous children"
+  },
+  {
+    "rubric": "Face - Redness around mouth in circular zone",
+    "grading": {
+      "high": [
+        "Graph",
+        "Nat-m"
+      ],
+      "medium": [
+        "Sulph",
+        "Borax"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "After irritation, lip licking, saliva",
+    "miasm": "Psora",
+    "notes": "Perioral dermatitis pattern – typical in allergies or nutritional issues"
+  },
+  {
+    "rubric": "Chin - Trembles during emotional outburst",
+    "grading": {
+      "high": [
+        "Ign",
+        "Gels"
+      ],
+      "medium": [
+        "Zinc",
+        "Stram"
+      ],
+      "low": [
+        "Sil"
+      ]
+    },
+    "modality": "During weeping, fright, confrontation",
+    "miasm": "Psora",
+    "notes": "Seen in sensitive, easily offended constitutions"
+  }
+]

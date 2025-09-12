@@ -1,0 +1,197 @@
+[
+  {
+    "disease": "Knee Pain – Non-OA Cluster",
+    "tags": [
+      "CommonChronic",
+      "JointPain",
+      "KneePain",
+      "NonArthritic",
+      "TraumaticJoint",
+      "FunctionalJointPain",
+      "Psora",
+      "Sycosis"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Knee pain < walking or climbing stairs, > rest",
+        "grading": {
+          "high": ["Bryonia", "Kali carbonicum", "Ruta"],
+          "medium": ["Causticum", "Nux vomica"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Worse exertion, better immobility or firm pressure",
+        "miasm": "Psora-Sycosis",
+        "notes": "Functional stress, early ligament irritation"
+      },
+      {
+        "rubric": "Knee pain < rising from sitting, squatting, toilet",
+        "grading": {
+          "high": ["Kali carb", "Rhus tox", "Sepia"],
+          "medium": ["Calcarea carb", "Ruta"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Pain on rising or bending knees",
+        "miasm": "Sycosis",
+        "notes": "Often seen in obesity, early OA, or weak musculature"
+      },
+      {
+        "rubric": "Pain in knees with swelling after exertion or trauma",
+        "grading": {
+          "high": ["Arnica", "Ruta", "Bryonia"],
+          "medium": ["Bellis perennis", "Rhus tox"],
+          "low": ["Ledum"]
+        },
+        "modality": "History of injury, fall, or repetitive strain",
+        "miasm": "Psora",
+        "notes": "Acute injury or overuse strain on ligaments/tendons"
+      },
+      {
+        "rubric": "Knee stiffness in morning or after rest, better by movement",
+        "grading": {
+          "high": ["Rhus tox", "Causticum", "Calcarea carb"],
+          "medium": ["Ruta", "Silicea"],
+          "low": ["Arnica"]
+        },
+        "modality": "< morning, > continued motion",
+        "miasm": "Psora-Sycosis",
+        "notes": "Functional stiffness, early degenerative or overuse"
+      },
+      {
+        "rubric": "Knee pain associated with menses or hormonal fluctuation",
+        "grading": {
+          "high": ["Pulsatilla", "Sepia", "Calcarea carb"],
+          "medium": ["Magnesium phos", "Lachesis"],
+          "low": ["Cyclamen"]
+        },
+        "modality": "Worse during menses or ovulation",
+        "miasm": "Psora",
+        "notes": "Important in teenage girls, hormonal imbalance"
+      },
+      {
+        "rubric": "Knee pain in growing children or during adolescence",
+        "grading": {
+          "high": ["Phosphorus", "Silicea", "Calcarea phos"],
+          "medium": ["Calcarea carb", "Ruta"],
+          "low": ["Ferrum phos"]
+        },
+        "modality": "Growing pains; < evening or night",
+        "miasm": "Psora",
+        "notes": "Growth spurts or vitamin D/calcium-related patterns"
+      },
+      {
+        "rubric": "Obesity-related knee pain in young or sedentary individuals",
+        "grading": {
+          "high": ["Calcarea carb", "Antimonium crudum", "Graphites"],
+          "medium": ["Nux vomica", "Lycopodium"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "< prolonged standing or walking, > sitting or support",
+        "miasm": "Sycosis",
+        "notes": "Weight-bearing mechanical stress type knee pain"
+      },
+      {
+        "rubric": "Knee pain alternating sides or shifting joints",
+        "grading": {
+          "high": ["Lac caninum", "Pulsatilla", "Rhododendron"],
+          "medium": ["Rhus tox", "Sulphur"],
+          "low": ["Kali bich"]
+        },
+        "modality": "Pain shifts side to side or knee to other joints",
+        "miasm": "Psora",
+        "notes": "Rheumatic or neuro-somatic tendency"
+      },
+      {
+        "rubric": "Knees feel weak, trembling, unstable",
+        "grading": {
+          "high": ["Gelsemium", "Phosphorus", "Sepia"],
+          "medium": ["Causticum", "Silicea"],
+          "low": ["Agaricus"]
+        },
+        "modality": "Feels like joint will give way",
+        "miasm": "Psora",
+        "notes": "Seen in anxiety-prone or chronic fatigue states"
+      }
+    ]
+  },
+  {
+    "disease": "Knee Pain – Intercurrent & Miasmatic",
+    "tags": [
+      "Intercurrent",
+      "Miasmatic",
+      "KneePain",
+      "JointPain",
+      "Psora",
+      "Sycosis",
+      "Suppressed",
+      "GrowthDisturbance"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Knee pain in obese or sluggish patients with delayed growth or weak ligaments",
+        "grading": {
+          "high": ["Calcarea carbonica", "Graphites", "Calcarea phos"],
+          "medium": ["Antimonium crudum", "Baryta carb"],
+          "low": ["Silicea"]
+        },
+        "modality": "< exertion, < stairs, > rest and support",
+        "miasm": "Sycosis",
+        "notes": "Chronic nutritional & mechanical loading in joints"
+      },
+      {
+        "rubric": "Knee pain following suppression of skin eruptions, steroids or local treatments",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Thuja"],
+          "medium": ["Graphites", "Medorrhinum"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "History of eczema/steroid suppression → joint pains later",
+        "miasm": "Psora-Sycosis",
+        "notes": "Suppressed discharge or toxin → joint layer"
+      },
+      {
+        "rubric": "Knee pains alternating with other complaints (skin, urine, periods)",
+        "grading": {
+          "high": ["Sulphur", "Lycopodium", "Pulsatilla"],
+          "medium": ["Sepia", "Thuja"],
+          "low": ["Psorinum"]
+        },
+        "modality": "Symptoms change location or alternate with other body systems",
+        "miasm": "Psora-Sycosis",
+        "notes": "Important in migrating or shifting symptomatology"
+      },
+      {
+        "rubric": "Knee pain recurring after grief, humiliation, or suppressed emotion",
+        "grading": {
+          "high": ["Ignatia", "Staphysagria", "Natrum mur"],
+          "medium": ["Aurum met", "Sepia"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Worse after emotional suppression or shock",
+        "miasm": "Psora",
+        "notes": "Mind layer involvement leading to somatic expression"
+      },
+      {
+        "rubric": "Knee pain in children with delayed milestones or weak bones",
+        "grading": {
+          "high": ["Calcarea phos", "Silicea", "Baryta carb"],
+          "medium": ["Phosphorus", "Calcarea carb"],
+          "low": ["Fluoric acid"]
+        },
+        "modality": "During adolescence or delayed physical development",
+        "miasm": "Psora-Sycosis",
+        "notes": "Chronic weakness or growth retardation-related"
+      },
+      {
+        "rubric": "Chronic knee pain in patients with family history of diabetes, arthritis, or obesity",
+        "grading": {
+          "high": ["Lycopodium", "Syphilinum", "Calcarea carb"],
+          "medium": ["Medorrhinum", "Psorinum"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "No obvious injury; deep genetic load visible",
+        "miasm": "Mixed Miasm",
+        "notes": "Inherited miasmatic terrain causing deep-seated joint issues"
+      }
+    ]
+  }
+]

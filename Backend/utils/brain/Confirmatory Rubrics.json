@@ -1,0 +1,3384 @@
+[
+  {
+    "rubric": "Mind, consolation, agg.",
+    "grading": {
+      "Natrum muriaticum": 3,
+      "Sepia": 2,
+      "Ignatia": 2
+    },
+    "modality": "Worse after being comforted",
+    "miasm": "Sycotic",
+    "notes": "Strong emotional suppression or grief-related pathology"
+  },
+  {
+    "rubric": "Head, pain, motion, agg.",
+    "grading": {
+      "Bryonia": 3,
+      "Belladonna": 2
+    },
+    "modality": "Headache worse from slightest movement",
+    "miasm": "Psoric",
+    "notes": "Classic modality for Bryonia-type headaches"
+  },
+  {
+    "rubric": "Stomach, nausea, riding in a car, agg.",
+    "grading": {
+      "Cocculus": 3,
+      "Tabacum": 2
+    },
+    "modality": "Motion sickness, worse from vehicle travel",
+    "miasm": "Sycotic",
+    "notes": "Motion-induced neural disturbance"
+  },
+  {
+    "rubric": "Skin, eruptions, herpes, vesicles dry without ulceration",
+    "grading": {
+      "Graphites": 3,
+      "Natrum muriaticum": 2
+    },
+    "modality": "Dry herpes type, heals without open sores",
+    "miasm": "Sycotic",
+    "notes": "Milder or atypical expression"
+  },
+  {
+    "rubric": "Extremities, pain, soles, stepping on",
+    "grading": {
+      "Plantarum": 2,
+      "Causticum": 2,
+      "Silicea": 1
+    },
+    "modality": "Pain as if stepping on hard objects",
+    "miasm": "Tubercular",
+    "notes": "Often related to plantar fasciitis or fissures"
+  },
+  {
+    "rubric": "Mind, laughing, immoderately",
+    "grading": {
+      "Hyoscyamus": 3,
+      "Stramonium": 2
+    },
+    "modality": "Inappropriate laughter at serious matters",
+    "miasm": "Syphilitic",
+    "notes": "Disinhibition, psychotic spectrum signs"
+  },
+  {
+    "rubric": "Face, discoloration, blue lips",
+    "grading": {
+      "Lachesis": 3,
+      "Carbo vegetabilis": 2
+    },
+    "modality": "Cyanosis or venous stasis signs",
+    "miasm": "Syphilitic",
+    "notes": "Often observed in circulatory distress or heart conditions"
+  },
+  {
+    "rubric": "Back, pain, lumbar region, rising from sitting, agg.",
+    "grading": {
+      "Rhus toxicodendron": 3,
+      "Bryonia": 2
+    },
+    "modality": "Stiffness or pain worse when getting up",
+    "miasm": "Psoric",
+    "notes": "Indicative of inflammatory or rheumatic conditions"
+  },
+  {
+    "rubric": "Urine, involuntary, coughing",
+    "grading": {
+      "Causticum": 3,
+      "Sepia": 2
+    },
+    "modality": "Leakage of urine on coughing",
+    "miasm": "Sycotic",
+    "notes": "Pelvic floor weakness or stress incontinence"
+  },
+  {
+    "rubric": "Sleep, position, knees drawn up",
+    "grading": {
+      "Colocynthis": 3,
+      "Magnesium phosphoricum": 2
+    },
+    "modality": "Curled-up posture relieves abdominal pain",
+    "miasm": "Psoric",
+    "notes": "Classic indication in colic and spasmodic conditions"
+  },
+  {
+    "rubric": "Mind, irritability, from slightest noise",
+    "grading": {
+      "Nux vomica": 3,
+      "Coffea": 2
+    },
+    "modality": "Highly irritable and oversensitive to noise",
+    "miasm": "Sycotic",
+    "notes": "Classic sensory hypersensitivity"
+  },
+  {
+    "rubric": "Eyes, inflammation, margins of lids (blepharitis)",
+    "grading": {
+      "Graphites": 3,
+      "Staphysagria": 2
+    },
+    "modality": "Chronic eyelid edge inflammation",
+    "miasm": "Sycotic",
+    "notes": "Crusty lids, styes, or recurrent infection"
+  },
+  {
+    "rubric": "Nose, smell, lost",
+    "grading": {
+      "Kali bichromicum": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Loss of smell due to thick discharge or blockage",
+    "miasm": "Sycotic",
+    "notes": "Often post-viral or sinus-related anosmia"
+  },
+  {
+    "rubric": "Face, eruptions, acne, during menses",
+    "grading": {
+      "Sepia": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Hormonal acne flares with menstruation",
+    "miasm": "Sycotic",
+    "notes": "Common in hormonal imbalance cases"
+  },
+  {
+    "rubric": "Teeth, grinding, during sleep",
+    "grading": {
+      "Cina": 3,
+      "Belladonna": 2
+    },
+    "modality": "Bruxism in children or during fevers",
+    "miasm": "Tubercular",
+    "notes": "Associated with worms or nervous tension"
+  },
+  {
+    "rubric": "Throat, pain, swallowing, empty, agg.",
+    "grading": {
+      "Ignatia": 3,
+      "Belladonna": 2
+    },
+    "modality": "Pain worse swallowing saliva than solids/liquids",
+    "miasm": "Psoric",
+    "notes": "Functional throat pain or neurogenic inflammation"
+  },
+  {
+    "rubric": "Chest, pain, stitching, inspiration",
+    "grading": {
+      "Bryonia": 3,
+      "Ranunculus bulbosus": 2
+    },
+    "modality": "Pain worsens with deep breath",
+    "miasm": "Psoric",
+    "notes": "Pleurodynia or intercostal neuralgia"
+  },
+  {
+    "rubric": "Heart, palpitations, lying on left side, agg.",
+    "grading": {
+      "Phosphorus": 3,
+      "Spongia": 2
+    },
+    "modality": "Awareness of heartbeat when lying on left",
+    "miasm": "Sycotic",
+    "notes": "Common anxiety or early cardiac sign"
+  },
+  {
+    "rubric": "Abdomen, pain, bending double, amel.",
+    "grading": {
+      "Colocynthis": 3,
+      "Magnesium phosphoricum": 2
+    },
+    "modality": "Colicky pain relieved by pressure and bending",
+    "miasm": "Psoric",
+    "notes": "Common in IBS or uterine cramps"
+  },
+  {
+    "rubric": "Rectum, constipation, ineffectual urging",
+    "grading": {
+      "Nux vomica": 3,
+      "Silicea": 2
+    },
+    "modality": "Constant urge but no relief",
+    "miasm": "Sycotic",
+    "notes": "Typical in sedentary and anxious personalities"
+  },
+  {
+    "rubric": "Urine, odor, offensive, strong",
+    "grading": {
+      "Benzoic acid": 3,
+      "Nitric acid": 2
+    },
+    "modality": "Urine smells foul or ammoniacal",
+    "miasm": "Syphilitic",
+    "notes": "Indicates protein breakdown, metabolic issues"
+  },
+  {
+    "rubric": "Male, erections, absent, sexual desire present",
+    "grading": {
+      "Agnus castus": 3,
+      "Caladium": 2
+    },
+    "modality": "Desire remains but physical response weak",
+    "miasm": "Sycotic",
+    "notes": "Nervous weakness, often post masturbation or excess"
+  },
+  {
+    "rubric": "Female, menses, late, scanty",
+    "grading": {
+      "Pulsatilla": 3,
+      "Sepia": 2
+    },
+    "modality": "Delayed or light flow with emotional symptoms",
+    "miasm": "Sycotic",
+    "notes": "Common in young girls or hormonal issues"
+  },
+  {
+    "rubric": "Extremities, weakness, morning on rising",
+    "grading": {
+      "Rhus toxicodendron": 3,
+      "Sulphur": 2
+    },
+    "modality": "Morning stiffness or heaviness in limbs",
+    "miasm": "Psoric",
+    "notes": "Autoimmune or inflammatory signs"
+  },
+  {
+    "rubric": "Sleep, unrefreshing, after full night's sleep",
+    "grading": {
+      "Phosphoric acid": 3,
+      "Kali phosphoricum": 2
+    },
+    "modality": "Feels tired despite sleeping long hours",
+    "miasm": "Tubercular",
+    "notes": "Associated with burnout, stress, or anemia"
+  },
+  {
+    "rubric": "Dreams, falling from heights",
+    "grading": {
+      "Calcarea carbonica": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Fears or insecurity showing in dreams",
+    "miasm": "Psoric",
+    "notes": "Early insecurity or instability signs"
+  },
+  {
+    "rubric": "Skin, itching, warm bed, agg.",
+    "grading": {
+      "Sulphur": 3,
+      "Psorinum": 2
+    },
+    "modality": "Itching worse after entering bed",
+    "miasm": "Psoric",
+    "notes": "Highly indicative of psoric miasm"
+  },
+  {
+    "rubric": "Extremities, cramps, calves, night",
+    "grading": {
+      "Cuprum metallicum": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Leg cramps in bed at night",
+    "miasm": "Sycotic",
+    "notes": "Circulatory or electrolyte-linked cramps"
+  },
+  {
+    "rubric": "Generals, weather, cold, damp, agg.",
+    "grading": {
+      "Dulcamara": 3,
+      "Rhus toxicodendron": 2
+    },
+    "modality": "Ailments worse in wet/cold conditions",
+    "miasm": "Psoric",
+    "notes": "Classic rheumatic trigger"
+  },
+  {
+    "rubric": "Generals, food and drinks, milk, agg.",
+    "grading": {
+      "Aethusa": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Digestive upset from milk",
+    "miasm": "Psoric",
+    "notes": "Common in children and lactose intolerance"
+  },
+  {
+    "rubric": "Mind, suicidal disposition, yet fears death",
+    "grading": {
+      "Aurum metallicum": 3,
+      "Natrum muriaticum": 2
+    },
+    "modality": "Wants to die but fears the act or consequence",
+    "miasm": "Syphilitic",
+    "notes": "Conflicted suicidal ideation with strong guilt"
+  },
+  {
+    "rubric": "Mind, thoughts, persistent, unwanted",
+    "grading": {
+      "Anacardium": 3,
+      "Medorrhinum": 2
+    },
+    "modality": "Obsessive intrusive thoughts",
+    "miasm": "Sycotic",
+    "notes": "Indicates OCD or suppressed impulses"
+  },
+  {
+    "rubric": "Head, pain, one-sided, recurring periodically",
+    "grading": {
+      "Sanguinaria": 3,
+      "Spigelia": 2
+    },
+    "modality": "Periodic migraines affecting one side",
+    "miasm": "Sycotic",
+    "notes": "Often associated with hormonal or digestive link"
+  },
+  {
+    "rubric": "Eyes, photophobia, with lachrymation",
+    "grading": {
+      "Euphrasia": 3,
+      "Belladonna": 2
+    },
+    "modality": "Eye pain and tearing worse in light",
+    "miasm": "Psoric",
+    "notes": "Common in acute conjunctivitis and allergic eye"
+  },
+  {
+    "rubric": "Ears, noises, humming, buzzing",
+    "grading": {
+      "China": 3,
+      "Salicylic acid": 2
+    },
+    "modality": "Tinnitus-like inner ear sounds",
+    "miasm": "Sycotic",
+    "notes": "Inner ear congestion or neural irritation"
+  },
+  {
+    "rubric": "Nose, discharge, green, thick",
+    "grading": {
+      "Kali bichromicum": 3,
+      "Hydrastis": 2
+    },
+    "modality": "Thick green mucous, rope-like",
+    "miasm": "Sycotic",
+    "notes": "Chronic catarrh or sinus infection"
+  },
+  {
+    "rubric": "Face, oily skin, forehead especially",
+    "grading": {
+      "Sulphur": 3,
+      "Psorinum": 2
+    },
+    "modality": "Seborrheic, greasy, prone to acne",
+    "miasm": "Psoric",
+    "notes": "Common in teenage acne and psoric expressions"
+  },
+  {
+    "rubric": "Teeth, decay, rapid, despite hygiene",
+    "grading": {
+      "Staphysagria": 3,
+      "Calcarea fluorica": 2
+    },
+    "modality": "Fast caries progression regardless of brushing",
+    "miasm": "Syphilitic",
+    "notes": "Constitutional weakness, often familial"
+  },
+  {
+    "rubric": "Throat, sensation of lump, hysterical globus",
+    "grading": {
+      "Ignatia": 3,
+      "Lachesis": 2
+    },
+    "modality": "Sensation of lump while swallowing saliva",
+    "miasm": "Sycotic",
+    "notes": "Linked with grief, suppression, or anxiety"
+  },
+  {
+    "rubric": "Chest, oppression, anxiety with",
+    "grading": {
+      "Aconite": 3,
+      "Arsenicum album": 2
+    },
+    "modality": "Tightness and restlessness together",
+    "miasm": "Psoric",
+    "notes": "Anxiety attack or early cardiac distress"
+  },
+  {
+    "rubric": "Abdomen, bloating, evening, agg.",
+    "grading": {
+      "Lycopodium": 3,
+      "Carbo vegetabilis": 2
+    },
+    "modality": "Bloating worse in evening hours",
+    "miasm": "Sycotic",
+    "notes": "Indicates weak digestive fire or liver overload"
+  },
+  {
+    "rubric": "Rectum, pain, burning after stool",
+    "grading": {
+      "Aesculus": 3,
+      "Nitric acid": 2
+    },
+    "modality": "Pain continues after defecation",
+    "miasm": "Syphilitic",
+    "notes": "Indicative of fissures or hemorrhoids"
+  },
+  {
+    "rubric": "Male, semen, involuntary during sleep",
+    "grading": {
+      "Phosphoric acid": 3,
+      "China": 2
+    },
+    "modality": "Seminal loss during dreams or sleep",
+    "miasm": "Sycotic",
+    "notes": "Often due to weakness, fantasy, or exhaustion"
+  },
+  {
+    "rubric": "Female, leucorrhea, acrid, excoriating",
+    "grading": {
+      "Kreosotum": 3,
+      "Sepia": 2
+    },
+    "modality": "Vaginal discharge that causes itching/burning",
+    "miasm": "Syphilitic",
+    "notes": "Highly irritating discharge with odor"
+  },
+  {
+    "rubric": "Extremities, restlessness of legs, night",
+    "grading": {
+      "Zincum metallicum": 3,
+      "Tarentula": 2
+    },
+    "modality": "Constant leg movement while lying down",
+    "miasm": "Sycotic",
+    "notes": "Seen in anxiety, insomnia, or neurological cases"
+  },
+  {
+    "rubric": "Sleep, sleeplessness, ideas crowding",
+    "grading": {
+      "Nux vomica": 3,
+      "Coffea": 2
+    },
+    "modality": "Unable to sleep due to racing thoughts",
+    "miasm": "Sycotic",
+    "notes": "Typical in overstimulated or workaholic patients"
+  },
+  {
+    "rubric": "Dreams, flying",
+    "grading": {
+      "Phosphorus": 3,
+      "Medorrhinum": 2
+    },
+    "modality": "Euphoric or imaginative dream themes",
+    "miasm": "Tubercular",
+    "notes": "Light, carefree, or escape-type dreams"
+  },
+  {
+    "rubric": "Skin, eruptions, moist, behind ears",
+    "grading": {
+      "Graphites": 3,
+      "Petroleum": 2
+    },
+    "modality": "Sticky or moist eruptions in ear folds",
+    "miasm": "Sycotic",
+    "notes": "Common in children with eczema"
+  },
+  {
+    "rubric": "Generals, change of weather, agg.",
+    "grading": {
+      "Rhus toxicodendron": 3,
+      "Dulcamara": 2
+    },
+    "modality": "Sensitive to weather shifts",
+    "miasm": "Psoric",
+    "notes": "Joint complaints or headaches often triggered"
+  },
+  {
+    "rubric": "Generals, fasting, agg.",
+    "grading": {
+      "Lycopodium": 3,
+      "Ignatia": 2
+    },
+    "modality": "Symptoms appear or worsen with skipped meals",
+    "miasm": "Sycotic",
+    "notes": "Hunger-related anxiety, digestive or mood symptoms"
+  },
+  {
+    "rubric": "Mind, fear, alone, of being",
+    "grading": {
+      "Arsenicum album": 3,
+      "Stramonium": 2
+    },
+    "modality": "Intense fear when left alone, even in familiar places",
+    "miasm": "Sycotic",
+    "notes": "Indicates insecurity, anxiety, and dependence"
+  },
+  {
+    "rubric": "Mind, delusions, neglected duty, has not done his",
+    "grading": {
+      "Aurum metallicum": 3,
+      "Natrum muriaticum": 2
+    },
+    "modality": "Guilt and self-reproach over minor things",
+    "miasm": "Syphilitic",
+    "notes": "Depressive personality with moral sensitivity"
+  },
+  {
+    "rubric": "Head, heaviness, forehead, morning, on waking",
+    "grading": {
+      "Nux vomica": 3,
+      "Gelsemium": 2
+    },
+    "modality": "Dull pressure and heaviness in frontal region after waking",
+    "miasm": "Psoric",
+    "notes": "Seen in sleep-deprived or stimulant-abusing patients"
+  },
+  {
+    "rubric": "Eyes, dryness, no tears on weeping",
+    "grading": {
+      "Natrum muriaticum": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Feels grief deeply but no tears flow",
+    "miasm": "Sycotic",
+    "notes": "Emotional suppression with silent suffering"
+  },
+  {
+    "rubric": "Ears, stopped sensation, as if blocked",
+    "grading": {
+      "Chamomilla": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Ears feel plugged though hearing not lost",
+    "miasm": "Psoric",
+    "notes": "May be catarrhal or nervous etiology"
+  },
+  {
+    "rubric": "Nose, obstruction, night, during",
+    "grading": {
+      "Ammonium carb": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Nasal blockage worsens at night while lying",
+    "miasm": "Psoric",
+    "notes": "Reflex or congestive nasal catarrh"
+  },
+  {
+    "rubric": "Face, twitching, during emotion or excitement",
+    "grading": {
+      "Agaricus": 3,
+      "Ignatia": 2
+    },
+    "modality": "Facial muscles twitch under stress",
+    "miasm": "Sycotic",
+    "notes": "Seen in hysteria, neurosis, or stress overload"
+  },
+  {
+    "rubric": "Teeth, pain, eating, agg., warm food",
+    "grading": {
+      "Mercurius": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Dental pain worsens from warm food",
+    "miasm": "Syphilitic",
+    "notes": "Common in infected or necrotic roots"
+  },
+  {
+    "rubric": "Throat, dryness, without thirst",
+    "grading": {
+      "Belladonna": 3,
+      "Apis mellifica": 2
+    },
+    "modality": "Parched feeling but no desire to drink",
+    "miasm": "Psoric",
+    "notes": "Dry inflammation or allergic response"
+  },
+  {
+    "rubric": "Chest, pain, heart region, extending to left arm",
+    "grading": {
+      "Cactus grandiflorus": 3,
+      "Spigelia": 2
+    },
+    "modality": "Classic angina-type radiation",
+    "miasm": "Syphilitic",
+    "notes": "Used in suspected ischemic or neurovascular pains"
+  },
+  {
+    "rubric": "Abdomen, gurgling, before stool",
+    "grading": {
+      "Podophyllum": 3,
+      "Aloe socotrina": 2
+    },
+    "modality": "Loud borborygmi before evacuation",
+    "miasm": "Psoric",
+    "notes": "Colitis, IBS, or dysentery-indicated states"
+  },
+  {
+    "rubric": "Rectum, hemorrhoids, bleeding, painless",
+    "grading": {
+      "Hamamelis": 3,
+      "Aloe socotrina": 2
+    },
+    "modality": "Bright red blood without pain",
+    "miasm": "Sycotic",
+    "notes": "Venous stasis with hemorrhoidal congestion"
+  },
+  {
+    "rubric": "Urine, scanty, dark colored",
+    "grading": {
+      "Berberis vulgaris": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Low output with deep yellow or brown color",
+    "miasm": "Syphilitic",
+    "notes": "Often kidney or liver function indicator"
+  },
+  {
+    "rubric": "Female, menses, suppressed, from emotions",
+    "grading": {
+      "Ignatia": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Menses stops or delays after grief or stress",
+    "miasm": "Sycotic",
+    "notes": "Emotional–hormonal axis disruption"
+  },
+  {
+    "rubric": "Extremities, numbness, fingers, tips of",
+    "grading": {
+      "Aconite": 3,
+      "Plumbum": 2
+    },
+    "modality": "Loss of sensation in fingertips",
+    "miasm": "Syphilitic",
+    "notes": "Circulatory or nerve degeneration causes"
+  },
+  {
+    "rubric": "Sleep, waking, 3 a.m., aggravation",
+    "grading": {
+      "Arsenicum album": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Wakes at 3 AM with anxiety or restlessness",
+    "miasm": "Sycotic",
+    "notes": "Linked to adrenal or liver clock"
+  },
+  {
+    "rubric": "Dreams, snakes",
+    "grading": {
+      "Lachesis": 3,
+      "Medorrhinum": 2
+    },
+    "modality": "Dreams of snakes—fear, sexual, or symbolic themes",
+    "miasm": "Sycotic",
+    "notes": "Deep subconscious or instinctual fears"
+  },
+  {
+    "rubric": "Skin, eruptions, moist, yellow discharge",
+    "grading": {
+      "Graphites": 3,
+      "Mezereum": 2
+    },
+    "modality": "Thick yellow sticky oozing from lesions",
+    "miasm": "Sycotic",
+    "notes": "Crusty skin lesions or impetigo-type conditions"
+  },
+  {
+    "rubric": "Generals, food and drinks, eggs, agg.",
+    "grading": {
+      "Calcarea carbonica": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Worse from eating eggs",
+    "miasm": "Psoric",
+    "notes": "Digestive intolerance or aversion"
+  },
+  {
+    "rubric": "Generals, bathing, cold, after, agg.",
+    "grading": {
+      "Rhus toxicodendron": 3,
+      "Silicea": 2
+    },
+    "modality": "Complaints begin or worsen after cold bathing",
+    "miasm": "Psoric",
+    "notes": "Rheumatic or immune-triggered reaction"
+  },
+  {
+    "rubric": "Mind, forgetful, names of persons",
+    "grading": {
+      "Lycopodium": 3,
+      "Anacardium": 2
+    },
+    "modality": "Difficulty recalling names of familiar people",
+    "miasm": "Sycotic",
+    "notes": "Early cognitive or nervous weakness"
+  },
+  {
+    "rubric": "Mind, ailments from anticipation",
+    "grading": {
+      "Gelsemium": 3,
+      "Argentum nitricum": 2
+    },
+    "modality": "Complaints before events like exams or interviews",
+    "miasm": "Sycotic",
+    "notes": "Classic performance anxiety rubric"
+  },
+  {
+    "rubric": "Head, pain, occiput, extending to nape",
+    "grading": {
+      "Gelsemium": 3,
+      "Cimicifuga": 2
+    },
+    "modality": "Neck-tension headache starting at occiput",
+    "miasm": "Psoric",
+    "notes": "Common in cervical spondylosis or tension"
+  },
+  {
+    "rubric": "Eyes, pain, stitching, on moving",
+    "grading": {
+      "Bryonia": 3,
+      "Spigelia": 2
+    },
+    "modality": "Pain in eyeballs worse with movement",
+    "miasm": "Psoric",
+    "notes": "Seen in sinusitis or eye strain"
+  },
+  {
+    "rubric": "Ears, discharge, offensive",
+    "grading": {
+      "Kali sulphuricum": 3,
+      "Psorinum": 2
+    },
+    "modality": "Foul-smelling ear discharge",
+    "miasm": "Syphilitic",
+    "notes": "Chronic otitis media or eustachian tube pathology"
+  },
+  {
+    "rubric": "Nose, dryness, inside",
+    "grading": {
+      "Arum triphyllum": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Dryness inside nose, crusts or soreness",
+    "miasm": "Psoric",
+    "notes": "Often in allergic or atrophic rhinitis"
+  },
+  {
+    "rubric": "Face, neuralgia, right side",
+    "grading": {
+      "Spigelia": 3,
+      "Magnesia phosphorica": 2
+    },
+    "modality": "Right-sided facial nerve pain",
+    "miasm": "Sycotic",
+    "notes": "Trigeminal neuralgia or dental origin"
+  },
+  {
+    "rubric": "Mouth, taste, bitter, morning",
+    "grading": {
+      "Bryonia": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Bitter taste after waking",
+    "miasm": "Sycotic",
+    "notes": "Liver or gastric imbalance"
+  },
+  {
+    "rubric": "Throat, hawking, constant need",
+    "grading": {
+      "Kali bichromicum": 3,
+      "Hydrastis": 2
+    },
+    "modality": "Need to clear sticky mucus from throat",
+    "miasm": "Sycotic",
+    "notes": "Post-nasal drip or chronic catarrh"
+  },
+  {
+    "rubric": "Chest, sensation, constriction, band-like",
+    "grading": {
+      "Cactus grandiflorus": 3,
+      "Lachesis": 2
+    },
+    "modality": "Feels as if chest is tightly bound",
+    "miasm": "Sycotic",
+    "notes": "Cardiovascular or anxiety-linked symptom"
+  },
+  {
+    "rubric": "Stomach, pain, burning, night",
+    "grading": {
+      "Arsenicum album": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Burning gastric pain at night",
+    "miasm": "Syphilitic",
+    "notes": "Gastritis, ulcers, or anxiety-related acidity"
+  },
+  {
+    "rubric": "Abdomen, distension, after eating",
+    "grading": {
+      "Lycopodium": 3,
+      "Carbo veg": 2
+    },
+    "modality": "Bloating immediately after meals",
+    "miasm": "Sycotic",
+    "notes": "Poor digestion or sluggish liver"
+  },
+  {
+    "rubric": "Stool, early morning, drives out of bed",
+    "grading": {
+      "Sulphur": 3,
+      "Podophyllum": 2
+    },
+    "modality": "Urgent stool at 5 AM or upon waking",
+    "miasm": "Psoric",
+    "notes": "Linked to liver function or morning aggravation"
+  },
+  {
+    "rubric": "Rectum, itching, night",
+    "grading": {
+      "Dolichos": 3,
+      "Sulphur": 2
+    },
+    "modality": "Rectal itching worse in bed at night",
+    "miasm": "Psoric",
+    "notes": "May indicate worms, fissures, or eczema"
+  },
+  {
+    "rubric": "Male, sexual desire, increased, excessive",
+    "grading": {
+      "Medorrhinum": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Uncontrollable or frequent sexual thoughts",
+    "miasm": "Sycotic",
+    "notes": "Hypersexuality, often with guilt or fatigue"
+  },
+  {
+    "rubric": "Female, sexual desire, decreased",
+    "grading": {
+      "Sepia": 3,
+      "Ignatia": 2
+    },
+    "modality": "Low libido, especially in emotionally disconnected women",
+    "miasm": "Sycotic",
+    "notes": "Suppressed femininity or hormonal deficiency"
+  },
+  {
+    "rubric": "Extremities, tingling, hands and feet",
+    "grading": {
+      "Phosphorus": 3,
+      "Arsenicum album": 2
+    },
+    "modality": "Pins and needles sensation in extremities",
+    "miasm": "Sycotic",
+    "notes": "Circulatory, diabetic, or anxiety-related symptom"
+  },
+  {
+    "rubric": "Sleep, position, on abdomen, amel.",
+    "grading": {
+      "Medorrhinum": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Feels better sleeping on the stomach",
+    "miasm": "Sycotic",
+    "notes": "Restless or organ-congestion related sleep relief"
+  },
+  {
+    "rubric": "Dreams, being pursued",
+    "grading": {
+      "Belladonna": 3,
+      "Stramonium": 2
+    },
+    "modality": "Fearful dreams of being chased",
+    "miasm": "Syphilitic",
+    "notes": "Linked to paranoia or trauma memory"
+  },
+  {
+    "rubric": "Skin, eruptions, itching, scratching, agg.",
+    "grading": {
+      "Sulphur": 3,
+      "Psorinum": 2
+    },
+    "modality": "Worsening of itching after scratching",
+    "miasm": "Psoric",
+    "notes": "Psoric eruptions, allergic or neurodermatitis"
+  },
+  {
+    "rubric": "Mind, anger, violent, throws things",
+    "grading": {
+      "Tarentula hispanica": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Uncontrolled rage with destructive impulse",
+    "miasm": "Sycotic",
+    "notes": "Seen in children, hysterical, or suppressed types"
+  },
+  {
+    "rubric": "Mind, weeping, involuntary, uncontrollable",
+    "grading": {
+      "Ignatia": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Crying without cause or ability to stop",
+    "miasm": "Psoric",
+    "notes": "Emotionally overloaded or grief-suppressed individuals"
+  },
+  {
+    "rubric": "Head, pain, bursting, temples",
+    "grading": {
+      "Belladonna": 3,
+      "Glonoinum": 2
+    },
+    "modality": "Throbbing pain in temples, as if head will burst",
+    "miasm": "Syphilitic",
+    "notes": "Vascular headaches, congestion, or heat strokes"
+  },
+  {
+    "rubric": "Eyes, vision, blurred, morning on waking",
+    "grading": {
+      "Phosphorus": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Dim vision in early morning, clears after blinking",
+    "miasm": "Sycotic",
+    "notes": "Due to secretions, sleep film, or ocular fatigue"
+  },
+  {
+    "rubric": "Ears, itching, deep inside",
+    "grading": {
+      "Tellurium": 3,
+      "Sulphur": 2
+    },
+    "modality": "Intense deep itch inside ears",
+    "miasm": "Psoric",
+    "notes": "Indicates eczema, fungal infection, or dryness"
+  },
+  {
+    "rubric": "Nose, bleeding, morning, frequent",
+    "grading": {
+      "Phosphorus": 3,
+      "Kali bichromicum": 2
+    },
+    "modality": "Nosebleeds on waking or early morning",
+    "miasm": "Syphilitic",
+    "notes": "Fragile capillaries or blood pressure-related"
+  },
+  {
+    "rubric": "Face, eruptions, perioral region",
+    "grading": {
+      "Sepia": 3,
+      "Graphites": 2
+    },
+    "modality": "Eruptions around the mouth and chin area",
+    "miasm": "Sycotic",
+    "notes": "Often linked with hormonal imbalance or cosmetics"
+  },
+  {
+    "rubric": "Mouth, ulcers, painful, burning",
+    "grading": {
+      "Mercurius solubilis": 3,
+      "Nitric acid": 2
+    },
+    "modality": "Painful oral ulcers with burning and salivation",
+    "miasm": "Syphilitic",
+    "notes": "Indicates infection or low immunity"
+  },
+  {
+    "rubric": "Throat, pain, stitching, swallowing, liquids",
+    "grading": {
+      "Hepar sulphuris": 3,
+      "Belladonna": 2
+    },
+    "modality": "Sharp throat pain worse from drinking",
+    "miasm": "Psoric",
+    "notes": "Common in suppurative tonsillitis"
+  },
+  {
+    "rubric": "Chest, palpitation, with anxiety",
+    "grading": {
+      "Aconite": 3,
+      "Gelsemium": 2
+    },
+    "modality": "Rapid heartbeat during panic episodes",
+    "miasm": "Psoric",
+    "notes": "Functional cardiac neurosis or panic disorder"
+  },
+  {
+    "rubric": "Stomach, nausea, from odor of food",
+    "grading": {
+      "Colchicum": 3,
+      "Sepia": 2
+    },
+    "modality": "Severe nausea just from smell of cooking",
+    "miasm": "Psoric",
+    "notes": "Pregnancy or food aversion-related nausea"
+  },
+  {
+    "rubric": "Abdomen, pain, before stool",
+    "grading": {
+      "Nux vomica": 3,
+      "Podophyllum": 2
+    },
+    "modality": "Abdominal discomfort before evacuation",
+    "miasm": "Sycotic",
+    "notes": "Spasmodic colitis or irritability-related"
+  },
+  {
+    "rubric": "Stool, odor, offensive, putrid",
+    "grading": {
+      "Psorinum": 3,
+      "Arsenicum album": 2
+    },
+    "modality": "Extremely foul-smelling stool",
+    "miasm": "Syphilitic",
+    "notes": "Indicates putrefaction or poor digestion"
+  },
+  {
+    "rubric": "Urine, burning, during urination",
+    "grading": {
+      "Cantharis": 3,
+      "Apis mellifica": 2
+    },
+    "modality": "Burning pain during micturition",
+    "miasm": "Syphilitic",
+    "notes": "UTI or urethral inflammation"
+  },
+  {
+    "rubric": "Female, leucorrhea, milky, acrid",
+    "grading": {
+      "Borax": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Milky-white discharge causing irritation",
+    "miasm": "Sycotic",
+    "notes": "Common in young girls or hormonal imbalance"
+  },
+  {
+    "rubric": "Extremities, weakness, knees, descending stairs",
+    "grading": {
+      "Calcarea carbonica": 3,
+      "Silicea": 2
+    },
+    "modality": "Knees give way while going downstairs",
+    "miasm": "Sycotic",
+    "notes": "Joint instability or early degenerative sign"
+  },
+  {
+    "rubric": "Sleep, talking during",
+    "grading": {
+      "Lachesis": 3,
+      "Stramonium": 2
+    },
+    "modality": "Mumbles or speaks aloud during sleep",
+    "miasm": "Tubercular",
+    "notes": "Mental overactivity even while resting"
+  },
+  {
+    "rubric": "Dreams, of water, large bodies of",
+    "grading": {
+      "Phosphorus": 3,
+      "Medorrhinum": 2
+    },
+    "modality": "Dreams involving seas, rivers, or drowning",
+    "miasm": "Sycotic",
+    "notes": "Often relates to unconscious fears or emotions"
+  },
+  {
+    "rubric": "Skin, dryness, without itching",
+    "grading": {
+      "Arsenicum album": 3,
+      "Petroleum": 2
+    },
+    "modality": "Rough, dry skin without any desire to scratch",
+    "miasm": "Psoric",
+    "notes": "A sign of constitutional dryness or winter aggravation"
+  },
+  {
+    "rubric": "Generals, food and drinks, spicy, agg.",
+    "grading": {
+      "Sulphur": 3,
+      "Natrum muriaticum": 2
+    },
+    "modality": "Worsening of complaints after eating spicy food",
+    "miasm": "Sycotic",
+    "notes": "Gastric or skin aggravation typical"
+  },
+  {
+    "rubric": "Mind, anxiety, evening, twilight",
+    "grading": {
+      "Phosphorus": 3,
+      "Aconite": 2
+    },
+    "modality": "Anxiety worsens at sunset or dim light",
+    "miasm": "Sycotic",
+    "notes": "Sensitive individuals, often linked with fear of dark or death"
+  },
+  {
+    "rubric": "Mind, fear, narrow places, of",
+    "grading": {
+      "Stramonium": 3,
+      "Argentum nitricum": 2
+    },
+    "modality": "Claustrophobia or panic in enclosed spaces",
+    "miasm": "Sycotic",
+    "notes": "Mental constriction and irrational fear"
+  },
+  {
+    "rubric": "Head, pain, vertex, stitching",
+    "grading": {
+      "Kali bichromicum": 3,
+      "Sepia": 2
+    },
+    "modality": "Sharp, stabbing pain at the top of the head",
+    "miasm": "Syphilitic",
+    "notes": "Frequently hormonal, toxic or suppressed expression"
+  },
+  {
+    "rubric": "Eyes, lachrymation, wind, in open air",
+    "grading": {
+      "Euphrasia": 3,
+      "Allium cepa": 2
+    },
+    "modality": "Tearing triggered by wind exposure",
+    "miasm": "Psoric",
+    "notes": "Allergic eye conditions and irritation"
+  },
+  {
+    "rubric": "Ears, pain, extending to throat",
+    "grading": {
+      "Hepar sulphuris": 3,
+      "Belladonna": 2
+    },
+    "modality": "Earache radiating into throat while swallowing",
+    "miasm": "Psoric",
+    "notes": "Often middle ear infections or tonsillitis-related"
+  },
+  {
+    "rubric": "Nose, crusts, dry, bloody",
+    "grading": {
+      "Ammonium muriaticum": 3,
+      "Nitric acid": 2
+    },
+    "modality": "Dry nose with blood-tinged crust formation",
+    "miasm": "Syphilitic",
+    "notes": "Atrophic rhinitis or chronic nasal ulceration"
+  },
+  {
+    "rubric": "Face, heat, without redness",
+    "grading": {
+      "Sepia": 3,
+      "Lachesis": 2
+    },
+    "modality": "Sensation of internal facial heat, no visible change",
+    "miasm": "Sycotic",
+    "notes": "Hormonal or nervous flush-type sensations"
+  },
+  {
+    "rubric": "Mouth, saliva, thick, ropey",
+    "grading": {
+      "Mercurius": 3,
+      "Kali bichromicum": 2
+    },
+    "modality": "Sticky, difficult-to-swallow saliva",
+    "miasm": "Sycotic",
+    "notes": "Oral infections or sluggish digestion-related"
+  },
+  {
+    "rubric": "Throat, foreign body sensation, constant",
+    "grading": {
+      "Ignatia": 3,
+      "Lachesis": 2
+    },
+    "modality": "Feels like lump stuck in throat, not relieved by swallowing",
+    "miasm": "Sycotic",
+    "notes": "Often hysterical globus from emotional suppression"
+  },
+  {
+    "rubric": "Chest, pain, stitching, on inspiration",
+    "grading": {
+      "Bryonia": 3,
+      "Kali carbonicum": 2
+    },
+    "modality": "Sharp pain in chest on deep breathing",
+    "miasm": "Psoric",
+    "notes": "Pleuritic, intercostal, or rheumatic chest pain"
+  },
+  {
+    "rubric": "Stomach, vomiting, after cold drinks",
+    "grading": {
+      "Arsenicum album": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Drinking cold fluids leads to vomiting",
+    "miasm": "Psoric",
+    "notes": "Weak stomach or inflamed gastric mucosa"
+  },
+  {
+    "rubric": "Abdomen, pain, right hypochondrium",
+    "grading": {
+      "Chelidonium": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Liver-area pain, often radiating to back",
+    "miasm": "Sycotic",
+    "notes": "Gallbladder, liver congestion, or hepatobiliary issues"
+  },
+  {
+    "rubric": "Stool, involuntary, during sleep",
+    "grading": {
+      "Arsenicum album": 3,
+      "Podophyllum": 2
+    },
+    "modality": "Passes stool during deep sleep without awareness",
+    "miasm": "Syphilitic",
+    "notes": "Seen in low vitality, infants, or rectal nerve paralysis"
+  },
+  {
+    "rubric": "Urine, odor, strong, pungent",
+    "grading": {
+      "Benzoic acid": 3,
+      "Nitric acid": 2
+    },
+    "modality": "Urine smells foul, offensive",
+    "miasm": "Syphilitic",
+    "notes": "Linked to uric acid diathesis, kidney overload"
+  },
+  {
+    "rubric": "Female, menses, black, clotted",
+    "grading": {
+      "Crocus sativus": 3,
+      "Sabina": 2
+    },
+    "modality": "Dark, stringy blood with heavy clots",
+    "miasm": "Sycotic",
+    "notes": "Often in fibroids, endometriosis, or hormonal dysregulation"
+  },
+  {
+    "rubric": "Extremities, coldness, feet, in bed",
+    "grading": {
+      "Silicea": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Feet remain cold even under covers",
+    "miasm": "Psoric",
+    "notes": "Weak circulation or vital force"
+  },
+  {
+    "rubric": "Sleep, position, knees drawn up",
+    "grading": {
+      "Colocynthis": 3,
+      "Magnesia phosphorica": 2
+    },
+    "modality": "Prefers fetal position for abdominal comfort",
+    "miasm": "Psoric",
+    "notes": "Colicky, irritable, or oversensitive nature"
+  },
+  {
+    "rubric": "Dreams, falling from height",
+    "grading": {
+      "Calcarea carbonica": 3,
+      "Borax": 2
+    },
+    "modality": "Wakes with a jerk from falling dream",
+    "miasm": "Psoric",
+    "notes": "Fear of failure, insecurity, or physical falling sensation"
+  },
+  {
+    "rubric": "Skin, eruptions, hard, nodular",
+    "grading": {
+      "Thuja": 3,
+      "Calcarea fluorica": 2
+    },
+    "modality": "Firm, non-suppurating nodules under skin",
+    "miasm": "Sycotic",
+    "notes": "Warts, lipomas, fibromas"
+  },
+  {
+    "rubric": "Generals, cold, tendency to take",
+    "grading": {
+      "Hepar sulphuris": 3,
+      "Silicea": 2
+    },
+    "modality": "Easily affected by cold drafts, sensitive to chill",
+    "miasm": "Psoric",
+    "notes": "Low immunity, hypersensitivity to environment"
+  },
+  {
+    "rubric": "Mind, suicidal disposition, impulses sudden",
+    "grading": {
+      "Aurumn metallicum": 3,
+      "Natrum sulphuricum": 2
+    },
+    "modality": "Sudden urge to jump, stab, or harm self without reason",
+    "miasm": "Syphilitic",
+    "notes": "Desperate mental state, requires urgent support"
+  },
+  {
+    "rubric": "Mind, aversion, family members, to",
+    "grading": {
+      "Sepia": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Feels emotionally detached or irritated by loved ones",
+    "miasm": "Sycotic",
+    "notes": "Seen in hormonal imbalances or emotional withdrawal"
+  },
+  {
+    "rubric": "Head, pain, one-sided, alternating sides",
+    "grading": {
+      "Lac caninum": 3,
+      "Sanguinaria": 2
+    },
+    "modality": "Migraine alternates sides day to day",
+    "miasm": "Sycotic",
+    "notes": "Very characteristic rubric for remedy differentiation"
+  },
+  {
+    "rubric": "Eyes, photophobia, sunlight agg.",
+    "grading": {
+      "Belladonna": 3,
+      "Euphrasia": 2
+    },
+    "modality": "Discomfort or pain in sunlight, better in dark",
+    "miasm": "Psoric",
+    "notes": "Typical in conjunctivitis, iritis, or migraine"
+  },
+  {
+    "rubric": "Ears, noises, buzzing",
+    "grading": {
+      "Chininum sulphuricum": 3,
+      "Salicylic acid": 2
+    },
+    "modality": "Buzzing or humming sound in ears",
+    "miasm": "Sycotic",
+    "notes": "May indicate Meniere’s or drug-induced ototoxicity"
+  },
+  {
+    "rubric": "Nose, discharge, thick, yellow-green",
+    "grading": {
+      "Kali bichromicum": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Thick, sticky, yellowish-green mucus",
+    "miasm": "Sycotic",
+    "notes": "Sinusitis or chronic rhinitis"
+  },
+  {
+    "rubric": "Face, discoloration, yellow",
+    "grading": {
+      "Chelidonium": 3,
+      "Sepia": 2
+    },
+    "modality": "Yellowish tinge on face, especially around eyes",
+    "miasm": "Sycotic",
+    "notes": "Suggests liver congestion or biliary disturbance"
+  },
+  {
+    "rubric": "Mouth, dryness, without thirst",
+    "grading": {
+      "Nux moschata": 3,
+      "Belladonna": 2
+    },
+    "modality": "Extremely dry mouth but no desire to drink",
+    "miasm": "Psoric",
+    "notes": "Neurogenic dryness or emotional origin"
+  },
+  {
+    "rubric": "Throat, pain, empty swallowing, agg.",
+    "grading": {
+      "Hepar sulphuris": 3,
+      "Phytolacca": 2
+    },
+    "modality": "Pain worse when swallowing saliva, not food",
+    "miasm": "Sycotic",
+    "notes": "Distinguishes true tonsillitis from irritation"
+  },
+  {
+    "rubric": "Chest, oppression, lying on back, agg.",
+    "grading": {
+      "Lachesis": 3,
+      "Arsenicum album": 2
+    },
+    "modality": "Chest tightness increases when lying supine",
+    "miasm": "Sycotic",
+    "notes": "Dyspnea, cardiac, or hysterical causes"
+  },
+  {
+    "rubric": "Stomach, eructations, tasting like rotten eggs",
+    "grading": {
+      "Antimonium crudum": 3,
+      "Carbo vegetabilis": 2
+    },
+    "modality": "Burps have foul sulfur-like odor",
+    "miasm": "Psoric",
+    "notes": "Indicates fermentation and sluggish digestion"
+  },
+  {
+    "rubric": "Abdomen, pain, better bending double",
+    "grading": {
+      "Colocynthis": 3,
+      "Magnesia phosphorica": 2
+    },
+    "modality": "Pain relieved by strong abdominal flexion",
+    "miasm": "Psoric",
+    "notes": "Classical rubric for colic or neuralgia"
+  },
+  {
+    "rubric": "Stool, mucus, jelly-like",
+    "grading": {
+      "Aloe socotrina": 3,
+      "Mercurius corrosivus": 2
+    },
+    "modality": "Stools contain slimy or gelatinous mucus",
+    "miasm": "Sycotic",
+    "notes": "Mucous colitis or amoebic dysentery"
+  },
+  {
+    "rubric": "Urine, flow, interrupted, starts and stops",
+    "grading": {
+      "Conium maculatum": 3,
+      "Sabal serrulata": 2
+    },
+    "modality": "Urine begins, halts, then starts again",
+    "miasm": "Sycotic",
+    "notes": "Prostate enlargement or bladder atony"
+  },
+  {
+    "rubric": "Female, menses, pain, before flow",
+    "grading": {
+      "Magnesia phosphorica": 3,
+      "Cimicifuga": 2
+    },
+    "modality": "Menstrual cramps precede flow and ease after onset",
+    "miasm": "Psoric",
+    "notes": "Indicates spasmodic dysmenorrhea"
+  },
+  {
+    "rubric": "Extremities, cramps, calves, at night",
+    "grading": {
+      "Cuprum metallicum": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Violent calf muscle cramps while asleep",
+    "miasm": "Sycotic",
+    "notes": "Often due to dehydration, circulation issues"
+  },
+  {
+    "rubric": "Sleep, sleeplessness, ideas crowding in",
+    "grading": {
+      "Coffea cruda": 3,
+      "Sulphur": 2
+    },
+    "modality": "Inability to sleep due to racing thoughts",
+    "miasm": "Psoric",
+    "notes": "Mentally active individuals, anxiety or creativity"
+  },
+  {
+    "rubric": "Dreams, vivid, remain impressed",
+    "grading": {
+      "Kali bromatum": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Dreams so intense they affect waking mood",
+    "miasm": "Sycotic",
+    "notes": "Sensitive, psychic, or highly emotional types"
+  },
+  {
+    "rubric": "Skin, eruptions, vesicular, itching, burning",
+    "grading": {
+      "Rhus toxicodendron": 3,
+      "Mezereum": 2
+    },
+    "modality": "Itchy, fluid-filled vesicles with burning sensation",
+    "miasm": "Sycotic",
+    "notes": "Seen in herpes, eczema, or contact dermatitis"
+  },
+  {
+    "rubric": "Generals, weather, change of, agg.",
+    "grading": {
+      "Dulcamara": 3,
+      "Rhus toxicodendron": 2
+    },
+    "modality": "Worsening of symptoms during weather shifts",
+    "miasm": "Psoric",
+    "notes": "Chronic rheumatism, allergies, or catarrhs"
+  },
+  {
+    "rubric": "Mind, forsaken feeling, isolation, sensation of",
+    "grading": {
+      "Pulsatilla": 3,
+      "Natrum muriaticum": 2
+    },
+    "modality": "Feels neglected, unloved, or emotionally abandoned",
+    "miasm": "Psoric",
+    "notes": "Frequently in emotional suppression or sensitive constitutions"
+  },
+  {
+    "rubric": "Mind, irritability, from noise",
+    "grading": {
+      "Nux vomica": 3,
+      "China": 2
+    },
+    "modality": "Noise, even slight, causes anger or headache",
+    "miasm": "Sycotic",
+    "notes": "Seen in neurasthenia, overworked individuals"
+  },
+  {
+    "rubric": "Mind, fear, death, during illness",
+    "grading": {
+      "Aconite": 3,
+      "Arsenicum album": 2
+    },
+    "modality": "Feels they'll die soon during minor complaints",
+    "miasm": "Psoric",
+    "notes": "Panic, intense restlessness and fear"
+  },
+  {
+    "rubric": "Head, pain, bursting, morning on waking",
+    "grading": {
+      "Nux vomica": 3,
+      "Gelsemium": 2
+    },
+    "modality": "Wakes with heavy, bursting headache",
+    "miasm": "Sycotic",
+    "notes": "Due to late-night eating, stress, or alcohol"
+  },
+  {
+    "rubric": "Eyes, lids, swelling, upper",
+    "grading": {
+      "Apis mellifica": 3,
+      "Kali carbonicum": 2
+    },
+    "modality": "Puffy upper lids, more in morning",
+    "miasm": "Sycotic",
+    "notes": "Suggests renal or allergic cause"
+  },
+  {
+    "rubric": "Nose, itching, internal",
+    "grading": {
+      "Arundo": 3,
+      "Arum triphyllum": 2
+    },
+    "modality": "Constant itching deep inside nostrils",
+    "miasm": "Psoric",
+    "notes": "In hay fever or nasal allergy"
+  },
+  {
+    "rubric": "Mouth, ulcers, tip of tongue",
+    "grading": {
+      "Nitric acid": 3,
+      "Baptisia": 2
+    },
+    "modality": "Painful ulcers on tongue tip",
+    "miasm": "Syphilitic",
+    "notes": "Autoimmune or septic origin"
+  },
+  {
+    "rubric": "Throat, dryness, night",
+    "grading": {
+      "Phosphorus": 3,
+      "Belladonna": 2
+    },
+    "modality": "Throat feels dry, parched during sleep",
+    "miasm": "Psoric",
+    "notes": "Seen in bronchitis, laryngitis, or allergies"
+  },
+  {
+    "rubric": "Chest, palpitations, lying on left side agg.",
+    "grading": {
+      "Lycopodium": 3,
+      "Lachesis": 2
+    },
+    "modality": "Heart thumping worse on left side rest",
+    "miasm": "Sycotic",
+    "notes": "Anxiety, heart dysfunction or miasmatic heart strain"
+  },
+  {
+    "rubric": "Stomach, vomiting, during cough",
+    "grading": {
+      "Drosera": 3,
+      "Coccus cacti": 2
+    },
+    "modality": "Severe cough causes retching or vomiting",
+    "miasm": "Psoric",
+    "notes": "Seen in pertussis or spasmodic coughs"
+  },
+  {
+    "rubric": "Abdomen, rumbling, before stool",
+    "grading": {
+      "Aloe socotrina": 3,
+      "Podophyllum": 2
+    },
+    "modality": "Gurgling, bubbling sounds before evacuation",
+    "miasm": "Sycotic",
+    "notes": "Indicates weakness of bowel tone"
+  },
+  {
+    "rubric": "Stool, pain, during, burning",
+    "grading": {
+      "Arsenicum album": 3,
+      "Sulphur": 2
+    },
+    "modality": "Passing stool causes burning sensation",
+    "miasm": "Syphilitic",
+    "notes": "Seen in fissures, piles, or chronic dysentery"
+  },
+  {
+    "rubric": "Urine, involuntary, during cough",
+    "grading": {
+      "Causticum": 3,
+      "Sepia": 2
+    },
+    "modality": "Urine escapes with coughing",
+    "miasm": "Sycotic",
+    "notes": "Weak pelvic floor or post-delivery"
+  },
+  {
+    "rubric": "Female, menses, irregular, early or late",
+    "grading": {
+      "Sepia": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Menstrual cycle lacks rhythm or pattern",
+    "miasm": "Sycotic",
+    "notes": "Hormonal imbalance or emotional origin"
+  },
+  {
+    "rubric": "Extremities, heaviness, arms",
+    "grading": {
+      "Gelsemium": 3,
+      "Phosphoric acid": 2
+    },
+    "modality": "Limbs feel weak and hard to lift",
+    "miasm": "Psoric",
+    "notes": "Seen in fatigue syndromes or viral infections"
+  },
+  {
+    "rubric": "Sleep, disturbed, from heat",
+    "grading": {
+      "Sulphur": 3,
+      "Lachesis": 2
+    },
+    "modality": "Sleep interrupted due to body heat",
+    "miasm": "Psoric",
+    "notes": "Heat flushes, skin irritability or metabolic activity"
+  },
+  {
+    "rubric": "Dreams, flying, sensation of",
+    "grading": {
+      "Medorrhinum": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Dreams include soaring, floating in air",
+    "miasm": "Sycotic",
+    "notes": "Creative, ecstatic or dissociative states"
+  },
+  {
+    "rubric": "Skin, eruptions, moist, oozing",
+    "grading": {
+      "Graphites": 3,
+      "Rhus tox": 2
+    },
+    "modality": "Discharges sticky fluid, cracks around lesion",
+    "miasm": "Sycotic",
+    "notes": "Eczema, intertrigo or fungal"
+  },
+  {
+    "rubric": "Generals, bathing, cold, agg.",
+    "grading": {
+      "Silicea": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Cold water bath worsens symptoms",
+    "miasm": "Psoric",
+    "notes": "Poor circulation or fear of cold"
+  },
+  {
+    "rubric": "Mind, suspicious, constantly watched",
+    "grading": {
+      "Hyoscyamus": 3,
+      "Platina": 2
+    },
+    "modality": "Feels spied on, followed or judged",
+    "miasm": "Syphilitic",
+    "notes": "Early delusional paranoia"
+  },
+  {
+    "rubric": "Mind, confusion, identity, forgets own",
+    "grading": {
+      "Anacardium": 3,
+      "Cannabis indica": 2
+    },
+    "modality": "Momentary loss of identity or memory",
+    "miasm": "Syphilitic",
+    "notes": "Seen in deep mental pathologies"
+  },
+  {
+    "rubric": "Mind, indifference, loved ones, to",
+    "grading": {
+      "Sepia": 3,
+      "Phosphoric acid": 2
+    },
+    "modality": "Detached emotionally from spouse/children",
+    "miasm": "Sycotic",
+    "notes": "Depression or exhaustion-related"
+  },
+  {
+    "rubric": "Mind, loquacity, jumps topics",
+    "grading": {
+      "Lachesis": 3,
+      "Stramonium": 2
+    },
+    "modality": "Talks rapidly, erratically, changes subjects",
+    "miasm": "Tubercular",
+    "notes": "Seen in manic states or expressive types"
+  },
+  {
+    "rubric": "Mind, quarrelsome, trifles over",
+    "grading": {
+      "Nux vomica": 3,
+      "Hepar sulphuris": 2
+    },
+    "modality": "Irritated easily, reacts explosively",
+    "miasm": "Sycotic",
+    "notes": "Hyper-reactivity from suppressed anger"
+  },
+  {
+    "rubric": "Mind, restlessness, drives out of bed",
+    "grading": {
+      "Arsenicum album": 3,
+      "Rhus toxicodendron": 2
+    },
+    "modality": "Cannot remain still in bed, changes position",
+    "miasm": "Psoric",
+    "notes": "Anxiety, body aches, or neural tension"
+  },
+  {
+    "rubric": "Mind, absent-minded, mistakes in writing",
+    "grading": {
+      "Lycopodium": 3,
+      "Baryta carbonica": 2
+    },
+    "modality": "Loses track while writing familiar tasks",
+    "miasm": "Sycotic",
+    "notes": "Mental fatigue or early senile traits"
+  },
+  {
+    "rubric": "Mind, concentration, difficult while reading",
+    "grading": {
+      "Phosphorus": 3,
+      "Calcarea phosphorica": 2
+    },
+    "modality": "Mind wanders while studying",
+    "miasm": "Psoric",
+    "notes": "Common in students, fatigue, or distraction"
+  },
+  {
+    "rubric": "Mind, dullness, sluggish, cannot think",
+    "grading": {
+      "Gelsemium": 3,
+      "Baryta carbonica": 2
+    },
+    "modality": "Mental inertia, slowness in processing",
+    "miasm": "Psoric",
+    "notes": "Common in viral fevers, old age, or students under fatigue"
+  },
+  {
+    "rubric": "Mind, anticipation, ailments from",
+    "grading": {
+      "Argentum nitricum": 3,
+      "Gelsemium": 2
+    },
+    "modality": "Complaints worsen before events (exam, travel)",
+    "miasm": "Sycotic",
+    "notes": "Anticipatory anxiety, fear, or diarrhea"
+  },
+  {
+    "rubric": "Mind, concentration difficult, from excitement",
+    "grading": {
+      "Coffea cruda": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Excitement or joy hinders attention",
+    "miasm": "Psoric",
+    "notes": "Hyper-stimulated or sensitive constitutions"
+  },
+  {
+    "rubric": "Mind, suicidal, desires to jump from height",
+    "grading": {
+      "Aurum metallicum": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Compelled to jump from window/terrace",
+    "miasm": "Syphilitic",
+    "notes": "Sudden violent impulse, often hidden"
+  },
+  {
+    "rubric": "Mind, sadness, with desire for solitude",
+    "grading": {
+      "Ignatia": 3,
+      "Natrum muriaticum": 2
+    },
+    "modality": "Silent grief, avoids company",
+    "miasm": "Psoric",
+    "notes": "Post-trauma or grief reactions"
+  },
+  {
+    "rubric": "Head, pain, occiput, extending to neck",
+    "grading": {
+      "Gelsemium": 3,
+      "Kali bichromicum": 2
+    },
+    "modality": "Dull heavy pain radiating downward",
+    "miasm": "Psoric",
+    "notes": "Tension headaches, cervical spondylosis"
+  },
+  {
+    "rubric": "Eyes, heaviness, lids, cannot keep open",
+    "grading": {
+      "Gelsemium": 3,
+      "Cimicifuga": 2
+    },
+    "modality": "Lids droop from fatigue, weakness",
+    "miasm": "Psoric",
+    "notes": "Seen in fevers, neurological fatigue"
+  },
+  {
+    "rubric": "Nose, obstruction, alternating sides",
+    "grading": {
+      "Lemna minor": 3,
+      "Ammonium carb.": 2
+    },
+    "modality": "One nostril blocked, then the other",
+    "miasm": "Sycotic",
+    "notes": "Deviated septum or chronic hypertrophy"
+  },
+  {
+    "rubric": "Mouth, bad taste, in morning",
+    "grading": {
+      "Nux vomica": 3,
+      "Bryonia": 2
+    },
+    "modality": "Foul or bitter taste after sleep",
+    "miasm": "Sycotic",
+    "notes": "Indicates sluggish digestion, bile"
+  },
+  {
+    "rubric": "Throat, sensation of plug, swallowing agg.",
+    "grading": {
+      "Ignatia": 3,
+      "Lachesis": 2
+    },
+    "modality": "Feels lump or obstruction while swallowing",
+    "miasm": "Sycotic",
+    "notes": "Globular hysteria or thyroid swelling"
+  },
+  {
+    "rubric": "Chest, oppression, anxiety with",
+    "grading": {
+      "Aconite": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Heavy chest during panic or fear",
+    "miasm": "Psoric",
+    "notes": "Asthmatic or neurotic panic symptoms"
+  },
+  {
+    "rubric": "Stomach, aversion, to fat food",
+    "grading": {
+      "Pulsatilla": 3,
+      "Sepia": 2
+    },
+    "modality": "Cannot tolerate fatty meals",
+    "miasm": "Sycotic",
+    "notes": "Liver dysfunction, nausea, indigestion"
+  },
+  {
+    "rubric": "Abdomen, pain, after anger",
+    "grading": {
+      "Colocynthis": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Anger or suppressed rage triggers colic",
+    "miasm": "Sycotic",
+    "notes": "Psychosomatic cramping"
+  },
+  {
+    "rubric": "Stool, first hard, then soft",
+    "grading": {
+      "Nux vomica": 3,
+      "Sulphur": 2
+    },
+    "modality": "Difficult initial stool followed by loose part",
+    "miasm": "Sycotic",
+    "notes": "IBS or irregular bowel habit"
+  },
+  {
+    "rubric": "Urine, dribbling, old men, in",
+    "grading": {
+      "Baryta carbonica": 3,
+      "Sabal serrulata": 2
+    },
+    "modality": "Drops after urination, weak stream",
+    "miasm": "Sycotic",
+    "notes": "Prostate enlargement or bladder weakness"
+  },
+  {
+    "rubric": "Female, bearing down, as if organs will fall",
+    "grading": {
+      "Sepia": 3,
+      "Lilium tigrinum": 2
+    },
+    "modality": "Sensation of pressure from uterus",
+    "miasm": "Sycotic",
+    "notes": "Common in prolapse or uterine congestion"
+  },
+  {
+    "rubric": "Extremities, numbness, fingertips",
+    "grading": {
+      "Plumbum metallicum": 3,
+      "Hypericum": 2
+    },
+    "modality": "Tingling or dead feeling in fingers",
+    "miasm": "Syphilitic",
+    "notes": "Neuropathy or circulation issues"
+  },
+  {
+    "rubric": "Sleep, talking during",
+    "grading": {
+      "Lachesis": 3,
+      "Sulphur": 2
+    },
+    "modality": "Mumbles or talks in sleep",
+    "miasm": "Tubercular",
+    "notes": "Mental hyperactivity during sleep"
+  },
+  {
+    "rubric": "Dreams, pursued by animals",
+    "grading": {
+      "Stramonium": 3,
+      "Belladonna": 2
+    },
+    "modality": "Fear dreams, chased by beasts",
+    "miasm": "Syphilitic",
+    "notes": "Violent subconscious fears"
+  },
+  {
+    "rubric": "Skin, itching, changing location",
+    "grading": {
+      "Sulphur": 3,
+      "Psorinum": 2
+    },
+    "modality": "Itching shifts place as soon as scratched",
+    "miasm": "Psoric",
+    "notes": "Unstable immune or psoric response"
+  },
+  {
+    "rubric": "Generals, cold applications, amel.",
+    "grading": {
+      "Apis mellifica": 3,
+      "Belladonna": 2
+    },
+    "modality": "Cold compress or bath soothes complaints",
+    "miasm": "Sycotic",
+    "notes": "Inflammatory states, heat-agg. conditions"
+  },
+  {
+    "rubric": "Mind, absent-minded, in conversation",
+    "grading": {
+      "Baryta carbonica": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Forgets mid-sentence or loses train of thought",
+    "miasm": "Sycotic",
+    "notes": "Seen in aged, introverts, or weak memory"
+  },
+  {
+    "rubric": "Mind, fear, robbers",
+    "grading": {
+      "Stramonium": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Paranoid of being attacked or robbed",
+    "miasm": "Syphilitic",
+    "notes": "Delusional or deep fear traits"
+  },
+  {
+    "rubric": "Mind, suspicious, people talk about him",
+    "grading": {
+      "Hyoscyamus": 3,
+      "Platina": 2
+    },
+    "modality": "Feels he's the center of gossip or judgment",
+    "miasm": "Syphilitic",
+    "notes": "Persecutory delusion stage"
+  },
+  {
+    "rubric": "Mind, weeping, with consolation aggravation",
+    "grading": {
+      "Natrum muriaticum": 3,
+      "Ignatia": 2
+    },
+    "modality": "Feels worse if consoled",
+    "miasm": "Psoric",
+    "notes": "Sensitive, introverted grief"
+  },
+  {
+    "rubric": "Mind, cheerful, alternating with sadness",
+    "grading": {
+      "Phosphorus": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Mood swings, excited then sad",
+    "miasm": "Tubercular",
+    "notes": "Changeable emotional temperament"
+  },
+  {
+    "rubric": "Mind, fastidious",
+    "grading": {
+      "Arsenicum album": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Everything must be in perfect order",
+    "miasm": "Sycotic",
+    "notes": "Obsessive, anxious control need"
+  },
+  {
+    "rubric": "Mind, fear, insanity",
+    "grading": {
+      "Cannabis indica": 3,
+      "Veratrum album": 2
+    },
+    "modality": "Terrified he is losing his mind",
+    "miasm": "Syphilitic",
+    "notes": "Common in psychosis, paranoia onset"
+  },
+  {
+    "rubric": "Mind, laughing, involuntary",
+    "grading": {
+      "Hyoscyamus": 3,
+      "Stramonium": 2
+    },
+    "modality": "Laughs inappropriately or during serious moments",
+    "miasm": "Tubercular",
+    "notes": "Disinhibition or mental imbalance"
+  },
+  {
+    "rubric": "Mind, fear, being alone at night",
+    "grading": {
+      "Stramonium": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Fear intensifies when alone after dark",
+    "miasm": "Sycotic",
+    "notes": "Common in children and anxious adults"
+  },
+  {
+    "rubric": "Mind, anxiety, about health",
+    "grading": {
+      "Arsenicum album": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Preoccupied with illness and symptoms",
+    "miasm": "Psoric",
+    "notes": "Hypochondriacal, seeks reassurance constantly"
+  },
+  {
+    "rubric": "Mind, ailments from grief",
+    "grading": {
+      "Ignatia": 3,
+      "Natrum muriaticum": 2
+    },
+    "modality": "Complaints start after emotional loss",
+    "miasm": "Psoric",
+    "notes": "Headaches, insomnia, hormonal issues"
+  },
+  {
+    "rubric": "Mind, desire to travel, constantly",
+    "grading": {
+      "Medorrhinum": 3,
+      "Tuberculinum": 2
+    },
+    "modality": "Restlessness with strong wanderlust",
+    "miasm": "Tubercular",
+    "notes": "Discontented, searching for change"
+  },
+  {
+    "rubric": "Head, pain, before menses",
+    "grading": {
+      "Lachesis": 3,
+      "Sepia": 2
+    },
+    "modality": "Headache worsens before menstruation",
+    "miasm": "Sycotic",
+    "notes": "Hormonal, congestive type"
+  },
+  {
+    "rubric": "Head, pain, from suppressed anger",
+    "grading": {
+      "Staphysagria": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Emotional suppression causes head pain",
+    "miasm": "Sycotic",
+    "notes": "Common in sensitive or irritable types"
+  },
+  {
+    "rubric": "Eyes, inflammation, with burning lachrymation",
+    "grading": {
+      "Euphrasia": 3,
+      "Arsenicum album": 2
+    },
+    "modality": "Tears burn skin, eyes red and sensitive",
+    "miasm": "Psoric",
+    "notes": "Allergic or infective origin"
+  },
+  {
+    "rubric": "Nose, epistaxis, during menses",
+    "grading": {
+      "Bryonia": 3,
+      "Lachesis": 2
+    },
+    "modality": "Nosebleed occurs with periods",
+    "miasm": "Sycotic",
+    "notes": "Relieves pelvic congestion"
+  },
+  {
+    "rubric": "Mouth, aphthae, painful, white",
+    "grading": {
+      "Borax": 3,
+      "Mercurius solubilis": 2
+    },
+    "modality": "White ulcers in mouth, very painful",
+    "miasm": "Syphilitic",
+    "notes": "Often in infants, weakened immunity"
+  },
+  {
+    "rubric": "Throat, choking, sensation, swallowing agg.",
+    "grading": {
+      "Lachesis": 3,
+      "Hepar sulphuris": 2
+    },
+    "modality": "Feels strangled, can’t tolerate collars",
+    "miasm": "Sycotic",
+    "notes": "Hysteria, thyroid issues, angina"
+  },
+  {
+    "rubric": "Chest, pain, heart region, extending to left arm",
+    "grading": {
+      "Cactus grandiflorus": 3,
+      "Spigelia": 2
+    },
+    "modality": "Constriction with pain radiating to arm",
+    "miasm": "Syphilitic",
+    "notes": "Cardiac, anginal pattern"
+  },
+  {
+    "rubric": "Stomach, hunger, at night",
+    "grading": {
+      "Phosphorus": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Wakes from sleep needing food",
+    "miasm": "Psoric",
+    "notes": "Gastritis, ulcer tendency"
+  },
+  {
+    "rubric": "Abdomen, bloated, after eating",
+    "grading": {
+      "Lycopodium": 3,
+      "Carbo vegetabilis": 2
+    },
+    "modality": "Fullness and distension post meals",
+    "miasm": "Sycotic",
+    "notes": "Weak digestion, slow liver"
+  },
+  {
+    "rubric": "Stool, drives out of bed, early morning",
+    "grading": {
+      "Sulphur": 3,
+      "Podophyllum": 2
+    },
+    "modality": "Urgent stool upon waking",
+    "miasm": "Psoric",
+    "notes": "Classic Sulphur confirmatory"
+  },
+  {
+    "rubric": "Urine, offensive odor, like horse’s urine",
+    "grading": {
+      "Benzoic acid": 3,
+      "Nitric acid": 2
+    },
+    "modality": "Urine has strong animalic smell",
+    "miasm": "Sycotic",
+    "notes": "Uric acid diathesis or gout tendency"
+  },
+  {
+    "rubric": "Female, menses, suppressed from emotions",
+    "grading": {
+      "Pulsatilla": 3,
+      "Ignatia": 2
+    },
+    "modality": "Menses stops after grief/shock",
+    "miasm": "Psoric",
+    "notes": "Functional amenorrhea in teens or trauma"
+  },
+  {
+    "rubric": "Extremities, weakness, legs, from standing",
+    "grading": {
+      "Sepia": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Legs give way on prolonged standing",
+    "miasm": "Psoric",
+    "notes": "Pelvic congestion, varicosity, fatigue"
+  },
+  {
+    "rubric": "Sleep, unrefreshing, wakes tired",
+    "grading": {
+      "Phosphoric acid": 3,
+      "Sulphur": 2
+    },
+    "modality": "Sleep fails to restore energy",
+    "miasm": "Psoric",
+    "notes": "Seen in burnout, depression, chronic fatigue"
+  },
+  {
+    "rubric": "Dreams, falling, waking with fright",
+    "grading": {
+      "Borax": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Dream of falling causes sudden waking",
+    "miasm": "Psoric",
+    "notes": "Inner insecurity or vestibular disturbance"
+  },
+  {
+    "rubric": "Skin, eruptions, behind ears",
+    "grading": {
+      "Graphites": 3,
+      "Petroleum": 2
+    },
+    "modality": "Oozing, rawness in retroauricular folds",
+    "miasm": "Sycotic",
+    "notes": "Cradle cap or seborrhea in children"
+  },
+  {
+    "rubric": "Generals, heat, sensation, in spots",
+    "grading": {
+      "Sulphur": 3,
+      "Lachesis": 2
+    },
+    "modality": "Feels hot in localized areas",
+    "miasm": "Psoric",
+    "notes": "Uneven circulation, miasmatic flare"
+  },
+  {
+    "rubric": "Mind, impulse to kill, loved ones",
+    "grading": {
+      "Belladonna": 3,
+      "Hyoscyamus": 2
+    },
+    "modality": "Sudden violent thought towards close family",
+    "miasm": "Syphilitic",
+    "notes": "Hidden psychotic or rage tendency"
+  },
+  {
+    "rubric": "Mind, hurry, in speech",
+    "grading": {
+      "Lachesis": 3,
+      "Argentum nitricum": 2
+    },
+    "modality": "Rapid speech, interrupts others",
+    "miasm": "Tubercular",
+    "notes": "Excited, expressive temperaments"
+  },
+  {
+    "rubric": "Mind, forgets names, familiar",
+    "grading": {
+      "Lycopodium": 3,
+      "Anacardium": 2
+    },
+    "modality": "Cannot recall known people's names",
+    "miasm": "Sycotic",
+    "notes": "Seen in early memory decline"
+  },
+  {
+    "rubric": "Mind, suspicious, partner, of being unfaithful",
+    "grading": {
+      "Platina": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Jealous, possessive, irrational doubts",
+    "miasm": "Syphilitic",
+    "notes": "Insecurity masked as control"
+  },
+  {
+    "rubric": "Mind, clairvoyant",
+    "grading": {
+      "Phosphorus": 3,
+      "Lachesis": 2
+    },
+    "modality": "Perceives future or hidden things",
+    "miasm": "Tubercular",
+    "notes": "High intuition, sensitive nature"
+  },
+  {
+    "rubric": "Mind, laughing, immoderate",
+    "grading": {
+      "Ignatia": 3,
+      "Hyoscyamus": 2
+    },
+    "modality": "Laughs uncontrollably or at wrong times",
+    "miasm": "Tubercular",
+    "notes": "Emotional instability or nervous tension"
+  },
+  {
+    "rubric": "Mind, aversion, responsibility",
+    "grading": {
+      "Sulphur": 3,
+      "Medorrhinum": 2
+    },
+    "modality": "Avoids duties, lazy or disorganized",
+    "miasm": "Sycotic",
+    "notes": "Seen in burnout, escapist types"
+  },
+  {
+    "rubric": "Mind, ailments from disappointment in love",
+    "grading": {
+      "Natrum muriaticum": 3,
+      "Ignatia": 2
+    },
+    "modality": "Complaints after heartbreak or betrayal",
+    "miasm": "Psoric",
+    "notes": "Emotional suppression, silent grief"
+  },
+  {
+    "rubric": "Mind, weeping, involuntary",
+    "grading": {
+      "Pulsatilla": 3,
+      "Ignatia": 2
+    },
+    "modality": "Cries easily, cannot control tears",
+    "miasm": "Psoric",
+    "notes": "Soft, emotional personalities"
+  },
+  {
+    "rubric": "Mind, industrious, mania for work",
+    "grading": {
+      "Arsenicum album": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Overly focused on perfection and tasks",
+    "miasm": "Sycotic",
+    "notes": "Driven by insecurity or anxiety"
+  },
+  {
+    "rubric": "Mind, desire to be alone",
+    "grading": {
+      "Natrum muriaticum": 3,
+      "Sepia": 2
+    },
+    "modality": "Wants solitude, avoids company",
+    "miasm": "Psoric",
+    "notes": "Introversion, inner hurt or apathy"
+  },
+  {
+    "rubric": "Head, pain, as if band around",
+    "grading": {
+      "Gelsemium": 3,
+      "Carbo vegetabilis": 2
+    },
+    "modality": "Sensation of tight band around head",
+    "miasm": "Psoric",
+    "notes": "Tension, sinus, or stress headaches"
+  },
+  {
+    "rubric": "Eyes, burning, with dryness",
+    "grading": {
+      "Arsenicum album": 3,
+      "Euphrasia": 2
+    },
+    "modality": "Eyes feel dry and irritated, burning",
+    "miasm": "Psoric",
+    "notes": "Dust allergy, prolonged screen time"
+  },
+  {
+    "rubric": "Ears, roaring noises",
+    "grading": {
+      "Chininum sulphuricum": 3,
+      "Salicylic acid": 2
+    },
+    "modality": "Roaring, whooshing sound in ears",
+    "miasm": "Sycotic",
+    "notes": "Tinnitus, auditory nerve sensitivity"
+  },
+  {
+    "rubric": "Nose, discharge, greenish, thick",
+    "grading": {
+      "Kali bichromicum": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Sticky green mucus discharge",
+    "miasm": "Sycotic",
+    "notes": "Sinusitis or catarrhal inflammation"
+  },
+  {
+    "rubric": "Face, oily, shiny skin",
+    "grading": {
+      "Sulphur": 3,
+      "Psorinum": 2
+    },
+    "modality": "Greasy, sebaceous skin appearance",
+    "miasm": "Psoric",
+    "notes": "Oily skin, acne-prone constitution"
+  },
+  {
+    "rubric": "Mouth, salivation, during sleep",
+    "grading": {
+      "Mercurius solubilis": 3,
+      "Nux moschata": 2
+    },
+    "modality": "Pillow soaked with saliva in sleep",
+    "miasm": "Syphilitic",
+    "notes": "Mercurial or glandular involvement"
+  },
+  {
+    "rubric": "Throat, pain, stitching, swallowing",
+    "grading": {
+      "Hepar sulphuris": 3,
+      "Lachesis": 2
+    },
+    "modality": "Sharp pains when swallowing",
+    "miasm": "Sycotic",
+    "notes": "Acute tonsillitis, inflammation"
+  },
+  {
+    "rubric": "Stomach, nausea, from smell of food",
+    "grading": {
+      "Sepia": 3,
+      "Colchicum": 2
+    },
+    "modality": "Even sight/smell of food causes nausea",
+    "miasm": "Psoric",
+    "notes": "Common in pregnancy or gastric sensitivity"
+  },
+  {
+    "rubric": "Abdomen, pain, better bending double",
+    "grading": {
+      "Colocynthis": 3,
+      "Magnesium phosphoricum": 2
+    },
+    "modality": "Colic relieved by pressure and bending",
+    "miasm": "Psoric",
+    "notes": "Enteric colic, dysmenorrhea"
+  },
+  {
+    "rubric": "Rectum, itching, evening",
+    "grading": {
+      "Sulphur": 3,
+      "Teucrium": 2
+    },
+    "modality": "Intense itching around anus, worse at night",
+    "miasm": "Sycotic",
+    "notes": "Worms, piles, skin dryness"
+  },
+  {
+    "rubric": "Urine, frequent urging, small quantity",
+    "grading": {
+      "Cantharis": 3,
+      "Equisetum": 2
+    },
+    "modality": "Constant urge but scanty flow",
+    "miasm": "Sycotic",
+    "notes": "Cystitis, UTI, bladder irritation"
+  },
+  {
+    "rubric": "Female, leucorrhoea, milky, acrid",
+    "grading": {
+      "Borax": 3,
+      "Kreosotum": 2
+    },
+    "modality": "Burning discharge, causes irritation",
+    "miasm": "Syphilitic",
+    "notes": "Chronic cervicitis, fungal infection"
+  },
+  {
+    "rubric": "Male, sexual desire, diminished",
+    "grading": {
+      "Agnus castus": 3,
+      "Selenium": 2
+    },
+    "modality": "No interest or response sexually",
+    "miasm": "Psoric",
+    "notes": "Fatigue, depression, endocrine issues"
+  },
+  {
+    "rubric": "Extremities, cramps, calves, night",
+    "grading": {
+      "Cuprum metallicum": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Sudden cramps during sleep",
+    "miasm": "Sycotic",
+    "notes": "Dehydration, varicose or magnesium deficiency"
+  },
+  {
+    "rubric": "Back, pain, lumbar, after exertion",
+    "grading": {
+      "Rhus toxicodendron": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Lower backache from strain or overuse",
+    "miasm": "Sycotic",
+    "notes": "Muscular inflammation, disc strain"
+  },
+  {
+    "rubric": "Sleep, sleeplessness, from thoughts",
+    "grading": {
+      "Nux vomica": 3,
+      "Coffea cruda": 2
+    },
+    "modality": "Cannot sleep due to racing mind",
+    "miasm": "Psoric",
+    "notes": "Hyperactive mental state"
+  },
+  {
+    "rubric": "Dreams, fire, houses burning",
+    "grading": {
+      "Sulphur": 3,
+      "Stramonium": 2
+    },
+    "modality": "Disturbing fire-related dreams",
+    "miasm": "Psoric",
+    "notes": "Symbol of internal fear or crisis"
+  },
+  {
+    "rubric": "Skin, cracks, in winter",
+    "grading": {
+      "Petroleum": 3,
+      "Graphites": 2
+    },
+    "modality": "Dry, fissured skin during cold season",
+    "miasm": "Psoric",
+    "notes": "Dry eczema, poor skin nutrition"
+  },
+  {
+    "rubric": "Generals, weakness, from heat",
+    "grading": {
+      "Gelsemium": 3,
+      "Lachesis": 2
+    },
+    "modality": "Sun/heat exposure causes fatigue",
+    "miasm": "Psoric",
+    "notes": "Sunstroke, summer exhaustion"
+  },
+  {
+    "rubric": "Mind, fear, narrow places, claustrophobia",
+    "grading": {
+      "Stramonium": 3,
+      "Pulsatilla": 2
+    },
+    "modality": "Fear in closed elevators, rooms",
+    "miasm": "Sycotic",
+    "notes": "Mental restriction, air hunger"
+  },
+  {
+    "rubric": "Mind, impulsive, jumps into water",
+    "grading": {
+      "Cannabis indica": 3,
+      "Veratrum album": 2
+    },
+    "modality": "Urge to jump from heights or into water",
+    "miasm": "Syphilitic",
+    "notes": "Suicidal impulse, suppressed trauma"
+  },
+  {
+    "rubric": "Mind, sensitive to noise",
+    "grading": {
+      "Nux vomica": 3,
+      "Theridion": 2
+    },
+    "modality": "Startles or irritated by sounds",
+    "miasm": "Psoric",
+    "notes": "Nervous exhaustion or hyperesthesia"
+  },
+  {
+    "rubric": "Mind, loquacity, jumps from topic to topic",
+    "grading": {
+      "Lachesis": 3,
+      "Stramonium": 2
+    },
+    "modality": "Talks excessively, rapidly changes subject",
+    "miasm": "Tubercular",
+    "notes": "Flight of ideas, excited temperament"
+  },
+  {
+    "rubric": "Mind, restlessness, pacing",
+    "grading": {
+      "Arsenicum album": 3,
+      "Aconitum napellus": 2
+    },
+    "modality": "Anxious walking back and forth",
+    "miasm": "Psoric",
+    "notes": "Seen in acute fear or terminal stages"
+  },
+  {
+    "rubric": "Mind, fixed ideas, religious",
+    "grading": {
+      "Stramonium": 3,
+      "Veratrum album": 2
+    },
+    "modality": "Obsessive religious delusions",
+    "miasm": "Syphilitic",
+    "notes": "Psychotic religious mania"
+  },
+  {
+    "rubric": "Mind, dullness, during fever",
+    "grading": {
+      "Gelsemium": 3,
+      "Baptisia": 2
+    },
+    "modality": "Heaviness and drowsiness in febrile state",
+    "miasm": "Psoric",
+    "notes": "Slow onset viral fevers, typhoid"
+  },
+  {
+    "rubric": "Mind, fear, mirrors",
+    "grading": {
+      "Stramonium": 3,
+      "Lyssin": 2
+    },
+    "modality": "Afraid of own reflection",
+    "miasm": "Syphilitic",
+    "notes": "Delusional, identity distortion"
+  },
+  {
+    "rubric": "Mind, aversion to family members",
+    "grading": {
+      "Sepia": 3,
+      "Ignatia": 2
+    },
+    "modality": "Irritated by close relatives",
+    "miasm": "Sycotic",
+    "notes": "Emotional withdrawal, hormonal phase"
+  },
+  {
+    "rubric": "Head, pain, motion agg.",
+    "grading": {
+      "Bryonia": 3,
+      "Cimicifuga": 2
+    },
+    "modality": "Any movement worsens headache",
+    "miasm": "Sycotic",
+    "notes": "Dry, congestive, inflammatory states"
+  },
+  {
+    "rubric": "Head, pain, better pressure",
+    "grading": {
+      "Belladonna": 3,
+      "Iris versicolor": 2
+    },
+    "modality": "Relief by pressing head or binding it",
+    "miasm": "Psoric",
+    "notes": "Throbbing congestive headaches"
+  },
+  {
+    "rubric": "Eyes, photophobia, with lacrimation",
+    "grading": {
+      "Euphrasia": 3,
+      "Belladonna": 2
+    },
+    "modality": "Tearing eyes with intolerance to light",
+    "miasm": "Psoric",
+    "notes": "Conjunctivitis, allergy"
+  },
+  {
+    "rubric": "Nose, smell, lost (anosmia)",
+    "grading": {
+      "Pulsatilla": 3,
+      "Kali bichromicum": 2
+    },
+    "modality": "Complete loss of smell",
+    "miasm": "Sycotic",
+    "notes": "Chronic sinusitis, post-viral"
+  },
+  {
+    "rubric": "Mouth, taste, metallic",
+    "grading": {
+      "Mercurius solubilis": 3,
+      "Arsenicum album": 2
+    },
+    "modality": "Persistent metallic taste in mouth",
+    "miasm": "Syphilitic",
+    "notes": "Heavy metal toxicity, oral infections"
+  },
+  {
+    "rubric": "Throat, lump sensation, no obstruction",
+    "grading": {
+      "Ignatia": 3,
+      "Lachesis": 2
+    },
+    "modality": "Sensation of ball or lump in throat",
+    "miasm": "Sycotic",
+    "notes": "Globus hystericus"
+  },
+  {
+    "rubric": "Chest, constriction, heart region",
+    "grading": {
+      "Cactus grandiflorus": 3,
+      "Latrodectus mactans": 2
+    },
+    "modality": "Tightness as if heart gripped by iron hand",
+    "miasm": "Syphilitic",
+    "notes": "Angina, cardiac neurosis"
+  },
+  {
+    "rubric": "Stomach, fullness, after small quantity",
+    "grading": {
+      "Lycopodium": 3,
+      "China officinalis": 2
+    },
+    "modality": "Early satiety, bloating",
+    "miasm": "Psoric",
+    "notes": "Poor digestion, gastric atony"
+  },
+  {
+    "rubric": "Abdomen, gurgling, audible",
+    "grading": {
+      "Podophyllum": 3,
+      "Aloe socotrina": 2
+    },
+    "modality": "Rumbling noises, especially before stool",
+    "miasm": "Psoric",
+    "notes": "IBS, diarrhea tendency"
+  },
+  {
+    "rubric": "Rectum, involuntary stool, when passing flatus",
+    "grading": {
+      "Aloe socotrina": 3,
+      "Antimonium crudum": 2
+    },
+    "modality": "Unaware of stool escape with gas",
+    "miasm": "Sycotic",
+    "notes": "Weak sphincter control"
+  },
+  {
+    "rubric": "Urine, burning, during and after urination",
+    "grading": {
+      "Cantharis": 3,
+      "Apis mellifica": 2
+    },
+    "modality": "Intense burning pain, drop by drop flow",
+    "miasm": "Syphilitic",
+    "notes": "Classic UTI rubric"
+  },
+  {
+    "rubric": "Female, menses, too early and profuse",
+    "grading": {
+      "Calcarea carbonica": 3,
+      "Millefolium": 2
+    },
+    "modality": "Heavy periods coming ahead of time",
+    "miasm": "Sycotic",
+    "notes": "Hormonal imbalance or fibroids"
+  },
+  {
+    "rubric": "Extremities, tingling, hands and feet",
+    "grading": {
+      "Picric acid": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Pins and needles sensation",
+    "miasm": "Syphilitic",
+    "notes": "Neuropathy, early diabetes"
+  },
+  {
+    "rubric": "Back, pain, cervical region, stiffness",
+    "grading": {
+      "Kalmia latifolia": 3,
+      "Rhus toxicodendron": 2
+    },
+    "modality": "Neck pain with rigidity",
+    "miasm": "Sycotic",
+    "notes": "Cervical spondylosis, tension"
+  },
+  {
+    "rubric": "Sleep, dreams, falling from height",
+    "grading": {
+      "Borax": 3,
+      "Calcarea phosphorica": 2
+    },
+    "modality": "Sudden fear from fall in dream",
+    "miasm": "Psoric",
+    "notes": "Insecurity, subconscious anxiety"
+  },
+  {
+    "rubric": "Dreams, snakes, frightening",
+    "grading": {
+      "Lachesis": 3,
+      "Stramonium": 2
+    },
+    "modality": "Vivid, terrifying snake dreams",
+    "miasm": "Syphilitic",
+    "notes": "Symbolic of hidden fears or guilt"
+  },
+  {
+    "rubric": "Skin, eruptions, moist, oozing",
+    "grading": {
+      "Graphites": 3,
+      "Mezereum": 2
+    },
+    "modality": "Sticky, yellow exudate from lesions",
+    "miasm": "Sycotic",
+    "notes": "Eczema, infected dermatitis"
+  },
+  {
+    "rubric": "Generals, chilliness, yet wants open air",
+    "grading": {
+      "Pulsatilla": 3,
+      "Carbo vegetabilis": 2
+    },
+    "modality": "Feels cold but desires fresh air",
+    "miasm": "Psoric",
+    "notes": "Contradictory modality"
+  },
+  {
+    "rubric": "Mind, irritability, after eating",
+    "grading": {
+      "Nux vomica": 3,
+      "Anacardium": 2
+    },
+    "modality": "Snappy or angry after meals",
+    "miasm": "Sycotic",
+    "notes": "Gastric-liver connection"
+  },
+  {
+    "rubric": "Mind, despair, during menses",
+    "grading": {
+      "Sepia": 3,
+      "Lachesis": 2
+    },
+    "modality": "Depression or suicidal thoughts during flow",
+    "miasm": "Syphilitic",
+    "notes": "Endocrine-linked mood disorder"
+  },
+  {
+    "rubric": "Mind, ailments from anticipation",
+    "grading": {
+      "Argentum nitricum": 3,
+      "Gelsemium": 2
+    },
+    "modality": "Complaints before exams, interviews, public speaking",
+    "miasm": "Psoric",
+    "notes": "Stage fright, diarrhea, tremors"
+  },
+  {
+    "rubric": "Mind, fear of poverty",
+    "grading": {
+      "Arsenicum album": 3,
+      "Calcarea carbonica": 2
+    },
+    "modality": "Anxious about financial security",
+    "miasm": "Sycotic",
+    "notes": "Over-savers, insecure about future"
+  },
+  {
+    "rubric": "Mind, jealousy",
+    "grading": {
+      "Lachesis": 3,
+      "Hyoscyamus": 2
+    },
+    "modality": "Suspicious and envious behavior",
+    "miasm": "Syphilitic",
+    "notes": "Destructive jealousy, often delusional"
+  },
+  {
+    "rubric": "Mind, suicidal disposition, impulse sudden",
+    "grading": {
+      "Aurum metallicum": 3,
+      "Natrium sulphuricum": 2
+    },
+    "modality": "Sudden desire to end life, especially when alone",
+    "miasm": "Syphilitic",
+    "notes": "Melancholic depression"
+  },
+  {
+    "rubric": "Head, pain, occiput, extending to neck",
+    "grading": {
+      "Gelsemium": 3,
+      "Kali bichromicum": 2
+    },
+    "modality": "Dull pain radiating downward",
+    "miasm": "Sycotic",
+    "notes": "Tension headaches, postural strain"
+  },
+  {
+    "rubric": "Head, pain, with nausea and vomiting",
+    "grading": {
+      "Iris versicolor": 3,
+      "Sanguinaria": 2
+    },
+    "modality": "Migraine associated with GI upset",
+    "miasm": "Psoric",
+    "notes": "Classic gastric headaches"
+  },
+  {
+    "rubric": "Eyes, twitching, lids",
+    "grading": {
+      "Agaricus": 3,
+      "Zincum metallicum": 2
+    },
+    "modality": "Involuntary twitching of eyelids",
+    "miasm": "Sycotic",
+    "notes": "Stress, fatigue or nerve weakness"
+  },
+  {
+    "rubric": "Nose, obstruction, one side",
+    "grading": {
+      "Sambucus": 3,
+      "Nux vomica": 2
+    },
+    "modality": "Alternating nasal blockage",
+    "miasm": "Sycotic",
+    "notes": "Vasomotor rhinitis"
+  },
+  {
+    "rubric": "Face, discoloration, around eyes, bluish",
+    "grading": {
+      "Sepia": 3,
+      "Kali carbonicum": 2
+    },
+    "modality": "Dark circles under eyes",
+    "miasm": "Psoric",
+    "notes": "Fatigue, chronic stress"
+  },
+  {
+    "rubric": "Mouth, dryness, without thirst",
+    "grading": {
+      "Nux moschata": 3,
+      "Belladonna": 2
+    },
+    "modality": "Completely dry mouth but no desire to drink",
+    "miasm": "Psoric",
+    "notes": "Neural or hysterical dryness"
+  },
+  {
+    "rubric": "Throat, pain, right to left",
+    "grading": {
+      "Lycopodium": 3,
+      "Lachesis": 2
+    },
+    "modality": "Sore throat begins on right side",
+    "miasm": "Sycotic",
+    "notes": "Lateral direction confirms choice"
+  },
+  {
+    "rubric": "Chest, oppression, as if weight",
+    "grading": {
+      "Aconitum napellus": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Chest feels heavy, as if pressed",
+    "miasm": "Psoric",
+    "notes": "Anxiety or heart-related sensation"
+  },
+  {
+    "rubric": "Stomach, sour eructations",
+    "grading": {
+      "Robinia": 3,
+      "Carbo vegetabilis": 2
+    },
+    "modality": "Sour taste and reflux",
+    "miasm": "Psoric",
+    "notes": "Acid dyspepsia, hyperacidity"
+  },
+  {
+    "rubric": "Abdomen, distension, after fruit",
+    "grading": {
+      "Lycopodium": 3,
+      "China officinalis": 2
+    },
+    "modality": "Gassy after eating fruit",
+    "miasm": "Psoric",
+    "notes": "Weak digestion, fermentative dyspepsia"
+  },
+  {
+    "rubric": "Stool, offensive, putrid odor",
+    "grading": {
+      "Sulphur": 3,
+      "Psorinum": 2
+    },
+    "modality": "Strong, unpleasant smelling stool",
+    "miasm": "Psoric",
+    "notes": "Poor elimination, gut imbalance"
+  },
+  {
+    "rubric": "Urine, scanty, high colored",
+    "grading": {
+      "Apis mellifica": 3,
+      "Berberis vulgaris": 2
+    },
+    "modality": "Little urine passed, dark in color",
+    "miasm": "Psoric",
+    "notes": "Infection, heat or kidney irritation"
+  },
+  {
+    "rubric": "Female, bearing down sensation",
+    "grading": {
+      "Sepia": 3,
+      "Murex": 2
+    },
+    "modality": "Feels uterus will prolapse",
+    "miasm": "Sycotic",
+    "notes": "Uterine atony or prolapse tendency"
+  },
+  {
+    "rubric": "Male, emissions, without dreams",
+    "grading": {
+      "Selenium": 3,
+      "Staphysagria": 2
+    },
+    "modality": "Seminal loss in sleep, no erotic dreams",
+    "miasm": "Psoric",
+    "notes": "Exhaustion-related sexual debility"
+  },
+  {
+    "rubric": "Extremities, numbness, hands",
+    "grading": {
+      "Plumbum metallicum": 3,
+      "Causticum": 2
+    },
+    "modality": "Loss of sensation in fingers",
+    "miasm": "Syphilitic",
+    "notes": "Peripheral neuropathy, spine disease"
+  },
+  {
+    "rubric": "Back, pain, coccyx, after fall",
+    "grading": {
+      "Hypericum": 3,
+      "Ruta graveolens": 2
+    },
+    "modality": "Coccygeal injury, soreness after injury",
+    "miasm": "Syphilitic",
+    "notes": "Post-traumatic neuralgia"
+  },
+  {
+    "rubric": "Sleep, talking during",
+    "grading": {
+      "Lachesis": 3,
+      "Sulphur": 2
+    },
+    "modality": "Talks aloud during sleep",
+    "miasm": "Psoric",
+    "notes": "Overactive mind, expressive dreams"
+  },
+  {
+    "rubric": "Dreams, flying, pleasant",
+    "grading": {
+      "Phosphorus": 3,
+      "Lachesis": 2
+    },
+    "modality": "Feels light, flying upward in dreams",
+    "miasm": "Tubercular",
+    "notes": "Freedom, spiritual aspiration"
+  },
+  {
+    "rubric": "Skin, itching, warmth of bed agg.",
+    "grading": {
+      "Sulphur": 3,
+      "Psorinum": 2
+    },
+    "modality": "Itching worse in bed, at night",
+    "miasm": "Psoric",
+    "notes": "Classic psoric confirmatory"
+  },
+  {
+    "rubric": "Generals, food, desire, salty",
+    "grading": {
+      "Natrum muriaticum": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Craves salty food constantly",
+    "miasm": "Sycotic",
+    "notes": "Confirmed keynote"
+  },
+  {
+    "rubric": "Mind, absent-minded",
+    "grading": {
+      "Lycopodium": 3,
+      "Anacardium": 2
+    },
+    "modality": "Forgetful in conversation or tasks",
+    "miasm": "Sycotic",
+    "notes": "Confusion, mind wanders"
+  },
+  {
+    "rubric": "Mind, aversion to company, yet dreads solitude",
+    "grading": {
+      "Ignatia": 3,
+      "Kali carb": 2
+    },
+    "modality": "Wants neither company nor to be alone",
+    "miasm": "Psoric",
+    "notes": "Emotional inner conflict"
+  },
+  {
+    "rubric": "Mind, ailments from grief, long-lasting effects",
+    "grading": {
+      "Ignatia": 3,
+      "Natrum muriaticum": 2
+    },
+    "modality": "Health breakdown after grief or loss",
+    "miasm": "Psoric",
+    "notes": "Silent suffering, unprocessed sorrow"
+  },
+  {
+    "rubric": "Mind, hatred of persons who have offended",
+    "grading": {
+      "Staphysagria": 3,
+      "Anacardium": 2
+    },
+    "modality": "Brooding over past insults, grudge-holding",
+    "miasm": "Sycotic",
+    "notes": "Suppressed anger, passive aggression"
+  },
+  {
+    "rubric": "Mind, suspicious, thinks people are talking about him",
+    "grading": {
+      "Hyoscyamus": 3,
+      "Lachesis": 2
+    },
+    "modality": "Paranoid thinking, delusions of persecution",
+    "miasm": "Syphilitic",
+    "notes": "Often in psychotic or jealous states"
+  },
+  {
+    "rubric": "Head, pain, forehead, better pressure",
+    "grading": {
+      "Belladonna": 3,
+      "Bryonia": 2
+    },
+    "modality": "Forehead pain relieved by firm pressure",
+    "miasm": "Psoric",
+    "notes": "Congestive or vascular headache"
+  },
+  {
+    "rubric": "Head, pain, from sun exposure",
+    "grading": {
+      "Glonoinum": 3,
+      "Belladonna": 2
+    },
+    "modality": "Headache worse in hot sun or after sunstroke",
+    "miasm": "Sycotic",
+    "notes": "Sun sensitivity, heat stroke sequelae"
+  },
+  {
+    "rubric": "Eyes, swelling of lids, morning",
+    "grading": {
+      "Apis mellifica": 3,
+      "Kali carb": 2
+    },
+    "modality": "Eyelids puffy and swollen after waking",
+    "miasm": "Sycotic",
+    "notes": "Kidney weakness or allergic state"
+  },
+  {
+    "rubric": "Nose, bleeding easily, dark blood",
+    "grading": {
+      "Phosphorus": 3,
+      "Carbo veg": 2
+    },
+    "modality": "Frequent nosebleeds with dark clots",
+    "miasm": "Syphilitic",
+    "notes": "Fragile vessels, venous congestion"
+  },
+  {
+    "rubric": "Mouth, ulcers, painful, white base",
+    "grading": {
+      "Merc sol": 3,
+      "Borax": 2
+    },
+    "modality": "Aphthae with red borders and painful touch",
+    "miasm": "Syphilitic",
+    "notes": "Oral ulceration from infection or immunity dip"
+  },
+  {
+    "rubric": "Throat, dryness, with constant desire to sip water",
+    "grading": {
+      "Phosphorus": 3,
+      "Arsenicum album": 2
+    },
+    "modality": "Dry burning throat, better by cold drinks",
+    "miasm": "Psoric",
+    "notes": "Heat or dehydration-related dryness"
+  },
+  {
+    "rubric": "Stomach, empty feeling, not relieved by eating",
+    "grading": {
+      "Sepia": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Constant hollow feeling in stomach",
+    "miasm": "Psoric",
+    "notes": "Hunger-like weakness not satisfied by food"
+  },
+  {
+    "rubric": "Abdomen, pain, before stool",
+    "grading": {
+      "Nux vomica": 3,
+      "Colocynthis": 2
+    },
+    "modality": "Crampy colic before urge to pass stool",
+    "miasm": "Sycotic",
+    "notes": "Spasmodic IBS or liver-related pain"
+  },
+  {
+    "rubric": "Rectum, sensation as if not finished after stool",
+    "grading": {
+      "Nux vomica": 3,
+      "Ignatia": 2
+    },
+    "modality": "Ineffectual urging, constant unsatisfied feeling",
+    "miasm": "Sycotic",
+    "notes": "Spastic rectum, colitis"
+  },
+  {
+    "rubric": "Urine, frequent urging at night",
+    "grading": {
+      "Equisetum": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Gets up frequently at night to urinate",
+    "miasm": "Sycotic",
+    "notes": "Bladder irritation, enlarged prostate"
+  },
+  {
+    "rubric": "Female, menses, delayed and scanty",
+    "grading": {
+      "Pulsatilla": 3,
+      "Sepia": 2
+    },
+    "modality": "Late or irregular scanty periods",
+    "miasm": "Psoric",
+    "notes": "Delayed puberty or hormonal suppression"
+  },
+  {
+    "rubric": "Male, desire, increased, uncontrollable",
+    "grading": {
+      "Medorrhinum": 3,
+      "Phosphorus": 2
+    },
+    "modality": "Hypersexual, compulsive desire",
+    "miasm": "Sycotic",
+    "notes": "Often associated with guilty feelings"
+  },
+  {
+    "rubric": "Extremities, trembling, hands, on movement",
+    "grading": {
+      "Gelsemium": 3,
+      "Zincum met": 2
+    },
+    "modality": "Shakes when doing fine work or lifting",
+    "miasm": "Psoric",
+    "notes": "Anxiety or neurological causes"
+  },
+  {
+    "rubric": "Back, pain, between scapulae",
+    "grading": {
+      "Chelidonium": 3,
+      "Lycopodium": 2
+    },
+    "modality": "Stitching pain in dorsal region",
+    "miasm": "Sycotic",
+    "notes": "Liver or gallbladder-related pain"
+  },
+  {
+    "rubric": "Sleep, insomnia after midnight",
+    "grading": {
+      "Arsenicum album": 3,
+      "Coffea": 2
+    },
+    "modality": "Sleeps late, wakes at 1–3 AM, cannot fall back",
+    "miasm": "Psoric",
+    "notes": "Worry or fear-related insomnia"
+  },
+  {
+    "rubric": "Dreams, falling into water",
+    "grading": {
+      "Stramonium": 3,
+      "Calcarea carb": 2
+    },
+    "modality": "Sudden panic and falling sensation in dream",
+    "miasm": "Psoric",
+    "notes": "Fear of instability or emotional drowning"
+  },
+  {
+    "rubric": "Skin, eruptions, itching, better by cold applications",
+    "grading": {
+      "Apis mellifica": 3,
+      "Sulphur": 2
+    },
+    "modality": "Red itchy rash soothed by cold",
+    "miasm": "Psoric",
+    "notes": "Hives, urticaria, allergic reactions"
+  },
+  {
+    "rubric": "Generals, food, aversion, fatty food",
+    "grading": {
+      "Pulsatilla": 3,
+      "Sepia": 2
+    },
+    "modality": "Dislikes or nauseated by greasy meals",
+    "miasm": "Psoric",
+    "notes": "Liver sensitivity"
+  },
+  {
+    "rubric": "Mind, sensitive to criticism",
+    "grading": {
+      "Staphysagria": 3,
+      "Natrum mur": 2
+    },
+    "modality": "Feels wounded or insulted easily",
+    "miasm": "Sycotic",
+    "notes": "Low self-worth with suppressed emotions"
+  },
+  {
+    "rubric": "Mind, fear of thunderstorm",
+    "grading": {
+      "Phosphorus": 3,
+      "Silicea": 2
+    },
+    "modality": "Startles or hides during storms",
+    "miasm": "Psoric",
+    "notes": "Delicate nervous system"
+  },
+  {
+    "rubric": "Mind, laughing, immoderate, during pain",
+    "grading": {
+      "Veratrum album": 3,
+      "Hyoscyamus": 2
+    },
+    "modality": "Laughs inappropriately, even when suffering",
+    "miasm": "Syphilitic",
+    "notes": "Psychotic or hysterical state"
+  },
+  {
+    "rubric": "Eyes, dryness, no tears",
+    "grading": {
+      "Alumina": 3,
+      "Belladonna": 2
+    },
+    "modality": "Extremely dry eyes without lacrimation",
+    "miasm": "Psoric",
+    "notes": "Aging, Sjogren’s, screen fatigue"
+  },
+  {
+    "rubric": "Ears, noises, buzzing",
+    "grading": {
+      "China officinalis": 3,
+      "Salicylic acid": 2
+    },
+    "modality": "Buzzing or whistling in ears",
+    "miasm": "Sycotic",
+    "notes": "Tinnitus, auditory nerve irritation"
+  }
+]

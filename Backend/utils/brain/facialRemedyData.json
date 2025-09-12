@@ -1,0 +1,47 @@
+[
+  {
+    "feature": "sunken eyes",
+    "remedies": ["Natrum Mur", "Phosphorus", "Psorinum"],
+    "score": 2
+  },
+  {
+    "feature": "yellowish complexion",
+    "remedies": ["Sepia", "Chelidonium", "Natrum Sulph"],
+    "score": 1
+  },
+  {
+    "feature": "greasy face",
+    "remedies": ["Pulsatilla", "Sulphur", "Graphites"],
+    "score": 1
+  },
+  {
+    "feature": "dark circles",
+    "remedies": ["Natrum Mur", "Kali Phos", "Arsenicum Alb"],
+    "score": 2
+  },
+  {
+    "feature": "puffy face",
+    "remedies": ["Calcarea Carb", "Arsenicum Alb", "Belladonna"],
+    "score": 1
+  },
+  {
+    "feature": "emaciated face",
+    "remedies": ["Phosphorus", "Tuberculinum", "Psorinum"],
+    "score": 2
+  },
+  {
+    "feature": "red cheeks",
+    "remedies": ["Belladonna", "Sulphur", "Ferrum Phos"],
+    "score": 1
+  },
+  {
+    "feature": "face oily",
+    "remedies": ["Sulphur", "Thuja", "Antim Crud"],
+    "score": 1
+  },
+  {
+    "feature": "face pale",
+    "remedies": ["China", "Calcarea Phos", "Natrum Mur"],
+    "score": 1
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "disease": "Cough",
+    "tags": ["CommonChronic", "Respiratory"],
+    "rubrics": [
+      {
+        "rubric": "Dry cough < at night",
+        "grading": {
+          "high": ["Drosera", "Rumex", "Spongia"],
+          "medium": ["Belladonna", "Hepar sulph"],
+          "low": ["Kali bich", "Pulsatilla"]
+        },
+        "modality": "Worse in bed, lying down, especially after midnight",
+        "miasm": "Psora-Sycosis",
+        "notes": "Irritating, tickling dry cough preventing sleep"
+      },
+      {
+        "rubric": "Cough with difficult expectoration",
+        "grading": {
+          "high": ["Antimonium tart", "Hepar sulph"],
+          "medium": ["Ipecac", "Senega"],
+          "low": ["Pulsatilla", "Lycopodium"]
+        },
+        "modality": "Cough relieves when sputum is finally expelled",
+        "miasm": "Psora",
+        "notes": "Chest full of mucus with rattling sounds"
+      },
+      {
+        "rubric": "Cough < after cold drinks",
+        "grading": {
+          "high": ["Causticum", "Phosphorus"],
+          "medium": ["Hepar sulph", "Spongia"],
+          "low": ["Bryonia", "Rumex"]
+        },
+        "modality": "Worse drinking anything cold",
+        "miasm": "Psora-Sycosis",
+        "notes": "Laryngeal sensitivity; feels raw"
+      },
+      {
+        "rubric": "Cough > after warm drinks",
+        "grading": {
+          "high": ["Causticum", "Phosphorus"],
+          "medium": ["Spongia", "Hepar sulph"],
+          "low": ["Rumex", "Silicea"]
+        },
+        "modality": "Better with hot liquids",
+        "miasm": "Psora",
+        "notes": "Soothing effect on dry irritated throat"
+      },
+      {
+        "rubric": "Cough < talking or laughing",
+        "grading": {
+          "high": ["Phosphorus", "Spongia"],
+          "medium": ["Causticum", "Drosera"],
+          "low": ["Rumex", "Ignatia"]
+        },
+        "modality": "Even few words or giggle excites cough",
+        "miasm": "Psora",
+        "notes": "Dry or choking cough while talking"
+      },
+      {
+        "rubric": "Cough < open air / wind",
+        "grading": {
+          "high": ["Hepar sulph", "Dulcamara"],
+          "medium": ["Causticum", "Rumex"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Triggered by slightest exposure",
+        "miasm": "Psora",
+        "notes": "Wind sensitivity; wraps up in cold"
+      },
+      {
+        "rubric": "Cough with vomiting",
+        "grading": {
+          "high": ["Drosera", "Ipecac"],
+          "medium": ["Antimonium tart", "Coccus cacti"],
+          "low": ["Bryonia", "Kali carb"]
+        },
+        "modality": "Violent coughing ends in gagging or vomiting",
+        "miasm": "Psora-Syphilis",
+        "notes": "Especially in children and spasmodic types"
+      },
+      {
+        "rubric": "Cough from post-nasal drip",
+        "grading": {
+          "high": ["Kali bich", "Hydrastis"],
+          "medium": ["Hepar sulph", "Pulsatilla"],
+          "low": ["Lemna minor"]
+        },
+        "modality": "Worse in early morning or on waking",
+        "miasm": "Sycosis",
+        "notes": "Constant throat clearing, mucus feeling"
+      },
+      {
+        "rubric": "Cough from tickling in larynx",
+        "grading": {
+          "high": ["Rumex", "Drosera"],
+          "medium": ["Phosphorus", "Spongia"],
+          "low": ["Causticum", "Silicea"]
+        },
+        "modality": "Dry, hacking cough with no relief",
+        "miasm": "Psora",
+        "notes": "Scraping/itching in throat pit triggers cough"
+      },
+      {
+        "rubric": "Cough < lying down at night",
+        "grading": {
+          "high": ["Spongia", "Rumex"],
+          "medium": ["Pulsatilla", "Kali carb"],
+          "low": ["Hepar sulph"]
+        },
+        "modality": "Horizontal posture increases irritation",
+        "miasm": "Psora",
+        "notes": "Must sit up to relieve; may be cardiac too"
+      },
+      {
+        "rubric": "Cough from suppressed eruptions",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Mezereum"],
+          "low": ["Sepia", "Natrum mur"]
+        },
+        "modality": "After skin eruption fades or is treated externally",
+        "miasm": "Psora-Sycosis",
+        "notes": "Cough appears when rash disappears"
+      },
+      {
+        "rubric": "Spasmodic cough in children",
+        "grading": {
+          "high": ["Drosera", "Coccus cacti"],
+          "medium": ["Ipecac", "Antimonium tart"],
+          "low": ["Belladonna", "Sambucus"]
+        },
+        "modality": "Sudden, choking paroxysms",
+        "miasm": "Psora",
+        "notes": "Often ends in gagging or vomiting; whooping cough simillimums"
+      }
+    ]
+  },
+  {
+    "disease": "Cough",
+    "tags": ["CommonChronic", "Respiratory"],
+    "rubrics": [
+      {
+        "rubric": "Paroxysmal cough (sudden violent attacks)",
+        "grading": {
+          "high": ["Drosera", "Coccus cacti", "Ipecac"],
+          "medium": ["Antimonium tart", "Belladonna"],
+          "low": ["Hyoscyamus", "Ignatia"]
+        },
+        "modality": "Sudden onset, repeated spasms of coughing",
+        "miasm": "Psora-Syphilis",
+        "notes": "Cough comes in violent fits; may end in vomiting or choking"
+      },
+      {
+        "rubric": "Barking cough (seal-like)",
+        "grading": {
+          "high": ["Spongia", "Aconite"],
+          "medium": ["Belladonna", "Hepar sulph"],
+          "low": ["Rumex", "Kali bich"]
+        },
+        "modality": "Dry, harsh barking cough, worse at night or cold",
+        "miasm": "Psora",
+        "notes": "Croup-like cough; common in children"
+      },
+      {
+        "rubric": "Cough with whooping sound",
+        "grading": {
+          "high": ["Drosera", "Coccus cacti"],
+          "medium": ["Ipecac", "Antimonium tart"],
+          "low": ["Cuprum met", "Belladonna"]
+        },
+        "modality": "Ends in gasp or 'whoop' on inspiration",
+        "miasm": "Syphilis",
+        "notes": "Classic whooping cough pattern"
+      },
+      {
+        "rubric": "Cough with rattling in chest",
+        "grading": {
+          "high": ["Antimonium tart", "Ipecac"],
+          "medium": ["Hepar sulph", "Carbo veg"],
+          "low": ["Senega", "Tartar emet"]
+        },
+        "modality": "Chest feels full of mucus",
+        "miasm": "Psora-Syphilis",
+        "notes": "Loose mucus, but hard to expel"
+      },
+      {
+        "rubric": "Loose, productive cough",
+        "grading": {
+          "high": ["Hepar sulph", "Pulsatilla"],
+          "medium": ["Antimonium tart", "Senega"],
+          "low": ["Lycopodium", "Silicea"]
+        },
+        "modality": "Easier after expectoration",
+        "miasm": "Psora",
+        "notes": "Cough with yellow or white expectoration"
+      },
+      {
+        "rubric": "Dry, croupy cough",
+        "grading": {
+          "high": ["Spongia", "Aconite"],
+          "medium": ["Hepar sulph", "Belladonna"],
+          "low": ["Kali bich", "Sambucus"]
+        },
+        "modality": "Dry, hoarse, barking cough",
+        "miasm": "Psora",
+        "notes": "Laryngeal inflammation or early croup"
+      },
+      {
+        "rubric": "Cough ending in vomiting",
+        "grading": {
+          "high": ["Drosera", "Ipecac"],
+          "medium": ["Coccus cacti", "Antimonium tart"],
+          "low": ["Belladonna", "Ignatia"]
+        },
+        "modality": "Prolonged coughing leads to nausea/vomiting",
+        "miasm": "Psora-Syphilis",
+        "notes": "Seen in children and violent spasmodic cough"
+      },
+      {
+        "rubric": "Cough with suffocation feeling",
+        "grading": {
+          "high": ["Arsenicum", "Sambucus"],
+          "medium": ["Spongia", "Lachesis"],
+          "low": ["Carbo veg", "Ipecac"]
+        },
+        "modality": "Sudden breathlessness with cough",
+        "miasm": "Psora",
+        "notes": "Feels like choking or unable to inhale"
+      },
+      {
+        "rubric": "Cough from tickling in throat pit",
+        "grading": {
+          "high": ["Rumex", "Drosera"],
+          "medium": ["Phosphorus", "Spongia"],
+          "low": ["Ignatia", "Silicea"]
+        },
+        "modality": "Touch or talking excites tickling",
+        "miasm": "Psora",
+        "notes": "No expectoration; irritating dry tickle"
+      },
+      {
+        "rubric": "Metallic sounding cough",
+        "grading": {
+          "high": ["Belladonna", "Phosphorus"],
+          "medium": ["Drosera", "Hepar sulph"],
+          "low": ["Kali bich"]
+        },
+        "modality": "Dry, metallic, echoing sound",
+        "miasm": "Syphilis",
+        "notes": "Like pipe or trumpet sound; usually laryngeal"
+      }
+    ]
+  }
+]

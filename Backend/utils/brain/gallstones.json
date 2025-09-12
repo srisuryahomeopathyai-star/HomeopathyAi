@@ -1,0 +1,754 @@
+[
+  {
+    "disease": "Gallstones (Cholelithiasis)",
+    "tags": [
+      "CommonChronic",
+      "Gallbladder",
+      "Liver",
+      "Gastric",
+      "Biliary",
+      "Abdominal"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Pain in gallbladder region (right hypochondrium), colicky in nature",
+        "grading": {
+          "high": ["Chelidonium", "Colocynthis"],
+          "medium": ["Belladonna", "Carduus marianus"],
+          "low": ["Nux vomica", "Berberis vulgaris"]
+        },
+        "modality": "Worse pressure, motion; better bending forward",
+        "miasm": "Psora",
+        "notes": "Classic biliary colic"
+      },
+      {
+        "rubric": "Gallstone colic radiating to right scapula or clavicle",
+        "grading": {
+          "high": ["Chelidonium", "Berberis vulgaris"],
+          "medium": ["Lycopodium", "Belladonna"],
+          "low": ["Carduus", "Podophyllum"]
+        },
+        "modality": "Pain travels from liver area to shoulder blade",
+        "miasm": "Psora-Sycosis",
+        "notes": "Highly confirmatory of gallbladder origin"
+      },
+      {
+        "rubric": "Gallbladder pain with vomiting of bile and bitter taste",
+        "grading": {
+          "high": ["Ipecac", "Chelidonium"],
+          "medium": ["Phosphorus", "Nux vomica"],
+          "low": ["Antimonium crudum"]
+        },
+        "modality": "Nausea and vomiting after fatty food",
+        "miasm": "Psora",
+        "notes": "Gallbladder-liver axis involved"
+      },
+      {
+        "rubric": "Gallstone pain worse after rich, fatty or fried food",
+        "grading": {
+          "high": ["Lycopodium", "Chelidonium"],
+          "medium": ["Nux vomica", "Pulsatilla"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Fats aggravate gallbladder spasm",
+        "miasm": "Sycosis",
+        "notes": "One of the most clinically confirmatory modalities"
+      },
+      {
+        "rubric": "Gallbladder pain with yellowish skin or eyes (sub-jaundice)",
+        "grading": {
+          "high": ["Chionanthus", "Chelidonium"],
+          "medium": ["Merc sol", "Carduus"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Obstructive type jaundice",
+        "miasm": "Syphilitic",
+        "notes": "Bile flow blocked by stones"
+      },
+      {
+        "rubric": "Gallstone pain worse at night, especially after 2 AM",
+        "grading": {
+          "high": ["Chelidonium", "Lycopodium"],
+          "medium": ["Nux vomica", "Belladonna"],
+          "low": ["China"]
+        },
+        "modality": "Paroxysmal pain pattern at hepatic time",
+        "miasm": "Psora",
+        "notes": "Matches liver/gallbladder chronobiology"
+      },
+      {
+        "rubric": "Gallstone attack with chilliness and cannot bear to move",
+        "grading": {
+          "high": ["Belladonna", "Bryonia"],
+          "medium": ["Nux vomica", "Chelidonium"],
+          "low": ["Colocynthis"]
+        },
+        "modality": "Severe pain > absolute rest",
+        "miasm": "Psora",
+        "notes": "Helps differentiate acute remedies"
+      },
+      {
+        "rubric": "Gallbladder pain with irritability and anger",
+        "grading": {
+          "high": ["Nux vomica", "Chamomilla"],
+          "medium": ["Lycopodium", "Bryonia"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Biliary irritation shows on mental plane",
+        "miasm": "Psora",
+        "notes": "Mind-body connection in gallstone attacks"
+      },
+      {
+        "rubric": "Gallstone colic alternating with gastric acidity or ulcers",
+        "grading": {
+          "high": ["Lycopodium", "Nux vomica"],
+          "medium": ["Chelidonium", "Graphites"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "One suppresses other in periodic cycle",
+        "miasm": "Psora-Sycosis",
+        "notes": "Internal shifting disease axis"
+      },
+      {
+        "rubric": "Gallstone pain with distension and belching",
+        "grading": {
+          "high": ["Lycopodium", "Carbo veg"],
+          "medium": ["Chelidonium", "Nux vomica"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Better warm drinks or passing flatus",
+        "miasm": "Psora",
+        "notes": "Biliary dyspepsia + functional overlay"
+      }
+    ]
+  },
+  {
+    "disease": "Gallstones (Rare Rubrics)",
+    "tags": [
+      "CommonChronic",
+      "Gallbladder",
+      "Advanced",
+      "RareModalities",
+      "AlternatingComplaints",
+      "Emotional"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Gallstone attacks < during suppressed anger or emotional suppression",
+        "grading": {
+          "high": ["Staphysagria", "Nux vomica"],
+          "medium": ["Lycopodium", "Chelidonium"],
+          "low": ["Natrum mur", "Sepia"]
+        },
+        "modality": "Triggered after insult or unexpressed emotions",
+        "miasm": "Psora-Sycosis",
+        "notes": "Mind-body link: bile congestion after mental stress"
+      },
+      {
+        "rubric": "Gallstone pain alternating with skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Graphites"],
+          "medium": ["Psorinum", "Lycopodium"],
+          "low": ["Sepia"]
+        },
+        "modality": "Skin clears up → gallstone flare begins",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Suppressed skin → internal pathology shift"
+      },
+      {
+        "rubric": "Gallstone pain alternating with piles",
+        "grading": {
+          "high": ["Nux vomica", "Sulphur"],
+          "medium": ["Aesculus", "Carduus marianus"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Worse when piles suppressed or disappear",
+        "miasm": "Sycosis",
+        "notes": "Portal congestion principle"
+      },
+      {
+        "rubric": "Gallstone symptoms < menses or ovulation period",
+        "grading": {
+          "high": ["Pulsatilla", "Sepia"],
+          "medium": ["Lachesis", "Lycopodium"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Hormonal gallbladder sensitivity",
+        "miasm": "Psora-Sycosis",
+        "notes": "Important in female gallstone cases"
+      },
+      {
+        "rubric": "Gallstone colic with stitching pain under right ribs",
+        "grading": {
+          "high": ["Bryonia", "Chelidonium"],
+          "medium": ["Nux vomica", "Carduus"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Stitching pains < motion, > pressure",
+        "miasm": "Psora",
+        "notes": "Helps differentiate from gastric causes"
+      },
+      {
+        "rubric": "Gallbladder pain > warm drinks, < cold water",
+        "grading": {
+          "high": ["Chelidonium", "Lycopodium"],
+          "medium": ["Phosphorus", "Nux vomica"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "Thermal modality important in remedy choice",
+        "miasm": "Psora",
+        "notes": "Functional sluggish gallbladder"
+      },
+      {
+        "rubric": "Gallstones with excessive craving for sour food or pickles",
+        "grading": {
+          "high": ["Phosphorus", "Chelidonium"],
+          "medium": ["Sepia", "Nux vomica"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Sour craving indicates liver-biliary overload",
+        "miasm": "Sycosis",
+        "notes": "Useful constitutional clue"
+      },
+      {
+        "rubric": "Gallbladder pain > lying on abdomen, < lying on back",
+        "grading": {
+          "high": ["Chelidonium", "Colocynthis"],
+          "medium": ["Bryonia", "Lycopodium"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Pressure helps in gallbladder congestion",
+        "miasm": "Psora",
+        "notes": "Rare confirmatory rubric"
+      },
+      {
+        "rubric": "Gallstone pain in patients with diabetes or metabolic syndrome",
+        "grading": {
+          "high": ["Lycopodium", "Phosphorus"],
+          "medium": ["Chelidonium", "Calcarea carb"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Fat metabolism failure leading to biliary disease",
+        "miasm": "Sycosis",
+        "notes": "Constitutional overlap important for remedy selection"
+      },
+      {
+        "rubric": "Gallstone colic with great anxiety and restlessness",
+        "grading": {
+          "high": ["Arsenicum album", "Belladonna"],
+          "medium": ["Nux vomica", "Chelidonium"],
+          "low": ["Chamomilla"]
+        },
+        "modality": "Mental state during acute biliary crisis",
+        "miasm": "Psora",
+        "notes": "Strong keynote during attack phase"
+      }
+    ]
+  },
+  {
+    "disease": "Gallstones (Deep Integrative Rubrics)",
+    "tags": [
+      "CommonChronic",
+      "Gallbladder",
+      "Emotional",
+      "SuppressionBased",
+      "Hormonal",
+      "Alternating",
+      "RareConfirmatory"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Gallstone tendency after suppression of skin eruptions or acne",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Calcarea sulph"],
+          "low": ["Sepia"]
+        },
+        "modality": "H/O long suppression with ointments or steroids",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Important in young adults & constitutional layers"
+      },
+      {
+        "rubric": "Gallbladder congestion after long-standing grief or shock",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur"],
+          "medium": ["Phosphoric acid", "Sepia"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Silent suffering personality profile",
+        "miasm": "Psora-Tubercular",
+        "notes": "Emotional liver blockage → stone formation"
+      },
+      {
+        "rubric": "Gallstones with monthly colic before or during menses",
+        "grading": {
+          "high": ["Pulsatilla", "Lachesis"],
+          "medium": ["Sepia", "Calcarea carb"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Colic overlaps with hormonal changes",
+        "miasm": "Psora-Sycosis",
+        "notes": "Useful in cyclical biliary pains in women"
+      },
+      {
+        "rubric": "Gallstones with history of long-term oral contraceptive use",
+        "grading": {
+          "high": ["Sepia", "Pulsatilla"],
+          "medium": ["Lachesis", "Natrum mur"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Hormonal suppression weakens bile flow",
+        "miasm": "Sycosis",
+        "notes": "Modern factor in biliary dysfunction"
+      },
+      {
+        "rubric": "Gallbladder pain alternates with constipation",
+        "grading": {
+          "high": ["Lycopodium", "Nux vomica"],
+          "medium": ["Sulphur", "Bryonia"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Gall colic when bowels inactive",
+        "miasm": "Psora",
+        "notes": "Portal stasis causing dual symptoms"
+      },
+      {
+        "rubric": "Gallstone formation in fat, flabby, chilly constitution",
+        "grading": {
+          "high": ["Calcarea carb", "Antimonium crudum"],
+          "medium": ["Sepia", "Graphites"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Chilly, sluggish digestion, intolerance to exertion",
+        "miasm": "Sycosis",
+        "notes": "Important general type in sluggish gallbladder"
+      },
+      {
+        "rubric": "Gallstone tendency in hot, thin, restless, anxious persons",
+        "grading": {
+          "high": ["Phosphorus", "Arsenicum album"],
+          "medium": ["Sulphur", "Lachesis"],
+          "low": ["Ignatia"]
+        },
+        "modality": "Warm-blooded, oversensitive to touch and noise",
+        "miasm": "Tubercular",
+        "notes": "Contrasts the Calc carb type — used for differentiation"
+      },
+      {
+        "rubric": "Gallstone pain triggered by fright, bad news, or exam fear",
+        "grading": {
+          "high": ["Gelsemium", "Ignatia"],
+          "medium": ["Aconite", "Argentum nitricum"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Sympathetic overdrive leads to hepatic spasm",
+        "miasm": "Psora-Tubercular",
+        "notes": "Gallbladder as organ of shock reaction"
+      },
+      {
+        "rubric": "Gallstones alternating with vertigo and headache",
+        "grading": {
+          "high": ["Chelidonium", "Nux vomica"],
+          "medium": ["Gelsemium", "Lycopodium"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "When gall improves, vertigo appears (and vice versa)",
+        "miasm": "Psora-Syphilitic",
+        "notes": "CNS-biliary axis (vagal link)"
+      },
+      {
+        "rubric": "Gallbladder pain with depression, indifference, aversion to loved ones",
+        "grading": {
+          "high": ["Sepia", "Phosphoric acid"],
+          "medium": ["Natrum mur", "Lycopodium"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Silent emotional disconnection precedes attack",
+        "miasm": "Psora-Sycosis",
+        "notes": "Mind–body correlation useful for remedy match"
+      }
+    ]
+  },
+  {
+    "disease": "Gallstones (Metabolic & Systemic Links)",
+    "tags": [
+      "CommonChronic",
+      "Gallbladder",
+      "Metabolic",
+      "Liver",
+      "Obesity",
+      "Diabetes",
+      "Hormonal",
+      "RareModalities"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Gallstones in obese patients with sluggish liver function",
+        "grading": {
+          "high": ["Calcarea carb", "Antimonium crudum"],
+          "medium": ["Graphites", "Nux vomica"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Obesity with intolerance to rich food",
+        "miasm": "Sycosis",
+        "notes": "Sycosis-induced bile stasis from metabolic overload"
+      },
+      {
+        "rubric": "Gallstones in diabetic patients with dyspepsia",
+        "grading": {
+          "high": ["Lycopodium", "Phosphorus"],
+          "medium": ["Chelidonium", "Natrum sulph"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Diabetes with burping, bitter taste, early fullness",
+        "miasm": "Sycosis-Tubercular",
+        "notes": "Hepato-pancreatic stress → biliary disorders"
+      },
+      {
+        "rubric": "Gallstones coexisting with fatty liver disease (NAFLD)",
+        "grading": {
+          "high": ["Chelidonium", "Carduus marianus"],
+          "medium": ["Phosphorus", "Lycopodium"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Hepatic congestion, poor bile drainage",
+        "miasm": "Sycosis",
+        "notes": "Fatty degeneration linked to stone formation"
+      },
+      {
+        "rubric": "Gallstones with polycystic ovaries (PCOD) or hormonal syndromes",
+        "grading": {
+          "high": ["Sepia", "Pulsatilla"],
+          "medium": ["Lachesis", "Calcarea carb"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Female with irregular menses, fat intolerance, acne",
+        "miasm": "Psora-Sycosis",
+        "notes": "Common PCOD–gallstone axis"
+      },
+      {
+        "rubric": "Gallstone formation in sedentary, constipated individuals",
+        "grading": {
+          "high": ["Nux vomica", "Bryonia"],
+          "medium": ["Sulphur", "Lycopodium"],
+          "low": ["Sepia"]
+        },
+        "modality": "Low motility, bowel stasis → bile thickening",
+        "miasm": "Psora",
+        "notes": "Functional stasis leading to sludge & stones"
+      },
+      {
+        "rubric": "Gallstone attacks after alcohol consumption",
+        "grading": {
+          "high": ["Nux vomica", "Chelidonium"],
+          "medium": ["Phosphorus", "Sulphur"],
+          "low": ["Carduus"]
+        },
+        "modality": "Worse next morning or at night",
+        "miasm": "Sycosis",
+        "notes": "Liver bile spasm post-alcohol"
+      },
+      {
+        "rubric": "Gallstone complaints in post-COVID or post-viral states",
+        "grading": {
+          "high": ["Chelidonium", "Phosphoric acid"],
+          "medium": ["China", "Sulphur"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "After viral hepatitis, dengue, or COVID-19",
+        "miasm": "Syphilitic",
+        "notes": "Liver damage sequelae → sludge → stones"
+      },
+      {
+        "rubric": "Gallstones with disturbed circadian rhythm and sleep issues",
+        "grading": {
+          "high": ["Phosphorus", "Nux vomica"],
+          "medium": ["Sulphur", "Lycopodium"],
+          "low": ["Arsenicum album"]
+        },
+        "modality": "Night duty, irregular eating, 2–3 AM aggravation",
+        "miasm": "Tubercular",
+        "notes": "Modern lifestyle → gallbladder dysfunction"
+      },
+      {
+        "rubric": "Gallstones with chronic acidity and reflux",
+        "grading": {
+          "high": ["Nux vomica", "Iris versicolor"],
+          "medium": ["Lycopodium", "Robinia"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Stone attacks precede or follow acidity bouts",
+        "miasm": "Psora",
+        "notes": "Biliary–gastric overlap"
+      },
+      {
+        "rubric": "Gallstone tendency in hypothyroid patients",
+        "grading": {
+          "high": ["Sepia", "Calcarea carb"],
+          "medium": ["Graphites", "Lycopodium"],
+          "low": ["Silicea"]
+        },
+        "modality": "Obese, sluggish, constipated, with hair fall",
+        "miasm": "Sycosis",
+        "notes": "Metabolic suppression affecting gallbladder"
+      }
+    ]
+  },
+  {
+    "disease": "Gallstones (Complete Rubrics Set)",
+    "tags": [
+      "CommonChronic",
+      "Gallbladder",
+      "Liver",
+      "Metabolic",
+      "Hormonal",
+      "Emotional",
+      "Alternating",
+      "RareModalities"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Pain in gallbladder region (right hypochondrium), colicky in nature",
+        "grading": {
+          "high": ["Chelidonium", "Colocynthis"],
+          "medium": ["Belladonna", "Carduus marianus"],
+          "low": ["Nux vomica", "Berberis vulgaris"]
+        },
+        "modality": "Worse pressure, motion; better bending forward",
+        "miasm": "Psora",
+        "notes": "Classic biliary colic"
+      },
+      {
+        "rubric": "Gallstone colic radiating to right scapula or clavicle",
+        "grading": {
+          "high": ["Chelidonium", "Berberis vulgaris"],
+          "medium": ["Lycopodium", "Belladonna"],
+          "low": ["Carduus", "Podophyllum"]
+        },
+        "modality": "Pain travels from liver area to shoulder blade",
+        "miasm": "Psora-Sycosis",
+        "notes": "Highly confirmatory of gallbladder origin"
+      },
+      {
+        "rubric": "Gallbladder pain with vomiting of bile and bitter taste",
+        "grading": {
+          "high": ["Ipecac", "Chelidonium"],
+          "medium": ["Phosphorus", "Nux vomica"],
+          "low": ["Antimonium crudum"]
+        },
+        "modality": "Nausea and vomiting after fatty food",
+        "miasm": "Psora",
+        "notes": "Gallbladder-liver axis involved"
+      },
+      {
+        "rubric": "Gallstone pain worse after rich, fatty or fried food",
+        "grading": {
+          "high": ["Lycopodium", "Chelidonium"],
+          "medium": ["Nux vomica", "Pulsatilla"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Fats aggravate gallbladder spasm",
+        "miasm": "Sycosis",
+        "notes": "One of the most clinically confirmatory modalities"
+      },
+      {
+        "rubric": "Gallbladder pain with yellowish skin or eyes (sub-jaundice)",
+        "grading": {
+          "high": ["Chionanthus", "Chelidonium"],
+          "medium": ["Merc sol", "Carduus"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "Obstructive type jaundice",
+        "miasm": "Syphilitic",
+        "notes": "Bile flow blocked by stones"
+      },
+      {
+        "rubric": "Gallstone pain worse at night, especially after 2 AM",
+        "grading": {
+          "high": ["Chelidonium", "Lycopodium"],
+          "medium": ["Nux vomica", "Belladonna"],
+          "low": ["China"]
+        },
+        "modality": "Paroxysmal pain pattern at hepatic time",
+        "miasm": "Psora",
+        "notes": "Matches liver/gallbladder chronobiology"
+      },
+      {
+        "rubric": "Gallstone attack with chilliness and cannot bear to move",
+        "grading": {
+          "high": ["Belladonna", "Bryonia"],
+          "medium": ["Nux vomica", "Chelidonium"],
+          "low": ["Colocynthis"]
+        },
+        "modality": "Severe pain > absolute rest",
+        "miasm": "Psora",
+        "notes": "Helps differentiate acute remedies"
+      },
+      {
+        "rubric": "Gallbladder pain with irritability and anger",
+        "grading": {
+          "high": ["Nux vomica", "Chamomilla"],
+          "medium": ["Lycopodium", "Bryonia"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Biliary irritation shows on mental plane",
+        "miasm": "Psora",
+        "notes": "Mind-body connection in gallstone attacks"
+      },
+      {
+        "rubric": "Gallstone colic alternating with gastric acidity or ulcers",
+        "grading": {
+          "high": ["Lycopodium", "Nux vomica"],
+          "medium": ["Chelidonium", "Graphites"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "One suppresses other in periodic cycle",
+        "miasm": "Psora-Sycosis",
+        "notes": "Internal shifting disease axis"
+      },
+      {
+        "rubric": "Gallstone pain with distension and belching",
+        "grading": {
+          "high": ["Lycopodium", "Carbo veg"],
+          "medium": ["Chelidonium", "Nux vomica"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "Better warm drinks or passing flatus",
+        "miasm": "Psora",
+        "notes": "Biliary dyspepsia + functional overlay"
+      },
+      {
+        "rubric": "Gallstone attacks < during suppressed anger or emotional suppression",
+        "grading": {
+          "high": ["Staphysagria", "Nux vomica"],
+          "medium": ["Lycopodium", "Chelidonium"],
+          "low": ["Natrum mur", "Sepia"]
+        },
+        "modality": "Triggered after insult or unexpressed emotions",
+        "miasm": "Psora-Sycosis",
+        "notes": "Mind-body link: bile congestion after mental stress"
+      },
+      {
+        "rubric": "Gallbladder pain alternating with skin eruptions",
+        "grading": {
+          "high": ["Sulphur", "Graphites"],
+          "medium": ["Psorinum", "Lycopodium"],
+          "low": ["Sepia"]
+        },
+        "modality": "Skin clears up → gallstone flare begins",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Suppressed skin → internal pathology shift"
+      },
+      {
+        "rubric": "Gallstone pain alternating with piles",
+        "grading": {
+          "high": ["Nux vomica", "Sulphur"],
+          "medium": ["Aesculus", "Carduus marianus"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Worse when piles suppressed or disappear",
+        "miasm": "Sycosis",
+        "notes": "Portal congestion principle"
+      },
+      {
+        "rubric": "Gallstone symptoms < menses or ovulation period",
+        "grading": {
+          "high": ["Pulsatilla", "Sepia"],
+          "medium": ["Lachesis", "Lycopodium"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Hormonal gallbladder sensitivity",
+        "miasm": "Psora-Sycosis",
+        "notes": "Important in female gallstone cases"
+      },
+      {
+        "rubric": "Gallstone colic with stitching pain under right ribs",
+        "grading": {
+          "high": ["Bryonia", "Chelidonium"],
+          "medium": ["Nux vomica", "Carduus"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Stitching pains < motion, > pressure",
+        "miasm": "Psora",
+        "notes": "Helps differentiate from gastric causes"
+      },
+      {
+        "rubric": "Gallbladder pain > warm drinks, < cold water",
+        "grading": {
+          "high": ["Chelidonium", "Lycopodium"],
+          "medium": ["Phosphorus", "Nux vomica"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "Thermal modality important in remedy choice",
+        "miasm": "Psora",
+        "notes": "Functional sluggish gallbladder"
+      },
+      {
+        "rubric": "Gallstone tendency after suppression of skin eruptions or acne",
+        "grading": {
+          "high": ["Sulphur", "Psorinum"],
+          "medium": ["Graphites", "Calcarea sulph"],
+          "low": ["Sepia"]
+        },
+        "modality": "H/O long suppression with ointments or steroids",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Important in young adults & constitutional layers"
+      },
+      {
+        "rubric": "Gallbladder congestion after long-standing grief or shock",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur"],
+          "medium": ["Phosphoric acid", "Sepia"],
+          "low": ["Lycopodium"]
+        },
+        "modality": "Silent suffering personality profile",
+        "miasm": "Psora-Tubercular",
+        "notes": "Emotional liver blockage → stone formation"
+      },
+      {
+        "rubric": "Gallstones with monthly colic before or during menses",
+        "grading": {
+          "high": ["Pulsatilla", "Lachesis"],
+          "medium": ["Sepia", "Calcarea carb"],
+          "low": ["Chelidonium"]
+        },
+        "modality": "Colic overlaps with hormonal changes",
+        "miasm": "Psora-Sycosis",
+        "notes": "Useful in cyclical biliary pains in women"
+      },
+      {
+        "rubric": "Gallstones in obese patients with sluggish liver function",
+        "grading": {
+          "high": ["Calcarea carb", "Antimonium crudum"],
+          "medium": ["Graphites", "Nux vomica"],
+          "low": ["Sulphur"]
+        },
+        "modality": "Obesity with intolerance to rich food",
+        "miasm": "Sycosis",
+        "notes": "Sycosis-induced bile stasis from metabolic overload"
+      },
+      {
+        "rubric": "Gallstones in diabetic patients with dyspepsia",
+        "grading": {
+          "high": ["Lycopodium", "Phosphorus"],
+          "medium": ["Chelidonium", "Natrum sulph"],
+          "low": ["Phosphoric acid"]
+        },
+        "modality": "Diabetes with burping, bitter taste, early fullness",
+        "miasm": "Sycosis-Tubercular",
+        "notes": "Hepato-pancreatic stress → biliary disorders"
+      },
+      {
+        "rubric": "Gallstones coexisting with fatty liver disease (NAFLD)",
+        "grading": {
+          "high": ["Chelidonium", "Carduus marianus"],
+          "medium": ["Phosphorus", "Lycopodium"],
+          "low": ["Calcarea carb"]
+        },
+        "modality": "Hepatic congestion, poor bile drainage",
+        "miasm": "Sycosis",
+        "notes": "Fatty degeneration linked to stone formation"
+      }
+    ]
+  }
+]

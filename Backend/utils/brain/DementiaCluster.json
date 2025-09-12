@@ -1,0 +1,231 @@
+[
+  {
+    "disease": "Dementia & Memory Decline",
+    "tags": [
+      "CommonChronic",
+      "Neurology",
+      "Cognition",
+      "Geriatrics",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Loss of memory with confusion about daily tasks and surroundings",
+        "grading": {
+          "high": ["Anacardium", "Baryta carb", "Lycopodium"],
+          "medium": ["Phosphoric acid", "Calcarea carb"],
+          "low": ["Plumbum"]
+        },
+        "modality": "< mental effort, < conversation, > solitude",
+        "miasm": "Syphilitic–Psora",
+        "notes": "Early Alzheimer’s-type memory fog"
+      },
+      {
+        "rubric": "Forgets names, words, or recent events but remembers the past clearly",
+        "grading": {
+          "high": ["Natrum mur", "Sepia", "Phosphorus"],
+          "medium": ["Lycopodium", "Baryta mur"],
+          "low": ["Ambra grisea"]
+        },
+        "modality": "< speaking, < pressure, < stress",
+        "miasm": "Psoric",
+        "notes": "Mild to moderate cognitive decline"
+      },
+      {
+        "rubric": "Talks incoherently, asks same question repeatedly",
+        "grading": {
+          "high": ["Stramonium", "Hyoscyamus", "Anacardium"],
+          "medium": ["Alumina", "Agaricus"],
+          "low": ["Opium"]
+        },
+        "modality": "< night, < isolation, > calm talk",
+        "miasm": "Syphilitic–Psora",
+        "notes": "Mid to late dementia; frontal disconnection"
+      },
+      {
+        "rubric": "Emotionally dull, indifferent and doesn't recognize relatives",
+        "grading": {
+          "high": ["Baryta carb", "Opium", "Sepia"],
+          "medium": ["Plumbum", "Lachesis"],
+          "low": ["Carbo veg"]
+        },
+        "modality": "< old age, < inactivity",
+        "miasm": "Syphilitic",
+        "notes": "Advanced dementia with personality withdrawal"
+      }
+    ]
+  },
+  {
+    "advanced_additions": [
+      {
+        "rubric": "Dementia with suspicion, jealousy, and delusion of being watched",
+        "grading": {
+          "high": ["Hyoscyamus", "Stramonium", "Lachesis"],
+          "medium": ["Anacardium", "Platina"],
+          "low": ["Cannabis indica"]
+        },
+        "modality": "< evening, < solitude, > company",
+        "miasm": "Syphilitic–Tubercular",
+        "notes": "Paranoid dementia stage, common in frontal or mixed-type"
+      },
+      {
+        "rubric": "Dementia with emotional coldness, apathy, and social withdrawal",
+        "grading": {
+          "high": ["Sepia", "Baryta carb", "Opium"],
+          "medium": ["Plumbum", "Ignatia"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< family interaction, < touch, < emotion",
+        "miasm": "Syphilitic",
+        "notes": "Flat affect in Alzheimer’s, frontal dementia, advanced aging"
+      },
+      {
+        "rubric": "Dementia with childish behavior, talking like a child",
+        "grading": {
+          "high": ["Baryta carb", "Stramonium", "Agaricus"],
+          "medium": ["Ambra grisea", "Bufo"],
+          "low": ["Cicuta virosa"]
+        },
+        "modality": "< old age, < mental inactivity",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Regressive dementia stages in elderly"
+      },
+      {
+        "rubric": "Forgetfulness for names and words, especially under stress",
+        "grading": {
+          "high": ["Lycopodium", "Natrum mur", "Anacardium"],
+          "medium": ["Sepia", "Phosphorus"],
+          "low": ["Gelsemium"]
+        },
+        "modality": "< examinations, < anxiety, > slow talking",
+        "miasm": "Psora–Tubercular",
+        "notes": "Early cognitive fatigue and stress-related word block"
+      },
+      {
+        "rubric": "Dementia after stroke, injury, or shock to the system",
+        "grading": {
+          "high": ["Opium", "Arnica", "Plumbum"],
+          "medium": ["Gelsemium", "Belladonna"],
+          "low": ["Conium"]
+        },
+        "modality": "< after trauma, < motion, > silence",
+        "miasm": "Syphilitic",
+        "notes": "Vascular or traumatic brain degeneration"
+      },
+      {
+        "rubric": "Dementia in perfectionist, over-disciplined, emotionally suppressed constitutions",
+        "grading": {
+          "high": ["Carcinosinum", "Natrum mur", "Aurum met"],
+          "medium": ["Ignatia", "Staphysagria"],
+          "low": ["Sepia"]
+        },
+        "modality": "< suppressed emotions, < mental strain",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Emotional rigidity leading to slow degeneration"
+      },
+      {
+        "rubric": "Wandering behavior with disorientation in familiar settings",
+        "grading": {
+          "high": ["Alumina", "Stramonium", "Anacardium"],
+          "medium": ["Baryta mur", "Cannabis indica"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< evening, < noise, > quiet environment",
+        "miasm": "Syphilitic",
+        "notes": "Moderate to advanced dementia wandering episodes"
+      },
+      {
+        "rubric": "Dementia with obsessive behavior, repeated phrases or acts",
+        "grading": {
+          "high": ["OCD", "Platina", "Stramonium"],
+          "medium": ["Medorrhinum", "Arsenicum alb"],
+          "low": ["Ignatia"]
+        },
+        "modality": "< interrupted routine, < anxiety, > assurance",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Overlap with obsessive aging patterns or mixed dementia"
+      }
+    ]
+  },
+  {
+    "final_additions": [
+      {
+        "rubric": "Dementia with tendency to laugh or weep without cause",
+        "grading": {
+          "high": ["Ignatia", "Hyoscyamus", "Belladonna"],
+          "medium": ["Platina", "Ambra grisea"],
+          "low": ["Cimicifuga"]
+        },
+        "modality": "< emotional triggers, < music, > distraction",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Frontal lobe damage with pseudo-bulbar affect (emotional incontinence)"
+      },
+      {
+        "rubric": "Dementia with slowness in comprehension and delayed answers",
+        "grading": {
+          "high": ["Baryta carb", "Phosphoric acid", "Gelsemium"],
+          "medium": ["Opium", "Conium"],
+          "low": ["Helleborus"]
+        },
+        "modality": "< questioned, < mental exertion, > alone",
+        "miasm": "Psoric",
+        "notes": "Mental dullness and hesitation in responding"
+      },
+      {
+        "rubric": "Dementia in timid, childlike patients afraid of being alone",
+        "grading": {
+          "high": ["Baryta carb", "Pulsatilla", "Calcarea carb"],
+          "medium": ["Silicea", "Ambra grisea"],
+          "low": ["Cicuta virosa"]
+        },
+        "modality": "< alone, < new surroundings, > reassurance",
+        "miasm": "Psora",
+        "notes": "Early dementia in shy, dependent constitutions"
+      },
+      {
+        "rubric": "Dementia with restlessness, pacing, and compulsive movement",
+        "grading": {
+          "high": ["Tarentula hispania", "Arsenicum album", "Lilium tigrinum"],
+          "medium": ["Zincum", "Medorrhinum"],
+          "low": ["Cannabis sativa"]
+        },
+        "modality": "< inactivity, < being watched, > motion",
+        "miasm": "Tubercular–Sycosis",
+        "notes": "Frontal or mixed-type dementia with pacing, OCD-like actions"
+      },
+      {
+        "rubric": "Dementia with delusions of poverty or being deserted",
+        "grading": {
+          "high": ["Aurum met", "Psorinum", "Anacardium"],
+          "medium": ["Ignatia", "Sepia"],
+          "low": ["Opium"]
+        },
+        "modality": "< solitude, < evening, > compassion",
+        "miasm": "Psora–Syphilitic",
+        "notes": "Emotional despair and self-worth loss in dementia"
+      },
+      {
+        "rubric": "Dementia from long-term alcoholism with trembling, memory loss",
+        "grading": {
+          "high": ["Nux vomica", "Sulphuric acid", "Plumbum"],
+          "medium": ["Hyoscyamus", "Opium"],
+          "low": ["Arsenicum bromatum"]
+        },
+        "modality": "< morning, < cold, > alcohol (momentarily)",
+        "miasm": "Syphilitic",
+        "notes": "Wernicke–Korsakoff-like rubrics in degenerative alcohol cases"
+      },
+      {
+        "rubric": "Dementia in artistic, sensitive constitutions who collapse mentally",
+        "grading": {
+          "high": ["Phosphorus", "Carcinosinum", "Ignatia"],
+          "medium": ["Natrum mur", "Staphysagria"],
+          "low": ["Cimicifuga"]
+        },
+        "modality": "< emotional suppression, < failed love, > calm nature",
+        "miasm": "Psora–Tubercular",
+        "notes": "Burned-out idealistic types with creative suppression"
+      }
+    ]
+  }
+]

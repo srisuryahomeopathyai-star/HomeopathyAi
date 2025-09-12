@@ -1,0 +1,486 @@
+[
+  {
+    "disease": "Diabetes Mellitus (Type 1 & Type 2)",
+    "tags": [
+      "CommonChronic",
+      "Diabetes",
+      "Polyuria",
+      "Polydipsia",
+      "Metabolic",
+      "Endocrine",
+      "Neuropathy",
+      "Psora",
+      "Sycosis",
+      "Syphilitic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Excessive thirst with frequent urination (polyuria, polydipsia)",
+        "grading": {
+          "high": [
+            "Phosphoric acid",
+            "Syzygium jambolanum",
+            "Uranium nitricum"
+          ],
+          "medium": ["Natrum mur", "Phosphorus"],
+          "low": ["Abroma augusta"]
+        },
+        "modality": "Urine large quantity, thirst constant",
+        "miasm": "Psora",
+        "notes": "Polydipsia–polyuria core pattern; useful early stage or mild cases"
+      },
+      {
+        "rubric": "Weakness, fatigue and emaciation despite eating well",
+        "grading": {
+          "high": ["Phosphoric acid", "Iodum", "Syzygium"],
+          "medium": ["Lycopodium", "Sulphur"],
+          "low": ["Uranium nitricum"]
+        },
+        "modality": "Exhaustion with sugar loss in urine",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Nutritional drain; classic for early wasting in DM"
+      },
+      {
+        "rubric": "Sugar in urine (glycosuria)",
+        "grading": {
+          "high": [
+            "Syzygium jambolanum",
+            "Uranium nitricum",
+            "Phosphoric acid"
+          ],
+          "medium": ["Abroma augusta", "Cephalandra indica"],
+          "low": ["Lactic acid"]
+        },
+        "modality": "Urine analysis showing glucose",
+        "miasm": "Psora",
+        "notes": "Biochemical confirmation-based rubric"
+      },
+      {
+        "rubric": "Diabetic foot ulcers or gangrene with burning, offensive discharge",
+        "grading": {
+          "high": ["Secale cornutum", "Arsenicum album", "Gunpowder"],
+          "medium": ["Silicea", "Anthracinum"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< cold, < touch, burning ulcers",
+        "miasm": "Syphilitic",
+        "notes": "Gangrenous tendency due to vascular compromise"
+      },
+      {
+        "rubric": "Diabetic neuropathy with burning soles or numbness",
+        "grading": {
+          "high": ["Phosphorus", "Sulphur", "Arsenicum album"],
+          "medium": ["Plumbum", "Picric acid"],
+          "low": ["Gnaphalium", "Curare"]
+        },
+        "modality": "Burning, tingling, restless legs",
+        "miasm": "Syphilitic",
+        "notes": "Peripheral nerve damage from glucose toxicity"
+      },
+      {
+        "rubric": "Ravenous hunger, eating frequently but losing weight",
+        "grading": {
+          "high": ["Iodum", "Phosphoric acid", "Syzygium"],
+          "medium": ["Natrum mur", "Abroma augusta"],
+          "low": ["Lactic acid"]
+        },
+        "modality": "Hunger with emaciation",
+        "miasm": "Psora-Sycosis",
+        "notes": "Classic early diabetes; loss of glucose in urine → malnourishment"
+      },
+      {
+        "rubric": "Itching of genitals (esp. vulva, glans) with or without discharge",
+        "grading": {
+          "high": ["Sulphur", "Medorrhinum", "Psorinum"],
+          "medium": ["Graphites", "Thuja"],
+          "low": ["Lactic acid"]
+        },
+        "modality": "< night, < heat, < sweets",
+        "miasm": "Sycosis",
+        "notes": "Sugar excretion → yeast overgrowth → itching"
+      },
+      {
+        "rubric": "History of boils, skin infections, carbuncles in diabetic patients",
+        "grading": {
+          "high": ["Hepar sulph", "Gunpowder", "Arsenicum album"],
+          "medium": ["Silicea", "Anthracinum"],
+          "low": ["Merc sol"]
+        },
+        "modality": "Slow healing, recurrent skin infections",
+        "miasm": "Syphilitic",
+        "notes": "Suppressed immunity due to hyperglycemia"
+      },
+      {
+        "rubric": "Family history of diabetes or obesity",
+        "grading": {
+          "high": ["Tuberculinum", "Syzygium", "Natrum mur"],
+          "medium": ["Calcarea carb", "Medorrhinum"],
+          "low": ["Psorinum"]
+        },
+        "modality": "Genetic predisposition",
+        "miasm": "Mixed",
+        "notes": "Preventive or early-stage selection"
+      }
+    ]
+  },
+  {
+    "deep_additions": [
+      {
+        "rubric": "Diabetes with intense dryness of mouth and tongue; tongue cracked, burning",
+        "grading": {
+          "high": ["Bryonia", "Phosphorus", "Syzygium"],
+          "medium": ["Nat mur", "Lachesis"],
+          "low": ["Lactic acid"]
+        },
+        "modality": "< speaking, < fasting",
+        "miasm": "Psora",
+        "notes": "Dry mucous membranes with excessive thirst and cracks"
+      },
+      {
+        "rubric": "Diabetes with constant craving for sweets despite illness",
+        "grading": {
+          "high": ["Argentum nitricum", "Lycopodium", "Syzygium"],
+          "medium": ["Phosphorus", "Medorrhinum"],
+          "low": ["Nat mur"]
+        },
+        "modality": "< sweets aggravate symptoms; mental craving also present",
+        "miasm": "Sycosis",
+        "notes": "Indicates emotional layer and insulin resistance terrain"
+      },
+      {
+        "rubric": "Urine: profuse, frequent, turbid, with foul odor and sediment",
+        "grading": {
+          "high": ["Uranium nitricum", "Nitric acid", "Sulphur"],
+          "medium": ["Phosphoric acid", "Benzoic acid"],
+          "low": ["Berberis vulg"]
+        },
+        "modality": "Glycosuria with signs of protein/fat metabolism issues",
+        "miasm": "Syphilitic",
+        "notes": "Biochemical decomposition phase in kidneys"
+      },
+      {
+        "rubric": "Sexual weakness or impotence after diabetes onset",
+        "grading": {
+          "high": ["Agnus castus", "Lycopodium", "Phosphoric acid"],
+          "medium": ["Selenium", "Staphysagria"],
+          "low": ["Onosmodium"]
+        },
+        "modality": "< night, < during urination, loss of erection",
+        "miasm": "Psora-Sycosis",
+        "notes": "Important rubric in chronic male diabetics"
+      },
+      {
+        "rubric": "Gangrene of toes/foot from diabetes with blackish discoloration",
+        "grading": {
+          "high": ["Secale cor", "Anthracinum", "Arsenicum album"],
+          "medium": ["Silicea", "Gunpowder"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< cold, < pressure, < tight shoes",
+        "miasm": "Syphilitic",
+        "notes": "Late-stage circulatory collapse"
+      },
+      {
+        "rubric": "Unhealed wounds, cracks on heels or soles in diabetics",
+        "grading": {
+          "high": ["Calendula", "Graphites", "Silicea"],
+          "medium": ["Fluoric acid", "Nat mur"],
+          "low": ["Psorinum"]
+        },
+        "modality": "< walking, < winter, < dust exposure",
+        "miasm": "Psora",
+        "notes": "Common complication; needs chronic repair support"
+      },
+      {
+        "rubric": "Mental dullness, slow comprehension with diabetes",
+        "grading": {
+          "high": ["Phosphoric acid", "Nat mur", "Kali phos"],
+          "medium": ["Calc carb", "Psorinum"],
+          "low": ["Baryta carb"]
+        },
+        "modality": "< mental exertion, < hypoglycemia phase",
+        "miasm": "Psora",
+        "notes": "Mind slowed down, forgetfulness, loss of mental stamina"
+      },
+      {
+        "rubric": "Sleepy, exhausted after eating or afternoon (diabetic fatigue)",
+        "grading": {
+          "high": ["Lycopodium", "Phosphoric acid", "Calcarea carb"],
+          "medium": ["Syzygium", "Natrum sulph"],
+          "low": ["Nux moschata"]
+        },
+        "modality": "Post-prandial drowsiness, mental inertia",
+        "miasm": "Psora-Sycosis",
+        "notes": "Digestive-liver-metabolism disturbance layer"
+      },
+      {
+        "rubric": "Diabetes with alternating skin eruptions or asthma",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Medorrhinum"],
+          "medium": ["Graphites", "Lachesis"],
+          "low": ["Thuja"]
+        },
+        "modality": "Skin suppressed → internalized into metabolism",
+        "miasm": "Psora-Sycosis",
+        "notes": "Deep miasmatic suppression pattern"
+      },
+      {
+        "rubric": "Strong family history of TB, Cancer, or Diabetes",
+        "grading": {
+          "high": ["Tuberculinum", "Carcinosinum", "Syzygium"],
+          "medium": ["Medorrhinum", "Psorinum"],
+          "low": ["Natrum mur"]
+        },
+        "modality": "Inherited miasm + weakened sugar control",
+        "miasm": "Tubercular/Carcinosic terrain",
+        "notes": "Use when case stalls or no remedy acts"
+      }
+    ]
+  },
+  {
+    "final_additions": [
+      {
+        "rubric": "Fear of incurable disease; feels hopeless due to diabetes",
+        "grading": {
+          "high": ["Syphilinum", "Psorinum", "Arsenicum album"],
+          "medium": ["Aurum met", "Ignatia"],
+          "low": ["Lachesis"]
+        },
+        "modality": "< night, < alone, < silence",
+        "miasm": "Syphilitic",
+        "notes": "Mind deteriorates with fear of prognosis; despair stage"
+      },
+      {
+        "rubric": "Foul-smelling urine, with odor like ammonia or decomposed matter",
+        "grading": {
+          "high": ["Benzoic acid", "Nitric acid", "Sulphur"],
+          "medium": ["Uranium nitricum", "Medorrhinum"],
+          "low": ["Berberis"]
+        },
+        "modality": "Smell evident even from a distance; clothes stained",
+        "miasm": "Syphilitic",
+        "notes": "Indicates protein/liver waste overload with incomplete detox"
+      },
+      {
+        "rubric": "Sleeplessness with dry mouth, burning soles and anxiety",
+        "grading": {
+          "high": ["Arsenicum album", "Sulphur", "Syzygium"],
+          "medium": ["Phosphorus", "Coffea"],
+          "low": ["Lactic acid"]
+        },
+        "modality": "< midnight, < warmth, < thoughts",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Diabetic neuropathy with nervous restlessness"
+      },
+      {
+        "rubric": "Delayed healing after any injury or dental extraction",
+        "grading": {
+          "high": ["Calendula", "Fluoric acid", "Silicea"],
+          "medium": ["Hypericum", "Hepar sulph"],
+          "low": ["Calc fluor"]
+        },
+        "modality": "< pressure, < infection, < stress",
+        "miasm": "Syphilitic",
+        "notes": "Failure of connective tissue repair — classic in DM"
+      },
+      {
+        "rubric": "Diabetes after grief, humiliation, or deep disappointment",
+        "grading": {
+          "high": ["Ignatia", "Staphysagria", "Natrum mur"],
+          "medium": ["Phos acid", "Aurum met"],
+          "low": ["Sepia"]
+        },
+        "modality": "Mental trauma precedes onset",
+        "miasm": "Psora",
+        "notes": "Important causative rubric — stress as etiology"
+      },
+      {
+        "rubric": "Numbness and crawling sensation in fingertips/toes",
+        "grading": {
+          "high": ["Phosphorus", "Arsenicum", "Gnaphalium"],
+          "medium": ["Plumbum", "Kali phos"],
+          "low": ["Aconite"]
+        },
+        "modality": "< night, < resting, > warmth",
+        "miasm": "Syphilitic",
+        "notes": "Early or mid-stage diabetic neuropathy"
+      },
+      {
+        "rubric": "Increased thirst but aversion to water",
+        "grading": {
+          "high": ["Lycopodium", "Antimonium crudum", "Pulsatilla"],
+          "medium": ["Sulphur", "Phosphoric acid"],
+          "low": ["Nat mur"]
+        },
+        "modality": "Desires cold drinks but cannot tolerate fluids",
+        "miasm": "Sycosis",
+        "notes": "Rare combination — seen in digestive/insulin-type imbalance"
+      },
+      {
+        "rubric": "History of suppressed eruptions, especially in childhood",
+        "grading": {
+          "high": ["Sulphur", "Psorinum", "Thuja"],
+          "medium": ["Tuberculinum", "Carcinosinum"],
+          "low": ["Lachesis"]
+        },
+        "modality": "Skin issues suppressed → metabolic disease later",
+        "miasm": "Psora-Sycosis",
+        "notes": "Miasmatic base of long-term constitutional breakdown"
+      },
+      {
+        "rubric": "Recurrent yeast infections or balanitis in diabetes",
+        "grading": {
+          "high": ["Medorrhinum", "Sulphur", "Kreosotum"],
+          "medium": ["Thuja", "Graphites"],
+          "low": ["Pulsatilla"]
+        },
+        "modality": "< after sugar, < night, < intercourse",
+        "miasm": "Sycosis",
+        "notes": "Sugar-rich urine promotes fungal overgrowth"
+      },
+      {
+        "rubric": "Loss of vision/blurred vision due to diabetic retinopathy",
+        "grading": {
+          "high": ["Physostigma", "Phosphorus", "Lycopodium"],
+          "medium": ["Syzygium", "Ruta", "Belladonna"],
+          "low": ["China"]
+        },
+        "modality": "< evening, < bright light, < reading",
+        "miasm": "Syphilitic",
+        "notes": "Retinal capillary degeneration and ischemia"
+      }
+    ]
+  },
+  {
+    "disease": "Diabetes Mellitus (Type 1 & Type 2)",
+    "tags": [
+      "Diabetes",
+      "Type1",
+      "Type2",
+      "Endocrine",
+      "Autoimmune",
+      "ChronicMetabolic"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Excessive thirst, frequent urination with weakness",
+        "grading": {
+          "high": ["Phosphorus", "Phosphoric acid", "Sulphur"],
+          "medium": ["Lycopodium", "Syzygium jambolanum"],
+          "low": ["Uranium nitricum"]
+        },
+        "modality": "< afternoon, < fasting, > eating",
+        "miasm": "Psoric–Syphilitic",
+        "notes": "Classic early symptoms of diabetes"
+      },
+      {
+        "rubric": "Dryness of mouth and craving for sweets",
+        "grading": {
+          "high": ["Argentum nitricum", "Phosphorus", "Lachesis"],
+          "medium": ["Sulphur", "Natrum mur"],
+          "low": ["Thyroidinum"]
+        },
+        "modality": "< heat, < evening, > open air",
+        "miasm": "Sycosis–Psora",
+        "notes": "Emotional and craving link to sugar dependency"
+      },
+      {
+        "rubric": "Unhealing ulcers in diabetic patients",
+        "grading": {
+          "high": ["Secale cornutum", "Arsenicum album", "Sulphur"],
+          "medium": ["Gunpowder", "Anthracinum"],
+          "low": ["Syzygium jambolanum"]
+        },
+        "modality": "< night, < cold, < touch",
+        "miasm": "Syphilitic",
+        "notes": "When ulcerative complications develop"
+      },
+      {
+        "rubric": "Numbness, tingling in limbs (diabetic neuropathy)",
+        "grading": {
+          "high": ["Phosphorus", "Plumbum", "Hypericum"],
+          "medium": ["Secale", "Aconite"],
+          "low": ["Kali iodatum"]
+        },
+        "modality": "< night, < resting, > motion",
+        "miasm": "Syphilitic–Tubercular",
+        "notes": "Nerve degeneration from long-term diabetes"
+      },
+      {
+        "rubric": "Weight loss with increased appetite and burning",
+        "grading": {
+          "high": ["Phosphorus", "Iodum", "Natrum mur"],
+          "medium": ["Uranium nitricum", "Argentum nitricum"],
+          "low": ["Syzygium jambolanum"]
+        },
+        "modality": "< exertion, < heat, > open air",
+        "miasm": "Tubercular–Psoric",
+        "notes": "Seen in early Type 1 or poorly managed diabetes"
+      },
+      {
+        "rubric": "Depression, irritability or apathy with diabetes",
+        "grading": {
+          "high": ["Ignatia", "Phosphoric acid", "Nat mur"],
+          "medium": ["Lycopodium", "Lachesis"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "< loneliness, < morning, > talking",
+        "miasm": "Psora–Cancerinic",
+        "notes": "Mind–metabolism link in chronic diabetics"
+      }
+    ],
+    "nosodes_and_intercurrents": [
+      {
+        "rubric": "Diabetes with suppressed skin disease or long-standing miasmatic history",
+        "nosodes": ["Psorinum", "Tuberculinum", "Syphilinum"],
+        "notes": "Use when remedy action stalls or disease alternates with skin"
+      },
+      {
+        "rubric": "Diabetes after vaccination, shock or grief",
+        "nosodes": ["Carcinosinum", "Thuja", "Medorrhinum"],
+        "notes": "Autoimmune onset or emotionally suppressed triggers"
+      },
+      {
+        "rubric": "Chronic diabetes with renal involvement",
+        "intercurrents": [
+          "Uranium nitricum",
+          "Syzygium jambolanum",
+          "Helonias"
+        ],
+        "notes": "Helpful for glycemic control and kidney tone"
+      }
+    ],
+    "remedy_states": [
+      {
+        "remedy": "Phosphoric acid",
+        "state": "Apathetic, indifferent, tired, memory weak, sugar in urine",
+        "key_modalities": "< exertion, < grief, > sleep",
+        "use_when": "Mental and physical debility in chronic diabetes"
+      },
+      {
+        "remedy": "Phosphorus",
+        "state": "Sensitive, anxious, thirsty, burning sensations, sugar craving",
+        "key_modalities": "< heat, < twilight, > cold food",
+        "use_when": "Diabetes with nerve symptoms and bleeding tendency"
+      },
+      {
+        "remedy": "Uranium nitricum",
+        "state": "Emaciation, dryness, high blood sugar, albuminuria",
+        "key_modalities": "< motion, < exertion, < chronicity",
+        "use_when": "Advanced diabetes with kidney damage"
+      },
+      {
+        "remedy": "Syzygium jambolanum",
+        "state": "Specific for glycemic control, polyuria, weight loss",
+        "key_modalities": "Used as supportive organ remedy",
+        "use_when": "When sugar reduction is needed alongside constitutionals"
+      },
+      {
+        "remedy": "Lycopodium",
+        "state": "Weak digestion, bloated, craving sweets, irritable control freak",
+        "key_modalities": "< 4–8pm, < pressure, > warmth",
+        "use_when": "Diabetes with digestive and ego control symptoms"
+      }
+    ]
+  }
+]

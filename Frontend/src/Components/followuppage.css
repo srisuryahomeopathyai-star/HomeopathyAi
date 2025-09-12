@@ -1,0 +1,112 @@
+/* FollowUpPage.css */
+
+.followup-container {
+    max-width: 1000px;
+    margin: 2.5rem auto;
+    padding: 2rem 2.5rem;
+    background: linear-gradient(to bottom right, #fff8e1, #ffe0b2);
+  border: 2px solid #fdb813;
+    border-radius: 14px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+    font-family: "Segoe UI", sans-serif;
+  }
+  .followup-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .date-selector {
+    margin-bottom: 2rem;
+  }
+  
+  .date-selector label {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #2c3e50;
+  }
+  
+  .date-selector input {
+    margin-top: 0.5rem;
+    padding: 0.6rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+    width: 220px;
+  }
+  
+  .followup-container h3 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 0.4rem;
+  }
+  
+  .followup-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 1rem;
+  }
+  
+  .followup-card {
+    background-color: #ecf9f1;
+    border-left: 5px solid #2ecc71;
+    padding: 1rem 1.25rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+  }
+  
+  .auto-card {
+    background-color: #eef4fd;
+    border-left: 5px solid #3498db;
+  }
+  
+  .followup-card strong {
+    color: #2c3e50;
+    display: block;
+    margin-bottom: 4px;
+    font-size: 1.05rem;
+  }
+  
+  .followup-card span {
+    display: block;
+    color: #555;
+    margin: 2px 0;
+    font-size: 0.95rem;
+  }
+  
+  .text-muted {
+    color: #888;
+    font-size: 0.9rem;
+  }
+
+
+  .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .form-group label {
+    width: 150px;
+    min-width: 130px;
+    font-weight: 600;
+    margin-bottom: 0;
+    color: #34495e;
+  }
+  
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    flex: 1;
+    padding: 0.65rem 0.9rem;
+    font-size: 1rem;
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    background-color: #fff;
+    transition: border-color 0.2s ease;
+  }
+  

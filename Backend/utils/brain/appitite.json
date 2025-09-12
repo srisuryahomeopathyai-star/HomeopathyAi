@@ -1,0 +1,2202 @@
+[
+  {
+    "rubric": "Appetite increased",
+    "grading": {
+      "high": ["Lycopodium", "Phosphorus", "China", "Sulphur"],
+      "medium": ["Calcarea carbonica", "Nux vomica", "Ignatia"],
+      "low": ["Psorinum", "Tuberculinum"]
+    },
+    "modality": "Worse after eating; better while eating",
+    "miasm": "Psora",
+    "notes": "Hunger returns soon after a meal, indicates defective assimilation"
+  },
+  {
+    "rubric": "Appetite diminished",
+    "grading": {
+      "high": ["Pulsatilla", "Nux vomica", "Bryonia"],
+      "medium": ["Sepia", "Antimonium crudum", "Ipecac"],
+      "low": ["Arsenicum album", "Silicea"]
+    },
+    "modality": "Worse in morning; better in evening",
+    "miasm": "Psora/Sycosis",
+    "notes": "Often associated with gastric disturbances or hepatic issues"
+  },
+  {
+    "rubric": "Appetite lost completely",
+    "grading": {
+      "high": ["China", "Ferrum", "Nux vomica", "Arsenicum album"],
+      "medium": ["Phosphoric acid", "Sepia"],
+      "low": ["Natrum mur", "Gelsemium"]
+    },
+    "modality": "Worse after fever, grief, or weakness",
+    "miasm": "Psora",
+    "notes": "A common post-infectious or emotional exhaustion symptom"
+  },
+  {
+    "rubric": "Appetite increased during fever",
+    "grading": {
+      "high": ["China", "Rhus tox"],
+      "medium": ["Veratrum album"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Hunger persists in spite of fever",
+    "miasm": "Psora",
+    "notes": "Unusual rubric – contradictory symptom; valuable keynote"
+  },
+  {
+    "rubric": "Appetite variable",
+    "grading": {
+      "high": ["Sulphur", "Calcarea carbonica"],
+      "medium": ["Pulsatilla", "Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "One day high, next day low",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in children with worm infestation or emotional stress"
+  },
+  {
+    "rubric": "Appetite absent with craving for food",
+    "grading": {
+      "high": ["Ignatia", "Anacardium"],
+      "medium": ["Lachesis", "Arsenicum album"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Craving without desire to eat",
+    "miasm": "Sycosis",
+    "notes": "Useful in neurotic or hysterical states"
+  },
+  {
+    "rubric": "Aversion to food at sight or smell",
+    "grading": {
+      "high": ["Sepia", "Antimonium crudum", "Colchicum"],
+      "medium": ["Nux vomica", "Ipecac"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Worse in kitchen; better in open air",
+    "miasm": "Psora/Syphilis",
+    "notes": "Colchicum is especially key for nausea from smell of food"
+  },
+  {
+    "rubric": "Appetite lost after grief or shock",
+    "grading": {
+      "high": ["Ignatia", "Natrum muriaticum"],
+      "medium": ["Phosphoric acid", "Staphysagria"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "After emotional trauma",
+    "miasm": "Psora",
+    "notes": "Common rubric in psychosomatic gastric cases"
+  },
+  {
+    "rubric": "Appetite lost after acute disease",
+    "grading": {
+      "high": ["China", "Arsenicum album"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Sulphur"]
+    },
+    "modality": "After fever, diarrhea, or influenza",
+    "miasm": "Psora",
+    "notes": "Helpful during convalescence period"
+  },
+  {
+    "rubric": "Appetite with rapid emaciation",
+    "grading": {
+      "high": ["Iodum", "Phosphorus", "Natrum muriaticum"],
+      "medium": ["Tuberculinum"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Child eats well but becomes thin",
+    "miasm": "Tubercular",
+    "notes": "Often key in phthisis, diabetes, or hyperthyroid states"
+  },
+  {
+    "rubric": "Hunger with nausea",
+    "grading": {
+      "high": ["Ipecac", "Antimonium crudum"],
+      "medium": ["Nux vomica", "Sepia"],
+      "low": ["Lobelia inflata"]
+    },
+    "modality": "Nausea not relieved by eating",
+    "miasm": "Psora/Sycosis",
+    "notes": "Paradoxical symptom; appetite felt but nausea prevents eating"
+  },
+  {
+    "rubric": "Loss of appetite but thirst increased",
+    "grading": {
+      "high": ["Arsenicum album", "Bryonia"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Desires sips of water frequently despite not wanting food",
+    "miasm": "Psora/Syphilis",
+    "notes": "Common in acute gastroenteritis or chronic enteritis"
+  },
+  {
+    "rubric": "Appetite lost but stomach feels full",
+    "grading": {
+      "high": ["Lycopodium", "Carbo vegetabilis"],
+      "medium": ["Nux vomica", "China"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Bloating or heaviness after small quantity of food",
+    "miasm": "Sycosis",
+    "notes": "Sensation of satiety despite empty stomach"
+  },
+  {
+    "rubric": "Ravenous appetite at noon",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Lachesis", "Calcarea phosphorica"],
+      "low": ["Sepia"]
+    },
+    "modality": "Worse from skipping lunch",
+    "miasm": "Psora",
+    "notes": "Ravenous hunger even after eating breakfast"
+  },
+  {
+    "rubric": "Appetite only for certain foods",
+    "grading": {
+      "high": ["Pulsatilla", "Sulphur"],
+      "medium": ["Calcarea carb", "Natrum mur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Desire only fatty, sweet or particular tastes",
+    "miasm": "Psora",
+    "notes": "Indicates desire-based or selective eating habits"
+  },
+  {
+    "rubric": "Hunger at night",
+    "grading": {
+      "high": ["Sulphur", "Lachesis", "Iodum"],
+      "medium": ["Phosphorus", "Calcarea carbonica"],
+      "low": ["Psorinum"]
+    },
+    "modality": "Wakes at night with hunger",
+    "miasm": "Psora/Tubercular",
+    "notes": "Often seen in lean patients with burning sensation in stomach"
+  },
+  {
+    "rubric": "Appetite with aversion to meat",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Natrum mur", "Calcarea carbonica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Smell or sight of meat causes nausea",
+    "miasm": "Psora",
+    "notes": "Useful in children or adults with liver derangements"
+  },
+  {
+    "rubric": "Appetite with desire to eat frequently but little at a time",
+    "grading": {
+      "high": ["Anacardium", "Iodum"],
+      "medium": ["Sulphur", "Ignatia"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Empty feeling returns soon after eating",
+    "miasm": "Tubercular/Sycosis",
+    "notes": "Often related to gastric ulcer or nervous gastralgia"
+  },
+  {
+    "rubric": "Appetite lost during menses",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla"],
+      "medium": ["Lachesis", "Cyclamen"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Loss of desire to eat during flow",
+    "miasm": "Psora/Sycosis",
+    "notes": "Common rubric in hormonal or uterine conditions"
+  },
+  {
+    "rubric": "Sudden satiety after a few mouthfuls",
+    "grading": {
+      "high": ["Lycopodium", "Sepia"],
+      "medium": ["Nux vomica", "Carbo veg"],
+      "low": ["China"]
+    },
+    "modality": "Worse in evening; better lying down",
+    "miasm": "Sycosis",
+    "notes": "Very key in flatulence, liver dysfunction, sluggish digestion"
+  },
+  {
+    "rubric": "Hunger with anxiety or irritability if not satisfied",
+    "grading": {
+      "high": ["Anacardium", "Lycopodium", "Iodum"],
+      "medium": ["Nux vomica", "Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Better after eating; worse when fasting",
+    "miasm": "Psora/Sycosis",
+    "notes": "Key rubric in hypoglycemia or gastric neurosis"
+  },
+  {
+    "rubric": "Appetite lost during pregnancy",
+    "grading": {
+      "high": ["Sepia", "Cocculus"],
+      "medium": ["Colchicum", "Nux vomica"],
+      "low": ["Ipecac"]
+    },
+    "modality": "Worse in first trimester or morning",
+    "miasm": "Psora",
+    "notes": "Especially during early nausea and morning sickness"
+  },
+  {
+    "rubric": "Hunger before headache",
+    "grading": {
+      "high": ["Ignatia", "Gelsemium", "Anacardium"],
+      "medium": ["Iris versicolor"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Headache relieved after eating",
+    "miasm": "Psora",
+    "notes": "Often seen in neurotic or hypoglycemic headaches"
+  },
+  {
+    "rubric": "Craving food without appetite",
+    "grading": {
+      "high": ["Ignatia", "Anacardium"],
+      "medium": ["Natrum mur", "Sulphur"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Feels like eating but gets no satisfaction",
+    "miasm": "Sycosis",
+    "notes": "Emotional eating patterns seen in functional disorders"
+  },
+  {
+    "rubric": "Hunger after stool",
+    "grading": {
+      "high": ["Sulphur", "Podophyllum"],
+      "medium": ["Aloe", "China"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Hunger reappears after loose stool or diarrhea",
+    "miasm": "Psora",
+    "notes": "Keynote symptom in chronic diarrhea with weakness"
+  },
+  {
+    "rubric": "Appetite with aversion to cooked food",
+    "grading": {
+      "high": ["Colchicum", "Antimonium crudum"],
+      "medium": ["Sepia", "Nux vomica"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Worse from smell or thought of food",
+    "miasm": "Psora/Syphilis",
+    "notes": "Mainly used in nausea, pregnancy, or gastric flu"
+  },
+  {
+    "rubric": "Appetite absent with early satiety",
+    "grading": {
+      "high": ["Lycopodium", "Nux vomica"],
+      "medium": ["Sepia", "China"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Can’t eat much despite hunger",
+    "miasm": "Sycosis",
+    "notes": "Seen in liver and spleen enlargement cases"
+  },
+  {
+    "rubric": "Appetite lost after anger or stress",
+    "grading": {
+      "high": ["Staphysagria", "Nux vomica", "Ignatia"],
+      "medium": ["Lycopodium", "Colocynthis"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "After emotional upset or conflict",
+    "miasm": "Psora/Sycosis",
+    "notes": "Common rubric in psychosomatic gastric cases"
+  },
+  {
+    "rubric": "Appetite increased at night",
+    "grading": {
+      "high": ["Lachesis", "Iodum", "Sulphur"],
+      "medium": ["Phosphorus", "Natrum mur"],
+      "low": ["Psorinum"]
+    },
+    "modality": "Wakes from hunger; eats in middle of night",
+    "miasm": "Tubercular/Psora",
+    "notes": "Seen in lean, restless children or hyperthyroid individuals"
+  },
+  {
+    "rubric": "Appetite suppressed after fright or shock",
+    "grading": {
+      "high": ["Opium", "Ignatia"],
+      "medium": ["Gelsemium", "Aconitum"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "After accidents or emotional shocks",
+    "miasm": "Psora/Syphilis",
+    "notes": "Useful rubric in post-trauma or PTSD-linked digestive shutdown"
+  },
+  {
+    "rubric": "Loss of appetite after overwork",
+    "grading": {
+      "high": ["Phosphoric acid", "Nux vomica"],
+      "medium": ["Sulphur", "Gelsemium"],
+      "low": ["Calcarea phosphorica"]
+    },
+    "modality": "After mental or physical exertion",
+    "miasm": "Psora",
+    "notes": "Common in students, professionals, or post-exam fatigue"
+  },
+  {
+    "rubric": "Appetite lost with white-coated tongue",
+    "grading": {
+      "high": ["Antimonium crudum", "Bryonia"],
+      "medium": ["Mercurius", "Nux vomica"],
+      "low": ["Ipecac"]
+    },
+    "modality": "Tongue heavily coated with bitter taste",
+    "miasm": "Psora/Syphilis",
+    "notes": "Often seen in acute indigestion or fevers"
+  },
+  {
+    "rubric": "Appetite lost with sour eructations",
+    "grading": {
+      "high": ["Carbo vegetabilis", "Lycopodium"],
+      "medium": ["Phosphorus", "Nux vomica"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "After even light meals",
+    "miasm": "Sycosis",
+    "notes": "Indicative of weak digestion and flatulence"
+  },
+  {
+    "rubric": "Appetite lost with flatulence and distension",
+    "grading": {
+      "high": ["Lycopodium", "Carbo veg"],
+      "medium": ["China", "Nux vomica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Bloating worse in evening",
+    "miasm": "Sycosis",
+    "notes": "Gastrointestinal sluggishness; bloating despite eating little"
+  },
+  {
+    "rubric": "Loss of appetite with aversion to bread",
+    "grading": {
+      "high": ["Sulphur", "Pulsatilla"],
+      "medium": ["Natrum mur", "Calcarea carb"],
+      "low": ["Sepia"]
+    },
+    "modality": "Cannot tolerate even smell or taste of bread",
+    "miasm": "Psora",
+    "notes": "Seen in weak digestion or milk-intolerant children"
+  },
+  {
+    "rubric": "Desire to eat while eating",
+    "grading": {
+      "high": ["Anacardium", "Iodum"],
+      "medium": ["Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Keeps feeling empty even during meal",
+    "miasm": "Tubercular",
+    "notes": "Seen in hyperthyroid or emaciated patients"
+  },
+  {
+    "rubric": "Appetite lost with bitter taste in mouth",
+    "grading": {
+      "high": ["Bryonia", "Nux vomica"],
+      "medium": ["Chelidonium", "Mercurius"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse in morning or after rich food",
+    "miasm": "Psora",
+    "notes": "Often indicates liver/gallbladder dysfunction"
+  },
+  {
+    "rubric": "Hunger comes in bouts",
+    "grading": {
+      "high": ["Ignatia", "Sulphur"],
+      "medium": ["Phosphorus", "Lachesis"],
+      "low": ["Calcarea phosphorica"]
+    },
+    "modality": "Appears suddenly, then vanishes",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in emotional eaters and nervous types"
+  },
+  {
+    "rubric": "Appetite lost with dryness of mouth",
+    "grading": {
+      "high": ["Nux moschata", "Bryonia"],
+      "medium": ["Natrum mur", "Pulsatilla"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Dryness without thirst",
+    "miasm": "Psora",
+    "notes": "Characteristic of many acute febrile conditions"
+  },
+  {
+    "rubric": "Appetite lost with constant spitting",
+    "grading": {
+      "high": ["Mercurius", "Ipecac"],
+      "medium": ["Kali bichromicum"],
+      "low": ["Hydrastis"]
+    },
+    "modality": "Mouth filled with sticky saliva",
+    "miasm": "Syphilitic",
+    "notes": "Common in gastritis or during teething"
+  },
+  {
+    "rubric": "Hunger after vomiting",
+    "grading": {
+      "high": ["Veratrum album", "Ipecac"],
+      "medium": ["Phosphorus"],
+      "low": ["Antimonium tartaricum"]
+    },
+    "modality": "Vomiting relieves nausea and brings hunger",
+    "miasm": "Psora",
+    "notes": "Seen in cholera, hyperemesis gravidarum, or gastric flu"
+  },
+  {
+    "rubric": "Appetite lost in hot weather",
+    "grading": {
+      "high": ["Glonoine", "Gelsemium"],
+      "medium": ["Lachesis", "Belladonna"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Worse during summer or heat exposure",
+    "miasm": "Psora",
+    "notes": "Seen in heatstroke, sun exhaustion, or low BP"
+  },
+  {
+    "rubric": "Desire to eat indigestible things (pica)",
+    "grading": {
+      "high": ["Calcarea carbonica", "Alumina"],
+      "medium": ["Silicea", "Psorinum"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Desire for chalk, clay, earth, coal, etc.",
+    "miasm": "Psora/Syphilis",
+    "notes": "Common in anemic children or pregnant women"
+  },
+  {
+    "rubric": "Hunger without strength",
+    "grading": {
+      "high": ["China", "Phosphoric acid"],
+      "medium": ["Sulphur", "Veratrum album"],
+      "low": ["Psorinum"]
+    },
+    "modality": "Even eating gives no energy",
+    "miasm": "Psora",
+    "notes": "Characteristic of debility, chronic illness, or anemia"
+  },
+  {
+    "rubric": "Appetite lost after vaccination",
+    "grading": {
+      "high": ["Thuja", "Silicea"],
+      "medium": ["Sulphur", "Antimonium crudum"],
+      "low": ["Carcinosin"]
+    },
+    "modality": "Chronic dyspepsia post-vaccine",
+    "miasm": "Sycosis",
+    "notes": "Thuja is the key nosode for vaccine-related disturbances"
+  },
+  {
+    "rubric": "Hunger at fixed hours",
+    "grading": {
+      "high": ["China", "Natrum muriaticum"],
+      "medium": ["Iodum", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "If meal is delayed, headache or weakness results",
+    "miasm": "Psora",
+    "notes": "Strong keynote for digestive regulation disturbance"
+  },
+  {
+    "rubric": "Loss of appetite from anticipation or fear",
+    "grading": {
+      "high": ["Gelsemium", "Argentum nitricum"],
+      "medium": ["Ignatia", "Phosphoric acid"],
+      "low": ["Silicea"]
+    },
+    "modality": "Before exams, interviews, or travel",
+    "miasm": "Psora/Sycosis",
+    "notes": "Typical in students or performance anxiety types"
+  },
+  {
+    "rubric": "Appetite lost with heaviness in stomach",
+    "grading": {
+      "high": ["Nux vomica", "Bryonia"],
+      "medium": ["Carbo veg", "China"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Better by rest and warm drinks",
+    "miasm": "Sycosis",
+    "notes": "Accompanies liver or spleen congestion"
+  },
+  {
+    "rubric": "Ravenous hunger even after meals",
+    "grading": {
+      "high": ["Iodum", "China", "Phosphorus"],
+      "medium": ["Sulphur", "Tuberculinum"],
+      "low": ["Calcarea phosphorica"]
+    },
+    "modality": "Eats well but feels empty",
+    "miasm": "Tubercular",
+    "notes": "Important in diabetes, thyroid or worms"
+  },
+  {
+    "rubric": "Appetite lost with nausea from motion",
+    "grading": {
+      "high": ["Cocculus", "Tabacum"],
+      "medium": ["Petroleum", "Sepia"],
+      "low": ["Theridion"]
+    },
+    "modality": "While traveling or in a moving vehicle",
+    "miasm": "Psora",
+    "notes": "Motion sickness blocks desire to eat"
+  },
+  {
+    "rubric": "Appetite lost with headache",
+    "grading": {
+      "high": ["Iris versicolor", "Bryonia"],
+      "medium": ["Belladonna", "Nux vomica"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Worse with sun or eye strain",
+    "miasm": "Psora/Sycosis",
+    "notes": "Often seen in migraine cases with gastric derangement"
+  },
+  {
+    "rubric": "Appetite lost in morning but increased in evening",
+    "grading": {
+      "high": ["Sulphur", "Pulsatilla"],
+      "medium": ["Calcarea carbonica", "Lycopodium"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Empty feeling appears after sunset",
+    "miasm": "Psora",
+    "notes": "Useful in patients with reversed appetite rhythms"
+  },
+  {
+    "rubric": "Appetite returns suddenly after stool",
+    "grading": {
+      "high": ["Sulphur", "Podophyllum"],
+      "medium": ["Aloe", "China"],
+      "low": ["Iodum"]
+    },
+    "modality": "Hunger follows emptying of bowels",
+    "miasm": "Psora",
+    "notes": "Common in chronic diarrhea with debility"
+  },
+  {
+    "rubric": "Aversion to food due to mental exertion",
+    "grading": {
+      "high": ["Nux vomica", "Phosphoric acid"],
+      "medium": ["Gelsemium", "Ignatia"],
+      "low": ["Silicea"]
+    },
+    "modality": "After prolonged study or office work",
+    "miasm": "Psora",
+    "notes": "Mental fatigue suppresses gastric desire"
+  },
+  {
+    "rubric": "Appetite lost from suppressed skin eruptions",
+    "grading": {
+      "high": ["Sulphur", "Psorinum"],
+      "medium": ["Graphites", "Mezereum"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "After ointment or topical medicine use",
+    "miasm": "Psora/Syphilis",
+    "notes": "Loss of appetite signals internal disease shift"
+  },
+  {
+    "rubric": "Loss of appetite in dentition",
+    "grading": {
+      "high": ["Calcarea carbonica", "Chamomilla"],
+      "medium": ["Belladonna", "Mercurius"],
+      "low": ["Silicea"]
+    },
+    "modality": "During teething with salivation",
+    "miasm": "Psora",
+    "notes": "Useful in irritable, feverish infants"
+  },
+  {
+    "rubric": "Hunger with empty feeling in stomach at night",
+    "grading": {
+      "high": ["Sulphur", "Lycopodium"],
+      "medium": ["Anacardium", "Ignatia"],
+      "low": ["Psorinum"]
+    },
+    "modality": "Better by eating small quantity",
+    "miasm": "Psora/Tubercular",
+    "notes": "Often leads to frequent nighttime snacking"
+  },
+  {
+    "rubric": "Appetite lost with excessive sleepiness",
+    "grading": {
+      "high": ["Gelsemium", "Opium"],
+      "medium": ["Antimonium crudum", "Nux moschata"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Worse after sleep or during fevers",
+    "miasm": "Psora",
+    "notes": "Seen in typhoid, flu, or somnolent constitutions"
+  },
+  {
+    "rubric": "Loss of appetite with bad taste in mouth",
+    "grading": {
+      "high": ["Mercurius", "Nux vomica"],
+      "medium": ["Pulsatilla", "Bryonia"],
+      "low": ["Ipecac"]
+    },
+    "modality": "Metallic or bitter taste suppresses desire to eat",
+    "miasm": "Syphilitic",
+    "notes": "Common in mouth ulcerations, hepatic dysfunction"
+  },
+  {
+    "rubric": "Loss of appetite with burning in stomach",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Carbo vegetabilis", "Iris versicolor"],
+      "low": ["Natrum phosphoricum"]
+    },
+    "modality": "Worse at night, better by sipping warm drinks",
+    "miasm": "Syphilitic",
+    "notes": "Indicates gastric ulcer or reflux disease"
+  },
+  {
+    "rubric": "Appetite lost with yellow-coated tongue",
+    "grading": {
+      "high": ["Chelidonium", "Mercurius"],
+      "medium": ["Nux vomica", "Podophyllum"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Worse in the morning",
+    "miasm": "Psora/Syphilis",
+    "notes": "Common in hepatic or biliary disorders"
+  },
+  {
+    "rubric": "Loss of appetite in elderly",
+    "grading": {
+      "high": ["Carbo vegetabilis", "Conium"],
+      "medium": ["Alumina", "Lycopodium"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Worse after prolonged inactivity or during chronic weakness",
+    "miasm": "Psora/Sycosis",
+    "notes": "Useful in old age constitutional decline"
+  },
+  {
+    "rubric": "Hunger with trembling or faintness",
+    "grading": {
+      "high": ["China", "Sulphur"],
+      "medium": ["Iodum", "Phosphorus"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Better immediately after food intake",
+    "miasm": "Psora/Tubercular",
+    "notes": "Important rubric in hypoglycemia or anemia"
+  },
+  {
+    "rubric": "Loss of appetite in early morning",
+    "grading": {
+      "high": ["Nux vomica", "Sepia"],
+      "medium": ["Pulsatilla", "Bryonia"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Wakes up without desire for breakfast",
+    "miasm": "Psora",
+    "notes": "Common in liver congestion or sluggish digestion"
+  },
+  {
+    "rubric": "Appetite lost with white mucous coating on tongue",
+    "grading": {
+      "high": ["Antimonium crudum", "Mercurius"],
+      "medium": ["Nux vomica", "Calcarea carbonica"],
+      "low": ["Ipecac"]
+    },
+    "modality": "Worse after over-eating or sweets",
+    "miasm": "Psora",
+    "notes": "Typically seen in gastric or febrile conditions"
+  },
+  {
+    "rubric": "Appetite lost with nausea from emotions",
+    "grading": {
+      "high": ["Ignatia", "Cocculus"],
+      "medium": ["Gelsemium", "Pulsatilla"],
+      "low": ["Sepia"]
+    },
+    "modality": "Worse from grief, anxiety, or anticipation",
+    "miasm": "Psora",
+    "notes": "Common in psychosomatic and female hormonal cases"
+  },
+  {
+    "rubric": "Hunger with gnawing sensation",
+    "grading": {
+      "high": ["Anacardium", "Iodum"],
+      "medium": ["China", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Better after eating small quantities",
+    "miasm": "Tubercular",
+    "notes": "Felt especially at night or between meals"
+  },
+  {
+    "rubric": "Appetite lost with bitter regurgitation",
+    "grading": {
+      "high": ["Nux vomica", "Chelidonium"],
+      "medium": ["Bryonia", "Podophyllum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse after fatty food or late meals",
+    "miasm": "Psora/Sycosis",
+    "notes": "Important in liver or gallbladder issues"
+  },
+  {
+    "rubric": "Loss of appetite with tongue indented on sides",
+    "grading": {
+      "high": ["Mercurius", "China"],
+      "medium": ["Silicea", "Chelidonium"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Tongue swollen with tooth marks",
+    "miasm": "Sycosis",
+    "notes": "Seen in digestive stagnation or spleen dysfunction"
+  },
+  {
+    "rubric": "Appetite lost but desire for liquids remains",
+    "grading": {
+      "high": ["Arsenicum album", "Bryonia"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["China"]
+    },
+    "modality": "Craves water but not food",
+    "miasm": "Psora/Syphilis",
+    "notes": "Keynote in gastric influenza, fevers, and exhaustion states"
+  },
+  {
+    "rubric": "Appetite lost during fever",
+    "grading": {
+      "high": ["Gelsemium", "Bryonia", "Belladonna"],
+      "medium": ["Arsenicum album", "Rhus tox"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse with rising temperature",
+    "miasm": "Psora",
+    "notes": "Common in acute febrile states like flu or dengue"
+  },
+  {
+    "rubric": "Hunger returns after every small exertion",
+    "grading": {
+      "high": ["China", "Phosphoric acid"],
+      "medium": ["Sulphur", "Lycopodium"],
+      "low": ["Psorinum"]
+    },
+    "modality": "Better by lying down after eating",
+    "miasm": "Psora",
+    "notes": "Exertion depletes energy rapidly; indicates weak assimilation"
+  },
+  {
+    "rubric": "Appetite lost with sour taste in mouth",
+    "grading": {
+      "high": ["Antimonium crudum", "Nux vomica"],
+      "medium": ["Carbo veg", "Calcarea carbonica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Sour belching or eructation",
+    "miasm": "Psora/Sycosis",
+    "notes": "Typical in dyspepsia or delayed gastric emptying"
+  },
+  {
+    "rubric": "Ravenous hunger with rapid weight loss",
+    "grading": {
+      "high": ["Iodum", "Natrum muriaticum"],
+      "medium": ["Phosphorus", "Tuberculinum"],
+      "low": ["China"]
+    },
+    "modality": "Despite eating, emaciation continues",
+    "miasm": "Tubercular",
+    "notes": "Seen in hyperthyroid, TB, diabetes, or worm infestation"
+  },
+  {
+    "rubric": "Appetite absent during menses",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla"],
+      "medium": ["Lachesis", "Cyclamen"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Only returns after menstrual flow ends",
+    "miasm": "Psora/Sycosis",
+    "notes": "Hormonal link in menstrual disturbances"
+  },
+  {
+    "rubric": "Hunger aggravates complaints",
+    "grading": {
+      "high": ["Anacardium", "Ignatia"],
+      "medium": ["Lycopodium", "Iodum"],
+      "low": ["China"]
+    },
+    "modality": "Irritable, giddy, or faint if food delayed",
+    "miasm": "Psora",
+    "notes": "Seen in hypoglycemia or nervous exhaustion"
+  },
+  {
+    "rubric": "Appetite lost after bad news or shock",
+    "grading": {
+      "high": ["Ignatia", "Gelsemium"],
+      "medium": ["Natrum mur", "Phosphoric acid"],
+      "low": ["Staphysagria"]
+    },
+    "modality": "After grief or trauma",
+    "miasm": "Psora",
+    "notes": "Classic psychosomatic response after loss"
+  },
+  {
+    "rubric": "Appetite lost with constipation",
+    "grading": {
+      "high": ["Bryonia", "Nux vomica"],
+      "medium": ["Alumina", "Opium"],
+      "low": ["Graphites"]
+    },
+    "modality": "Better after soft stool or enema",
+    "miasm": "Psora/Sycosis",
+    "notes": "Gastrointestinal stagnation affects appetite"
+  },
+  {
+    "rubric": "Loss of appetite alternating with ravenous hunger",
+    "grading": {
+      "high": ["Sulphur", "Lycopodium"],
+      "medium": ["Calcarea carbonica", "Pulsatilla"],
+      "low": ["Sepia"]
+    },
+    "modality": "Irregular eating pattern over days",
+    "miasm": "Psora",
+    "notes": "Often seen in constitutional cases with endocrine imbalance"
+  },
+  {
+    "rubric": "Appetite lost in the evening only",
+    "grading": {
+      "high": ["Lycopodium", "Sepia"],
+      "medium": ["Nux vomica", "Pulsatilla"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Hunger in morning and noon; no appetite at dinner",
+    "miasm": "Psora",
+    "notes": "Related to liver/gastric rhythm disturbance"
+  },
+  {
+    "rubric": "Appetite lost with craving only for sour or spicy things",
+    "grading": {
+      "high": ["Phosphorus", "Pulsatilla"],
+      "medium": ["Sulphur", "Nux vomica"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Desire specific strong flavors despite no hunger",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in patients with altered gastric tone"
+  },
+  {
+    "rubric": "Loss of appetite in children with worms",
+    "grading": {
+      "high": ["Cina", "Spigelia"],
+      "medium": ["Santoninum", "Teucrium"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Pale face, dark circles, irritability",
+    "miasm": "Psora",
+    "notes": "Common with bruxism, nasal itching, or anal irritation"
+  },
+  {
+    "rubric": "Appetite lost with excessive thirst",
+    "grading": {
+      "high": ["Bryonia", "Arsenicum album"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["China"]
+    },
+    "modality": "No hunger but craves frequent or large drinks",
+    "miasm": "Psora/Syphilis",
+    "notes": "Found in febrile and dehydrated states"
+  },
+  {
+    "rubric": "Hunger with weak digestion",
+    "grading": {
+      "high": ["Lycopodium", "China"],
+      "medium": ["Carbo veg", "Phosphoric acid"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Food causes bloating or discomfort",
+    "miasm": "Sycosis",
+    "notes": "Useful in cases of poor assimilation and nutritional anemia"
+  },
+  {
+    "rubric": "Appetite absent after acute gastroenteritis",
+    "grading": {
+      "high": ["Arsenicum album", "Ipecac"],
+      "medium": ["Phosphorus", "Podophyllum"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Prolonged gastric weakness after diarrhea or vomiting",
+    "miasm": "Psora",
+    "notes": "Chronic convalescence phase; helps prevent relapse"
+  },
+  {
+    "rubric": "Loss of appetite with emotional indifference",
+    "grading": {
+      "high": ["Phosphoric acid", "Sepia"],
+      "medium": ["Ignatia", "Natrum mur"],
+      "low": ["Silicea"]
+    },
+    "modality": "Emotionally flat and indifferent to food",
+    "miasm": "Psora/Syphilis",
+    "notes": "Seen in grief, depression, and post-trauma states"
+  },
+  {
+    "rubric": "Appetite lost after prolonged fasting",
+    "grading": {
+      "high": ["Sulphur", "Nux vomica"],
+      "medium": ["Ignatia", "Phosphoric acid"],
+      "low": ["Calcarea carb"]
+    },
+    "modality": "No hunger despite long gap",
+    "miasm": "Psora",
+    "notes": "Indicates sluggish metabolism and weak gastric tone"
+  },
+  {
+    "rubric": "Appetite lost with burning eructations",
+    "grading": {
+      "high": ["Phosphorus", "Arsenicum album"],
+      "medium": ["Iris versicolor", "Carbo veg"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse after spicy or fried food",
+    "miasm": "Syphilitic",
+    "notes": "Useful in GERD, ulcers, or hiatal hernia"
+  },
+  {
+    "rubric": "Hunger causes nausea if not satisfied",
+    "grading": {
+      "high": ["Anacardium", "Iodum"],
+      "medium": ["China", "Phosphorus"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Nausea vanishes after eating",
+    "miasm": "Tubercular",
+    "notes": "Strong keynote of digestive-nervous axis"
+  },
+  {
+    "rubric": "Appetite lost in young girls at puberty",
+    "grading": {
+      "high": ["Pulsatilla", "Cyclamen"],
+      "medium": ["Sepia", "Calcarea carbonica"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Hormonal changes with emotional sensitivity",
+    "miasm": "Psora",
+    "notes": "Common during menstrual irregularities and breast development"
+  },
+  {
+    "rubric": "Appetite lost during grief",
+    "grading": {
+      "high": ["Ignatia", "Phosphoric acid"],
+      "medium": ["Natrum mur", "Sepia"],
+      "low": ["Aurum metallicum"]
+    },
+    "modality": "Worse after disappointment or sorrow",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Classic rubric in psychosomatic and post-trauma cases"
+  },
+  {
+    "rubric": "Loss of appetite after head injury",
+    "grading": {
+      "high": ["Natrum sulphuricum", "Helleborus"],
+      "medium": ["Arnica", "Hypericum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Persistent even after trauma heals",
+    "miasm": "Syphilitic",
+    "notes": "Post-concussion syndrome; used in head trauma recovery"
+  },
+  {
+    "rubric": "Appetite returns after vomiting",
+    "grading": {
+      "high": ["Veratrum album", "Phosphorus"],
+      "medium": ["Antimonium crudum", "Ipecac"],
+      "low": ["Colchicum"]
+    },
+    "modality": "Feels better and hungry after emptying stomach",
+    "miasm": "Psora",
+    "notes": "Often seen in gastric flu and pregnancy-related nausea"
+  },
+  {
+    "rubric": "Aversion to food from smell only",
+    "grading": {
+      "high": ["Colchicum", "Sepia"],
+      "medium": ["Nux vomica", "Antimonium crudum"],
+      "low": ["Ipecac"]
+    },
+    "modality": "Smell alone triggers nausea or gagging",
+    "miasm": "Psora",
+    "notes": "Important during pregnancy, migraine, or gastritis"
+  },
+  {
+    "rubric": "Appetite lost with excessive salivation",
+    "grading": {
+      "high": ["Mercurius", "Ipecac"],
+      "medium": ["Kali bichromicum", "Hydrastis"],
+      "low": ["Nitric acid"]
+    },
+    "modality": "Saliva interferes with desire or ability to eat",
+    "miasm": "Syphilitic",
+    "notes": "Seen in teething, mouth ulcers, or gastric catarrh"
+  },
+  {
+    "rubric": "Appetite lost during menstruation",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Lachesis", "Cyclamen"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Food is not tolerated during flow",
+    "miasm": "Psora",
+    "notes": "Useful in cases of hormonal suppression or mood-linked anorexia"
+  },
+  {
+    "rubric": "Appetite lost with feeling of satiety after few bites",
+    "grading": {
+      "high": ["Lycopodium", "Nux vomica"],
+      "medium": ["Carbo veg", "Sepia"],
+      "low": ["China"]
+    },
+    "modality": "Feels full too early",
+    "miasm": "Sycosis",
+    "notes": "Seen in liver/spleen enlargement or sluggish stomach"
+  },
+  {
+    "rubric": "Appetite absent during hot, humid weather",
+    "grading": {
+      "high": ["Glonoine", "Gelsemium"],
+      "medium": ["Pulsatilla", "Natrum mur"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "During summer or monsoon season",
+    "miasm": "Psora",
+    "notes": "Useful in seasonal gastric upsets and low BP cases"
+  },
+  {
+    "rubric": "Loss of appetite with burning tongue or lips",
+    "grading": {
+      "high": ["Arsenicum album", "Sulphur"],
+      "medium": ["Phosphorus", "Borax"],
+      "low": ["Mercurius"]
+    },
+    "modality": "Pain in oral cavity makes eating uncomfortable",
+    "miasm": "Syphilitic",
+    "notes": "Seen in oral candidiasis, stomatitis, or glossitis"
+  },
+  {
+    "rubric": "Appetite lost in chronic skin diseases",
+    "grading": {
+      "high": ["Psorinum", "Sulphur"],
+      "medium": ["Graphites", "Mezereum"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Worse with itching or skin flare-ups",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Often occurs in eczema, psoriasis, and chronic dermatoses"
+  },
+  {
+    "rubric": "Loss of appetite with cough",
+    "grading": {
+      "high": ["Drosera", "Phosphorus"],
+      "medium": ["Ipecac", "Rumex"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Coughing paroxysms suppress hunger",
+    "miasm": "Psora/Tubercular",
+    "notes": "Common in bronchitis, laryngitis, or TB"
+  },
+  {
+    "rubric": "Hunger returns after stool with chilliness",
+    "grading": {
+      "high": ["Podophyllum", "Sulphur"],
+      "medium": ["Veratrum album", "China"],
+      "low": ["Aloe"]
+    },
+    "modality": "Chill and weakness relieved by eating",
+    "miasm": "Psora",
+    "notes": "Seen in chronic diarrhea, IBS, and post-stool exhaustion"
+  },
+  {
+    "rubric": "Appetite absent in infants",
+    "grading": {
+      "high": ["Calcarea carbonica", "Chamomilla"],
+      "medium": ["Silicea", "Antimonium crudum"],
+      "low": ["Aethusa cynapium"]
+    },
+    "modality": "Infant refuses breast or bottle despite hunger signs",
+    "miasm": "Psora",
+    "notes": "May signal dentition issues or lactose intolerance"
+  },
+  {
+    "rubric": "Craving food but cannot tolerate any",
+    "grading": {
+      "high": ["Phosphorus", "Arsenicum album"],
+      "medium": ["Veratrum album", "Ipecac"],
+      "low": ["Colchicum"]
+    },
+    "modality": "Craves but vomits or becomes nauseated after eating",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Seen in gastritis, ulcers, or mental restlessness"
+  },
+  {
+    "rubric": "Aversion to food even when hungry",
+    "grading": {
+      "high": ["Ignatia", "Sepia"],
+      "medium": ["Anacardium", "Nux vomica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Feels hunger but mentally repelled by food",
+    "miasm": "Psora",
+    "notes": "Often linked to emotional suppression or depression"
+  },
+  {
+    "rubric": "Appetite lost with flat, bitter taste in mouth",
+    "grading": {
+      "high": ["Bryonia", "Chelidonium"],
+      "medium": ["Mercurius", "Podophyllum"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse in morning or after fatty food",
+    "miasm": "Sycosis",
+    "notes": "Indicative of hepatic or biliary sluggishness"
+  },
+  {
+    "rubric": "Loss of appetite before stool",
+    "grading": {
+      "high": ["Aloe", "Podophyllum"],
+      "medium": ["Sulphur", "Calcarea carb"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Discomfort or urgency suppresses desire to eat",
+    "miasm": "Psora",
+    "notes": "Seen in IBS, habitual loose stool, and amoebiasis"
+  },
+  {
+    "rubric": "Appetite lost with pain in stomach before meals",
+    "grading": {
+      "high": ["Anacardium", "Nux vomica"],
+      "medium": ["Iodum", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Pain relieved by eating",
+    "miasm": "Tubercular",
+    "notes": "Common in ulcers and gastric erosion"
+  },
+  {
+    "rubric": "Loss of appetite from disappointment or humiliation",
+    "grading": {
+      "high": ["Ignatia", "Staphysagria"],
+      "medium": ["Natrum mur", "Aurum"],
+      "low": ["Sepia"]
+    },
+    "modality": "Occurs after emotional insult",
+    "miasm": "Psora",
+    "notes": "Important in psychosomatic digestion disorders"
+  },
+  {
+    "rubric": "Appetite lost with drowsiness after meals",
+    "grading": {
+      "high": ["Nux moschata", "Antimonium crudum"],
+      "medium": ["Lycopodium", "Calcarea carb"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Sleepiness follows eating even small quantity",
+    "miasm": "Psora",
+    "notes": "Indicates poor assimilation and liver sluggishness"
+  },
+  {
+    "rubric": "Appetite lost with nausea from smell of food",
+    "grading": {
+      "high": ["Colchicum", "Sepia"],
+      "medium": ["Ipecac", "Antimonium crudum"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Worse from kitchen smell or warm food",
+    "miasm": "Psora",
+    "notes": "Keynote in pregnancy, gastritis, and sensitive patients"
+  },
+  {
+    "rubric": "Appetite lost with burning sensation in abdomen",
+    "grading": {
+      "high": ["Arsenicum album", "Phosphorus"],
+      "medium": ["Carbo vegetabilis", "Iris versicolor"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse at night; better with warm drinks",
+    "miasm": "Syphilitic",
+    "notes": "Often associated with ulcerative or inflammatory gastritis"
+  },
+  {
+    "rubric": "Aversion to food after eating a little",
+    "grading": {
+      "high": ["Lycopodium", "Nux vomica"],
+      "medium": ["Sepia", "Anacardium"],
+      "low": ["China"]
+    },
+    "modality": "Early satiety; bloating and loss of taste",
+    "miasm": "Sycosis",
+    "notes": "Useful in hepatic and digestive insufficiency cases"
+  },
+  {
+    "rubric": "Loss of appetite after alcohol or alcohol abuse",
+    "grading": {
+      "high": ["Nux vomica", "Chelidonium"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse with beer, wine, or spirits",
+    "miasm": "Psora/Sycosis",
+    "notes": "Common in liver congestion and addiction profiles"
+  },
+  {
+    "rubric": "Appetite lost with aversion to warm food",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Antimonium crudum", "Phosphorus"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Better with cold or raw food",
+    "miasm": "Psora",
+    "notes": "Seen in hormonal, hepatic, and sluggish cases"
+  },
+  {
+    "rubric": "Appetite lost in early stages of fever",
+    "grading": {
+      "high": ["Gelsemium", "Aconite"],
+      "medium": ["Bryonia", "Belladonna"],
+      "low": ["Rhus tox"]
+    },
+    "modality": "First 24–48 hours of acute illness",
+    "miasm": "Psora",
+    "notes": "Helps in differentiating low-activity febrile stages"
+  },
+  {
+    "rubric": "Craving for food but vomits immediately",
+    "grading": {
+      "high": ["Ipecac", "Veratrum album"],
+      "medium": ["Antimonium crudum", "Phosphorus"],
+      "low": ["Colchicum"]
+    },
+    "modality": "Desires food but stomach rejects it",
+    "miasm": "Psora/Syphilis",
+    "notes": "Typical in acute gastric derangement and infections"
+  },
+  {
+    "rubric": "Loss of appetite with excessive gas and flatulence",
+    "grading": {
+      "high": ["Carbo vegetabilis", "Lycopodium"],
+      "medium": ["China", "Nux vomica"],
+      "low": ["Raphanus"]
+    },
+    "modality": "Worse in evening or after meals",
+    "miasm": "Psora",
+    "notes": "Common in IBS, chronic dyspepsia, and low digestive fire"
+  },
+  {
+    "rubric": "Aversion to food from sight of food",
+    "grading": {
+      "high": ["Colchicum", "Sepia"],
+      "medium": ["Ignatia", "Ipecac"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Even thought or mention causes nausea",
+    "miasm": "Psora",
+    "notes": "Important in early pregnancy and gastric migraine"
+  },
+  {
+    "rubric": "Appetite lost but craving for cold drinks or ice",
+    "grading": {
+      "high": ["Phosphorus", "Sulphur"],
+      "medium": ["Pulsatilla", "Veratrum album"],
+      "low": ["Bryonia"]
+    },
+    "modality": "No desire for food, only for cold fluids",
+    "miasm": "Psora",
+    "notes": "Seen in summer complaints and gastric heat states"
+  },
+  {
+    "rubric": "Loss of appetite before headache",
+    "grading": {
+      "high": ["Iris versicolor", "Gelsemium"],
+      "medium": ["Belladonna", "Sanguinaria"],
+      "low": ["Glonoine"]
+    },
+    "modality": "Worse before or during migraine onset",
+    "miasm": "Psora",
+    "notes": "Appetite disappears before visual aura or pain starts"
+  },
+  {
+    "rubric": "Loss of appetite after fright or fear",
+    "grading": {
+      "high": ["Aconite", "Opium"],
+      "medium": ["Gelsemium", "Ignatia"],
+      "low": ["Stramonium"]
+    },
+    "modality": "After sudden trauma or shock",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Seen in PTSD, children post-nightmare, or accident shock"
+  },
+  {
+    "rubric": "Craving to eat during chill stage of fever",
+    "grading": {
+      "high": ["China", "Arsenicum album"],
+      "medium": ["Veratrum album", "Rhus tox"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Hungry during or after chills",
+    "miasm": "Psora",
+    "notes": "Useful in malarial or relapsing fevers with exhaustion"
+  },
+  {
+    "rubric": "Appetite lost in tuberculosis",
+    "grading": {
+      "high": ["Tuberculinum", "Iodum"],
+      "medium": ["Phosphorus", "Bacillinum"],
+      "low": ["China"]
+    },
+    "modality": "Advanced chest complaints with wasting",
+    "miasm": "Tubercular",
+    "notes": "Part of classic TB wasting symptomatology"
+  },
+  {
+    "rubric": "Appetite absent but no weakness felt",
+    "grading": {
+      "high": ["Sepia", "Ignatia"],
+      "medium": ["Phosphoric acid", "Silicea"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "No desire to eat, yet not fatigued",
+    "miasm": "Psora",
+    "notes": "Seen in neurotic, melancholic, or indifferent states"
+  },
+  {
+    "rubric": "Loss of appetite in jaundice",
+    "grading": {
+      "high": ["Chelidonium", "Mercurius"],
+      "medium": ["Podophyllum", "Nux vomica"],
+      "low": ["China"]
+    },
+    "modality": "With bitter taste and aversion to fat",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Liver/gallbladder involvement with digestive depression"
+  },
+  {
+    "rubric": "Appetite lost with extreme debility",
+    "grading": {
+      "high": ["China", "Phosphoric acid"],
+      "medium": ["Arsenicum album", "Silicea"],
+      "low": ["Calcarea phosphorica"]
+    },
+    "modality": "Patient too weak to think of food",
+    "miasm": "Psora",
+    "notes": "Post-illness convalescence or chronic wasting states"
+  },
+  {
+    "rubric": "Loss of appetite after heavy medication",
+    "grading": {
+      "high": ["Nux vomica", "Chelidonium"],
+      "medium": ["Carbo veg", "Hepar sulph"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Worse after allopathic drug courses or antibiotics",
+    "miasm": "Psora/Sycosis",
+    "notes": "Helps in detox and liver clearance cases"
+  },
+  {
+    "rubric": "Loss of appetite in typhoid or enteric fever",
+    "grading": {
+      "high": ["Baptisia", "Arsenicum album"],
+      "medium": ["Gelsemium", "Bryonia"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "With dullness, coated tongue, and stupor",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Characteristic in low-grade septic fevers"
+  },
+  {
+    "rubric": "Aversion to food with nausea at thought of eating",
+    "grading": {
+      "high": ["Sepia", "Colchicum"],
+      "medium": ["Ignatia", "Ipecac"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Just thinking of food induces gag reflex",
+    "miasm": "Psora",
+    "notes": "Seen in gastritis, hyperemesis, or pregnancy-related anorexia"
+  },
+  {
+    "rubric": "Appetite lost during fasting or religious observance",
+    "grading": {
+      "high": ["Phosphoric acid", "Sepia"],
+      "medium": ["Ignatia", "Nux vomica"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Mentally occupied or spiritually focused; hunger absent",
+    "miasm": "Psora",
+    "notes": "Useful in cases of detachment or psycho-emotional control"
+  },
+  {
+    "rubric": "Appetite absent in morning but strong at night",
+    "grading": {
+      "high": ["Lycopodium", "Sulphur"],
+      "medium": ["Sepia", "Calcarea carbonica"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Delayed gastric emptying or irregular rhythm",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in liver dysfunction and sedentary lifestyles"
+  },
+  {
+    "rubric": "Aversion to meat with loss of appetite",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Sulphur", "Ignatia"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Cannot tolerate smell or thought of meat",
+    "miasm": "Psora",
+    "notes": "Common in liver complaints, pregnancy, and gentle constitutions"
+  },
+  {
+    "rubric": "Aversion to milk with absent appetite",
+    "grading": {
+      "high": ["Calcarea carbonica", "Natrum mur"],
+      "medium": ["Silicea", "Pulsatilla"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse from dairy ingestion; causes nausea or aversion",
+    "miasm": "Psora",
+    "notes": "Often linked to lactose intolerance or indigestion"
+  },
+  {
+    "rubric": "Appetite lost with aversion to bread or wheat",
+    "grading": {
+      "high": ["Sepia", "Natrum mur"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse with bakery products",
+    "miasm": "Psora/Sycosis",
+    "notes": "Suggestive of early celiac or gluten sensitivity"
+  },
+  {
+    "rubric": "Loss of appetite around grief anniversary",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Aurum", "Sepia"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Trigger is emotional memory or date",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Classic in anniversary syndrome and chronic sorrow"
+  },
+  {
+    "rubric": "Appetite lost with bitter rising or acid reflux",
+    "grading": {
+      "high": ["Nux vomica", "Chelidonium"],
+      "medium": ["Lycopodium", "Bryonia"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse after fatty food or coffee",
+    "miasm": "Sycosis",
+    "notes": "Key feature in GERD, functional dyspepsia"
+  },
+  {
+    "rubric": "Appetite lost in cancer or chemotherapy patients",
+    "grading": {
+      "high": ["Cadmium sulph", "Arsenicum album"],
+      "medium": ["Phosphoric acid", "China"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Due to nausea, ulcers, or extreme debility",
+    "miasm": "Syphilitic",
+    "notes": "Supportive remedies for nutritional support"
+  },
+  {
+    "rubric": "Aversion to cooked food with absence of appetite",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Phosphorus", "Colchicum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Prefers raw, cold, or uncooked food",
+    "miasm": "Psora",
+    "notes": "Typical in pregnancy and delicate digestive systems"
+  },
+  {
+    "rubric": "Loss of appetite in hot climates",
+    "grading": {
+      "high": ["Gelsemium", "Glonoine"],
+      "medium": ["Bryonia", "Natrum mur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Heat suppresses digestive desire",
+    "miasm": "Psora",
+    "notes": "Seen in summer fatigue, heatstroke-prone constitutions"
+  },
+  {
+    "rubric": "Loss of appetite in altitude sickness",
+    "grading": {
+      "high": ["Coca", "Arsenicum album"],
+      "medium": ["Tabacum", "Gelsemium"],
+      "low": ["Bryonia"]
+    },
+    "modality": "Associated with nausea, dizziness, and breathlessness",
+    "miasm": "Psora",
+    "notes": "Useful in high altitude exposure or travel-related gastric suppression"
+  },
+  {
+    "rubric": "Aversion to food in early pregnancy",
+    "grading": {
+      "high": ["Sepia", "Colchicum"],
+      "medium": ["Pulsatilla", "Nux vomica"],
+      "low": ["Ipecac"]
+    },
+    "modality": "Strong nausea on sight/smell of food",
+    "miasm": "Psora",
+    "notes": "Classic in morning sickness and first-trimester complaints"
+  },
+  {
+    "rubric": "Hunger with constant gnawing sensation in stomach",
+    "grading": {
+      "high": ["Anacardium", "Iodum"],
+      "medium": ["China", "Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Better after eating; worse if delayed",
+    "miasm": "Tubercular",
+    "notes": "Seen in gastric ulcers or neurogenic hunger patterns"
+  },
+  {
+    "rubric": "Appetite with preference only for liquids",
+    "grading": {
+      "high": ["Phosphorus", "Pulsatilla"],
+      "medium": ["Arsenicum album", "Veratrum album"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Cannot tolerate solids; craves water, juice, soups",
+    "miasm": "Psora",
+    "notes": "Seen in fevers, flu, and weak digestion"
+  },
+  {
+    "rubric": "Appetite gone with anxiety or anticipation",
+    "grading": {
+      "high": ["Gelsemium", "Argentum nitricum"],
+      "medium": ["Ignatia", "Silicea"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Before exams, interviews, or travel",
+    "miasm": "Psora",
+    "notes": "Mind symptoms affect gastric secretion"
+  },
+  {
+    "rubric": "Loss of appetite in children during dentition",
+    "grading": {
+      "high": ["Chamomilla", "Calcarea phosphorica"],
+      "medium": ["Silicea", "Belladonna"],
+      "low": ["Cina"]
+    },
+    "modality": "Associated with irritability and loose stools",
+    "miasm": "Psora",
+    "notes": "Classic rubric in infant cases during teething phase"
+  },
+  {
+    "rubric": "Loss of appetite after quarrels or emotional outbursts",
+    "grading": {
+      "high": ["Staphysagria", "Ignatia"],
+      "medium": ["Nux vomica", "Natrum mur"],
+      "low": ["Sepia"]
+    },
+    "modality": "Hurt emotions suppress hunger",
+    "miasm": "Psora",
+    "notes": "Helpful in sensitive, reserved, or suppressed individuals"
+  },
+  {
+    "rubric": "Appetite lost with white coated tongue",
+    "grading": {
+      "high": ["Antimonium crudum", "Nux vomica"],
+      "medium": ["Mercurius", "Bryonia"],
+      "low": ["Ipecac"]
+    },
+    "modality": "More in morning; worse after rich food",
+    "miasm": "Psora",
+    "notes": "Sign of gastric congestion, indigestion, or fever"
+  },
+  {
+    "rubric": "Appetite lost after profuse sweating",
+    "grading": {
+      "high": ["China", "Carbo veg"],
+      "medium": ["Phosphorus", "Veratrum album"],
+      "low": ["Silicea"]
+    },
+    "modality": "After night sweats or exhaustion",
+    "miasm": "Psora",
+    "notes": "Seen in malaria, tuberculosis, or chronic fatigue"
+  },
+  {
+    "rubric": "Loss of appetite with dizziness and headache",
+    "grading": {
+      "high": ["Gelsemium", "Cyclamen"],
+      "medium": ["Bryonia", "Nux moschata"],
+      "low": ["Cocculus"]
+    },
+    "modality": "Brain symptoms dominate; worse on exertion",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Often related to blood pressure or vestibular issues"
+  },
+  {
+    "rubric": "Loss of appetite during convalescence",
+    "grading": {
+      "high": ["China", "Phosphoric acid"],
+      "medium": ["Sulphur", "Calcarea phosphorica"],
+      "low": ["Silicea"]
+    },
+    "modality": "After prolonged fever or illness",
+    "miasm": "Psora",
+    "notes": "Weak digestion post-infection; helpful in rebuilding tone"
+  },
+  {
+    "rubric": "Aversion to all food except fruits",
+    "grading": {
+      "high": ["Pulsatilla", "Phosphorus"],
+      "medium": ["Sepia", "Ipecac"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Only craves juicy, cooling food",
+    "miasm": "Psora",
+    "notes": "Seen in heat conditions, liver dysfunction, early pregnancy"
+  },
+  {
+    "rubric": "Loss of appetite in motion sickness",
+    "grading": {
+      "high": ["Cocculus", "Tabacum"],
+      "medium": ["Petroleum", "Nux vomica"],
+      "low": ["Ipecac"]
+    },
+    "modality": "Associated with nausea, vertigo, and hypersensitivity",
+    "miasm": "Psora",
+    "notes": "Useful during travel or vestibular disturbances"
+  },
+  {
+    "rubric": "Craving food but avoids eating due to fear of pain",
+    "grading": {
+      "high": ["Anacardium", "Phosphorus"],
+      "medium": ["Iodum", "Bryonia"],
+      "low": ["Arsenicum album"]
+    },
+    "modality": "Hunger suppressed by anticipation of gastric pain",
+    "miasm": "Syphilitic",
+    "notes": "Common in ulcers or GERD; psychological aversion"
+  },
+  {
+    "rubric": "Loss of appetite in old age",
+    "grading": {
+      "high": ["Carbo vegetabilis", "Phosphoric acid"],
+      "medium": ["Baryta carb", "Conium"],
+      "low": ["Opium"]
+    },
+    "modality": "Gradual decline with age-related weakness",
+    "miasm": "Psora",
+    "notes": "Useful in senile debility or chronic fatigue elderly patients"
+  },
+  {
+    "rubric": "Aversion to food with dryness of mouth",
+    "grading": {
+      "high": ["Nux moschata", "Bryonia"],
+      "medium": ["Belladonna", "Phosphorus"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Dry tongue and throat but no thirst or hunger",
+    "miasm": "Psora",
+    "notes": "Seen in fever, dehydration, or autoimmune gastritis"
+  },
+  {
+    "rubric": "Loss of appetite after anger or excitement",
+    "grading": {
+      "high": ["Nux vomica", "Staphysagria"],
+      "medium": ["Chamomilla", "Ignatia"],
+      "low": ["Sepia"]
+    },
+    "modality": "Mental/emotional tension shuts down appetite",
+    "miasm": "Psora",
+    "notes": "Classic in type-A personalities and children after tantrums"
+  },
+  {
+    "rubric": "Appetite lost with desire only for stimulants",
+    "grading": {
+      "high": ["Nux vomica", "Sulphur"],
+      "medium": ["Phosphorus", "Ignatia"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Avoids food but craves coffee, tea, spicy snacks",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in modern stress lifestyle and toxic overload"
+  },
+  {
+    "rubric": "Loss of appetite with sluggish liver function",
+    "grading": {
+      "high": ["Chelidonium", "Lycopodium"],
+      "medium": ["Nux vomica", "Bryonia"],
+      "low": ["Podophyllum"]
+    },
+    "modality": "Associated with bitter taste, flatulence, or yellow tongue",
+    "miasm": "Sycosis",
+    "notes": "Indicates bile suppression or portal congestion"
+  },
+  {
+    "rubric": "Aversion to food with continuous spitting",
+    "grading": {
+      "high": ["Mercurius", "Ipecac"],
+      "medium": ["Antimonium crudum", "Kali bichromicum"],
+      "low": ["Silicea"]
+    },
+    "modality": "Excessive salivation prevents eating",
+    "miasm": "Syphilitic",
+    "notes": "Seen in oral infections, teething, or gastric disturbances"
+  },
+  {
+    "rubric": "Loss of appetite in children after punishment",
+    "grading": {
+      "high": ["Ignatia", "Staphysagria"],
+      "medium": ["Chamomilla", "Natrum mur"],
+      "low": ["Silicea"]
+    },
+    "modality": "Emotionally withdrawn after scolding or hitting",
+    "miasm": "Psora",
+    "notes": "Seen in oversensitive or timid children with suppressed emotions"
+  },
+  {
+    "rubric": "Loss of appetite during toothache",
+    "grading": {
+      "high": ["Mercurius", "Hepar sulph"],
+      "medium": ["Chamomilla", "Belladonna"],
+      "low": ["Silicea"]
+    },
+    "modality": "Pain while chewing or swallowing",
+    "miasm": "Psora",
+    "notes": "Common in dental caries, abscess, and teething"
+  },
+  {
+    "rubric": "Appetite absent after miscarriage or abortion",
+    "grading": {
+      "high": ["Sepia", "Ignatia"],
+      "medium": ["Phosphoric acid", "Calcarea phosphorica"],
+      "low": ["Arnica"]
+    },
+    "modality": "Due to grief, shock, or hormonal disturbance",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Supports recovery of uterine and mental functions"
+  },
+  {
+    "rubric": "Loss of appetite in monsoon or rainy weather",
+    "grading": {
+      "high": ["Natrum sulphuricum", "Dulcamara"],
+      "medium": ["Pulsatilla", "Gelsemium"],
+      "low": ["Bryonia"]
+    },
+    "modality": "High humidity suppresses digestion",
+    "miasm": "Psora",
+    "notes": "Seen in weak constitutions and joint disorders"
+  },
+  {
+    "rubric": "Craving food during night only",
+    "grading": {
+      "high": ["Lycopodium", "Sulphur"],
+      "medium": ["Phosphorus", "Natrum mur"],
+      "low": ["Sepia"]
+    },
+    "modality": "No hunger during day, only late evening or night",
+    "miasm": "Psora/Sycosis",
+    "notes": "Common in liver patients, diabetic tendencies"
+  },
+  {
+    "rubric": "Loss of appetite in breastfeeding women",
+    "grading": {
+      "high": ["Calcarea carbonica", "Lac caninum"],
+      "medium": ["Pulsatilla", "Silicea"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Associated with weakness or aversion to food smells",
+    "miasm": "Psora",
+    "notes": "Important during lactation fatigue and low milk states"
+  },
+  {
+    "rubric": "Aversion to food due to fear of vomiting",
+    "grading": {
+      "high": ["Ipecac", "Veratrum album"],
+      "medium": ["Phosphorus", "Colchicum"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Even mild food causes anticipation of vomiting",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Seen in anxiety, gastric flu, and phobia of food intake"
+  },
+  {
+    "rubric": "Loss of appetite in school-going children",
+    "grading": {
+      "high": ["Baryta carbonica", "Calcarea phosphorica"],
+      "medium": ["Silicea", "Cina"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Fear of school, dullness, or suppressed anger",
+    "miasm": "Psora",
+    "notes": "Very common in slow learners or shy children"
+  },
+  {
+    "rubric": "Loss of appetite after sexual excess or loss",
+    "grading": {
+      "high": ["Phosphoric acid", "China"],
+      "medium": ["Staphysagria", "Nux vomica"],
+      "low": ["Agnus castus"]
+    },
+    "modality": "Accompanied by weakness and mental dullness",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Seen in debility, prostate weakness, or post-coital fatigue"
+  },
+  {
+    "rubric": "Loss of appetite with foul taste in mouth",
+    "grading": {
+      "high": ["Mercurius", "Nitric acid"],
+      "medium": ["Antimonium crudum", "Pulsatilla"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Taste lingers and spoils interest in food",
+    "miasm": "Syphilitic",
+    "notes": "Suggestive of oral pathology or upper GI fermentation"
+  },
+  {
+    "rubric": "Loss of appetite in epilepsy",
+    "grading": {
+      "high": ["Cuprum metallicum", "Calcarea carbonica"],
+      "medium": ["Bufo", "Silicea"],
+      "low": ["Stramonium"]
+    },
+    "modality": "Before or after epileptic attacks",
+    "miasm": "Syphilitic",
+    "notes": "Seen in long-standing seizure disorders with nervous exhaustion"
+  },
+  {
+    "rubric": "Aversion to food during constipation",
+    "grading": {
+      "high": ["Bryonia", "Alumina"],
+      "medium": ["Nux vomica", "Silicea"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Feeling of fullness and abdominal pressure",
+    "miasm": "Psora",
+    "notes": "Digestive inertia suppresses hunger; associated with dryness"
+  },
+  {
+    "rubric": "Loss of appetite with excessive sleepiness",
+    "grading": {
+      "high": ["Nux moschata", "Gelsemium"],
+      "medium": ["Opium", "Antimonium crudum"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Patient prefers to lie down, no desire to eat",
+    "miasm": "Psora",
+    "notes": "Seen in viral fevers, metabolic fatigue, and depression"
+  },
+  {
+    "rubric": "Loss of appetite with anxiety about health",
+    "grading": {
+      "high": ["Argentum nitricum", "Phosphorus"],
+      "medium": ["Arsenicum album", "Silicea"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Hypochondriacal fears suppress hunger",
+    "miasm": "Psora",
+    "notes": "Seen in health-anxious, neurotic, or oversensitive patients"
+  },
+  {
+    "rubric": "Appetite returns only with movement or open air",
+    "grading": {
+      "high": ["Pulsatilla", "Sepia"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Feels better and hungry after walking outdoors",
+    "miasm": "Psora",
+    "notes": "Seen in sedentary, melancholic, or sluggish constitutions"
+  },
+  {
+    "rubric": "Loss of appetite with mouth ulcers",
+    "grading": {
+      "high": ["Mercurius", "Nitric acid"],
+      "medium": ["Borax", "Kali chloricum"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Pain prevents chewing or swallowing",
+    "miasm": "Syphilitic",
+    "notes": "Often seen in children and immune-compromised patients"
+  },
+  {
+    "rubric": "Appetite absent during menstruation",
+    "grading": {
+      "high": ["Sepia", "Pulsatilla"],
+      "medium": ["Calcarea carbonica", "Lachesis"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Hormonal shift reduces digestive function",
+    "miasm": "Psora/Sycosis",
+    "notes": "Seen in painful or heavy menses with mental symptoms"
+  },
+  {
+    "rubric": "Loss of appetite in mental overwork",
+    "grading": {
+      "high": ["Phosphoric acid", "Nux vomica"],
+      "medium": ["Gelsemium", "Silicea"],
+      "low": ["Kali phosphoricum"]
+    },
+    "modality": "Brain strain affects gastric function",
+    "miasm": "Psora",
+    "notes": "Seen in students, professionals, or post-exam fatigue"
+  },
+  {
+    "rubric": "Aversion to food after head injury",
+    "grading": {
+      "high": ["Natrum sulphuricum", "Arnica"],
+      "medium": ["Opium", "Cicuta"],
+      "low": ["Hypericum"]
+    },
+    "modality": "Neurological trauma affects appetite center",
+    "miasm": "Syphilitic",
+    "notes": "Important in post-concussion and head trauma recovery"
+  },
+  {
+    "rubric": "Loss of appetite in worm infestation",
+    "grading": {
+      "high": ["Cina", "Spigelia"],
+      "medium": ["Teucrium", "Silicea"],
+      "low": ["Calcarea carbonica"]
+    },
+    "modality": "Alternating hunger and refusal of food",
+    "miasm": "Psora",
+    "notes": "Common in children with grinding teeth, irritability"
+  },
+  {
+    "rubric": "Loss of appetite in suicidal depression",
+    "grading": {
+      "high": ["Aurum metallicum", "Natrum mur"],
+      "medium": ["Ignatia", "Phosphoric acid"],
+      "low": ["Sepia"]
+    },
+    "modality": "Severe mental despair suppresses hunger",
+    "miasm": "Syphilitic",
+    "notes": "Seen in melancholia, grief, or deep self-loathing states"
+  },
+  {
+    "rubric": "Craving for food but cannot digest anything",
+    "grading": {
+      "high": ["Iodum", "China"],
+      "medium": ["Anacardium", "Phosphorus"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Appetite with weak assimilation",
+    "miasm": "Tubercular",
+    "notes": "Seen in wasting diseases and hyperthyroid conditions"
+  },
+  {
+    "rubric": "Loss of appetite after vaccination",
+    "grading": {
+      "high": ["Thuja", "Silicea"],
+      "medium": ["Sulphur", "Hepar sulph"],
+      "low": ["Antimonium crudum"]
+    },
+    "modality": "Post-vaccine gastric dullness",
+    "miasm": "Sycosis",
+    "notes": "Useful in children or sensitive constitutions after immunization"
+  },
+  {
+    "rubric": "Loss of appetite with vertigo",
+    "grading": {
+      "high": ["Cocculus", "Bryonia"],
+      "medium": ["Gelsemium", "Conium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Dizziness leads to nausea and aversion to food",
+    "miasm": "Psora",
+    "notes": "Seen in cervical spondylosis, Meniere’s disease"
+  },
+  {
+    "rubric": "Loss of appetite from too much talking",
+    "grading": {
+      "high": ["Phosphorus", "Lachesis"],
+      "medium": ["Sulphur", "Sepia"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Mental exertion or speech reduces desire to eat",
+    "miasm": "Psora",
+    "notes": "Seen in teachers, speakers, and extroverted constitutions"
+  },
+  {
+    "rubric": "Loss of appetite in suppressed skin eruptions",
+    "grading": {
+      "high": ["Sulphur", "Graphites"],
+      "medium": ["Psorinum", "Hepar sulph"],
+      "low": ["Mezereum"]
+    },
+    "modality": "Skin suppression impacts internal appetite regulation",
+    "miasm": "Psora/Sycosis",
+    "notes": "Useful after topical steroid misuse"
+  },
+  {
+    "rubric": "Aversion to food with metallic taste",
+    "grading": {
+      "high": ["Mercurius", "Arsenicum album"],
+      "medium": ["Nux vomica", "Phosphorus"],
+      "low": ["Sepia"]
+    },
+    "modality": "Mouth taste spoils desire to eat",
+    "miasm": "Syphilitic",
+    "notes": "Common in drug reactions, ulcers, and GI toxicity"
+  },
+  {
+    "rubric": "Appetite disappears during thunderstorm",
+    "grading": {
+      "high": ["Phosphorus", "Natrum carb"],
+      "medium": ["Pulsatilla", "Rhododendron"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Sensitive to weather changes, feels anxious or dull",
+    "miasm": "Psora",
+    "notes": "Seen in sensitive children or weather-reactive patients"
+  },
+  {
+    "rubric": "Loss of appetite during weaning of child",
+    "grading": {
+      "high": ["Sepia", "Lac caninum"],
+      "medium": ["Ignatia", "Calcarea carb"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Hormonal shift and emotional sadness",
+    "miasm": "Psora",
+    "notes": "Seen in postpartum weaning depression or exhaustion"
+  },
+  {
+    "rubric": "Loss of appetite in patient who eats hurriedly",
+    "grading": {
+      "high": ["Nux vomica", "Argentum nitricum"],
+      "medium": ["Lycopodium", "Sulphur"],
+      "low": ["Anacardium"]
+    },
+    "modality": "Hasty eating leads to indigestion and eventual aversion",
+    "miasm": "Psora",
+    "notes": "Common in irritable, fast-paced individuals"
+  },
+  {
+    "rubric": "Loss of appetite in children with enlarged tonsils",
+    "grading": {
+      "high": ["Baryta carbonica", "Calcarea phosphorica"],
+      "medium": ["Mercurius", "Tuberculinum"],
+      "low": ["Silicea"]
+    },
+    "modality": "Difficulty in swallowing; avoids solids",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Seen in chronic tonsillitis, adenoids, or stunted growth"
+  },
+  {
+    "rubric": "Loss of appetite with dry mouth but no thirst",
+    "grading": {
+      "high": ["Nux moschata", "Pulsatilla"],
+      "medium": ["Bryonia", "Natrum mur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Paradoxical dryness without desire for fluids or food",
+    "miasm": "Psora",
+    "notes": "Seen in dehydration, fevers, or pregnancy-related changes"
+  },
+  {
+    "rubric": "Craving for food with nausea",
+    "grading": {
+      "high": ["Iodum", "Anacardium"],
+      "medium": ["China", "Phosphorus"],
+      "low": ["Kreosotum"]
+    },
+    "modality": "Hungry but nauseated when food is offered",
+    "miasm": "Tubercular",
+    "notes": "Seen in paradoxical gastric patterns and pregnancy"
+  },
+  {
+    "rubric": "Appetite gone with lower abdominal bloating",
+    "grading": {
+      "high": ["Lycopodium", "Carbo veg"],
+      "medium": ["China", "Natrum sulph"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse in evening; distension inhibits hunger",
+    "miasm": "Psora",
+    "notes": "Seen in IBS, slow digestion, and liver–bowel axis disorders"
+  },
+  {
+    "rubric": "Loss of appetite in drug detox or withdrawal",
+    "grading": {
+      "high": ["Nux vomica", "Opium"],
+      "medium": ["Chelidonium", "Phosphoric acid"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Body clears toxins; suppresses digestion",
+    "miasm": "Psora/Sycosis",
+    "notes": "Used in cases withdrawing from alcohol, sedatives, tobacco"
+  },
+  {
+    "rubric": "Loss of appetite with bitter taste in morning",
+    "grading": {
+      "high": ["Bryonia", "Nux vomica"],
+      "medium": ["Chelidonium", "Lycopodium"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Especially after rising; liver bile overload",
+    "miasm": "Psora",
+    "notes": "Classic symptom in hepatic disorders and dyspepsia"
+  },
+  {
+    "rubric": "Appetite gone in prolonged grief cases",
+    "grading": {
+      "high": ["Ignatia", "Natrum mur"],
+      "medium": ["Phosphoric acid", "Sepia"],
+      "low": ["Aurum"]
+    },
+    "modality": "No joy in eating; disinterest from emotional emptiness",
+    "miasm": "Psora/Syphilitic",
+    "notes": "Useful in bereavement, heartbreak, or abandonment cases"
+  },
+  {
+    "rubric": "Loss of appetite in cold weather",
+    "grading": {
+      "high": ["Dulcamara", "Silicea"],
+      "medium": ["Natrum carb", "Calcarea carb"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Cold damp suppresses metabolism",
+    "miasm": "Psora",
+    "notes": "Typical in sluggish, chilly constitutions"
+  },
+  {
+    "rubric": "Loss of appetite after exposure to bad smells",
+    "grading": {
+      "high": ["Colchicum", "Arsenicum album"],
+      "medium": ["Ipecac", "Phosphorus"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Odors induce nausea and aversion",
+    "miasm": "Psora",
+    "notes": "Seen in pregnancy, gastric sensitivity, food poisoning"
+  },
+  {
+    "rubric": "Loss of appetite in bedridden or paralyzed patients",
+    "grading": {
+      "high": ["Gelsemium", "Plumbum"],
+      "medium": ["Conium", "Opium"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Body inactivity suppresses digestion",
+    "miasm": "Syphilitic",
+    "notes": "Seen in stroke, paralysis, or long-term illness"
+  }
+]

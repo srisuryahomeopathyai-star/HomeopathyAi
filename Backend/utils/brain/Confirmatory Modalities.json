@@ -1,0 +1,7210 @@
+[
+  {
+    "rubric": "Ailments better after eating",
+    "grading": {
+      "high": ["Anacardium", "Chelidonium"],
+      "medium": ["Kali phos", "Ignatia"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Cramping pain before menses, better bending double",
+    "grading": {
+      "high": ["Magnesia mur", "Colocynthis"],
+      "medium": ["Dioscorea", "Chamomilla"],
+      "low": ["Cuprum met"]
+    }
+  },
+  {
+    "rubric": "Back pain better by lying on hard surface",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Sepia", "Sulphur"],
+      "low": ["Phosphoric acid"]
+    }
+  },
+  {
+    "rubric": "Vertigo better closing eyes",
+    "grading": {
+      "high": ["Cyclamen"],
+      "medium": ["Gelsemium"],
+      "low": ["Kali bich"]
+    }
+  },
+  {
+    "rubric": "Diarrhoea immediately after eating or drinking",
+    "grading": {
+      "high": ["Croton tig", "China"],
+      "medium": ["Aloe", "Podophyllum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Cough worse after talking",
+    "grading": {
+      "high": ["Phosphorus", "Drosera"],
+      "medium": ["Causticum"],
+      "low": ["Rumex"]
+    }
+  },
+  {
+    "rubric": "Insomnia from excessive thinking",
+    "grading": {
+      "high": ["Nux vomica", "Coffea"],
+      "medium": ["Sulphur"],
+      "low": ["Agaricus"]
+    }
+  },
+  {
+    "rubric": "Headache relieved by urination",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Cyclamen"],
+      "low": ["Berberis vulg"]
+    }
+  },
+  {
+    "rubric": "Pain better by warm drinks",
+    "grading": {
+      "high": ["Arsenicum album"],
+      "medium": ["Mag phos"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Abdominal pain better by pressure",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Belladonna", "Chamomilla"],
+      "low": ["Dioscorea"]
+    }
+  },
+  {
+    "rubric": "Cough worse from entering a warm room",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Rumex"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Menses cease when lying down",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sepia"],
+      "low": ["Cimicifuga"]
+    }
+  },
+  {
+    "rubric": "Headache relieved by lying in the dark",
+    "grading": {
+      "high": ["Glonoine", "Iris versicolor"],
+      "medium": ["Belladonna"],
+      "low": ["Sanguinaria"]
+    }
+  },
+  {
+    "rubric": "Toothache better by cold water",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Plantago", "Merc sol"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Nausea better by eating small quantities",
+    "grading": {
+      "high": ["Petroleum", "Ipecac"],
+      "medium": ["Nux vomica"],
+      "low": ["Tabacum"]
+    }
+  },
+  {
+    "rubric": "Neuralgia better by warmth and rest",
+    "grading": {
+      "high": ["Mag phos", "Arsenicum"],
+      "medium": ["Spigelia"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Throat pain worse after sleep",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Phytolacca"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Urinary complaints better lying on abdomen",
+    "grading": {
+      "high": ["Sarsaparilla"],
+      "medium": ["Cantharis"],
+      "low": ["Berberis"]
+    }
+  },
+  {
+    "rubric": "Chill begins in the back",
+    "grading": {
+      "high": ["Eupatorium perf"],
+      "medium": ["Gelsemium"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Colic better by arching backward",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Chamomilla"],
+      "low": ["Mag phos"]
+    }
+  },
+  {
+    "rubric": "Anxiety better in open air",
+    "grading": {
+      "high": ["Pulsatilla", "Aconite"],
+      "medium": ["Sulphur"],
+      "low": ["Calc carb"]
+    }
+  },
+  {
+    "rubric": "Heaviness of eyelids better after short nap",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Nux moschata"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Leg cramps better by stretching",
+    "grading": {
+      "high": ["Calcarea fluor", "Cuprum met"],
+      "medium": ["Veratrum alb"],
+      "low": ["Mag phos"]
+    }
+  },
+  {
+    "rubric": "Mental dullness better by movement",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Sepia"],
+      "low": ["Phosphoric acid"]
+    }
+  },
+  {
+    "rubric": "Skin eruptions better in summer",
+    "grading": {
+      "high": ["Nat mur"],
+      "medium": ["Sulphur"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Vertigo worse after sun exposure",
+    "grading": {
+      "high": ["Glonoine"],
+      "medium": ["Nat carb"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Sweating better from physical exertion",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Silicea"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Dreams of death better after crying",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Nat mur"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Palpitations better by lying on left side",
+    "grading": {
+      "high": ["Spigelia"],
+      "medium": ["Digitalis"],
+      "low": ["Lilium tigrinum"]
+    }
+  },
+  {
+    "rubric": "Pain better from pressure and heat",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Headache better after epistaxis",
+    "grading": {
+      "high": ["Melilotus alba"],
+      "medium": ["Sanguinaria"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Abdominal pain better by passing flatus",
+    "grading": {
+      "high": ["Carbo veg", "Lycopodium"],
+      "medium": ["Aloe"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Chill begins in upper limbs",
+    "grading": {
+      "high": ["Agaricus"],
+      "medium": ["Sepia"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Menses more profuse at night",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Phosphorus"],
+      "low": ["Crocus"]
+    }
+  },
+  {
+    "rubric": "Toothache worse from touch but better from cold application",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Belladonna"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Constipation better by lying on back with limbs extended",
+    "grading": {
+      "high": ["Plumbum"],
+      "medium": ["Opium"],
+      "low": ["Alumina"]
+    }
+  },
+  {
+    "rubric": "Rheumatic pain worse during rest and cold weather",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Calc fluor"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Coryza better in open air",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Sabadilla"],
+      "low": ["Nat mur"]
+    }
+  },
+  {
+    "rubric": "Nausea better lying still",
+    "grading": {
+      "high": ["Tabacum"],
+      "medium": ["Cocculus"],
+      "low": ["Ipecac"]
+    }
+  },
+  {
+    "rubric": "Pain better by supporting part with hands",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Ruta"],
+      "low": ["Calcarea fluor"]
+    }
+  },
+  {
+    "rubric": "Burning soles, uncovers feet in bed",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Medorrhinum"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Sleepiness after stool",
+    "grading": {
+      "high": ["Podophyllum"],
+      "medium": ["Aloe"],
+      "low": ["Nux moschata"]
+    }
+  },
+  {
+    "rubric": "Cough better lying on abdomen",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Drosera"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Back pain better walking slowly",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Aesculus"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Pain better from lying on painful side",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Belladonna"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Tonsil pain better by cold drinks",
+    "grading": {
+      "high": ["Lac caninum"],
+      "medium": ["Phytolacca"],
+      "low": ["Merc iod flav"]
+    }
+  },
+  {
+    "rubric": "Insanity better by menstruation",
+    "grading": {
+      "high": ["Stramonium"],
+      "medium": ["Sepia"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Sneezing better in open air",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Arundo"],
+      "low": ["Wyethia"]
+    }
+  },
+  {
+    "rubric": "Restlessness better by occupation",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Ignatia"],
+      "low": ["Phosphoric acid"]
+    }
+  },
+  {
+    "rubric": "Palpitation better lying on right side",
+    "grading": {
+      "high": ["Digitalis"],
+      "medium": ["Lilium tigrinum"],
+      "low": ["Kalmia"]
+    }
+  },
+  {
+    "rubric": "Vertigo better closing one eye",
+    "grading": {
+      "high": ["Cyclamen"],
+      "medium": ["Theridion"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Cough better by drinking cold water",
+    "grading": {
+      "high": ["Coccus cacti"],
+      "medium": ["Causticum"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Diarrhoea immediately after eating fruit",
+    "grading": {
+      "high": ["Podophyllum"],
+      "medium": ["Aloe"],
+      "low": ["Ferrum met"]
+    }
+  },
+  {
+    "rubric": "Numbness better after rubbing",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Kali carb"],
+      "low": ["Agaricus"]
+    }
+  },
+  {
+    "rubric": "Toothache better lying with head high",
+    "grading": {
+      "high": ["Kreosotum"],
+      "medium": ["Chamomilla"],
+      "low": ["Mag carb"]
+    }
+  },
+  {
+    "rubric": "Heaviness of legs better by movement",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Calc carb"],
+      "low": ["Alumina"]
+    }
+  },
+  {
+    "rubric": "Cough worse from uncovering",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Rumex"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Sadness better from music",
+    "grading": {
+      "high": ["Nat mur"],
+      "medium": ["Ignatia"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Trembling better lying down",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Kali phos"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Pain better while urinating",
+    "grading": {
+      "high": ["Berberis vulgaris"],
+      "medium": ["Sarsaparilla"],
+      "low": ["Cantharis"]
+    }
+  },
+  {
+    "rubric": "Sensation of tight band around head better by pressure",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Carbolic acid"],
+      "low": ["Nat mur"]
+    }
+  },
+  {
+    "rubric": "Cough with vomiting better after eating",
+    "grading": {
+      "high": ["Antimonium tart"],
+      "medium": ["Kali carb"],
+      "low": ["Ipecac"]
+    }
+  },
+  {
+    "rubric": "Cramp in calves better by stretching",
+    "grading": {
+      "high": ["Calc fluor"],
+      "medium": ["Cuprum met"],
+      "low": ["Veratrum alb"]
+    }
+  },
+  {
+    "rubric": "Anxiety better after sleep",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Lycopodium"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Burning in urethra better after urination",
+    "grading": {
+      "high": ["Sarsaparilla"],
+      "medium": ["Cannabis sativa"],
+      "low": ["Apis"]
+    }
+  },
+  {
+    "rubric": "Bleeding piles better by cold application",
+    "grading": {
+      "high": ["Hamamelis"],
+      "medium": ["Aesculus"],
+      "low": ["Collinsonia"]
+    }
+  },
+  {
+    "rubric": "Sensation of ball in inner parts better by exercise",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Murex"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Breathing better sitting and leaning forward",
+    "grading": {
+      "high": ["Arsenicum album"],
+      "medium": ["Kali carb"],
+      "low": ["Antimonium tart"]
+    }
+  },
+  {
+    "rubric": "Sciatica better lying on painful side",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Colocynthis"],
+      "low": ["Gnaphalium"]
+    }
+  },
+  {
+    "rubric": "Constipation better by hot milk",
+    "grading": {
+      "high": ["Mag mur"],
+      "medium": ["Nux moschata"],
+      "low": ["Opium"]
+    }
+  },
+  {
+    "rubric": "Cracking joints better by motion",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Calc fluor"]
+    }
+  },
+  {
+    "rubric": "Vertigo better by urination",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Cyclamen"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Menses better from flow starting",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Mag phos"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Facial neuralgia better by warmth",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Spigelia"],
+      "low": ["Arnica"]
+    }
+  },
+  {
+    "rubric": "Thirst better by small sips frequently",
+    "grading": {
+      "high": ["Arsenicum album"],
+      "medium": ["Bryonia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Rectal pain better after stool",
+    "grading": {
+      "high": ["Aloe"],
+      "medium": ["Ignatia"],
+      "low": ["Nitric acid"]
+    }
+  },
+  {
+    "rubric": "Pain in ovaries better by pressure",
+    "grading": {
+      "high": ["Apis"],
+      "medium": ["Lilium tigrinum"],
+      "low": ["Plumbum"]
+    }
+  },
+  {
+    "rubric": "Scalp itching better by cold water",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Eczema better in summer",
+    "grading": {
+      "high": ["Nat mur"],
+      "medium": ["Graphites"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Headache better by profuse urination",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Sanguinaria"],
+      "low": ["Nat mur"]
+    }
+  },
+  {
+    "rubric": "Palpitation better by deep breathing",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Digitalis"],
+      "low": ["Lilium tigrinum"]
+    }
+  },
+  {
+    "rubric": "Abdominal bloating better after belching",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Lycopodium"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Dry cough better by lying on back",
+    "grading": {
+      "high": ["Kali bich"],
+      "medium": ["Phosphorus"],
+      "low": ["Hyoscyamus"]
+    }
+  },
+  {
+    "rubric": "Cough with thick expectoration better by cold drinks",
+    "grading": {
+      "high": ["Coccus cacti"],
+      "medium": ["Pulsatilla"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Cold sweat better by uncovering",
+    "grading": {
+      "high": ["Camphora"],
+      "medium": ["Veratrum alb"],
+      "low": ["Carbo veg"]
+    }
+  },
+  {
+    "rubric": "Chill better by wrapping warmly",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Nux vomica"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Sadness better lying down",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Nat mur"]
+    }
+  },
+  {
+    "rubric": "Photophobia better in dark room",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Euphrasia"],
+      "low": ["Conium"]
+    }
+  },
+  {
+    "rubric": "Tinnitus better lying on affected side",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Kali mur"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Cough worse lying on right side",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Drosera"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Colic better by walking",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Chamomilla"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Sleeplessness better after crying",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Coffea"]
+    }
+  },
+  {
+    "rubric": "Back pain better bending backward",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Kali carb"],
+      "low": ["Calc phos"]
+    }
+  },
+  {
+    "rubric": "Involuntary urination better standing",
+    "grading": {
+      "high": ["Equisetum"],
+      "medium": ["Causticum"],
+      "low": ["Ferrum phos"]
+    }
+  },
+  {
+    "rubric": "Sensation of lump in throat better swallowing solids",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Platina"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Burning in stomach better by milk",
+    "grading": {
+      "high": ["Argentum nit"],
+      "medium": ["Phosphorus"],
+      "low": ["Arsenicum"]
+    }
+  },
+  {
+    "rubric": "Palpitation better by lying on abdomen",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Lilium tigrinum"],
+      "low": ["Digitalis"]
+    }
+  },
+  {
+    "rubric": "Sneezing better by pressure on nose",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Allium cepa"],
+      "low": ["Arundo"]
+    }
+  },
+  {
+    "rubric": "Anxiety better by occupation or activity",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Ignatia"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Prolapse of rectum better lying on abdomen",
+    "grading": {
+      "high": ["Podophyllum"],
+      "medium": ["Ignatia"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Chill better lying in bed",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Dulcamara"],
+      "low": ["Aconite"]
+    }
+  },
+  {
+    "rubric": "Epistaxis better by cold compress",
+    "grading": {
+      "high": ["Hamamelis"],
+      "medium": ["Melilotus"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Vomiting better after drinking warm water",
+    "grading": {
+      "high": ["Ipecac"],
+      "medium": ["Phosphorus"],
+      "low": ["Antimonium crudum"]
+    }
+  },
+  {
+    "rubric": "Nasal obstruction better by lying on side",
+    "grading": {
+      "high": ["Lemna minor"],
+      "medium": ["Ammonium carb"],
+      "low": ["Kali bich"]
+    }
+  },
+  {
+    "rubric": "Cramp in fingers better by warmth",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Causticum"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Flatulence better lying on left side",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Carbo veg"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Cough better from lying on left side",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Cough better by eating",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Phosphorus"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Vertigo better by closing eyes tightly",
+    "grading": {
+      "high": ["Cyclamen"],
+      "medium": ["Theridion"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Heaviness in limbs better after urination",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Nat mur"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Nausea better after vomiting",
+    "grading": {
+      "high": ["Ipecac"],
+      "medium": ["Antimonium tart"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Constipation better from cold bathing",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Calcarea carb"],
+      "low": ["Opium"]
+    }
+  },
+  {
+    "rubric": "Sensation of stone in stomach better by belching",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Carbo veg"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Tooth pain better from holding cold water in mouth",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Plantago"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Headache better by heat and lying quiet",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Iris versicolor"],
+      "low": ["Sanguinaria"]
+    }
+  },
+  {
+    "rubric": "Pain better by urinating freely",
+    "grading": {
+      "high": ["Berberis"],
+      "medium": ["Sarsaparilla"],
+      "low": ["Cantharis"]
+    }
+  },
+  {
+    "rubric": "Neuralgia better by tight bandaging",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Cimicifuga"]
+    }
+  },
+  {
+    "rubric": "Faintness better from fresh air",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Sepia"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Prostration better after stool",
+    "grading": {
+      "high": ["Podophyllum"],
+      "medium": ["Aloe"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Chill better by drinking warm liquids",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["China"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Eye strain better by rubbing",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Physostigma"],
+      "low": ["Euphrasia"]
+    }
+  },
+  {
+    "rubric": "Dry mouth better after drinking",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Nat mur"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Headache better from pressure and tight binding",
+    "grading": {
+      "high": ["Argentum nit"],
+      "medium": ["Silicea"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Pain better by uncovering",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Camphora"],
+      "low": ["Veratrum alb"]
+    }
+  },
+  {
+    "rubric": "Restlessness better in company",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Pulsatilla"],
+      "low": ["Arsenicum"]
+    }
+  },
+  {
+    "rubric": "Cough with expectoration better lying on right side",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Causticum"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Back pain better by sitting with legs crossed",
+    "grading": {
+      "high": ["Kali carb"],
+      "medium": ["Sepia"],
+      "low": ["Calc phos"]
+    }
+  },
+  {
+    "rubric": "Throat pain better by swallowing solids",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Lac caninum"],
+      "low": ["Phytolacca"]
+    }
+  },
+  {
+    "rubric": "Bleeding from nose better by lying on back",
+    "grading": {
+      "high": ["Hamamelis"],
+      "medium": ["Melilotus"],
+      "low": ["Ferrum phos"]
+    }
+  },
+  {
+    "rubric": "Pain in limbs better by elevation",
+    "grading": {
+      "high": ["Vipera"],
+      "medium": ["Hamamelis"],
+      "low": ["Calc fluor"]
+    }
+  },
+  {
+    "rubric": "Dry cough better in cold air",
+    "grading": {
+      "high": ["Rumex"],
+      "medium": ["Causticum"],
+      "low": ["Drosera"]
+    }
+  },
+  {
+    "rubric": "Rheumatic pains better in damp weather",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Dulcamara"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Sensation of tightness in chest better leaning forward",
+    "grading": {
+      "high": ["Arsenicum"],
+      "medium": ["Spongia"],
+      "low": ["Antimonium tart"]
+    }
+  },
+  {
+    "rubric": "Headache better by vomiting bile",
+    "grading": {
+      "high": ["Iris versicolor"],
+      "medium": ["Sanguinaria"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Nausea better by lying on right side",
+    "grading": {
+      "high": ["Tabacum"],
+      "medium": ["Phosphorus"],
+      "low": ["Cocculus"]
+    }
+  },
+  {
+    "rubric": "Sneezing better from warm drinks",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Arsenicum"],
+      "low": ["Allium cepa"]
+    }
+  },
+  {
+    "rubric": "Sweat better by uncovering limbs",
+    "grading": {
+      "high": ["Camphora"],
+      "medium": ["Silicea"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Asthma better leaning forward and supported",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Spongia"],
+      "low": ["Ipecac"]
+    }
+  },
+  {
+    "rubric": "Pain in knees better by hot applications",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Kali iod"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Burning in throat better by cold drinks",
+    "grading": {
+      "high": ["Arsenicum"],
+      "medium": ["Lachesis"],
+      "low": ["Phytolacca"]
+    }
+  },
+  {
+    "rubric": "Drowsiness better after meals",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Carbo veg"],
+      "low": ["Nux moschata"]
+    }
+  },
+  {
+    "rubric": "Foot sweat better by washing",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Baryta carb"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Vertigo better by urination",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Cyclamen"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Anxiety better by walking in open air",
+    "grading": {
+      "high": ["Aconite"],
+      "medium": ["Phosphorus"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Rash better by cold applications",
+    "grading": {
+      "high": ["Apis"],
+      "medium": ["Sulphur"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Chill better lying on abdomen",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sepia"],
+      "low": ["Arsenicum"]
+    }
+  },
+  {
+    "rubric": "Toothache better by walking",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Coffea"],
+      "low": ["Mag carb"]
+    }
+  },
+  {
+    "rubric": "Menses better by motion",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Stomach pain better by rubbing abdomen",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Mag phos"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Burning in skin better by scratching",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Cough better after stool",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Ignatia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Tearing pain in limbs better from motion",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Fever with chill better from lying still",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["China"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Diarrhoea better after passing flatus",
+    "grading": {
+      "high": ["Aloe"],
+      "medium": ["Podophyllum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Headache better by lying on painful side",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Spigelia"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Sensation of plug in throat better by swallowing",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Lac caninum"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Pain better lying on abdomen with pressure",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Mag phos"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Neuralgic pain better from warmth and pressure",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Spigelia"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Cough better sitting and bending forward",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Antimonium tart"],
+      "low": ["Ipecac"]
+    }
+  },
+  {
+    "rubric": "Back pain better by pressure and lying on something hard",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Calc phos"]
+    }
+  },
+  {
+    "rubric": "Nasal congestion better in cool air",
+    "grading": {
+      "high": ["Allium cepa"],
+      "medium": ["Sabadilla"],
+      "low": ["Kali bich"]
+    }
+  },
+  {
+    "rubric": "Gastric pain better by eating little and often",
+    "grading": {
+      "high": ["Anacardium"],
+      "medium": ["Petroleum"],
+      "low": ["Chelidonium"]
+    }
+  },
+  {
+    "rubric": "Pain in ovaries better after stool",
+    "grading": {
+      "high": ["Lilium tigrinum"],
+      "medium": ["Plumbum"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Itching better by hot water",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Dolichos"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Sneezing better in open air",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Arundo"],
+      "low": ["Wyethia"]
+    }
+  },
+  {
+    "rubric": "Eye pain better by closing eyes",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Ruta"],
+      "low": ["Conium"]
+    }
+  },
+  {
+    "rubric": "Pain better by bending backward",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Kali carb"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Menses better after urination",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Lachesis"],
+      "low": ["Crocus"]
+    }
+  },
+  {
+    "rubric": "Abdominal pain better after stool and flatus",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Aloe"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Cough better by lying head low",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Causticum"],
+      "low": ["Drosera"]
+    }
+  },
+  {
+    "rubric": "Palpitation better in open air",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Lilium tigrinum"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Vertigo better lying with head high",
+    "grading": {
+      "high": ["Glonoine"],
+      "medium": ["Conium"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Sensation of coldness better by warm covering",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Silicea"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Cold in head better from warm drinks",
+    "grading": {
+      "high": ["Arsenicum"],
+      "medium": ["Sabadilla"],
+      "low": ["Kali bich"]
+    }
+  },
+  {
+    "rubric": "Coryza better while lying on painful side",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Lemna minor"],
+      "low": ["Ammonium carb"]
+    }
+  },
+  {
+    "rubric": "Rectal itching better by washing with cold water",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Aloe"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Sadness better after weeping",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Nat mur"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Chill better by lying on right side",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Nux vomica"],
+      "low": ["Aconite"]
+    }
+  },
+  {
+    "rubric": "Eye discharge better by cold application",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Belladonna"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Vertigo better by remaining still",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Cocculus"],
+      "low": ["Tabacum"]
+    }
+  },
+  {
+    "rubric": "Urticaria better by scratching",
+    "grading": {
+      "high": ["Dolichos"],
+      "medium": ["Urtica urens"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Toothache better by chewing",
+    "grading": {
+      "high": ["Staphysagria"],
+      "medium": ["Plantago"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Earache better from warmth",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Pulsatilla"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Lumbago better by firm pressure",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Rhus tox"],
+      "low": ["Calc fluor"]
+    }
+  },
+  {
+    "rubric": "Cough better by taking deep breath",
+    "grading": {
+      "high": ["Drosera"],
+      "medium": ["Phosphorus"],
+      "low": ["Antimonium tart"]
+    }
+  },
+  {
+    "rubric": "Joint pain better by stretching",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Calc fluor"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Palpitation better lying with head low",
+    "grading": {
+      "high": ["Digitalis"],
+      "medium": ["Spongia"],
+      "low": ["Kali iod"]
+    }
+  },
+  {
+    "rubric": "Hoarseness better by drinking warm fluids",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Arum triphyllum"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Bleeding piles better by cold sitz bath",
+    "grading": {
+      "high": ["Hamamelis"],
+      "medium": ["Aloe"],
+      "low": ["Collinsonia"]
+    }
+  },
+  {
+    "rubric": "Coryza better during day, worse at night",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Arsenicum"],
+      "low": ["Lemna minor"]
+    }
+  },
+  {
+    "rubric": "Dry cough better from humid air",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Spongia"],
+      "low": ["Rumex"]
+    }
+  },
+  {
+    "rubric": "Fever better lying on abdomen",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Rhus tox"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Bloating better by burping",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["China"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Sleeplessness better after washing face with cold water",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Ignatia"],
+      "low": ["Nux moschata"]
+    }
+  },
+  {
+    "rubric": "Pain in legs better hanging them down",
+    "grading": {
+      "high": ["Vipera"],
+      "medium": ["Hamamelis"],
+      "low": ["Calc carb"]
+    }
+  },
+  {
+    "rubric": "Menses better from gentle motion",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Cimicifuga"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Tingling better by rubbing",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Agaricus"],
+      "low": ["Plumbum"]
+    }
+  },
+  {
+    "rubric": "Stomach pain better from hot drinks",
+    "grading": {
+      "high": ["Arsenicum"],
+      "medium": ["Mag phos"],
+      "low": ["Carbo veg"]
+    }
+  },
+  {
+    "rubric": "Burning soles better by uncovering",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Medorrhinum"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Pain in stomach better by eating hot food",
+    "grading": {
+      "high": ["Arsenicum album"],
+      "medium": ["Phosphorus"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Heaviness of head better by cold application",
+    "grading": {
+      "high": ["Glonoine"],
+      "medium": ["Belladonna"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Pain in chest better by bending forward",
+    "grading": {
+      "high": ["Kali carb"],
+      "medium": ["Spongia"],
+      "low": ["Arsenicum alb"]
+    }
+  },
+  {
+    "rubric": "Fatigue better by short sleep",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Cocculus"],
+      "low": ["Phosphoric acid"]
+    }
+  },
+  {
+    "rubric": "Sensation of lump in stomach better by eructation",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Lycopodium"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Sore throat better after eating",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Ignatia"],
+      "low": ["Phytolacca"]
+    }
+  },
+  {
+    "rubric": "Cramping abdominal pain better by double bending",
+    "grading": {
+      "high": ["Magnesia phosphorica"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Dryness in mouth better by sipping water frequently",
+    "grading": {
+      "high": ["Arsenicum album"],
+      "medium": ["Bryonia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Vertigo better in dark room",
+    "grading": {
+      "high": ["Theridion"],
+      "medium": ["Cyclamen"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Hot flushes better by uncovering",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Sulphur"],
+      "low": ["Sanguinaria"]
+    }
+  },
+  {
+    "rubric": "Headache better by coffee",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Nux vomica"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Leg cramps better by standing on cold floor",
+    "grading": {
+      "high": ["Veratrum album"],
+      "medium": ["Calcarea carbonica"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Stomach discomfort better from slow walking",
+    "grading": {
+      "high": ["Anacardium"],
+      "medium": ["Petroleum"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Pain in eye better by pressure on closed lid",
+    "grading": {
+      "high": ["Spigelia"],
+      "medium": ["Ruta"],
+      "low": ["Euphrasia"]
+    }
+  },
+  {
+    "rubric": "Menstrual colic better by firm pressure",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Chamomilla"],
+      "low": ["Cimicifuga"]
+    }
+  },
+  {
+    "rubric": "Diarrhea better after eating",
+    "grading": {
+      "high": ["Podophyllum"],
+      "medium": ["Aloe"],
+      "low": ["Nat sulph"]
+    }
+  },
+  {
+    "rubric": "Burning in throat better by sipping cold drinks",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Arsenicum"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Neck pain better by keeping neck stiff and immobile",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Rhus tox"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Heaviness in legs better by raising them",
+    "grading": {
+      "high": ["Hamamelis"],
+      "medium": ["Vipera"],
+      "low": ["Carbo veg"]
+    }
+  },
+  {
+    "rubric": "Coryza better by lying in open air",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Allium cepa"],
+      "low": ["Sabadilla"]
+    }
+  },
+  {
+    "rubric": "Sensation of throat closing better after eating",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Coccus cacti"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Colicky pain better lying on painful side",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Chamomilla"],
+      "low": ["Mag phos"]
+    }
+  },
+  {
+    "rubric": "Dry cough better by drinking warm liquids",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Spongia"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Pain in hip better while walking slowly",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Colocynthis"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Sciatica better from stretching limb",
+    "grading": {
+      "high": ["Gnaphalium"],
+      "medium": ["Mag phos"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Cough better by sucking sugar",
+    "grading": {
+      "high": ["Drosera"],
+      "medium": ["Spongia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Headache better by eating",
+    "grading": {
+      "high": ["Anacardium"],
+      "medium": ["Iris versicolor"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Sleeplessness better lying on back with hands on chest",
+    "grading": {
+      "high": ["Kali phos"],
+      "medium": ["Coffea"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Toothache better from biting something hard",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Coffea"],
+      "low": ["Mag carb"]
+    }
+  },
+  {
+    "rubric": "Headache better lying on abdomen",
+    "grading": {
+      "high": ["Ipecac"],
+      "medium": ["Nux vomica"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Dysmenorrhea better bending backward",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Lilium tigrinum"],
+      "low": ["Plumbum"]
+    }
+  },
+  {
+    "rubric": "Nasal obstruction better while chewing",
+    "grading": {
+      "high": ["Lemna minor"],
+      "medium": ["Ammonium carb"],
+      "low": ["Kali bich"]
+    }
+  },
+  {
+    "rubric": "Burning in soles better walking barefoot",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Medorrhinum"]
+    }
+  },
+  {
+    "rubric": "Insomnia better by drinking milk",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Kali phos"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Uterine pain better by urination",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Lilium tigrinum"],
+      "low": ["Crocus"]
+    }
+  },
+  {
+    "rubric": "Chill better in warm bed",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Nux vomica"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Pain in bladder better after urination",
+    "grading": {
+      "high": ["Cantharis"],
+      "medium": ["Sarsaparilla"],
+      "low": ["Berberis"]
+    }
+  },
+  {
+    "rubric": "Neuralgia better lying on affected side",
+    "grading": {
+      "high": ["Spigelia"],
+      "medium": ["Colocynthis"],
+      "low": ["Mag phos"]
+    }
+  },
+  {
+    "rubric": "Tinnitus better when lying down",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Kali mur"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Pain in left ovary better from hard pressure",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Plumbum"],
+      "low": ["Apis"]
+    }
+  },
+  {
+    "rubric": "Nausea better by lying still",
+    "grading": {
+      "high": ["Tabacum"],
+      "medium": ["Cocculus"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Burning in palms better by washing with cold water",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Sadness better by reading",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Nat mur"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Dry lips better from licking",
+    "grading": {
+      "high": ["Nat mur"],
+      "medium": ["Bryonia"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Foot pain better by walking barefoot",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Calc fluor"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Tearing pain better by stretching limbs",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Ledum"]
+    }
+  },
+  {
+    "rubric": "Headache better from pressure on vertex",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Glonoine"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Flatulence better bending forward",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["China"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Breathlessness better with fan or breeze on face",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Arsenicum"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Cough better lying on abdomen",
+    "grading": {
+      "high": ["Drosera"],
+      "medium": ["Ipecac"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Sleeplessness better lying on right side",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Coffea"],
+      "low": ["Kali phos"]
+    }
+  },
+  {
+    "rubric": "Itching of skin better by hot bathing",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Dolichos"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Tinnitus better with noise (masking sound)",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Kali mur"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Stomach pain better lying on left side",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Chelidonium"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Neck stiffness better after movement",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Kalmia"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Toothache better when clenching teeth",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Mag carb"],
+      "low": ["Staphysagria"]
+    }
+  },
+  {
+    "rubric": "Dry cough better by covering mouth",
+    "grading": {
+      "high": ["Rumex"],
+      "medium": ["Hepar sulph"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Earache better lying on affected ear",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Chamomilla"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Headache better by gentle massage",
+    "grading": {
+      "high": ["Cimicifuga"],
+      "medium": ["Silicea"],
+      "low": ["Spigelia"]
+    }
+  },
+  {
+    "rubric": "Burning in stomach better by warm drinks",
+    "grading": {
+      "high": ["Arsenicum"],
+      "medium": ["Phosphorus"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Back pain better lying on hard surface",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Calcarea phos"]
+    }
+  },
+  {
+    "rubric": "Anxiety better after eating",
+    "grading": {
+      "high": ["Anacardium"],
+      "medium": ["Kali phos"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Restlessness better from company",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Pulsatilla"],
+      "low": ["Coffea"]
+    }
+  },
+  {
+    "rubric": "Colic better by rolling on abdomen",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Colocynthis"],
+      "low": ["Mag phos"]
+    }
+  },
+  {
+    "rubric": "Sneezing better after sleep",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Arundo"],
+      "low": ["Wyethia"]
+    }
+  },
+  {
+    "rubric": "Vertigo better by closing eyes and lying still",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Gelsemium"],
+      "low": ["Tabacum"]
+    }
+  },
+  {
+    "rubric": "Faintness better by cold water on face",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Ignatia"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Chill better from warmth of fire",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Arsenicum"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Dry throat better by moist air",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Spongia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Head heaviness better lying flat",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Bryonia"],
+      "low": ["Glonoine"]
+    }
+  },
+  {
+    "rubric": "Urticaria better after scratching until bleeding",
+    "grading": {
+      "high": ["Dolichos"],
+      "medium": ["Psorinum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Migraine better from vomiting",
+    "grading": {
+      "high": ["Iris versicolor"],
+      "medium": ["Sanguinaria"],
+      "low": ["Cyclamen"]
+    }
+  },
+  {
+    "rubric": "Constipation better after walking in open air",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Calcarea carb"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Sciatic pain better on hard mattress",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Colocynthis"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Dry lips better by warm drinks",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Nat mur"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Burning in eyes better by closing them",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Ruta"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Menstrual headache better after flow begins",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Pulsatilla"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Pain in ankle better from tight bandaging",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Ledum"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Pain in soles better walking on cold surface",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Sulphur"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Mental exhaustion better after brief sleep",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["Cocculus"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Neck pain better by heat and stretching",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Frequent yawning better by lying down",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Gelsemium"],
+      "low": ["Kali phos"]
+    }
+  },
+  {
+    "rubric": "Foot cramps better by flexing toes",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Cuprum met"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Eye pressure better by closing and rubbing",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Physostigma"],
+      "low": ["Conium"]
+    }
+  },
+  {
+    "rubric": "Throat tightness better by eating",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Lachesis"],
+      "low": ["Coccus cacti"]
+    }
+  },
+  {
+    "rubric": "Nausea better by chewing ice",
+    "grading": {
+      "high": ["Tabacum"],
+      "medium": ["Ipecac"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Heaviness in limbs better by stretching",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Phosphorus"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Numbness better by rubbing and warmth",
+    "grading": {
+      "high": ["Aconite"],
+      "medium": ["Causticum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Throbbing pain better by elevation",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Vipera"],
+      "low": ["Hamamelis"]
+    }
+  },
+  {
+    "rubric": "Pain in wrist better by cold applications",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Bryonia"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Cough better after eating sweets",
+    "grading": {
+      "high": ["Drosera"],
+      "medium": ["Spongia"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Cold sweat better by drinking hot tea",
+    "grading": {
+      "high": ["Veratrum alb"],
+      "medium": ["Camphora"],
+      "low": ["Arsenicum"]
+    }
+  },
+  {
+    "rubric": "Pain in testes better from cold application",
+    "grading": {
+      "high": ["Hamamelis"],
+      "medium": ["Spongia"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Swelling of glands better by pressure",
+    "grading": {
+      "high": ["Mercurius"],
+      "medium": ["Calcarea fluor"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Joint pain better by motion, worse at rest",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Kali carb"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Pain in chest better lying on left side",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Phosphorus"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Sciatic pain better by hot applications",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Mag phos"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Pain in coccyx better by sitting on soft cushion",
+    "grading": {
+      "high": ["Hypericum"],
+      "medium": ["Silicea"],
+      "low": ["Calcarea fluor"]
+    }
+  },
+  {
+    "rubric": "Neuralgia of face better by wrapping head",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Spigelia"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Chill better by drinking hot fluids",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Arsenicum"],
+      "low": ["Dulcamara"]
+    }
+  },
+  {
+    "rubric": "Sensation of fullness in head better after stool",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Lycopodium"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Burning pain better by rubbing",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Sulphur"],
+      "low": ["Agaricus"]
+    }
+  },
+  {
+    "rubric": "Hoarseness better by continuous talking",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Argentum met"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Lameness better by motion",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Pain in liver better by lying on right side",
+    "grading": {
+      "high": ["Chelidonium"],
+      "medium": ["Lycopodium"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Vertigo better by closing eyes and lying down",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Conium"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Cracked lips better by warm drinks",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Natrum mur"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Rheumatic pain better from hot packs",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Colchicum"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Insomnia better with mild music",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Ignatia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Chest pain better from warm drinks",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Spongia"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Neck pain better by stretching sideways",
+    "grading": {
+      "high": ["Kalmia"],
+      "medium": ["Gelsemium"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Sore throat better from cold drinks",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Phosphorus"],
+      "low": ["Mercurius"]
+    }
+  },
+  {
+    "rubric": "Heaviness in abdomen better by eructation",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Lycopodium"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Pain in legs better by sitting quietly",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Sepia"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Cough better in open air",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Rumex"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Earache better by pressure of hand",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Pulsatilla"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Nausea better from fanning or cool breeze",
+    "grading": {
+      "high": ["Tabacum"],
+      "medium": ["Ipecac"],
+      "low": ["Cocculus"]
+    }
+  },
+  {
+    "rubric": "Tooth pain better by warm water rinsing",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Chamomilla"],
+      "low": ["Mercurius"]
+    }
+  },
+  {
+    "rubric": "Throat pain better from warm food",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Spongia"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Stomach heaviness better from movement",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Lycopodium"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Palpitations better by lying on back",
+    "grading": {
+      "high": ["Digitalis"],
+      "medium": ["Spongia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Colic better by standing erect",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Nux moschata"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Burning soles better by immersing in cold water",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Medorrhinum"]
+    }
+  },
+  {
+    "rubric": "Constipation better by bending forward",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sulphur"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Pain in knees better with cold compress",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Ruta"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Itching of scalp better by vigorous scratching",
+    "grading": {
+      "high": ["Dolichos"],
+      "medium": ["Sulphur"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Insomnia better from sleeping on abdomen",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Lycopodium"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Uterine prolapse sensation better lying down",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Murex"],
+      "low": ["Lilium tigrinum"]
+    }
+  },
+  {
+    "rubric": "Pain in lumbar region better by bending backward",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Bryonia"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Dry cough better from keeping warm",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Causticum"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Chill better by wrapping up warmly",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Arsenicum"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Pain in loins better after urination",
+    "grading": {
+      "high": ["Berberis vulgaris"],
+      "medium": ["Sarsaparilla"],
+      "low": ["Cantharis"]
+    }
+  },
+  {
+    "rubric": "Throat irritation better by clearing throat",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Argentum met"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Numbness of limbs better by motion",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Sadness better after eating",
+    "grading": {
+      "high": ["Anacardium"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Nat mur"]
+    }
+  },
+  {
+    "rubric": "Cramp in calf better by stretching",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Cuprum met"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Dryness of lips better by cold water sips",
+    "grading": {
+      "high": ["Nat mur"],
+      "medium": ["Bryonia"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Pain in nape better with cold application",
+    "grading": {
+      "high": ["Glonoine"],
+      "medium": ["Belladonna"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Sensation of coldness better by covering head",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Calcarea carb"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Headache better after nosebleed",
+    "grading": {
+      "high": ["Melilotus"],
+      "medium": ["Sanguinaria"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Backache better lying on abdomen",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Medorrhinum"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Tearing pain better by shaking limb",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Rhus tox"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Pain in heel better from rubbing",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Ruta"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Pain in hip joint better lying on painful side",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Bryonia"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Cracking joints better after movement",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Rhus tox"],
+      "low": ["Calcarea phos"]
+    }
+  },
+  {
+    "rubric": "Feeling of weight in uterus better lying with legs elevated",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Murex"],
+      "low": ["Helonias"]
+    }
+  },
+  {
+    "rubric": "Pain in bladder better after urination",
+    "grading": {
+      "high": ["Cantharis"],
+      "medium": ["Berberis"],
+      "low": ["Sarsaparilla"]
+    }
+  },
+  {
+    "rubric": "Ear discharge better from warmth",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Merc sol"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Sinus pressure better by steam inhalation",
+    "grading": {
+      "high": ["Kali bich"],
+      "medium": ["Pulsatilla"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Restlessness better from mild conversation",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Pulsatilla"],
+      "low": ["Coffea"]
+    }
+  },
+  {
+    "rubric": "Burning in throat better by eating slowly",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Arsenicum"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Pain in abdomen better with loose clothing",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["China"],
+      "low": ["Carbo veg"]
+    }
+  },
+  {
+    "rubric": "Wrist pain better with cold water immersion",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Ruta"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Foot swelling better when elevated",
+    "grading": {
+      "high": ["Vipera"],
+      "medium": ["Hamamelis"],
+      "low": ["Fluoric acid"]
+    }
+  },
+  {
+    "rubric": "Lump sensation in throat better by swallowing food",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Lachesis"],
+      "low": ["Coccus cacti"]
+    }
+  },
+  {
+    "rubric": "Back stiffness better after hot shower",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Numbness of fingers better by rubbing hands",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Aconite"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Eye strain better by pressing eyes",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Physostigma"],
+      "low": ["Nat mur"]
+    }
+  },
+  {
+    "rubric": "Shooting pain better by tight wrapping",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Mag phos"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Headache better lying in dark room",
+    "grading": {
+      "high": ["Glonoine"],
+      "medium": ["Cyclamen"],
+      "low": ["Iris versicolor"]
+    }
+  },
+  {
+    "rubric": "Craving salt better after satisfying it",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Phosphorus"],
+      "low": ["Carbo veg"]
+    }
+  },
+  {
+    "rubric": "Nausea better lying in cold room",
+    "grading": {
+      "high": ["Tabacum"],
+      "medium": ["Cocculus"],
+      "low": ["Colchicum"]
+    }
+  },
+  {
+    "rubric": "Rectal pain better after stool",
+    "grading": {
+      "high": ["Nitric acid"],
+      "medium": ["Aesculus"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Fatigue better by lying flat on back",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["China"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Burning feet better by uncovering",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Medorrhinum"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Backache better from pressure of chair",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Calcarea fluor"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Heaviness of eyes better from sleep",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Nux moschata"],
+      "low": ["Phosphoric acid"]
+    }
+  },
+  {
+    "rubric": "Pain in shoulder better with warmth and motion",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ferrum met"],
+      "low": ["Kalmia"]
+    }
+  },
+  {
+    "rubric": "Tingling sensation better from warmth",
+    "grading": {
+      "high": ["Aconite"],
+      "medium": ["Silicea"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Dry cough better from sipping small quantities of water",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Drosera"],
+      "low": ["Rumex"]
+    }
+  },
+  {
+    "rubric": "Pain in eyeballs better with gentle massage",
+    "grading": {
+      "high": ["Spigelia"],
+      "medium": ["Ruta"],
+      "low": ["Physostigma"]
+    }
+  },
+  {
+    "rubric": "Pain in gums better after cold rinsing",
+    "grading": {
+      "high": ["Merc sol"],
+      "medium": ["Silicea"],
+      "low": ["Kali bich"]
+    }
+  },
+  {
+    "rubric": "Heaviness in chest better from eructations",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Carbo veg"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Tingling in limbs better with rubbing",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Aconite"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Mental dullness better by physical exertion",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Pain in ear better lying on painful side",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Pulsatilla"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Dry throat better by swallowing saliva",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Phosphorus"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Chill better by wrapping head and ears",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Hepar sulph"],
+      "low": ["Dulcamara"]
+    }
+  },
+  {
+    "rubric": "Cough better lying on left side",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Pulsatilla"],
+      "low": ["Rumex"]
+    }
+  },
+  {
+    "rubric": "Coryza better in open air",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Allium cepa"],
+      "low": ["Sabadilla"]
+    }
+  },
+  {
+    "rubric": "Headache better with tight bandage",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Argentum nitricum"],
+      "low": ["Spigelia"]
+    }
+  },
+  {
+    "rubric": "Cramping abdominal pain better with hot drinks",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Eye itching better with cold water wash",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Sulphur"],
+      "low": ["Apis"]
+    }
+  },
+  {
+    "rubric": "Headache better by pressure of hand",
+    "grading": {
+      "high": ["Glonoine"],
+      "medium": ["Belladonna"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Vertigo better lying with head high",
+    "grading": {
+      "high": ["Conium"],
+      "medium": ["Bryonia"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Dry mouth better from frequent sips of water",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Bryonia"],
+      "low": ["Nux moschata"]
+    }
+  },
+  {
+    "rubric": "Cough better by lying across bed with head down",
+    "grading": {
+      "high": ["Kali bich"],
+      "medium": ["Drosera"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Nausea better after vomiting",
+    "grading": {
+      "high": ["Ipecac"],
+      "medium": ["Kreosote"],
+      "low": ["Iris versicolor"]
+    }
+  },
+  {
+    "rubric": "Hoarseness better after clearing throat",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Argentum met"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Colic better when abdomen supported",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Belladonna"],
+      "low": ["Mag phos"]
+    }
+  },
+  {
+    "rubric": "Toothache better by keeping cold water in mouth",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Coffea"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Lumbago better sitting bent forward",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Dioscorea"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Earache better from hot applications",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Hepar sulph"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Menstrual cramps better with hard pressure",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Belladonna"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Burning urine better by drinking water",
+    "grading": {
+      "high": ["Cantharis"],
+      "medium": ["Apis"],
+      "low": ["Sarsaparilla"]
+    }
+  },
+  {
+    "rubric": "Leg cramps better standing on cold floor",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Sulphur"],
+      "low": ["Calcarea carb"]
+    }
+  },
+  {
+    "rubric": "Dryness in nose better from steam inhalation",
+    "grading": {
+      "high": ["Kali bich"],
+      "medium": ["Lemna minor"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Tinnitus better by pressure on ear",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Kali mur"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Uterine pain better from downward pressure",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Murex"],
+      "low": ["Helonias"]
+    }
+  },
+  {
+    "rubric": "Dry cough better by sitting up in bed",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Drosera"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Headache better by applying cold cloth to forehead",
+    "grading": {
+      "high": ["Glonoine"],
+      "medium": ["Belladonna"],
+      "low": ["Nat mur"]
+    }
+  },
+  {
+    "rubric": "Constipation better by applying warm compress on abdomen",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Colocynthis"],
+      "low": ["Plumbum"]
+    }
+  },
+  {
+    "rubric": "Scalp pain better from pressure",
+    "grading": {
+      "high": ["Cimicifuga"],
+      "medium": ["Belladonna"],
+      "low": ["Spigelia"]
+    }
+  },
+  {
+    "rubric": "Pain in back better from firm pressure",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Rhus tox"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Nausea better in open air",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Ipecac"],
+      "low": ["Tabacum"]
+    }
+  },
+  {
+    "rubric": "Headache better by drinking hot coffee",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Coffea"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Burning soles better by rubbing feet together",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Medorrhinum"]
+    }
+  },
+  {
+    "rubric": "Chill better by hot drinks and wrapping body",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Arsenicum"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Neck pain better by turning head to opposite side",
+    "grading": {
+      "high": ["Kalmia"],
+      "medium": ["Rhus tox"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Sore throat better from sipping warm fluids slowly",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Phytolacca"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Headache better lying on affected side",
+    "grading": {
+      "high": ["Sanguinaria"],
+      "medium": ["Spigelia"],
+      "low": ["Kali bich"]
+    }
+  },
+  {
+    "rubric": "Shooting pain better from holding breath",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Kali carb"],
+      "low": ["Arsenicum"]
+    }
+  },
+  {
+    "rubric": "Eye strain better after short nap",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Physostigma"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Throat constriction better by stretching neck",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Lachesis"],
+      "low": ["Glonoinum"]
+    }
+  },
+  {
+    "rubric": "Heaviness in stomach better by burping",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["China"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Pain in sacrum better with hot application",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Colocynthis"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Dry lips better after applying ghee or oil",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Nat mur"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Fatigue better by talking to someone",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Pulsatilla"],
+      "low": ["Coffea"]
+    }
+  },
+  {
+    "rubric": "Hiccups better by drinking cold water",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Hyoscyamus"],
+      "low": ["Nux moschata"]
+    }
+  },
+  {
+    "rubric": "Ankle pain better from immersing in cold water",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Ruta"],
+      "low": ["Bellis perennis"]
+    }
+  },
+  {
+    "rubric": "Facial neuralgia better with warmth and wrapping",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Spigelia"],
+      "low": ["Verbascum"]
+    }
+  },
+  {
+    "rubric": "Tearing leg pain better by stretching leg",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Eye burning better by cold water splashing",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Ruta"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Knee pain better with continued walking",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Mental dullness better by deep breathing",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["Gelsemium"],
+      "low": ["Anacardium"]
+    }
+  },
+  {
+    "rubric": "Restlessness better from hugging or being held",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Medorrhinum"],
+      "low": ["Tuberculinum"]
+    }
+  },
+  {
+    "rubric": "Sensation of weight in head better after passing stool",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Bryonia"],
+      "low": ["Aloe"]
+    }
+  },
+  {
+    "rubric": "Muscle twitching better by sleep",
+    "grading": {
+      "high": ["Agaricus"],
+      "medium": ["Cuprum met"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Cough better by sucking on sugar",
+    "grading": {
+      "high": ["Drosera"],
+      "medium": ["Rumex"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Vertigo better lying still with eyes closed",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Tabacum"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Cough better from eating",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Phosphorus"],
+      "low": ["Drosera"]
+    }
+  },
+  {
+    "rubric": "Nausea better lying on right side",
+    "grading": {
+      "high": ["Colchicum"],
+      "medium": ["Cocculus"],
+      "low": ["Tabacum"]
+    }
+  },
+  {
+    "rubric": "Pain in hip joint better from motion",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ferrum met"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Neck stiffness better by turning head slowly",
+    "grading": {
+      "high": ["Kalmia"],
+      "medium": ["Causticum"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Cramp in thighs better by stretching",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Cuprum met"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Dryness of throat better by warm fluids",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Spongia"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Heaviness of chest better by leaning forward",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Lycopodium"],
+      "low": ["Carbo veg"]
+    }
+  },
+  {
+    "rubric": "Pain in spleen better by pressure",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Ferrum met"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Rectal pain better after passing flatus",
+    "grading": {
+      "high": ["Aloe"],
+      "medium": ["Nux vomica"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Burning in eyes better by cold application",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Belladonna"],
+      "low": ["Apis"]
+    }
+  },
+  {
+    "rubric": "Sleeplessness better by reading",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Phosphorus"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Lower back pain better lying on hard surface",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Rhus tox"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Pain in thighs better by bending forward",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Rhus tox"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Sensation of heat in face better in open air",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Lachesis"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Tearing pain in limbs better from hot compress",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Chamomilla"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Ear discharge better in warm weather",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Silicea"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Headache better after passing urine",
+    "grading": {
+      "high": ["Sanguinaria"],
+      "medium": ["Lachesis"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Pain in kidneys better by warmth",
+    "grading": {
+      "high": ["Berberis vulgaris"],
+      "medium": ["Cantharis"],
+      "low": ["Sarsaparilla"]
+    }
+  },
+  {
+    "rubric": "Toothache better by keeping mouth open",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Silicea"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Pain in forehead better by cold air",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Spigelia"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Leg weakness better after short nap",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Sneezing better after washing face",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Allium cepa"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Chill better from hot foot bath",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Mental confusion better in open air",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Anacardium"]
+    }
+  },
+  {
+    "rubric": "Stiff neck better after motion",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Kalmia"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Cramp in calves better standing barefoot",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Sulphur"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Palpitation better lying on right side",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Digitalis"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Fever better from cold bathing",
+    "grading": {
+      "high": ["Apis"],
+      "medium": ["Belladonna"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Pain in eyes better by closing them tightly",
+    "grading": {
+      "high": ["Spigelia"],
+      "medium": ["Ruta"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Flatulence better by walking",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["China"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Insomnia better lying on abdomen",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Lycopodium"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Gastric pain better with carbonated drinks",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Robinia"],
+      "low": ["Natrum phos"]
+    }
+  },
+  {
+    "rubric": "Joint swelling better from gentle massage",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Calcarea fluor"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Burning pain in soles better elevating feet",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Medorrhinum"]
+    }
+  },
+  {
+    "rubric": "Eye pain better in dark room",
+    "grading": {
+      "high": ["Glonoine"],
+      "medium": ["Belladonna"],
+      "low": ["Nat mur"]
+    }
+  },
+  {
+    "rubric": "Thirst better by sipping ice water",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Arsenicum"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Vertigo better after sleep",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Gelsemium"],
+      "low": ["Conium"]
+    }
+  },
+  {
+    "rubric": "Sadness better while weeping",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": ["Nat mur"]
+    }
+  },
+  {
+    "rubric": "Trembling better after sleep",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Zincum met"],
+      "low": ["Agaricus"]
+    }
+  },
+  {
+    "rubric": "Cough better by drinking warm milk",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Spongia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Anxiety better in company",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Pulsatilla"],
+      "low": ["Arsenicum"]
+    }
+  },
+  {
+    "rubric": "Back pain better by stretching backward",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Bryonia"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Chest oppression better after deep breathing",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Carbo veg"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Foot pain better in cool air",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Pulsatilla"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Tearing pain in back better by sitting still",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Kali carb"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Itching of palms better by washing hands",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Dolichos"]
+    }
+  },
+  {
+    "rubric": "Cough better in sitting position",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Hepar sulph"],
+      "low": ["Drosera"]
+    }
+  },
+  {
+    "rubric": "Palpitation better lying on left side",
+    "grading": {
+      "high": ["Digitalis"],
+      "medium": ["Lilium tigrinum"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Eye inflammation better in darkness",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Euphrasia"],
+      "low": ["Apis"]
+    }
+  },
+  {
+    "rubric": "Foot cramps better after urination",
+    "grading": {
+      "high": ["Cuprum met"],
+      "medium": ["Sulphur"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Sensation of ball in throat better by swallowing food",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Lachesis"],
+      "low": ["Glonoinum"]
+    }
+  },
+  {
+    "rubric": "Stomach heaviness better by tight clothing removal",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Carbo veg"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Facial pain better by hard pressure",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Spigelia"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Lumbago better while standing still",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Kali carb"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Hoarseness better by morning",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Spongia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Knee stiffness better from flexing joint",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Oppression of chest better while eructating",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Lycopodium"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Low back pain better in motion",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Sepia"],
+      "low": ["Bellis perennis"]
+    }
+  },
+  {
+    "rubric": "Colic better when knees pressed to chest",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Mag phos"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Sensation of lump in stomach better from warm drinks",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Arsenicum"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Teeth pain better from cold water",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Coffea"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Giddiness better by lying down",
+    "grading": {
+      "high": ["Conium"],
+      "medium": ["Gelsemium"],
+      "low": ["Cocculus"]
+    }
+  },
+  {
+    "rubric": "Sneezing better in open air",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Allium cepa"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Fatigue better after eating",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Ear pain better from chewing",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Pulsatilla"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Sore throat better by warm drinks",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Phytolacca"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Foot sweat better in cold weather",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Baryta carb"],
+      "low": ["Calcarea carb"]
+    }
+  },
+  {
+    "rubric": "Right-sided headache better by pressure",
+    "grading": {
+      "high": ["Sanguinaria"],
+      "medium": ["Spigelia"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Face heat better by splashing cold water",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Belladonna"],
+      "low": ["Apis"]
+    }
+  },
+  {
+    "rubric": "Craving sweets better after satisfying",
+    "grading": {
+      "high": ["Argentum nitricum"],
+      "medium": ["Lycopodium"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Back stiffness better lying on hard floor",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Rhus tox"],
+      "low": ["Calcarea fluor"]
+    }
+  },
+  {
+    "rubric": "Mental confusion better after meals",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Anacardium"]
+    }
+  },
+  {
+    "rubric": "Shoulder pain better with massage",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Tingling in hands better by shaking them",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Gelsemium"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Burning urination better by drinking water",
+    "grading": {
+      "high": ["Cantharis"],
+      "medium": ["Apis"],
+      "low": ["Sarsaparilla"]
+    }
+  },
+  {
+    "rubric": "Muscle pain better from movement",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Arnica"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Leg pain better from cold application",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Ruta"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Coryza better in cool air",
+    "grading": {
+      "high": ["Allium cepa"],
+      "medium": ["Sabadilla"],
+      "low": ["Arsenicum"]
+    }
+  },
+  {
+    "rubric": "Sadness better by crying",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Ignatia"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Burning soles better after uncovering",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Medorrhinum"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Uterine pain better by bending forward",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Murex"],
+      "low": ["Helonias"]
+    }
+  },
+  {
+    "rubric": "Vomiting better lying on right side",
+    "grading": {
+      "high": ["Colchicum"],
+      "medium": ["Cocculus"],
+      "low": ["Tabacum"]
+    }
+  },
+  {
+    "rubric": "Neck pain better after stretching",
+    "grading": {
+      "high": ["Kalmia"],
+      "medium": ["Rhus tox"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Tongue pain better by cold application",
+    "grading": {
+      "high": ["Merc sol"],
+      "medium": ["Borax"],
+      "low": ["Kali bich"]
+    }
+  },
+  {
+    "rubric": "Swelling of feet better with elevation",
+    "grading": {
+      "high": ["Vipera"],
+      "medium": ["Hamamelis"],
+      "low": ["Fluoric acid"]
+    }
+  },
+  {
+    "rubric": "Tingling of lips better after rest",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Aconite"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Fear better when held or reassured",
+    "grading": {
+      "high": ["Aconite"],
+      "medium": ["Chamomilla"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Vertigo better closing eyes and lying flat",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Conium"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Throat pain better from gentle sipping of water",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Phosphorus"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Skin itching better by cool application",
+    "grading": {
+      "high": ["Apis"],
+      "medium": ["Sulphur"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Stomach pain better from carbonated drinks",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Robinia"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Cough better from eating sweets",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Phosphorus"],
+      "low": ["Cina"]
+    }
+  },
+  {
+    "rubric": "Sneezing better after sleep",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Gelsemium"],
+      "low": ["Arsenicum alb"]
+    }
+  },
+  {
+    "rubric": "Pain in joints better during mild activity",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Burning in anus better by cold water wash",
+    "grading": {
+      "high": ["Aesculus"],
+      "medium": ["Sulphur"],
+      "low": ["Ratanhia"]
+    }
+  },
+  {
+    "rubric": "Foot swelling better on elevating legs",
+    "grading": {
+      "high": ["Vipera"],
+      "medium": ["Hamamelis"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Back pain better from hot fomentation",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Bellis perennis"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Mouth ulcers better by cold drinks",
+    "grading": {
+      "high": ["Merc sol"],
+      "medium": ["Kali bich"],
+      "low": ["Borax"]
+    }
+  },
+  {
+    "rubric": "Eye strain better by rubbing eyes",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Natrum mur"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Sinus pain better with strong pressure",
+    "grading": {
+      "high": ["Kali bich"],
+      "medium": ["Silicea"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Chest heaviness better in sitting position",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Phosphorus"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Hunger better by eating slowly",
+    "grading": {
+      "high": ["Iodum"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Sensation of hair on tongue better after eating",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Natrum mur"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Ear pressure better by yawning",
+    "grading": {
+      "high": ["Kali mur"],
+      "medium": ["Pulsatilla"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Heaviness in head better by resting forehead on table",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Ignatia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Pain in limbs better from cold air",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Rhus tox"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Menstrual pain better lying on abdomen",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Belladonna"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Bleeding hemorrhoids better by cold bathing",
+    "grading": {
+      "high": ["Hamamelis"],
+      "medium": ["Aloe"],
+      "low": ["Ratanhia"]
+    }
+  },
+  {
+    "rubric": "Cramp in toes better by stretching",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Cuprum met"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Sensation of dryness in eyes better by blinking",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Belladonna"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Dizziness better lying on back with eyes closed",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Gelsemium"],
+      "low": ["Conium"]
+    }
+  },
+  {
+    "rubric": "Anxiety better when hugged",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Medorrhinum"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Thirst better from small sips at intervals",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Phosphorus"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Frequent yawning better by deep inhalation",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Gelsemium"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Rectal pain better after warm water enema",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Aloe"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Dry cough better from sucking lozenges",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Rumex"],
+      "low": ["Drosera"]
+    }
+  },
+  {
+    "rubric": "Burning palms better after washing with cold water",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Medorrhinum"]
+    }
+  },
+  {
+    "rubric": "Pain in ribs better from pressing the ribs",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Ruta"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Tearing joint pain better by constant motion",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Kalmia"]
+    }
+  },
+  {
+    "rubric": "Heaviness in limbs better from walking",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Phosphoric acid"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Itching in eyes better after washing with cool water",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Apis"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Stomach distension better by passing flatus",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Lycopodium"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Tongue fissures better by sipping water frequently",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Borax"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Throat scraping better by swallowing saliva",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Ignatia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Sweating better in fresh air",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Pulsatilla"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Pain in coccyx better by lying on abdomen",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Sepia"],
+      "low": ["Hypericum"]
+    }
+  },
+  {
+    "rubric": "Breathlessness better after eructation",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Lycopodium"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Itching scalp better after scratching with comb",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Pain in stomach better after milk",
+    "grading": {
+      "high": ["Aethusa"],
+      "medium": ["Argentum nitricum"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Cold feet better after warm water immersion",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["Silicea"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Fear better lying in mother's lap (children)",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Borax"],
+      "low": ["Calcarea phos"]
+    }
+  },
+  {
+    "rubric": "Ear pain better from covering ears with scarf",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Chamomilla"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Palpitations better lying on back",
+    "grading": {
+      "high": ["Digitalis"],
+      "medium": ["Spongia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Cracking joints better after motion",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Rhus tox"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Leg cramps better hanging legs from bed",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Sulphur"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Sweat on forehead better after wiping",
+    "grading": {
+      "high": ["Calcarea carb"],
+      "medium": ["China"],
+      "low": ["Ferrum met"]
+    }
+  },
+  {
+    "rubric": "Pain in left hypochondrium better by pressure",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Chelidonium"],
+      "low": ["Carduus marianus"]
+    }
+  },
+  {
+    "rubric": "Fever better after sleep",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Nux vomica"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Heaviness in abdomen better after stool",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Aloe"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Nausea better by fanning",
+    "grading": {
+      "high": ["Colchicum"],
+      "medium": ["Ipecac"],
+      "low": ["Tabacum"]
+    }
+  },
+  {
+    "rubric": "Burning urination better from passing small quantity",
+    "grading": {
+      "high": ["Cantharis"],
+      "medium": ["Sarsaparilla"],
+      "low": ["Equisetum"]
+    }
+  },
+  {
+    "rubric": "Pain in liver better by lying on right side",
+    "grading": {
+      "high": ["Chelidonium"],
+      "medium": ["Lycopodium"],
+      "low": ["Carduus marianus"]
+    }
+  },
+  {
+    "rubric": "Itching of genitals better after washing",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Sepia"],
+      "low": ["Medorrhinum"]
+    }
+  },
+  {
+    "rubric": "Pain in testes better from cold application",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Rhododendron"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Stomach pain better from hot food",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Lump sensation in throat better while eating solids",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Lachesis"],
+      "low": ["Platina"]
+    }
+  },
+  {
+    "rubric": "Pain in arms better when held above head",
+    "grading": {
+      "high": ["Ferrum met"],
+      "medium": ["Rhus tox"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Sore throat better from sucking ice",
+    "grading": {
+      "high": ["Phytolacca"],
+      "medium": ["Belladonna"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Menstrual headache better lying quietly in dark room",
+    "grading": {
+      "high": ["Glonoine"],
+      "medium": ["Sepia"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Sciatica better by sitting on hard seat",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Mag phos"],
+      "low": ["Gnaphalium"]
+    }
+  },
+  {
+    "rubric": "Heaviness in chest better by burping",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Nux vomica"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Shooting pain in fingers better from warm wrapping",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Mag phos"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Chest constriction better leaning forward",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Lycopodium"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Ear pain better lying on affected side",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Hepar sulph"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Swollen eyelids better from gentle washing",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Apis"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Facial neuralgia better from warmth",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Spigelia"]
+    }
+  },
+  {
+    "rubric": "Lump sensation in stomach better after eructation",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Nux vomica"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Vertigo better holding on to something",
+    "grading": {
+      "high": ["Conium"],
+      "medium": ["Gelsemium"],
+      "low": ["Cocculus"]
+    }
+  },
+  {
+    "rubric": "Back pain better pressing back to wall",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Bellis perennis"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Abdominal distension better bending backward",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Burning soles better on cool floor",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Medorrhinum"]
+    }
+  },
+  {
+    "rubric": "Urging to urinate better after passing stool",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Cantharis"],
+      "low": ["Equisetum"]
+    }
+  },
+  {
+    "rubric": "Dry mouth better from sipping water frequently",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Natrum mur"],
+      "low": ["Arsenicum alb"]
+    }
+  },
+  {
+    "rubric": "Face flush better by uncovering",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Sulphur"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Pain in lower abdomen better after eating",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Nux vomica"],
+      "low": ["Iodum"]
+    }
+  },
+  {
+    "rubric": "Sadness better after sleep",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Natrum mur"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Breathing difficulty better when leaning backward",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Kali carb"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Vomiting better from warm drinks",
+    "grading": {
+      "high": ["Ipecac"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Dry cough better with covering mouth",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Hepar sulph"],
+      "low": ["Rumex"]
+    }
+  },
+  {
+    "rubric": "Pain in anus better when standing",
+    "grading": {
+      "high": ["Ratanhia"],
+      "medium": ["Aloe"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Palpitation better from slow walking",
+    "grading": {
+      "high": ["Digitalis"],
+      "medium": ["Phosphorus"],
+      "low": ["Crataegus"]
+    }
+  },
+  {
+    "rubric": "Headache better from pressure band",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Gelsemium"],
+      "low": ["Glonoine"]
+    }
+  },
+  {
+    "rubric": "Faintness better from lying down in dark",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Cocculus"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Knee joint pain better after walking a while",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Stomach pain better with hard pressure",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Mag phos"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Tearing pain in hip better by lying on painful side",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Colocynthis"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Coryza better by staying indoors",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Allium cepa"],
+      "low": ["Arsenicum alb"]
+    }
+  },
+  {
+    "rubric": "Shooting pain in legs better from warm wraps",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Causticum"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Sleeplessness better after short walk",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Gelsemium"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Facial heat better by applying cold cloth",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Lachesis"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Leg weakness better after cold water bath",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Calcarea carb"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Cough better bending forward",
+    "grading": {
+      "high": ["Kali bich"],
+      "medium": ["Antimonium tart"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Headache better by gentle rubbing",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Spigelia"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Irritability better by being left alone",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Ignatia"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Pain in bladder better after urination",
+    "grading": {
+      "high": ["Cantharis"],
+      "medium": ["Equisetum"],
+      "low": ["Sarsaparilla"]
+    }
+  },
+  {
+    "rubric": "Pain in right ovary better from lying on right side",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Apis"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Vertigo better when eyes closed",
+    "grading": {
+      "high": ["Conium"],
+      "medium": ["Gelsemium"],
+      "low": ["Cocculus"]
+    }
+  },
+  {
+    "rubric": "Pain in stomach better bending forward",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Dioscorea"],
+      "low": ["Mag phos"]
+    }
+  },
+  {
+    "rubric": "Palpitations better lying on right side",
+    "grading": {
+      "high": ["Digitalis"],
+      "medium": ["Phosphorus"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Menstrual colic better from sitting with knees to chest",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Chamomilla"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Tingling of fingers better after rubbing hands",
+    "grading": {
+      "high": ["Zincum met"],
+      "medium": ["Causticum"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Itching of anus better by warm water application",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Ratanhia"],
+      "low": ["Aesculus"]
+    }
+  },
+  {
+    "rubric": "Cramp in calves better after stretching leg",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Cuprum met"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Face pain better lying with head high",
+    "grading": {
+      "high": ["Spigelia"],
+      "medium": ["Mag phos"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Sore throat better by warm food",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Phytolacca"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Knee joint pain better from firm pressure",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Causticum"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Low back pain better from bending forward",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Kali carb"],
+      "low": ["Bellis perennis"]
+    }
+  },
+  {
+    "rubric": "Colic better lying on abdomen",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Mag phos"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Cracking in joints better by continued motion",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Rhus tox"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Chilliness better in warm bed",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Dulcamara"]
+    }
+  },
+  {
+    "rubric": "Coryza better by blowing nose",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Allium cepa"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Stomach heaviness better by passing gas",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Lycopodium"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Toothache better by applying cold water",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Coffea"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Tension headache better by wrapping head tightly",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Gelsemium"],
+      "low": ["Glonoine"]
+    }
+  },
+  {
+    "rubric": "Headache better after vomiting",
+    "grading": {
+      "high": ["Ipecac"],
+      "medium": ["Sanguinaria"],
+      "low": ["Iris versicolor"]
+    }
+  },
+  {
+    "rubric": "Neck pain better lying without pillow",
+    "grading": {
+      "high": ["Kalmia"],
+      "medium": ["Rhus tox"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Pain in spine better after hard pressure",
+    "grading": {
+      "high": ["Bellis perennis"],
+      "medium": ["Ruta"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Pain in abdomen better on passing urine",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Cantharis"],
+      "low": ["Sarsaparilla"]
+    }
+  },
+  {
+    "rubric": "Pain in heels better by pressure while walking",
+    "grading": {
+      "high": ["Ammonium mur"],
+      "medium": ["Pulsatilla"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Dryness of eyes better after blinking rapidly",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Belladonna"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Dryness in mouth better sipping frequently",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Natrum mur"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Nausea better from lying still with eyes closed",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Tabacum"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Pain in ankle better by wrapping tightly",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Causticum"],
+      "low": ["Arnica"]
+    }
+  },
+  {
+    "rubric": "Sneezing better in open air",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Allium cepa"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Pain in chest better from lying quietly",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Phosphorus"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Oppression of chest better leaning forward on arms",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Kali carb"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Mental dullness better after strong coffee",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["Nux vomica"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Cough better by covering mouth with scarf",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Hepar sulph"],
+      "low": ["Rumex"]
+    }
+  },
+  {
+    "rubric": "Limb pain better by hot sand application",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Arnica"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Mouth ulcer better from eating bland food",
+    "grading": {
+      "high": ["Borax"],
+      "medium": ["Kali bich"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Skin eruptions better by applying olive oil",
+    "grading": {
+      "high": ["Graphites"],
+      "medium": ["Sulphur"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Heaviness in eyes better by keeping them closed",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Belladonna"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Bleeding gums better from cold rinses",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Merc sol"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Pain in upper jaw better from chewing",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Chamomilla"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Constipation better after drinking warm milk",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Bryonia"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Bloating better lying on left side",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["China"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Right-sided headache better from sleep",
+    "grading": {
+      "high": ["Sanguinaria"],
+      "medium": ["Spigelia"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Stiff neck better with warm compress",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Kalmia"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Craving salty food better after small quantity",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Phosphorus"],
+      "low": ["Medorrhinum"]
+    }
+  },
+  {
+    "rubric": "Restlessness better from rocking motion",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Pain in abdomen better from warmth and pressure",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Chilliness better from wrapping head and feet",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Nux vomica"],
+      "low": ["Arsenicum alb"]
+    }
+  },
+  {
+    "rubric": "Sinus headache better bending head backward",
+    "grading": {
+      "high": ["Kali bich"],
+      "medium": ["Sanguinaria"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Heaviness of head better after urination",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Natrum mur"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Toothache better from sucking ice",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Merc sol"],
+      "low": ["Plantago"]
+    }
+  },
+  {
+    "rubric": "Pain in abdomen better from bending double with pressure",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Mag phos"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Cough better when sitting up and leaning forward",
+    "grading": {
+      "high": ["Antimonium tart"],
+      "medium": ["Spongia"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Wart pain better by warm bathing",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Thuja"],
+      "low": ["Nitric acid"]
+    }
+  },
+  {
+    "rubric": "Pain in shoulders better raising arm slowly",
+    "grading": {
+      "high": ["Ferrum met"],
+      "medium": ["Rhus tox"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Insomnia better after warm milk",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Calcarea carb"],
+      "low": ["Mag mur"]
+    }
+  },
+  {
+    "rubric": "Cough with expectoration better lying on right side",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Phosphorus"],
+      "low": ["Antimonium tart"]
+    }
+  },
+  {
+    "rubric": "Hoarseness better after clearing throat repeatedly",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Carbo veg"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Pain in soles better from cold applications",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Medorrhinum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Chill better when lying under heavy blankets",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Facial twitching better after massage",
+    "grading": {
+      "high": ["Agaricus"],
+      "medium": ["Zincum met"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Vomiting better by eating small sips slowly",
+    "grading": {
+      "high": ["Ipecac"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Veratrum alb"]
+    }
+  },
+  {
+    "rubric": "Dry eczema better by olive oil application",
+    "grading": {
+      "high": ["Graphites"],
+      "medium": ["Petroleum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Chronic diarrhea better from rice gruel",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Podophyllum"]
+    }
+  },
+  {
+    "rubric": "Hyperacidity better after cold milk",
+    "grading": {
+      "high": ["Robinia"],
+      "medium": ["Argentum nitricum"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Swelling of eyelids better after sleep",
+    "grading": {
+      "high": ["Apis"],
+      "medium": ["Euphrasia"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Numbness in feet better by moving toes",
+    "grading": {
+      "high": ["Zincum met"],
+      "medium": ["Plumbum"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Scalp itching better with oil massage",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Graphites"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Cough better from expectoration of yellow mucus",
+    "grading": {
+      "high": ["Kali sulph"],
+      "medium": ["Pulsatilla"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Pain in rectum better after passing flatus",
+    "grading": {
+      "high": ["Aloe"],
+      "medium": ["Nux vomica"],
+      "low": ["Ratanhia"]
+    }
+  },
+  {
+    "rubric": "Pain in limbs better after showering",
+    "grading": {
+      "high": ["Arnica"],
+      "medium": ["Rhus tox"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Tinnitus better from pressure on ears",
+    "grading": {
+      "high": ["Chininum sulph"],
+      "medium": ["Salicylic acid"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Low spirits better when alone in dark",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Natrum mur"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Neuralgic pain better after warmth to affected area",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Spigelia"]
+    }
+  },
+  {
+    "rubric": "Skin cracks better by applying glycerin",
+    "grading": {
+      "high": ["Petroleum"],
+      "medium": ["Graphites"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Urticaria better after scratching till bleeding",
+    "grading": {
+      "high": ["Urtica urens"],
+      "medium": ["Psorinum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Sinus congestion better after strong sneezing",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Kali bich"],
+      "low": ["Arsenicum alb"]
+    }
+  },
+  {
+    "rubric": "Pain in back better lying on hard surface",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Bellis perennis"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Fever better when wrapped in wool",
+    "grading": {
+      "high": ["Dulcamara"],
+      "medium": ["Nux vomica"],
+      "low": ["Arsenicum alb"]
+    }
+  },
+  {
+    "rubric": "Painful urination better in warm room",
+    "grading": {
+      "high": ["Cantharis"],
+      "medium": ["Sarsaparilla"],
+      "low": ["Equisetum"]
+    }
+  },
+  {
+    "rubric": "Neck stiffness better with circular head movements",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Kalmia"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Tension in temples better from pressing temples tightly",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Gelsemium"],
+      "low": ["Iris versicolor"]
+    }
+  },
+  {
+    "rubric": "Sadness better from weeping aloud",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Cough better with hot drinks and warm room",
+    "grading": {
+      "high": ["Rumex"],
+      "medium": ["Hepar sulph"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Toothache better when chewing on affected side",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Chamomilla"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Gas pain better from stretching body upward",
+    "grading": {
+      "high": ["Dioscorea"],
+      "medium": ["Nux moschata"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Skin itching better after bathing with neem water",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Chilliness better with socks and woolen wear",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Calcarea carb"],
+      "low": ["Dulcamara"]
+    }
+  },
+  {
+    "rubric": "Rectal pain better after sitting in hot water tub",
+    "grading": {
+      "high": ["Ratanhia"],
+      "medium": ["Aesculus"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Pain in forehead better with cold compress",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Glonoine"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Eye strain better after applying rose water",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Euphrasia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Burning in stomach better from sugar candy",
+    "grading": {
+      "high": ["Argentum nitricum"],
+      "medium": ["Iris versicolor"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Lump sensation in throat better while drinking cold liquids",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Phosphorus"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Stiff joints better after oil massage",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Calcarea fluor"]
+    }
+  },
+  {
+    "rubric": "Breathing better with fan air directly on face",
+    "grading": {
+      "high": ["Antimonium tart"],
+      "medium": ["Carbo veg"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Hot flushes better lying on cold floor",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Sulphur"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Pain in right shoulder better by hot application",
+    "grading": {
+      "high": ["Sanguinaria"],
+      "medium": ["Rhus tox"],
+      "low": ["Ferrum met"]
+    }
+  },
+  {
+    "rubric": "Sensation of band around head better from removing headgear",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Gelsemium"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Cracking joints better from slow movement",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Ruta"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Nausea better by lying on back with legs raised",
+    "grading": {
+      "high": ["Tabacum"],
+      "medium": ["Cocculus"],
+      "low": ["Ipecac"]
+    }
+  },
+  {
+    "rubric": "Pain in abdomen better by sitting with back supported",
+    "grading": {
+      "high": ["Colocynthis"],
+      "medium": ["Mag phos"],
+      "low": ["Dioscorea"]
+    }
+  },
+  {
+    "rubric": "Heaviness in legs better by elevating them",
+    "grading": {
+      "high": ["Hamamelis"],
+      "medium": ["Pulsatilla"],
+      "low": ["Arnica"]
+    }
+  },
+  {
+    "rubric": "Constipation better after eating fruits",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Bryonia"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Dryness of lips better after applying ghee",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Petroleum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Pain in lumbar region better by stretching",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Bellis perennis"],
+      "low": ["Calcarea fluor"]
+    }
+  },
+  {
+    "rubric": "Flatulence better from hot water bag on abdomen",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Colocynthis"],
+      "low": ["Nux moschata"]
+    }
+  },
+  {
+    "rubric": "Bleeding hemorrhoids better with cold application",
+    "grading": {
+      "high": ["Hamamelis"],
+      "medium": ["Aesculus"],
+      "low": ["Ratanhia"]
+    }
+  },
+  {
+    "rubric": "Pain in throat better by warm drinks",
+    "grading": {
+      "high": ["Hepar sulph"],
+      "medium": ["Phytolacca"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Pain in eyes better by closing eyes in dark",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Euphrasia"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Oppression in chest better from open air",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Lycopodium"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Fever with chills better by warm drinks",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["China"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Knee pain better after hot water bath",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Calcarea fluor"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Burning in soles better by rubbing on rough mat",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Medorrhinum"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Vertigo better from lying on right side",
+    "grading": {
+      "high": ["Conium"],
+      "medium": ["Cocculus"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Cracking in neck better by rotating head slowly",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Kalmia"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Itching in palms better after scratching with rough towel",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Chill better in sun heat",
+    "grading": {
+      "high": ["Dulcamara"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Gastric headache better after sour food",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Nux vomica"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Pain in thighs better from walking slowly",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Bryonia"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Dry eczema better with vaseline",
+    "grading": {
+      "high": ["Graphites"],
+      "medium": ["Petroleum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Restless sleep better after warm foot soak",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Coffea"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Pain in knees better with tight bandage",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Causticum"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Dry mouth better from lemon juice",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Natrum mur"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Exhaustion better after short nap",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["Gelsemium"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Earache better lying on affected side",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Hepar sulph"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Menstrual flow better by lying curled up",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Wheezing better in sitting posture",
+    "grading": {
+      "high": ["Antimonium tart"],
+      "medium": ["Spongia"],
+      "low": ["Ipecac"]
+    }
+  },
+  {
+    "rubric": "Back stiffness better with yoga stretching",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Mental confusion better after cold face wash",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Head heaviness better with forehead tied",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Bryonia"],
+      "low": ["Glonoine"]
+    }
+  },
+  {
+    "rubric": "Soreness in thighs better when lying with legs apart",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Arnica"]
+    }
+  },
+  {
+    "rubric": "Hot flushes better with fan air directly on face",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Sepia"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Cough with tickling better after sugar candy",
+    "grading": {
+      "high": ["Rumex"],
+      "medium": ["Phosphorus"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Pain in ribs better from gentle pressure",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Ruta"],
+      "low": ["Bellis perennis"]
+    }
+  },
+  {
+    "rubric": "Eye strain better with frequent blinking",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Ruta"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Sweaty feet better with open sandals",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Baryta carb"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Coryza better after warm steam inhalation",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Allium cepa"]
+    }
+  },
+  {
+    "rubric": "Muscle cramps better with gentle rubbing",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Cuprum met"],
+      "low": ["Zincum met"]
+    }
+  },
+  {
+    "rubric": "Craving spicy food better after one or two bites",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Sulphur"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Pain in neck better by rolling head",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Kalmia"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Burning in throat better after eating cold fruits",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Burning urination better after lemon juice",
+    "grading": {
+      "high": ["Cantharis"],
+      "medium": ["Sarsaparilla"],
+      "low": ["Equisetum"]
+    }
+  },
+  {
+    "rubric": "Headache better after vomiting bile",
+    "grading": {
+      "high": ["Iris versicolor"],
+      "medium": ["Sanguinaria"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Toothache better from pressing cheek against cold wall",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Plantago"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Joint pain better by wrapping warm cloth tightly",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Menstrual headache better lying in dark room",
+    "grading": {
+      "high": ["Cyclamen"],
+      "medium": ["Sepia"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Throat pain better sucking ice cubes",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Merc sol"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Backache better while walking slowly",
+    "grading": {
+      "high": ["Kali carb"],
+      "medium": ["Calcarea fluor"],
+      "low": ["Bellis perennis"]
+    }
+  },
+  {
+    "rubric": "Indigestion better after belching loud",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Lycopodium"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Cough better after sips of warm water",
+    "grading": {
+      "high": ["Rumex"],
+      "medium": ["Hepar sulph"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Skin itching better after applying gram flour paste",
+    "grading": {
+      "high": ["Psorinum"],
+      "medium": ["Sulphur"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Nausea better after smelling fresh lemon",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Tabacum"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Cracked heels better after application of coconut oil",
+    "grading": {
+      "high": ["Graphites"],
+      "medium": ["Petroleum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Lump in breast better by warm compress",
+    "grading": {
+      "high": ["Conium"],
+      "medium": ["Phytolacca"],
+      "low": ["Carbo animalis"]
+    }
+  },
+  {
+    "rubric": "Urticaria better after bathing in cold water",
+    "grading": {
+      "high": ["Apis"],
+      "medium": ["Urtica urens"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Hoarseness better by continuous talking",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Arum triphyllum"],
+      "low": ["Carbo veg"]
+    }
+  },
+  {
+    "rubric": "Joint swelling better from gentle rubbing",
+    "grading": {
+      "high": ["Ledum"],
+      "medium": ["Rhus tox"],
+      "low": ["Arnica"]
+    }
+  },
+  {
+    "rubric": "Constipation better after black coffee",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Phosphorus"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Pain in ankles better with hot mustard foot bath",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Arnica"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Sleeplessness better listening to soft music",
+    "grading": {
+      "high": ["Coffea"],
+      "medium": ["Ignatia"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Burning urination better drinking barley water",
+    "grading": {
+      "high": ["Cantharis"],
+      "medium": ["Sarsaparilla"],
+      "low": ["Equisetum"]
+    }
+  },
+  {
+    "rubric": "Heaviness of eyelids better after brief nap",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Hair fall better after oil massage and rest",
+    "grading": {
+      "high": ["Fluoric acid"],
+      "medium": ["Phosphorus"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Pain in stomach better after cold rice gruel",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Ipecac"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Vertigo better from gentle head massage",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Gelsemium"],
+      "low": ["Conium"]
+    }
+  },
+  {
+    "rubric": "Scalp eruptions better after neem oil application",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Dysmenorrhea better when abdominal belt is tight",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Numbness of fingers better after soaking in warm water",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Zincum met"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Dry throat better by sipping ginger tea",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Phosphorus"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Palpitations better after deep breathing",
+    "grading": {
+      "high": ["Digitalis"],
+      "medium": ["Phosphorus"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Chilblains better by gentle warming",
+    "grading": {
+      "high": ["Agaricus"],
+      "medium": ["Dulcamara"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Dry cough better sucking tulsi leaf",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Rumex"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Flatulence better from lying on left side",
+    "grading": {
+      "high": ["Lycopodium"],
+      "medium": ["Carbo veg"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Burning soles better walking on cold floor",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Medorrhinum"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Anxiety better holding someone’s hand",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Pulsatilla"],
+      "low": ["Argentum nitricum"]
+    }
+  },
+  {
+    "rubric": "Breathlessness better standing with arms elevated",
+    "grading": {
+      "high": ["Kali carb"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Cough with mucus better after bath with hot water",
+    "grading": {
+      "high": ["Antimonium tart"],
+      "medium": ["Kali bich"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Restlessness better by walking barefoot on grass",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Pulsatilla"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Headache better drinking sugarcane juice",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["Gelsemium"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Rectal pain better after cold water wash",
+    "grading": {
+      "high": ["Ratanhia"],
+      "medium": ["Aesculus"],
+      "low": ["Nitric acid"]
+    }
+  },
+  {
+    "rubric": "Pain in left ovary better lying on that side",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Apis"],
+      "low": ["Thuja"]
+    }
+  },
+  {
+    "rubric": "Dry skin better after milk cream massage",
+    "grading": {
+      "high": ["Graphites"],
+      "medium": ["Petroleum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Cracking lips better with rose balm",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Petroleum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Mild fever better in open air",
+    "grading": {
+      "high": ["Pulsatilla"],
+      "medium": ["Gelsemium"],
+      "low": ["Ferrum phos"]
+    }
+  },
+  {
+    "rubric": "Warts better after tying with hair",
+    "grading": {
+      "high": ["Thuja"],
+      "medium": ["Causticum"],
+      "low": ["Nitric acid"]
+    }
+  },
+  {
+    "rubric": "Eyestrain better by palming eyes",
+    "grading": {
+      "high": ["Ruta"],
+      "medium": ["Euphrasia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Giddiness better after strong coffee",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["Nux vomica"],
+      "low": ["Coffea"]
+    }
+  },
+  {
+    "rubric": "Chest tightness better after coughing",
+    "grading": {
+      "high": ["Antimonium tart"],
+      "medium": ["Ipecac"],
+      "low": ["Spongia"]
+    }
+  },
+  {
+    "rubric": "Tinnitus better lying on unaffected ear",
+    "grading": {
+      "high": ["Chininum sulph"],
+      "medium": ["Salicylic acid"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Mouth ulcer better sucking honey",
+    "grading": {
+      "high": ["Borax"],
+      "medium": ["Merc sol"],
+      "low": ["Kali bich"]
+    }
+  },
+  {
+    "rubric": "Craving for open air but better in closed room",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Psorinum"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Pain in shin bones better by pressure with hand",
+    "grading": {
+      "high": ["Merc sol"],
+      "medium": ["Arnica"],
+      "low": ["Rhus tox"]
+    }
+  },
+  {
+    "rubric": "Dry nose better after applying ghee inside nostrils",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Silicea"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Night cough better lying propped up with pillows",
+    "grading": {
+      "high": ["Antimonium tart"],
+      "medium": ["Spongia"],
+      "low": ["Hepar sulph"]
+    }
+  },
+  {
+    "rubric": "Numbness in arms better by swinging them gently",
+    "grading": {
+      "high": ["Zincum met"],
+      "medium": ["Plumbum"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Itching of anus better by cold water wash",
+    "grading": {
+      "high": ["Ratanhia"],
+      "medium": ["Aloe"],
+      "low": ["Nitric acid"]
+    }
+  },
+  {
+    "rubric": "Mental dullness better after sunset walk",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Painful urination better in standing position",
+    "grading": {
+      "high": ["Sarsaparilla"],
+      "medium": ["Cantharis"],
+      "low": ["Equisetum"]
+    }
+  },
+  {
+    "rubric": "Headache better after mustard oil head massage",
+    "grading": {
+      "high": ["Bryonia"],
+      "medium": ["Belladonna"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Stomach heaviness better with warm rice water",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Heaviness in chest better with deep sighing",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Phosphorus"],
+      "low": ["Stannum"]
+    }
+  },
+  {
+    "rubric": "Face flushing better with cold water splashing",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Belladonna"],
+      "low": ["Glonoine"]
+    }
+  },
+  {
+    "rubric": "Tooth pain better after rinsing with clove water",
+    "grading": {
+      "high": ["Plantago"],
+      "medium": ["Chamomilla"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Mouth dryness better after sucking sugar candy",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Bryonia"],
+      "low": ["Nux moschata"]
+    }
+  },
+  {
+    "rubric": "Craving eggs but better when avoided",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Calcarea carb"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Trembling hands better with rest",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Zincum met"],
+      "low": ["Agaricus"]
+    }
+  },
+  {
+    "rubric": "Swollen glands better from warm poultice",
+    "grading": {
+      "high": ["Merc iod"],
+      "medium": ["Baryta carb"],
+      "low": ["Silicea"]
+    }
+  },
+  {
+    "rubric": "Scalp eruptions better after application of curd",
+    "grading": {
+      "high": ["Graphites"],
+      "medium": ["Psorinum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Tension headache better by tying cloth tightly around head",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Gelsemium"],
+      "low": ["Glonoine"]
+    }
+  },
+  {
+    "rubric": "Fatigue better lying on back with hands behind head",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["Gelsemium"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Low mood better by cleaning or organizing",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Sepia"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Craving sweets but aggravates complaints",
+    "grading": {
+      "high": ["Argentum nitricum"],
+      "medium": ["Sulphur"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Vertigo better with eyes closed in dark",
+    "grading": {
+      "high": ["Conium"],
+      "medium": ["Gelsemium"],
+      "low": ["Cocculus"]
+    }
+  },
+  {
+    "rubric": "Neuralgic pain better after bathing with warm turmeric water",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Spigelia"]
+    }
+  },
+  {
+    "rubric": "Dry cough better after applying mustard on chest",
+    "grading": {
+      "high": ["Rumex"],
+      "medium": ["Spongia"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Sore throat better by licking honey",
+    "grading": {
+      "high": ["Phytolacca"],
+      "medium": ["Hepar sulph"],
+      "low": ["Merc sol"]
+    }
+  },
+  {
+    "rubric": "Back pain better while kneeling on floor",
+    "grading": {
+      "high": ["Bellis perennis"],
+      "medium": ["Rhus tox"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Warts better with banana peel application",
+    "grading": {
+      "high": ["Thuja"],
+      "medium": ["Causticum"],
+      "low": ["Nitric acid"]
+    }
+  },
+  {
+    "rubric": "Cough with rattling better lying on abdomen",
+    "grading": {
+      "high": ["Antimonium tart"],
+      "medium": ["Ipecac"],
+      "low": ["Kali sulph"]
+    }
+  },
+  {
+    "rubric": "Craving pickles but aggravates gastritis",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Phosphorus"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Pain in hips better after warm salt water bath",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Fear better after prayer or meditation",
+    "grading": {
+      "high": ["Aconite"],
+      "medium": ["Gelsemium"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Gas pain better drinking warm fennel tea",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Dioscorea"],
+      "low": ["Colocynthis"]
+    }
+  },
+  {
+    "rubric": "Scalp dandruff better after lemon rinse",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Psorinum"],
+      "low": ["Graphites"]
+    }
+  },
+  {
+    "rubric": "Sensation of cold feet better by rubbing against bed",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Calcarea carb"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Heaviness in eyelids better after crying",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Pulsatilla"],
+      "low": ["Natrum mur"]
+    }
+  },
+  {
+    "rubric": "Palpitations better by hugging pillow tightly",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Cactus"],
+      "low": ["Lachesis"]
+    }
+  },
+  {
+    "rubric": "Menstrual cramps better after urination",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Dry lips better after applying butter",
+    "grading": {
+      "high": ["Natrum mur"],
+      "medium": ["Petroleum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Chill better after spicy food",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Dulcamara"]
+    }
+  },
+  {
+    "rubric": "Sore feet better by soaking in warm water with salt",
+    "grading": {
+      "high": ["Arnica"],
+      "medium": ["Ledum"],
+      "low": ["Calcarea fluor"]
+    }
+  },
+  {
+    "rubric": "Bleeding gums better rinsing with salt water",
+    "grading": {
+      "high": ["Merc sol"],
+      "medium": ["Carbo veg"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Dry eczema better with coconut oil massage",
+    "grading": {
+      "high": ["Graphites"],
+      "medium": ["Petroleum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Anal fissure pain better by oiling the anus",
+    "grading": {
+      "high": ["Ratanhia"],
+      "medium": ["Aesculus"],
+      "low": ["Nitric acid"]
+    }
+  },
+  {
+    "rubric": "Sneezing better after black pepper inhalation",
+    "grading": {
+      "high": ["Sabadilla"],
+      "medium": ["Allium cepa"],
+      "low": ["Arsenicum alb"]
+    }
+  },
+  {
+    "rubric": "Chest pain better by sitting bent forward",
+    "grading": {
+      "high": ["Spigelia"],
+      "medium": ["Cactus"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Teeth grinding better after warm water rinse",
+    "grading": {
+      "high": ["Chamomilla"],
+      "medium": ["Cina"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Heel pain better walking barefoot on cool floor",
+    "grading": {
+      "high": ["Calcarea fluor"],
+      "medium": ["Ruta"],
+      "low": ["Arnica"]
+    }
+  },
+  {
+    "rubric": "Thirst better from frequent sips than large quantity",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Phosphorus"],
+      "low": ["Bryonia"]
+    }
+  },
+  {
+    "rubric": "Drowsiness better after splashing cold water on face",
+    "grading": {
+      "high": ["Gelsemium"],
+      "medium": ["Antimonium tart"],
+      "low": ["Phosphoric acid"]
+    }
+  },
+  {
+    "rubric": "Dry skin better with sesame oil massage",
+    "grading": {
+      "high": ["Graphites"],
+      "medium": ["Petroleum"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Neck pain better resting on hard wooden surface",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Bellis perennis"],
+      "low": ["Ruta"]
+    }
+  },
+  {
+    "rubric": "Low backache better by lying on abdomen",
+    "grading": {
+      "high": ["Bellis perennis"],
+      "medium": ["Rhus tox"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Ulcer pain better by sucking coconut water",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Argentum nitricum"],
+      "low": ["Carbo veg"]
+    }
+  },
+  {
+    "rubric": "Dry cough better lying on left side",
+    "grading": {
+      "high": ["Rumex"],
+      "medium": ["Spongia"],
+      "low": ["Drosera"]
+    }
+  },
+  {
+    "rubric": "Wound pain better after application of turmeric paste",
+    "grading": {
+      "high": ["Calendula"],
+      "medium": ["Arnica"],
+      "low": ["Hypericum"]
+    }
+  },
+  {
+    "rubric": "Dry eyes better blinking rapidly",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Ruta"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Gas better after drinking lukewarm water",
+    "grading": {
+      "high": ["Carbo veg"],
+      "medium": ["Nux vomica"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Menses pain better applying heat pad on lower abdomen",
+    "grading": {
+      "high": ["Mag phos"],
+      "medium": ["Colocynthis"],
+      "low": ["Chamomilla"]
+    }
+  },
+  {
+    "rubric": "Morning stiffness better after sun exposure",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Causticum"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Mental confusion better writing down thoughts",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["Lycopodium"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Urinary urgency better while sitting cross-legged",
+    "grading": {
+      "high": ["Sarsaparilla"],
+      "medium": ["Equisetum"],
+      "low": ["Cantharis"]
+    }
+  },
+  {
+    "rubric": "Cough worse during speech, better while listening",
+    "grading": {
+      "high": ["Causticum"],
+      "medium": ["Phosphorus"],
+      "low": ["Drosera"]
+    }
+  },
+  {
+    "rubric": "Warts better by regular rubbing with chalk",
+    "grading": {
+      "high": ["Thuja"],
+      "medium": ["Nitric acid"],
+      "low": ["Causticum"]
+    }
+  },
+  {
+    "rubric": "Hair fall better with scalp massage using warm oil",
+    "grading": {
+      "high": ["Fluoric acid"],
+      "medium": ["Phosphorus"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Pain in neck better after cold bath",
+    "grading": {
+      "high": ["Kalmia"],
+      "medium": ["Gelsemium"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Dandruff better after bathing with shikakai",
+    "grading": {
+      "high": ["Psorinum"],
+      "medium": ["Graphites"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Heaviness in head better from lemon tea",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Sepia"],
+      "low": ["Ignatia"]
+    }
+  },
+  {
+    "rubric": "Sleep better after reciting prayer",
+    "grading": {
+      "high": ["Aconite"],
+      "medium": ["Ignatia"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Fever with chills better with thick woolen blanket",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["China"],
+      "low": ["Nux vomica"]
+    }
+  },
+  {
+    "rubric": "Post-nasal drip better lying on right side",
+    "grading": {
+      "high": ["Kali bich"],
+      "medium": ["Hydrastis"],
+      "low": ["Pulsatilla"]
+    }
+  },
+  {
+    "rubric": "Stomach cramps better after vomiting",
+    "grading": {
+      "high": ["Ipecac"],
+      "medium": ["Colchicum"],
+      "low": ["Antimonium crudum"]
+    }
+  },
+  {
+    "rubric": "Breathlessness better sitting in lotus posture",
+    "grading": {
+      "high": ["Kali carb"],
+      "medium": ["Spongia"],
+      "low": ["Carbo veg"]
+    }
+  },
+  {
+    "rubric": "Anal itching better after application of neem oil",
+    "grading": {
+      "high": ["Aesculus"],
+      "medium": ["Ratanhia"],
+      "low": ["Sulphur"]
+    }
+  },
+  {
+    "rubric": "Chronic fatigue better with cold water bath",
+    "grading": {
+      "high": ["Phosphoric acid"],
+      "medium": ["Gelsemium"],
+      "low": ["China"]
+    }
+  },
+  {
+    "rubric": "Sensation of weight in pelvis better with leg elevation",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Lachesis"],
+      "low": ["Calcarea carb"]
+    }
+  },
+  {
+    "rubric": "Chronic headache better after walking in moonlight",
+    "grading": {
+      "high": ["Phosphorus"],
+      "medium": ["Natrum mur"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Hunger better by chewing on dry bread",
+    "grading": {
+      "high": ["Nux vomica"],
+      "medium": ["Lycopodium"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Eye strain better after splashing rose water",
+    "grading": {
+      "high": ["Euphrasia"],
+      "medium": ["Ruta"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Nausea better from slow deep breathing",
+    "grading": {
+      "high": ["Cocculus"],
+      "medium": ["Tabacum"],
+      "low": ["Petroleum"]
+    }
+  },
+  {
+    "rubric": "Neck stiffness better by lying without pillow",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Gelsemium"],
+      "low": ["Kalmia"]
+    }
+  },
+  {
+    "rubric": "Anxiety better after physical exercise",
+    "grading": {
+      "high": ["Sepia"],
+      "medium": ["Argentum nitricum"],
+      "low": ["Aconite"]
+    }
+  },
+  {
+    "rubric": "Pulsating headache better after washing hair with cold water",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Glonoine"],
+      "low": ["Sanguinaria"]
+    }
+  },
+  {
+    "rubric": "Chilliness better lying with blanket over head",
+    "grading": {
+      "high": ["Silicea"],
+      "medium": ["Arsenicum alb"],
+      "low": ["Dulcamara"]
+    }
+  },
+  {
+    "rubric": "Foot pain better hanging legs off bed",
+    "grading": {
+      "high": ["Vipera"],
+      "medium": ["Hamamelis"],
+      "low": ["Arnica"]
+    }
+  },
+  {
+    "rubric": "Sore throat better licking ginger and honey",
+    "grading": {
+      "high": ["Phytolacca"],
+      "medium": ["Merc sol"],
+      "low": ["Belladonna"]
+    }
+  },
+  {
+    "rubric": "Pain in legs better rolling legs outward",
+    "grading": {
+      "high": ["Rhus tox"],
+      "medium": ["Ruta"],
+      "low": ["Calcarea fluor"]
+    }
+  },
+  {
+    "rubric": "Dry cough better with steam inhalation using eucalyptus",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Rumex"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Hot flushes better after drinking cool water",
+    "grading": {
+      "high": ["Lachesis"],
+      "medium": ["Sulphur"],
+      "low": ["Sepia"]
+    }
+  },
+  {
+    "rubric": "Burning soles better resting them on cold tiles",
+    "grading": {
+      "high": ["Sulphur"],
+      "medium": ["Medorrhinum"],
+      "low": ["Psorinum"]
+    }
+  },
+  {
+    "rubric": "Painful heels better from alternate hot and cold baths",
+    "grading": {
+      "high": ["Calcarea fluor"],
+      "medium": ["Ruta"],
+      "low": ["Ledum"]
+    }
+  },
+  {
+    "rubric": "Lump sensation in throat better after drinking warm milk",
+    "grading": {
+      "high": ["Ignatia"],
+      "medium": ["Lachesis"],
+      "low": ["Phosphorus"]
+    }
+  },
+  {
+    "rubric": "Shooting pain in temples better after pressing forehead",
+    "grading": {
+      "high": ["Belladonna"],
+      "medium": ["Spigelia"],
+      "low": ["Sanguinaria"]
+    }
+  },
+  {
+    "rubric": "Weakness better from eating jaggery",
+    "grading": {
+      "high": ["China"],
+      "medium": ["Phosphoric acid"],
+      "low": ["Gelsemium"]
+    }
+  },
+  {
+    "rubric": "Sleep better lying on abdomen hugging pillow",
+    "grading": {
+      "high": ["Medorrhinum"],
+      "medium": ["Pulsatilla"],
+      "low": ["Lycopodium"]
+    }
+  },
+  {
+    "rubric": "Breathlessness better bending forward over table",
+    "grading": {
+      "high": ["Spongia"],
+      "medium": ["Antimonium tart"],
+      "low": ["Kali carb"]
+    }
+  },
+  {
+    "rubric": "Chill better sipping hot ginger tea",
+    "grading": {
+      "high": ["Arsenicum alb"],
+      "medium": ["Gelsemium"],
+      "low": ["Dulcamara"]
+    }
+  },
+  {
+    "rubric": "Cough better sitting with head supported backward",
+    "grading": {
+      "high": ["Drosera"],
+      "medium": ["Coccus cacti"],
+      "low": ["Phosphorus"]
+    }
+  }
+]

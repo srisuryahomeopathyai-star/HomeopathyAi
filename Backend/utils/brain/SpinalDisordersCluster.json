@@ -1,0 +1,188 @@
+[
+  {
+    "disease": "Spinal Disorders – Cervical & Lumbar Spondylosis",
+    "tags": [
+      "CommonChronic",
+      "SpinePain",
+      "Spondylitis",
+      "Spondylosis",
+      "BackPain",
+      "Degenerative",
+      "Syphilitic",
+      "Sycosis"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Neck pain with stiffness < morning or after rest",
+        "grading": {
+          "high": ["Rhus toxicodendron", "Causticum", "Calcarea carb"],
+          "medium": ["Kalmia", "Cimicifuga"],
+          "low": ["Silicea"]
+        },
+        "modality": "Worse after rest, better gentle motion",
+        "miasm": "Sycosis",
+        "notes": "Early-stage cervical spondylosis, mechanical stiffness"
+      },
+      {
+        "rubric": "Neck pain < damp weather, < cold, > heat",
+        "grading": {
+          "high": ["Dulcamara", "Rhus tox", "Calcarea carb"],
+          "medium": ["Causticum", "Ruta"],
+          "low": ["Nux vomica"]
+        },
+        "modality": "Classic sycotic weather modality",
+        "miasm": "Sycosis",
+        "notes": "Seen in chronic spondylotic cases with weather sensitivity"
+      },
+      {
+        "rubric": "Cervical pain with vertigo on neck movement",
+        "grading": {
+          "high": ["Gelsemium", "Conium", "Cimicifuga"],
+          "medium": ["Kalmia", "Lachesis"],
+          "low": ["Rhus tox"]
+        },
+        "modality": "< turning head, < rising suddenly",
+        "miasm": "Psora-Syphilitic",
+        "notes": "Indicates vascular or neural impingement in cervical region"
+      },
+      {
+        "rubric": "Neck pain radiating to shoulder or upper arm without tingling",
+        "grading": {
+          "high": ["Kalmia", "Rhus tox", "Cimicifuga"],
+          "medium": ["Colocynth", "Causticum"],
+          "low": ["Ruta"]
+        },
+        "modality": "Pain travels but no numbness",
+        "miasm": "Sycosis",
+        "notes": "Cervical disc involvement but not true neuralgia"
+      },
+      {
+        "rubric": "Lumbar pain < bending, < lifting, > lying on hard surface",
+        "grading": {
+          "high": ["Bryonia", "Calcarea fluor", "Arnica"],
+          "medium": ["Nux vomica", "Rhus tox"],
+          "low": ["Ruta"]
+        },
+        "modality": "< flexion, > firm support or lying still",
+        "miasm": "Syphilitic",
+        "notes": "Degenerative lumbar spine with mechanical strain"
+      },
+      {
+        "rubric": "Back pain < rising from chair, > walking slowly",
+        "grading": {
+          "high": ["Rhus tox", "Calcarea carb", "Causticum"],
+          "medium": ["Bryonia", "Sepia"],
+          "low": ["Silicea"]
+        },
+        "modality": "Stiffness < rest, > motion",
+        "miasm": "Sycosis",
+        "notes": "Lumbosacral spondylosis early or moderate stage"
+      },
+      {
+        "rubric": "Stiffness and cracking in spine on movement",
+        "grading": {
+          "high": ["Calcarea fluor", "Silicea", "Rhus tox"],
+          "medium": ["Causticum", "Kali carb"],
+          "low": ["Phosphorus"]
+        },
+        "modality": "With crepitus or audible cracking",
+        "miasm": "Syphilitic",
+        "notes": "Calcification, disc degeneration stage"
+      },
+      {
+        "rubric": "Pain in spine < long standing, > lying with pillow support",
+        "grading": {
+          "high": ["Sepia", "Nux vomica", "Calcarea carb"],
+          "medium": ["Sulphur", "Causticum"],
+          "low": ["Gelsemium"]
+        },
+        "modality": "Mid-back or lumbar region pain worsens with standing long",
+        "miasm": "Psora-Sycosis",
+        "notes": "Postural fatigue or intervertebral spacing issue"
+      }
+    ]
+  },
+  {
+    "disease": "Spinal Disorders – Intercurrent & Miasmatic",
+    "tags": [
+      "Intercurrent",
+      "Miasmatic",
+      "SpinePain",
+      "Cervical",
+      "Lumbar",
+      "Spondylosis",
+      "Syphilitic",
+      "Sycosis",
+      "Suppressed",
+      "Degenerative"
+    ],
+    "rubrics": [
+      {
+        "rubric": "Chronic spinal stiffness and pain after suppression (steroids, neck collar, ointments)",
+        "grading": {
+          "high": ["Psorinum", "Sulphur", "Thuja"],
+          "medium": ["Graphites", "Medorrhinum"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "Symptoms shifted deeper after superficial relief",
+        "miasm": "Psora-Sycosis",
+        "notes": "Important when skin/respiratory complaints were treated topically"
+      },
+      {
+        "rubric": "Marked degeneration of cervical/lumbar spine with bone changes or calcification",
+        "grading": {
+          "high": ["Calcarea fluor", "Hecla lava", "Silicea"],
+          "medium": ["Fluoric acid", "Syphilinum"],
+          "low": ["Merc sol"]
+        },
+        "modality": "With crepitus, fusion, or spur formation",
+        "miasm": "Syphilitic",
+        "notes": "Late-stage spinal spondylosis or ankylosing signs"
+      },
+      {
+        "rubric": "Spinal pain < cold damp weather with suppressed eruption history",
+        "grading": {
+          "high": ["Dulcamara", "Sulphur", "Psorinum"],
+          "medium": ["Medorrhinum", "Calcarea carb"],
+          "low": ["Rhus tox"]
+        },
+        "modality": "< rainy season, < cold, > warmth",
+        "miasm": "Psora-Sycosis",
+        "notes": "Chronic rheumatic miasm from suppression"
+      },
+      {
+        "rubric": "Chronic cervical or lumbar pain after emotional suppression, grief or exhaustion",
+        "grading": {
+          "high": ["Ignatia", "Natrum mur", "Staphysagria"],
+          "medium": ["Phosphoric acid", "Sepia"],
+          "low": ["Aurum metallicum"]
+        },
+        "modality": "Back pain appears after trauma or grief",
+        "miasm": "Psoric",
+        "notes": "Psychosomatic trigger in chronic back dysfunction"
+      },
+      {
+        "rubric": "Recurrent spinal pain in patient with family history of arthritis or tuberculosis",
+        "grading": {
+          "high": ["Tuberculinum", "Medorrhinum", "Calcarea carb"],
+          "medium": ["Psorinum", "Syphilinum"],
+          "low": ["Carcinosinum"]
+        },
+        "modality": "Degenerative or spinal disc issues in genetic terrain",
+        "miasm": "Mixed",
+        "notes": "Deep constitutional miasm affecting long spine"
+      },
+      {
+        "rubric": "Back pain after injury, strain, or fracture history not responding to acute remedies",
+        "grading": {
+          "high": ["Symphytum", "Calcarea phos", "Ruta"],
+          "medium": ["Arnica", "Hecla lava"],
+          "low": ["Silicea"]
+        },
+        "modality": "Old trauma not healing well",
+        "miasm": "Syphilitic",
+        "notes": "Post-traumatic degenerative spinal lesions"
+      }
+    ]
+  }
+]

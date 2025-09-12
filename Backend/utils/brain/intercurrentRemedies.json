@@ -1,0 +1,673 @@
+[
+  {
+    "remedy": "Tuberculinum",
+    "miasm": "Tubercular",
+    "keyIndications": [
+      "Never well since frequent infections, especially respiratory",
+      "Restlessness, desire to travel and change jobs/homes",
+      "Alternating symptoms – comes and goes quickly",
+      "Weakness with internal drive to overexert",
+      "Used where there is family history of tuberculosis"
+    ],
+    "whenToUse": [
+      "No remedy holds or acts well",
+      "Allergy-prone patient with recurring acute complaints",
+      "History of TB or TB tendency in family"
+    ]
+  },
+  {
+    "remedy": "Medorrhinum",
+    "miasm": "Syco-syphilitic",
+    "keyIndications": [
+      "Extreme extremes – either too passionate or too cold",
+      "Very forgetful, even forgets names and words",
+      "Child lies in knee-chest position, sleeps with hands under genitals",
+      "History of gonorrheal infection or suppressed discharges",
+      "Often used in deep-seated skin issues and asthma"
+    ],
+    "whenToUse": [
+      "Strong sycotic background in patient/family",
+      "When multiple suppressions are in the history",
+      "Behavioral and mental extremes with unclear remedy picture"
+    ]
+  },
+  {
+    "remedy": "Syphilinum",
+    "miasm": "Syphilitic",
+    "keyIndications": [
+      "Despair, suicidal thoughts, destructive behaviors",
+      "OCD tendencies – repeated handwashing, fear of contamination",
+      "Deep bone pains at night, especially in long bones",
+      "Ulcers that destroy tissue",
+      "Family history of congenital syphilis or repeated abortions"
+    ],
+    "whenToUse": [
+      "Destructive pathology (e.g., ulcers, bone decay)",
+      "Unmanageable OCD or suicidal tendencies",
+      "Hereditary syphilitic background, especially in autoimmune cases"
+    ]
+  },
+  {
+    "remedy": "Psorinum",
+    "miasm": "Psoric",
+    "keyIndications": [
+      "Dirty-looking skin even after washing",
+      "Profuse offensive perspiration",
+      "Extreme chilliness, wears warm clothes even in summer",
+      "Despair of recovery, hopelessness",
+      "Used when patient responds poorly to well-indicated remedies"
+    ],
+    "whenToUse": [
+      "Lack of reaction to indicated remedy",
+      "Chronic eczema or skin allergies",
+      "Deep-seated debility and chilliness"
+    ]
+  },
+  {
+    "remedy": "Carcinosin",
+    "miasm": "Carcino-syphilitic",
+    "keyIndications": [
+      "History of domination, suppressed emotions in childhood",
+      "Perfectionist nature; oversensitive to reprimand",
+      "Many desires suppressed due to parental control",
+      "Blue sclera, café-au-lait spots, family cancer history",
+      "Child who danced early, walked early (fast development)"
+    ],
+    "whenToUse": [
+      "When patient has strong cancer history or suppression history",
+      "Highly perfectionist, oversensitive child",
+      "Multiple remedy pictures overlap or are unclear"
+    ]
+  },
+  {
+    "remedy": "Tuberculinum",
+    "miasm": "Tubercular",
+    "keyIndications": [
+      "Never well since frequent infections, especially respiratory",
+      "Restlessness, desire to travel and change jobs/homes",
+      "Alternating symptoms – comes and goes quickly",
+      "Weakness with internal drive to overexert",
+      "Used where there is family history of tuberculosis"
+    ],
+    "whenToUse": [
+      "No remedy holds or acts well",
+      "Allergy-prone patient with recurring acute complaints",
+      "History of TB or TB tendency in family"
+    ]
+  },
+  {
+    "remedy": "Medorrhinum",
+    "miasm": "Syco-syphilitic",
+    "keyIndications": [
+      "Extreme extremes – either too passionate or too cold",
+      "Very forgetful, even forgets names and words",
+      "Child lies in knee-chest position, sleeps with hands under genitals",
+      "History of gonorrheal infection or suppressed discharges",
+      "Often used in deep-seated skin issues and asthma"
+    ],
+    "whenToUse": [
+      "Strong sycotic background in patient/family",
+      "When multiple suppressions are in the history",
+      "Behavioral and mental extremes with unclear remedy picture"
+    ]
+  },
+  {
+    "remedy": "Syphilinum",
+    "miasm": "Syphilitic",
+    "keyIndications": [
+      "Despair, suicidal thoughts, destructive behaviors",
+      "OCD tendencies – repeated handwashing, fear of contamination",
+      "Deep bone pains at night, especially in long bones",
+      "Ulcers that destroy tissue",
+      "Family history of congenital syphilis or repeated abortions"
+    ],
+    "whenToUse": [
+      "Destructive pathology (e.g., ulcers, bone decay)",
+      "Unmanageable OCD or suicidal tendencies",
+      "Hereditary syphilitic background, especially in autoimmune cases"
+    ]
+  },
+  {
+    "remedy": "Psorinum",
+    "miasm": "Psoric",
+    "keyIndications": [
+      "Dirty-looking skin even after washing",
+      "Profuse offensive perspiration",
+      "Extreme chilliness, wears warm clothes even in summer",
+      "Despair of recovery, hopelessness",
+      "Used when patient responds poorly to well-indicated remedies"
+    ],
+    "whenToUse": [
+      "Lack of reaction to indicated remedy",
+      "Chronic eczema or skin allergies",
+      "Deep-seated debility and chilliness"
+    ]
+  },
+  {
+    "remedy": "Carcinosin",
+    "miasm": "Carcino-syphilitic",
+    "keyIndications": [
+      "History of domination, suppressed emotions in childhood",
+      "Perfectionist nature; oversensitive to reprimand",
+      "Many desires suppressed due to parental control",
+      "Blue sclera, café-au-lait spots, family cancer history",
+      "Child who danced early, walked early (fast development)"
+    ],
+    "whenToUse": [
+      "When patient has strong cancer history or suppression history",
+      "Highly perfectionist, oversensitive child",
+      "Multiple remedy pictures overlap or are unclear"
+    ]
+  },
+  {
+    "remedy": "Bacillinum",
+    "miasm": "Tubercular",
+    "keyIndications": [
+      "Chronic bronchitis or asthma with rattling chest",
+      "Family history of lung infections or TB",
+      "Recurring upper respiratory tract infections",
+      "Sensitive to changes in weather",
+      "Used after failure of well-chosen remedies"
+    ],
+    "whenToUse": [
+      "Chronic respiratory issues not resolving",
+      "Family TB history",
+      "Recurring cold with chest blockage"
+    ]
+  },
+  {
+    "remedy": "Morgan Pure",
+    "miasm": "Syco-psoric",
+    "keyIndications": [
+      "Chronic intestinal dysbiosis",
+      "Constipation alternating with diarrhea",
+      "Skin conditions related to gut imbalance",
+      "Used where gut flora is suspected to be disturbed"
+    ],
+    "whenToUse": [
+      "Poor bowel function with skin symptoms",
+      "Digestive disorders unresponsive to other remedies",
+      "Post-antibiotic imbalance"
+    ]
+  },
+  {
+    "remedy": "Morgan Gaertner",
+    "miasm": "Psoric",
+    "keyIndications": [
+      "Recurrent colitis, IBS, gut fermentation",
+      "Allergic skin conditions with GI link",
+      "Food intolerance with mental irritability"
+    ],
+    "whenToUse": [
+      "When GI tract is the root of systemic issues",
+      "Children with milk intolerance and eczema",
+      "Chronic bloating with skin complaints"
+    ]
+  },
+  {
+    "remedy": "Influenzinum",
+    "miasm": "Acute intercurrent",
+    "keyIndications": [
+      "Lingering flu symptoms after infection",
+      "Chronic fatigue post-viral infection",
+      "Used as intercurrent in slow recovery states",
+      "Flu-like weakness, bodyache, low immunity"
+    ],
+    "whenToUse": [
+      "After flu or viral infection when recovery is slow",
+      "To stimulate immune response",
+      "Post-viral fatigue syndrome"
+    ]
+  },
+  {
+    "remedy": "Thuja",
+    "miasm": "Sycosis",
+    "keyIndications": [
+      "Wart-like growths, condylomata",
+      "Ill-effects of vaccination",
+      "Hidden guilt, feeling of being 'fragile inside'",
+      "Suppressed gonorrhea history"
+    ],
+    "whenToUse": [
+      "Vaccinosis-related complaints",
+      "Chronic skin warts or polyps",
+      "Urogenital issues post suppression"
+    ]
+  },
+  {
+    "remedy": "Sulphur",
+    "miasm": "Psoric",
+    "keyIndications": [
+      "Dirty, offensive discharges and body odor",
+      "Burning of soles and palms, wants to uncover feet",
+      "Philosophical or lazy intellectual type",
+      "Used to arouse response when case is stuck"
+    ],
+    "whenToUse": [
+      "Case seems blank or remedy not holding",
+      "Sluggish case with psoric background",
+      "To clear up suppressed psora before acting deeper"
+    ]
+  },
+  {
+    "remedy": "Lachesis",
+    "miasm": "Syphilitic",
+    "keyIndications": [
+      "Talkative, jealous, suspicious nature",
+      "Left-sided complaints, throat issues",
+      "Hot patient, worse on waking",
+      "Sleeps into aggravation",
+      "Useful when mental symptoms dominate"
+    ],
+    "whenToUse": [
+      "When jealousy, suspicion block remedy action",
+      "Menopausal issues with left-sided headaches",
+      "To clear emotional blocks in hot-blooded patients"
+    ]
+  },
+  {
+    "remedy": "Natrum Muriaticum",
+    "miasm": "Psoric",
+    "keyIndications": [
+      "Introverted, reserved, emotional suppression",
+      "Headaches from sun, grief from loss",
+      "Craves salt, aversion to consolation",
+      "Used when grief blocks healing"
+    ],
+    "whenToUse": [
+      "Unresolved grief or heartbreak affecting health",
+      "Emotional dryness after loss",
+      "To move case forward where emotions are locked"
+    ]
+  },
+  {
+    "remedy": "Streptococcin",
+    "miasm": "Bacterial nosode",
+    "keyIndications": [
+      "Lingering infections after strep throat",
+      "Rheumatic fever with joint pains",
+      "Used when streptococcal history is present"
+    ],
+    "whenToUse": [
+      "Post-strep complications like glomerulonephritis",
+      "Recurrent tonsillitis",
+      "History of rheumatic complaints from infection"
+    ]
+  },
+  {
+    "remedy": "Pertussin",
+    "miasm": "Infectious nosode",
+    "keyIndications": [
+      "Chronic cough or whooping cough",
+      "Used where spasmodic cough dominates",
+      "Helpful in unresponsive dry coughs"
+    ],
+    "whenToUse": [
+      "Whooping cough or its after-effects",
+      "Chronic spasmodic cough",
+      "Persistent dry cough not responding to usual remedies"
+    ]
+  },
+  {
+    "remedy": "Fagopyrum",
+    "miasm": "Psoric",
+    "keyIndications": [
+      "Extreme itching and prickling of skin",
+      "Redness and burning with swelling",
+      "Unusual remedy for allergic skin flares",
+      "Used to clear stubborn allergic diathesis"
+    ],
+    "whenToUse": [
+      "Unusual, unresponsive skin eruptions",
+      "Allergic pruritus with burning heat",
+      "Alternative when common anti-allergy remedies fail"
+    ]
+  },
+  {
+    "remedy": "Hippozaeninum",
+    "miasm": "Syphilitic",
+    "keyIndications": [
+      "Corrosive nasal and throat ulcerations",
+      "Eye affections with thick, green pus",
+      "Used in destructive mucosal infections",
+      "Rare nosode in immunosuppressed states"
+    ],
+    "whenToUse": [
+      "Severe sinusitis with bone involvement",
+      "Chronic destructive throat or nasal issues",
+      "No remedy acts in mucopurulent, foul-smelling states"
+    ]
+  },
+  {
+    "remedy": "Morbillinum",
+    "miasm": "Viral nosode",
+    "keyIndications": [
+      "Used in slow recovery from measles",
+      "Lingering cough and eye issues",
+      "Post-viral weakness in children",
+      "Clears inherited virus-related tendencies"
+    ],
+    "whenToUse": [
+      "History of measles with poor vitality",
+      "Delayed recovery from viral exanthems",
+      "Child fails to thrive post-viral infection"
+    ]
+  },
+  {
+    "remedy": "Variolinum",
+    "miasm": "Viral nosode",
+    "keyIndications": [
+      "Useful in deep-seated pustular eruptions",
+      "Old smallpox vaccine suppression effects",
+      "Used to clear deep viral skin imprints",
+      "Severe fever with skin involvement"
+    ],
+    "whenToUse": [
+      "Old vaccinosis states with chronic skin issues",
+      "When pustular skin diseases are deep and unresponsive",
+      "Fever with pustules and toxicity"
+    ]
+  },
+  {
+    "remedy": "Malandrinum",
+    "miasm": "Vaccine nosode",
+    "keyIndications": [
+      "Chronic skin eruptions after vaccination",
+      "Dry, fissured eczema or dermatitis",
+      "Used to antidote vaccine effects",
+      "Cracked, ulcerated skin from internal blockage"
+    ],
+    "whenToUse": [
+      "Old vaccine suppression signs (skin, immunity)",
+      "Cracked eczema, no response to regular skin remedies",
+      "To clear vaccine miasm and restore response"
+    ]
+  },
+  {
+    "remedy": "Hydrophobinum",
+    "miasm": "Syphilitic (animal nosode)",
+    "keyIndications": [
+      "Extreme sensitivity to water, light, sound",
+      "Violent mental agitation with fear of fluids",
+      "Used in hydrophobia states or rabies-related fears",
+      "Rare nosode for violent mania or convulsions"
+    ],
+    "whenToUse": [
+      "Rabies exposure or old trauma from bite",
+      "Mania with aversion to water or mirror",
+      "Violent emotional blocks or hysteria"
+    ]
+  },
+  {
+    "remedy": "Morgan Pure",
+    "miasm": "Mixed (Tubercular/Sycotic)",
+    "key_indications": [
+      "Chronic skin conditions with intestinal issues",
+      "Constipation alternating with diarrhea",
+      "History of eczema, psoriasis with gut sensitivity",
+      "Used where bowel flora disturbance blocks remedy action",
+      "Chilly patients, worse from cold bathing"
+    ],
+    "when_to_use": [
+      "In chronic eczema with poor gut health",
+      "When skin disease alternates with digestive issues",
+      "To clear bowel flora-related blockages"
+    ]
+  },
+  {
+    "remedy": "Morgan Gaertner",
+    "miasm": "Sycotic/Tubercular",
+    "key_indications": [
+      "Allergic skin diseases with strong digestive component",
+      "Recurrent colds with irritable bowel symptoms",
+      "Restless, thin children with hyperactivity",
+      "Food intolerance, bloating, post-meal weakness",
+      "Used in allergic constitutions unresponsive to regular remedies"
+    ],
+    "when_to_use": [
+      "In allergic skin conditions with bloating and food issues",
+      "In children with hyperactivity and gut symptoms",
+      "When Morgan Pure fails or is partially acting"
+    ]
+  },
+  {
+    "remedy": "Streptococcin",
+    "miasm": "Mixed (Post-Infective)",
+    "key_indications": [
+      "Sequelae of streptococcal infections – tonsillitis, fever, skin",
+      "Sudden weakness after throat infections",
+      "Used when streptococcal miasm suspected",
+      "Chronic rheumatism or heart issues post-strep",
+      "Emotional dullness post illness"
+    ],
+    "when_to_use": [
+      "In patients with recurrent tonsillitis or strep throat",
+      "After suppressed or mistreated streptococcal infections",
+      "When case stalls after acute bacterial illness"
+    ]
+  },
+  {
+    "remedy": "Thuja",
+    "miasm": "Sycotic",
+    "key_indications": [
+      "Ill effects of vaccination (vaccinosis)",
+      "Warts, polyps, overgrowths, chronic catarrh",
+      "Fixed ideas, talks to imaginary people",
+      "Oily face, split stream of urine",
+      "Used in cases with strong sycotic taint and overgrowths"
+    ],
+    "when_to_use": [
+      "When symptoms began after vaccination",
+      "In chronic warty conditions with suppressed eruptions",
+      "When Sycotic block suspected"
+    ]
+  },
+  {
+    "remedy": "Lachesis",
+    "miasm": "Syphilitic",
+    "key_indications": [
+      "Talkative, jealous, worse on waking and heat",
+      "Sleeps into aggravation; sensitive to touch",
+      "Hot patient, left-sided complaints",
+      "Useful when constitution is oversensitive, unstable",
+      "Used to unblock deeply congested, emotionally intense cases"
+    ],
+    "when_to_use": [
+      "When patient worsens after sleep",
+      "When there is mental turmoil and congestion",
+      "Used in hormonal or emotional blockages not responding"
+    ]
+  },
+  {
+    "remedy": "Natrum muriaticum",
+    "miasm": "Psoric/Syphilitic (mixed)",
+    "key_indications": [
+      "Reserved, silent grief; never expresses emotions",
+      "Worse from sun, salt, and consolation",
+      "Headache like hammers, worse from reading",
+      "History of suppressed emotions, weeping alone",
+      "Used when constitutional progress is blocked by unresolved grief"
+    ],
+    "when_to_use": [
+      "When grief blocks case progress",
+      "In patients with reserved, self-contained temperament",
+      "As a deep-acting intercurrent in unresponsive emotional cases"
+    ]
+  },
+  {
+    "remedy": "Fagopyrum",
+    "miasm": "Psoric/Sycotic",
+    "key_indications": [
+      "Allergic states with itching, sneezing, urticaria",
+      "Violent itching from slightest contact or wind",
+      "Restless, constantly changing position",
+      "Used in allergy-prone patients not responding to other remedies",
+      "Head feels large and light; sensation of pressure in eyeballs"
+    ],
+    "when_to_use": [
+      "In allergic skin and respiratory complaints with intense itching",
+      "When urticaria or hay fever blocks progress",
+      "As a rarely used block remover in allergic constitutions"
+    ]
+  },
+  {
+    "remedy": "Hydrophobinum",
+    "miasm": "Syphilitic (Nosode – Rabies)",
+    "key_indications": [
+      "Intense fear of water, shining objects, or wind",
+      "Tendency to bite, spit, or act aggressively",
+      "Overactive nervous system with trembling and spasms",
+      "Used in deep neurological disturbances or emotional extremes",
+      "Symptoms mimic hysteria, rage, or convulsions"
+    ],
+    "when_to_use": [
+      "In post-shock trauma or aggression-based disorders",
+      "When patient displays uncontrolled violent tendencies",
+      "As intercurrent in neurological or syphilitic block cases"
+    ]
+  },
+  {
+    "remedy": "Morbillinum",
+    "miasm": "Psoric (Nosode – Measles)",
+    "key_indications": [
+      "Chronic effects of suppressed or poorly managed measles",
+      "Recurring colds, bronchitis, eye discharges in children",
+      "Low immunity, thin, sickly child post-measles",
+      "Dry spasmodic cough after infection",
+      "Used to clear measles miasm in recurring childhood infections"
+    ],
+    "when_to_use": [
+      "After incomplete recovery from measles",
+      "In children with post-measles complications (ear, lung, skin)",
+      "To unblock chronic cases following measles"
+    ]
+  },
+  {
+    "remedy": "Variolinum",
+    "miasm": "Sycotic/Syphilitic (Nosode – Smallpox)",
+    "key_indications": [
+      "Chronic effects of smallpox or vaccinosis",
+      "Deep pustular eruptions, fever with intense back pain",
+      "Skin feels burning, patient sensitive to light",
+      "Used in skin conditions post-vaccine or after pustular eruptions",
+      "Restlessness, fear of death, intense illness"
+    ],
+    "when_to_use": [
+      "As intercurrent in suppressed skin eruptions post vaccination",
+      "In recurring pustular skin complaints with history of smallpox/vaccine",
+      "Used when Thuja fails in vaccinosis cases"
+    ]
+  },
+  {
+    "remedy": "Malandrinum",
+    "miasm": "Syphilitic (Nosode – Horse Grease Disease)",
+    "key_indications": [
+      "Chronic skin eruptions post-vaccination",
+      "Thick, crusty, burning eruptions that leave scars",
+      "Used in suppressed pustular diseases",
+      "Often useful when Variolinum and Thuja fail",
+      "Unhealthy skin with pus, itching, and chronic discharges"
+    ],
+    "when_to_use": [
+      "In chronic skin issues post-vaccine or pustular disease",
+      "When there is foul-smelling discharge with deep ulcers",
+      "To unblock suppressed cases after smallpox or similar history"
+    ]
+  },
+  {
+    "remedy": "Pertussin",
+    "miasm": "Sycotic (Nosode – Whooping Cough)",
+    "key_indications": [
+      "Post-whooping cough effects in children or elderly",
+      "Chronic spasmodic cough, rattling chest, sleep disturbance",
+      "Used when cough lingers for weeks or months",
+      "Children suddenly wake with fits of coughing",
+      "Used in asthmatic constitutions after infection"
+    ],
+    "when_to_use": [
+      "When no other remedy helps after whooping cough",
+      "In asthmatic children with a history of pertussis",
+      "To remove cough block in chronic respiratory cases"
+    ]
+  },
+  {
+    "remedy": "Hippozaeninum",
+    "miasm": "Syphilitic (Nosode – Glanders)",
+    "key_indications": [
+      "Malignant ulcers, fetid discharge, glandular swelling",
+      "Nasal and oral ulcers with destructive features",
+      "Used in rapidly destructive and septic conditions",
+      "History of glanders exposure or equivalent pathology",
+      "Can resemble Anthracinum in septic tendencies"
+    ],
+    "when_to_use": [
+      "When patient shows rapid tissue destruction with ulceration",
+      "To unblock septic or degenerative cases with glandular symptoms",
+      "When conventional remedies do not act in foul conditions"
+    ]
+  },
+  {
+    "remedy": "Influenzinum",
+    "miasm": "Mixed (Post-viral)",
+    "key_indications": [
+      "Chronic fatigue and depression post influenza",
+      "Respiratory complaints with body aches, weakness",
+      "Used for lingering flu symptoms (cough, myalgia, low immunity)",
+      "Periodic use boosts immune response in chronic viral states",
+      "Sleeps but wakes unrefreshed, irritable"
+    ],
+    "when_to_use": [
+      "In post-influenza recovery where weakness lingers",
+      "When new chronic complaints begin after flu attack",
+      "To break periodic flu-like relapses or block"
+    ]
+  },
+  {
+    "remedy": "Diphtherinum",
+    "miasm": "Syphilitic (Nosode – Diphtheria)",
+    "key_indications": [
+      "Post-diphtheria paralysis, hoarseness, heart weakness",
+      "Offensive breath, foul throat, nose discharges",
+      "Used in chronic glandular and throat infections",
+      "Neurological issues after acute diphtheritic illness",
+      "Tendency to chronic low-grade infections with fatigue"
+    ],
+    "when_to_use": [
+      "In post-diphtheria patients with persistent fatigue or neuralgias",
+      "When children fail to recover from recurrent throat infections",
+      "To remove miasmatic block related to glandular toxicity"
+    ]
+  },
+  {
+    "remedy": "Anthracinum",
+    "miasm": "Syphilitic (Nosode – Anthrax)",
+    "key_indications": [
+      "Septicemia, black ulcers, burning with purple discoloration",
+      "Used when discharges are acrid, foul, dark, and bloody",
+      "Tissue destruction, gangrene, splinter-like pains",
+      "Can be used in rapidly advancing infections with foul odor",
+      "Emotionally collapsed, anxious, restless"
+    ],
+    "when_to_use": [
+      "When patient is in septic, gangrenous, foul-smelling conditions",
+      "As an intercurrent in advanced infection with poor response",
+      "To clear deep septic miasm when other remedies fail"
+    ]
+  },
+  {
+    "remedy": "Typhoidinum",
+    "miasm": "Mixed (Nosode – Typhoid)",
+    "key_indications": [
+      "Long-term fatigue and mental dullness after typhoid",
+      "Frequent return of feverish episodes",
+      "Loss of appetite, bitter taste, abdominal bloating",
+      "Used in patients with low vitality post-enteric fever",
+      "Mental prostration, apathy, slow comprehension"
+    ],
+    "when_to_use": [
+      "To unblock cases after typhoid where recovery is poor",
+      "In patients with mental dullness and digestive issues post illness",
+      "When patient says ‘never well since typhoid’"
+    ]
+  }
+]

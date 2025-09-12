@@ -1,0 +1,1652 @@
+[
+  {
+    "rubric": "Tongue coated white",
+    "grading": {
+      "high": ["Antimonium crudum", "Nux vomica"],
+      "medium": ["Bryonia", "Pulsatilla"],
+      "low": ["Merc sol"]
+    },
+    "modality": "Worse in morning, better after eating",
+    "miasm": "Psora",
+    "notes": "Common in digestive complaints, early fevers"
+  },
+  {
+    "rubric": "Tongue coated yellow",
+    "grading": {
+      "high": ["Chelidonium", "Nux vomica"],
+      "medium": ["Merc sol", "Lycopodium"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse after meals, bilious symptoms",
+    "miasm": "Sycotic",
+    "notes": "Indicates liver and gallbladder dysfunction"
+  },
+  {
+    "rubric": "Tongue coated brown",
+    "grading": {
+      "high": ["Baptisia", "Rhus tox"],
+      "medium": ["Bryonia", "Arsenicum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse with fever, dehydration",
+    "miasm": "Tubercular",
+    "notes": "Seen in typhoid, toxic states"
+  },
+  {
+    "rubric": "Tongue mapped (geographic)",
+    "grading": {
+      "high": ["Lycopodium", "Taraxacum"],
+      "medium": ["Natrum mur", "Calcarea carb"],
+      "low": ["Merc sol"]
+    },
+    "modality": "Worse with stress, hormones, dentition",
+    "miasm": "Syco-syphilitic",
+    "notes": "Sensitive individuals, linked to GI stress"
+  },
+  {
+    "rubric": "Tongue cracked",
+    "grading": {
+      "high": ["Nitric acid", "Natrum mur"],
+      "medium": ["Arsenicum", "Sulphur"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Worse in winter, during dryness",
+    "miasm": "Syphilitic",
+    "notes": "Common in chronic weakness, dehydration"
+  },
+  {
+    "rubric": "Tongue red tip (strawberry tongue)",
+    "grading": {
+      "high": ["Belladonna", "Arum triphyllum"],
+      "medium": ["Merc sol", "Phosphorus"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse in acute fevers, sore throats",
+    "miasm": "Psoric",
+    "notes": "Scarlet fever, tonsillitis"
+  },
+  {
+    "rubric": "Tongue dry and parched",
+    "grading": {
+      "high": ["Bryonia", "Rhus tox"],
+      "medium": ["Phosphorus", "China"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Worse at night, during high fevers",
+    "miasm": "Typhoid/Syphilitic",
+    "notes": "Indicative of dehydration or systemic infection"
+  },
+  {
+    "rubric": "Tongue clean but red",
+    "grading": {
+      "high": ["Sulphur", "Arsenicum"],
+      "medium": ["Phosphorus", "Pulsatilla"],
+      "low": ["Rhus tox"]
+    },
+    "modality": "Worse with spicy or hot foods",
+    "miasm": "Psoric",
+    "notes": "Common in burning mouth syndrome"
+  },
+  {
+    "rubric": "Tongue swollen with teeth marks (scalloped)",
+    "grading": {
+      "high": ["Merc sol", "Natrum mur"],
+      "medium": ["Lycopodium", "Calcarea carb"],
+      "low": ["China"]
+    },
+    "modality": "Worse after sleep, in hypothyroid",
+    "miasm": "Sycotic",
+    "notes": "Associated with sluggish digestion, edema"
+  },
+  {
+    "rubric": "Tongue trembling",
+    "grading": {
+      "high": ["Gelsemium", "Merc sol"],
+      "medium": ["Lachesis", "Phosphorus"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Worse with nervousness, during fever",
+    "miasm": "Syphilitic",
+    "notes": "Neurasthenic or debilitated states"
+  },
+  {
+    "rubric": "Tongue ulcerated",
+    "grading": {
+      "high": ["Merc sol", "Nitric acid"],
+      "medium": ["Kali bich", "Borax"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse with heat, spicy food, talking",
+    "miasm": "Syphilitic",
+    "notes": "Deep, painful ulcers; venereal or chronic"
+  },
+  {
+    "rubric": "Tongue black or dark brown",
+    "grading": {
+      "high": ["Arsenicum", "Lachesis"],
+      "medium": ["Baptisia", "Secale"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Worse in septic or terminal conditions",
+    "miasm": "Syphilitic",
+    "notes": "Sign of systemic toxicity"
+  },
+  {
+    "rubric": "Tongue flabby and indented",
+    "grading": {
+      "high": ["Calcarea carb", "Merc sol"],
+      "medium": ["China", "Natrum mur"],
+      "low": ["Silicea"]
+    },
+    "modality": "Worse in anemia, poor nutrition",
+    "miasm": "Sycotic",
+    "notes": "Related to malabsorption or weakness"
+  },
+  {
+    "rubric": "Tongue white in center, red on edges",
+    "grading": {
+      "high": ["Chelidonium", "Sulphur"],
+      "medium": ["Nux vomica", "Phosphorus"],
+      "low": ["Kali mur"]
+    },
+    "modality": "Worse in liver dysfunction",
+    "miasm": "Mixed",
+    "notes": "Indicates GI and liver involvement"
+  },
+  {
+    "rubric": "Tongue burning sensation",
+    "grading": {
+      "high": ["Arsenicum", "Phosphorus"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Worse with hot/spicy food",
+    "miasm": "Psoric",
+    "notes": "Burning mouth syndrome, neuropathies"
+  },
+  {
+    "rubric": "Tongue pale and flabby",
+    "grading": {
+      "high": ["China", "Calcarea carb"],
+      "medium": ["Phosphoric acid", "Silicea"],
+      "low": ["Ferrum met"]
+    },
+    "modality": "Worse in anemia, exhaustion",
+    "miasm": "Psoric",
+    "notes": "Seen in chronic weakness, blood loss"
+  },
+  {
+    "rubric": "Tongue red edges with white center",
+    "grading": {
+      "high": ["Lachesis", "Sulphur"],
+      "medium": ["Nux vomica", "Merc sol"],
+      "low": ["Kali mur"]
+    },
+    "modality": "Worse with spicy food and heat",
+    "miasm": "Mixed",
+    "notes": "Liver and intestinal irritation"
+  },
+  {
+    "rubric": "Tongue fissured longitudinally",
+    "grading": {
+      "high": ["Nitric acid", "Natrum mur"],
+      "medium": ["Lachesis", "Sulphur"],
+      "low": ["Graphites"]
+    },
+    "modality": "Worse in heat, dry weather",
+    "miasm": "Syphilitic",
+    "notes": "Chronic dryness or acidity of the mouth"
+  },
+  {
+    "rubric": "Tongue feels too large for the mouth",
+    "grading": {
+      "high": ["Lachesis", "Merc sol"],
+      "medium": ["Carbo veg", "Calcarea carb"],
+      "low": ["China"]
+    },
+    "modality": "Worse in sleep, in hot weather",
+    "miasm": "Sycotic",
+    "notes": "Tongue swollen or congested state"
+  },
+  {
+    "rubric": "Tongue stiff, difficult to move",
+    "grading": {
+      "high": ["Causticum", "Gelsemium"],
+      "medium": ["Lachesis", "Plumbum"],
+      "low": ["Baryta carb"]
+    },
+    "modality": "Worse on waking or after stroke",
+    "miasm": "Syphilitic",
+    "notes": "Often seen in paralysis or apoplexy"
+  },
+  {
+    "rubric": "Tongue paralyzed",
+    "grading": {
+      "high": ["Plumbum", "Causticum"],
+      "medium": ["Gelsemium", "Phosphorus"],
+      "low": ["Baryta mur"]
+    },
+    "modality": "Post-stroke, diphtheria or nerve damage",
+    "miasm": "Syphilitic",
+    "notes": "Speech affected, slurred words"
+  },
+  {
+    "rubric": "Tongue sore as if burnt",
+    "grading": {
+      "high": ["Arsenicum", "Sulphur"],
+      "medium": ["Borax", "Phosphorus"],
+      "low": ["Merc sol"]
+    },
+    "modality": "Worse with hot food, brushing",
+    "miasm": "Psoric",
+    "notes": "Often seen in glossitis and BMS"
+  },
+  {
+    "rubric": "Tongue trembling when protruded",
+    "grading": {
+      "high": ["Gelsemium", "Merc sol"],
+      "medium": ["Lachesis", "Phos acid"],
+      "low": ["Causticum"]
+    },
+    "modality": "Worse with weakness, old age",
+    "miasm": "Syphilitic",
+    "notes": "Indicates nervous exhaustion or paralysis"
+  },
+  {
+    "rubric": "Tongue dry with red streak in center",
+    "grading": {
+      "high": ["Baptisia", "Bryonia"],
+      "medium": ["Phosphorus", "Rhus tox"],
+      "low": ["Arsenicum"]
+    },
+    "modality": "Worse in typhoid fevers",
+    "miasm": "Typhoid",
+    "notes": "Important sign in enteric fever"
+  },
+  {
+    "rubric": "Tongue bluish or cyanotic",
+    "grading": {
+      "high": ["Lachesis", "Crotalus"],
+      "medium": ["Carbo veg", "Opium"],
+      "low": ["Digitalis"]
+    },
+    "modality": "Worse in heart failure, asphyxia",
+    "miasm": "Syphilitic",
+    "notes": "Sign of poor circulation or sepsis"
+  },
+  {
+    "rubric": "Tongue coated like a white fur",
+    "grading": {
+      "high": ["Antimonium tart", "Baryta carb"],
+      "medium": ["Nux vomica", "Pulsatilla"],
+      "low": ["Merc sol"]
+    },
+    "modality": "Worse after cold drinks or indigestion",
+    "miasm": "Psoric",
+    "notes": "Typical in gastric fevers or indigestion"
+  },
+  {
+    "rubric": "Tongue glossy, smooth, shiny",
+    "grading": {
+      "high": ["Arsenicum", "Phosphorus"],
+      "medium": ["Taraxacum", "Natrum mur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse with B-complex deficiency or chronic anemia",
+    "miasm": "Syphilitic",
+    "notes": "Pernicious anemia, glossitis"
+  },
+  {
+    "rubric": "Tongue intensely red (beefy red)",
+    "grading": {
+      "high": ["Belladonna", "Kali bich"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Nitric acid"]
+    },
+    "modality": "Worse in fevers, inflammation",
+    "miasm": "Psoric",
+    "notes": "Seen in glossitis, erythematous oral lesions"
+  },
+  {
+    "rubric": "Tongue ulcerated at tip",
+    "grading": {
+      "high": ["Nitric acid", "Merc sol"],
+      "medium": ["Borax", "Lachesis"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse with hot drinks, chewing",
+    "miasm": "Syphilitic",
+    "notes": "Often associated with mercury toxicity, herpes"
+  },
+  {
+    "rubric": "Tongue with slimy, thick mucus",
+    "grading": {
+      "high": ["Kali bich", "Antim crud"],
+      "medium": ["Pulsatilla", "Merc sol"],
+      "low": ["Hydrastis"]
+    },
+    "modality": "Worse in mornings, better after expectoration",
+    "miasm": "Sycotic",
+    "notes": "Linked with post-nasal discharge or GI issues"
+  },
+  {
+    "rubric": "Tongue heavy, difficult to lift",
+    "grading": {
+      "high": ["Gelsemium", "Causticum"],
+      "medium": ["Plumbum", "Baryta carb"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse after stroke, nervous exhaustion",
+    "miasm": "Syphilitic",
+    "notes": "Speech difficulty, neurological origin"
+  },
+  {
+    "rubric": "Tongue feels numb",
+    "grading": {
+      "high": ["Arsenicum", "Gelsemium"],
+      "medium": ["Aconite", "Plumbum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse after fear, exposure to cold",
+    "miasm": "Psoric",
+    "notes": "Seen in anxiety, after dental work or toxins"
+  },
+  {
+    "rubric": "Tongue feels rough like a rasp",
+    "grading": {
+      "high": ["Lycopodium", "Sulphur"],
+      "medium": ["Nat mur", "Borax"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse in morning, after fever",
+    "miasm": "Psoric",
+    "notes": "Common in chronic mouth conditions"
+  },
+  {
+    "rubric": "Tongue with ulcers under tongue (sublingual)",
+    "grading": {
+      "high": ["Merc sol", "Nitric acid"],
+      "medium": ["Kali bich", "Arsenicum"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Worse at night, with hot/spicy foods",
+    "miasm": "Syphilitic",
+    "notes": "Often linked with salivary gland inflammation"
+  },
+  {
+    "rubric": "Tongue feels scalded",
+    "grading": {
+      "high": ["Arsenicum", "Sulphur"],
+      "medium": ["Phosphorus", "Borax"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Worse with tea, acidic drinks",
+    "miasm": "Psoric",
+    "notes": "Burning mouth syndrome, mucosal irritation"
+  },
+  {
+    "rubric": "Tongue sensation as if hairs on it",
+    "grading": {
+      "high": ["Silicea", "Nitric acid"],
+      "medium": ["Arsenicum", "Lachesis"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse on waking, in smokers",
+    "miasm": "Psoric",
+    "notes": "Strange subjective sensation, nervous origin"
+  },
+  {
+    "rubric": "Tongue with vesicles/blisters",
+    "grading": {
+      "high": ["Merc sol", "Borax"],
+      "medium": ["Kali bich", "Rhus tox"],
+      "low": ["Nat mur"]
+    },
+    "modality": "Worse with hot food, dentition",
+    "miasm": "Syphilitic",
+    "notes": "Common in herpetic, aphthous cases"
+  },
+  {
+    "rubric": "Tongue feels cold",
+    "grading": {
+      "high": ["Carbo veg", "Veratrum album"],
+      "medium": ["Camphora", "Arsenicum"],
+      "low": ["China"]
+    },
+    "modality": "Worse in collapse states, cold drinks",
+    "miasm": "Syphilitic",
+    "notes": "A sign of circulatory collapse or cholera"
+  },
+  {
+    "rubric": "Tongue coated green",
+    "grading": {
+      "high": ["Bryonia", "Merc sol"],
+      "medium": ["Phosphorus", "Nux vomica"],
+      "low": ["Arum triphyllum"]
+    },
+    "modality": "Worse with bilious fevers or liver disease",
+    "miasm": "Sycotic",
+    "notes": "Rare sign; foul breath usually present"
+  },
+  {
+    "rubric": "Tongue with white spots like milk curds",
+    "grading": {
+      "high": ["Borax", "Merc sol"],
+      "medium": ["Kali mur", "Nat mur"],
+      "low": ["Hydrastis"]
+    },
+    "modality": "Worse in infants, after antibiotics",
+    "miasm": "Psoric",
+    "notes": "Indicates oral thrush (candidiasis)"
+  },
+  {
+    "rubric": "Tongue with deep central furrow",
+    "grading": {
+      "high": ["Nitric acid", "Lachesis"],
+      "medium": ["Sulphur", "Nat mur"],
+      "low": ["Graphites"]
+    },
+    "modality": "Worse in dry weather or dehydration",
+    "miasm": "Syphilitic",
+    "notes": "Indicates chronic dryness, toxicity"
+  },
+  {
+    "rubric": "Tongue shows imprint of ulcers with black edges",
+    "grading": {
+      "high": ["Arsenicum", "Lachesis"],
+      "medium": ["Nitric acid", "Carbo veg"],
+      "low": ["Secale"]
+    },
+    "modality": "Worse at night, during advanced disease",
+    "miasm": "Syphilitic",
+    "notes": "Necrotic ulceration, gangrenous changes"
+  },
+  {
+    "rubric": "Tongue with frothy foam",
+    "grading": {
+      "high": ["Cuprum", "Hydrocyanic acid"],
+      "medium": ["Belladonna", "Hyoscyamus"],
+      "low": ["Stramonium"]
+    },
+    "modality": "Worse during convulsions, rage",
+    "miasm": "Acute miasm (cerebral/epileptic)",
+    "notes": "Seen in epilepsy, rabies, or poisoning"
+  },
+  {
+    "rubric": "Tongue with dry brown streak down center",
+    "grading": {
+      "high": ["Baptisia", "Bryonia"],
+      "medium": ["Rhus tox", "Arsenicum"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Worse in typhoid or exhaustion",
+    "miasm": "Typhoid",
+    "notes": "Classic sign of enteric fevers"
+  },
+  {
+    "rubric": "Tongue red and pointed",
+    "grading": {
+      "high": ["Belladonna", "Apis"],
+      "medium": ["Arum triphyllum", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse in acute inflammation",
+    "miasm": "Psoric",
+    "notes": "Indicates irritation of the mucosa"
+  },
+  {
+    "rubric": "Tongue dry, sticks to roof of mouth",
+    "grading": {
+      "high": ["Bryonia", "Nux moschata"],
+      "medium": ["Rhus tox", "Natrum mur"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse at night, during high fevers",
+    "miasm": "Psoric",
+    "notes": "Often seen in typhoid, dehydration"
+  },
+  {
+    "rubric": "Tongue feels scalded without visible lesions",
+    "grading": {
+      "high": ["Arsenicum", "Borax"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse with hot drinks, stress",
+    "miasm": "Psoric",
+    "notes": "Burning mouth syndrome (BMS)"
+  },
+  {
+    "rubric": "Tongue discolored blue-black",
+    "grading": {
+      "high": ["Lachesis", "Crotalus"],
+      "medium": ["Secale", "Arsenicum"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Worse in septicemia, collapse",
+    "miasm": "Syphilitic",
+    "notes": "Sign of gangrene, necrosis, or systemic poisoning"
+  },
+  {
+    "rubric": "Tongue curls to one side on protrusion",
+    "grading": {
+      "high": ["Causticum", "Plumbum"],
+      "medium": ["Gelsemium", "Baryta carb"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse post-stroke or facial paralysis",
+    "miasm": "Syphilitic",
+    "notes": "Neurological weakness or hemiparesis"
+  },
+  {
+    "rubric": "Tongue stiff with slurred speech",
+    "grading": {
+      "high": ["Gelsemium", "Causticum"],
+      "medium": ["Plumbum", "Lachesis"],
+      "low": ["Baryta mur"]
+    },
+    "modality": "Worse in old age, stroke, nervous exhaustion",
+    "miasm": "Syphilitic",
+    "notes": "Often seen in apoplexy, Parkinson's"
+  },
+  {
+    "rubric": "Tongue black and dry, cracked like leather",
+    "grading": {
+      "high": ["Secale", "Arsenicum"],
+      "medium": ["Lachesis", "Baptisia"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Worse with low vitality and advanced disease",
+    "miasm": "Syphilitic",
+    "notes": "Indicator of terminal illness, gangrene"
+  },
+  {
+    "rubric": "Tongue bleeding easily",
+    "grading": {
+      "high": ["Merc sol", "Phosphorus"],
+      "medium": ["Crotalus", "Nitric acid"],
+      "low": ["Arnica"]
+    },
+    "modality": "Worse on brushing, speaking, ulcers",
+    "miasm": "Syphilitic",
+    "notes": "Seen in ulceration, low platelets, sepsis"
+  },
+  {
+    "rubric": "Tongue with deep transverse cracks",
+    "grading": {
+      "high": ["Natrum mur", "Nitric acid"],
+      "medium": ["Sulphur", "Lachesis"],
+      "low": ["Graphites"]
+    },
+    "modality": "Worse in dry climate, chronic disease",
+    "miasm": "Syphilitic",
+    "notes": "Suggests long-term internal dryness or autoimmunity"
+  },
+  {
+    "rubric": "Tongue narrow and pointed",
+    "grading": {
+      "high": ["Belladonna", "Arum triphyllum"],
+      "medium": ["Apis", "Phosphorus"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Worse in acute sore throats, heat",
+    "miasm": "Psoric",
+    "notes": "Inflamed mucosa, acute irritation"
+  },
+  {
+    "rubric": "Tongue trembling with weakness",
+    "grading": {
+      "high": ["Gelsemium", "Phos acid"],
+      "medium": ["Merc sol", "China"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Worse from nervous anticipation, fear",
+    "miasm": "Syphilitic",
+    "notes": "Common in neurasthenic and weak persons"
+  },
+  {
+    "rubric": "Tongue quivers like jelly",
+    "grading": {
+      "high": ["Gelsemium", "Lachesis"],
+      "medium": ["Plumbum", "Causticum"],
+      "low": ["Phosphoric acid"]
+    },
+    "modality": "Worse during speech, mental strain",
+    "miasm": "Syphilitic",
+    "notes": "Loss of motor control, early paralysis"
+  },
+  {
+    "rubric": "Tongue seems shorter than normal",
+    "grading": {
+      "high": ["Causticum", "Baryta mur"],
+      "medium": ["Plumbum", "Gelsemium"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse on trying to extend tongue",
+    "miasm": "Syphilitic",
+    "notes": "Seen in neurological impairment"
+  },
+  {
+    "rubric": "Tongue curls upward on protruding",
+    "grading": {
+      "high": ["Stramonium", "Hyoscyamus"],
+      "medium": ["Belladonna", "Zincum"],
+      "low": ["Cuprum"]
+    },
+    "modality": "Worse in spasmodic or hysterical states",
+    "miasm": "Acute/Neurotic",
+    "notes": "Seen in chorea, epilepsy, hysteria"
+  },
+  {
+    "rubric": "Tongue with patchy loss of taste",
+    "grading": {
+      "high": ["Arsenicum", "Phosphorus"],
+      "medium": ["Merc sol", "Nitric acid"],
+      "low": ["China"]
+    },
+    "modality": "Worse after fevers, medications, neuralgia",
+    "miasm": "Psoric/Syphilitic",
+    "notes": "Partial taste loss; often post-viral or toxic"
+  },
+  {
+    "rubric": "Tongue looks raw, denuded of epithelium",
+    "grading": {
+      "high": ["Taraxacum", "Arsenicum"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Borax"]
+    },
+    "modality": "Worse during fever, anemia, oral infection",
+    "miasm": "Syphilitic",
+    "notes": "Glossitis or B-complex deficiency"
+  },
+  {
+    "rubric": "Tongue with slimy white coating at base only",
+    "grading": {
+      "high": ["Pulsatilla", "Kali mur"],
+      "medium": ["Merc sol", "Antimonium crudum"],
+      "low": ["Hydrastis"]
+    },
+    "modality": "Worse in the morning, after heavy food",
+    "miasm": "Psoric",
+    "notes": "Gastric disturbances; especially in children"
+  },
+  {
+    "rubric": "Tongue numb with tingling",
+    "grading": {
+      "high": ["Aconite", "Phosphorus"],
+      "medium": ["Gelsemium", "Hypericum"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Worse with fear, anxiety or cold",
+    "miasm": "Psoric",
+    "notes": "Nerve hypersensitivity; pre-neuralgic state"
+  },
+  {
+    "rubric": "Tongue feels as if burnt at tip",
+    "grading": {
+      "high": ["Arsenicum", "Sulphur"],
+      "medium": ["Borax", "Natrum mur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse with hot drinks, spicy food",
+    "miasm": "Psoric",
+    "notes": "Burning mouth syndrome; tip irritation"
+  },
+  {
+    "rubric": "Tongue black in center with red edges",
+    "grading": {
+      "high": ["Lachesis", "Arsenicum"],
+      "medium": ["Phosphorus", "Crotalus"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Worse in septic fevers, hemorrhagic conditions",
+    "miasm": "Syphilitic",
+    "notes": "Seen in toxic states or advanced typhoid"
+  },
+  {
+    "rubric": "Tongue curved or twisted",
+    "grading": {
+      "high": ["Plumbum", "Causticum"],
+      "medium": ["Gelsemium", "Zincum"],
+      "low": ["Baryta mur"]
+    },
+    "modality": "Worse after paralysis, stroke, or spasm",
+    "miasm": "Syphilitic",
+    "notes": "Indicates nerve/motor pathway involvement"
+  },
+  {
+    "rubric": "Tongue pointed and darting out quickly",
+    "grading": {
+      "high": ["Stramonium", "Belladonna"],
+      "medium": ["Hyoscyamus", "Tarentula"],
+      "low": ["Zincum"]
+    },
+    "modality": "Worse during delirium, in children",
+    "miasm": "Acute/Neurotic",
+    "notes": "Classic in febrile children or chorea"
+  },
+  {
+    "rubric": "Tongue with cheesy coating",
+    "grading": {
+      "high": ["Borax", "Hydrastis"],
+      "medium": ["Merc sol", "Kali mur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse in infants, during teething or fungal infection",
+    "miasm": "Psoric",
+    "notes": "Oral thrush; seen in poor hygiene and diabetes"
+  },
+  {
+    "rubric": "Tongue pulsating sensation",
+    "grading": {
+      "high": ["Belladonna", "Glonoinum"],
+      "medium": ["Lachesis", "Phosphorus"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Worse with heat, headache or hypertension",
+    "miasm": "Psoric",
+    "notes": "Seen in congestive states and migraines"
+  },
+  {
+    "rubric": "Tongue motion like worm or snake",
+    "grading": {
+      "high": ["Lachesis", "Stramonium"],
+      "medium": ["Hyoscyamus", "Tarentula"],
+      "low": ["Zincum"]
+    },
+    "modality": "Worse in delirium, insanity, hysteria",
+    "miasm": "Syphilitic",
+    "notes": "Severe mental disturbance, chorea"
+  },
+  {
+    "rubric": "Tongue coated dirty gray or ash color",
+    "grading": {
+      "high": ["Baptisia", "Carbo veg"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Worse in putrid fevers, septic states",
+    "miasm": "Syphilitic",
+    "notes": "Dead epithelial debris, foul smell"
+  },
+  {
+    "rubric": "Tongue with central raw line",
+    "grading": {
+      "high": ["Taraxacum", "Baptisia"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Arum triphyllum"]
+    },
+    "modality": "Worse during fever and heat",
+    "miasm": "Typhoid",
+    "notes": "Raw vertical strip; diagnostic in typhus"
+  },
+  {
+    "rubric": "Tongue covered with ulcers like cancer",
+    "grading": {
+      "high": ["Arsenicum", "Nitric acid"],
+      "medium": ["Cundurango", "Kali bich"],
+      "low": ["Hydrastis"]
+    },
+    "modality": "Worse with touch, eating, and speaking",
+    "miasm": "Syphilitic",
+    "notes": "Suspicious lesions; pre-cancerous or malignancy"
+  },
+  {
+    "rubric": "Tongue sensitive to slightest touch",
+    "grading": {
+      "high": ["Nitric acid", "Arsenicum"],
+      "medium": ["Borax", "Lachesis"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse with brushing, eating, or examination",
+    "miasm": "Psoric",
+    "notes": "Common in ulcers, inflammation or aphthae"
+  },
+  {
+    "rubric": "Tongue dry, shiny, and cracked",
+    "grading": {
+      "high": ["Arsenicum", "Bryonia"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Veratrum album"]
+    },
+    "modality": "Worse during fever, fasting or fluid loss",
+    "miasm": "Syphilitic",
+    "notes": "Seen in typhoid and systemic dehydration"
+  },
+  {
+    "rubric": "Tongue with oily or greasy coat",
+    "grading": {
+      "high": ["Antimonium crudum", "Merc sol"],
+      "medium": ["Lycopodium", "Kali bich"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse after rich food or gastric upset",
+    "miasm": "Sycotic",
+    "notes": "Associated with dyspepsia and liver dysfunction"
+  },
+  {
+    "rubric": "Tongue yellow at base and red at tip",
+    "grading": {
+      "high": ["Nux vomica", "Chelidonium"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Merc sol"]
+    },
+    "modality": "Worse after rich food or anger",
+    "miasm": "Sycotic",
+    "notes": "Typical in liver–stomach mixed pathologies"
+  },
+  {
+    "rubric": "Tongue with dirty brown coating at back",
+    "grading": {
+      "high": ["Baptisia", "Bryonia"],
+      "medium": ["Rhus tox", "Arsenicum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse during fevers or food poisoning",
+    "miasm": "Typhoid/Syphilitic",
+    "notes": "Indicates sepsis or enteric inflammation"
+  },
+  {
+    "rubric": "Tongue shows rapid darting movement",
+    "grading": {
+      "high": ["Stramonium", "Tarentula"],
+      "medium": ["Lachesis", "Hyoscyamus"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Worse during fever, delirium, or mania",
+    "miasm": "Acute/Neurotic",
+    "notes": "Seen in chorea, rage, febrile states"
+  },
+  {
+    "rubric": "Tongue with fan-like trembling on protrusion",
+    "grading": {
+      "high": ["Gelsemium", "Lachesis"],
+      "medium": ["Merc sol", "Phos acid"],
+      "low": ["Baryta carb"]
+    },
+    "modality": "Worse with nervousness or weakness",
+    "miasm": "Syphilitic",
+    "notes": "Common in typhoid, stroke aftermath"
+  },
+  {
+    "rubric": "Tongue feels scalded with metallic taste",
+    "grading": {
+      "high": ["Merc sol", "Arsenicum"],
+      "medium": ["Nitric acid", "Phosphorus"],
+      "low": ["Kali bich"]
+    },
+    "modality": "Worse after dental work or ulcers",
+    "miasm": "Syphilitic",
+    "notes": "Toxic metal-related, ulcerated tongue"
+  },
+  {
+    "rubric": "Tongue black at tip only",
+    "grading": {
+      "high": ["Crotalus", "Arsenicum"],
+      "medium": ["Lachesis", "Phosphorus"],
+      "low": ["Secale"]
+    },
+    "modality": "Worse in terminal infections or liver failure",
+    "miasm": "Syphilitic",
+    "notes": "Sign of necrosis, hepatic sepsis"
+  },
+  {
+    "rubric": "Tongue moves slowly when protruded",
+    "grading": {
+      "high": ["Gelsemium", "Plumbum"],
+      "medium": ["Causticum", "Phos acid"],
+      "low": ["Baryta mur"]
+    },
+    "modality": "Worse after illness, neurological fatigue",
+    "miasm": "Syphilitic",
+    "notes": "Seen in paralysis, chronic exhaustion"
+  },
+  {
+    "rubric": "Tongue bluish-purple",
+    "grading": {
+      "high": ["Lachesis", "Cactus"],
+      "medium": ["Carbo veg", "Opium"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse in cyanotic conditions, heart failure",
+    "miasm": "Syphilitic",
+    "notes": "Sign of poor oxygenation"
+  },
+  {
+    "rubric": "Tongue thick and heavy, hard to articulate",
+    "grading": {
+      "high": ["Causticum", "Gelsemium"],
+      "medium": ["Plumbum", "Lachesis"],
+      "low": ["Phos acid"]
+    },
+    "modality": "Worse from fear, after paralysis",
+    "miasm": "Syphilitic",
+    "notes": "Speech difficulty in nervous disorders"
+  },
+  {
+    "rubric": "Tongue shows raw patches with white borders",
+    "grading": {
+      "high": ["Borax", "Merc sol"],
+      "medium": ["Nat mur", "Hydrastis"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse with acidic foods and brushing",
+    "miasm": "Psoric/Syphilitic",
+    "notes": "Typical of aphthous stomatitis or BMS"
+  },
+  {
+    "rubric": "Tongue appears too small",
+    "grading": {
+      "high": ["Baryta mur", "Plumbum"],
+      "medium": ["Gelsemium", "Phos acid"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Worse after chronic illness or brain injury",
+    "miasm": "Syphilitic",
+    "notes": "Neurological atrophy, muscular wasting"
+  },
+  {
+    "rubric": "Tongue broad and flat",
+    "grading": {
+      "high": ["Merc sol", "Calcarea carb"],
+      "medium": ["China", "Nat mur"],
+      "low": ["Silicea"]
+    },
+    "modality": "Worse in anemia, chronic indigestion",
+    "miasm": "Psoric",
+    "notes": "Associated with malnutrition and edema"
+  },
+  {
+    "rubric": "Tongue slimy, yellow-green coat",
+    "grading": {
+      "high": ["Kali bich", "Merc sol"],
+      "medium": ["Lycopodium", "Chelidonium"],
+      "low": ["Nux vomica"]
+    },
+    "modality": "Worse after greasy food or morning",
+    "miasm": "Sycotic",
+    "notes": "Liver–biliary pathology; foul breath"
+  },
+  {
+    "rubric": "Tongue clean but raw sensation",
+    "grading": {
+      "high": ["Sulphur", "Phosphorus"],
+      "medium": ["Borax", "Lachesis"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Worse on waking or talking",
+    "miasm": "Psoric",
+    "notes": "Functional glossitis or early BMS"
+  },
+  {
+    "rubric": "Tongue pale with thin white coat",
+    "grading": {
+      "high": ["China", "Ferrum met"],
+      "medium": ["Phos acid", "Silicea"],
+      "low": ["Nat mur"]
+    },
+    "modality": "Worse with weakness, after menses",
+    "miasm": "Psoric",
+    "notes": "Seen in anemia and nutritional depletion"
+  },
+  {
+    "rubric": "Tongue white with raised papillae",
+    "grading": {
+      "high": ["Belladonna", "Borax"],
+      "medium": ["Merc sol", "Kali mur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse during fever or mouth ulcers",
+    "miasm": "Psoric",
+    "notes": "Indicates irritation or inflammation of tongue mucosa"
+  },
+  {
+    "rubric": "Tongue coated yellow with bitter taste",
+    "grading": {
+      "high": ["Chelidonium", "Nux vomica"],
+      "medium": ["Lycopodium", "Pulsatilla"],
+      "low": ["Bryonia"]
+    },
+    "modality": "Worse in the morning, after fatty foods",
+    "miasm": "Sycotic",
+    "notes": "Common in liver and gallbladder dysfunction"
+  },
+  {
+    "rubric": "Tongue turns red after eating",
+    "grading": {
+      "high": ["Sulphur", "Arsenicum"],
+      "medium": ["Phosphorus", "Borax"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse after hot or spicy foods",
+    "miasm": "Psoric",
+    "notes": "Seen in hypersensitive or allergic constitutions"
+  },
+  {
+    "rubric": "Tongue pale with scalloped edges",
+    "grading": {
+      "high": ["Calcarea carb", "China"],
+      "medium": ["Natrum mur", "Silicea"],
+      "low": ["Phos acid"]
+    },
+    "modality": "Worse in anemia, exhaustion",
+    "miasm": "Psoric",
+    "notes": "Tooth impressions often noted in chronic weakness"
+  },
+  {
+    "rubric": "Tongue with burning and itching sensation",
+    "grading": {
+      "high": ["Arsenicum", "Sulphur"],
+      "medium": ["Borax", "Phosphorus"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse in night, during stress",
+    "miasm": "Psoric",
+    "notes": "Functional glossitis or nervous origin"
+  },
+  {
+    "rubric": "Tongue has difficulty sensing temperature",
+    "grading": {
+      "high": ["Phosphorus", "Causticum"],
+      "medium": ["Gelsemium", "Nitric acid"],
+      "low": ["Plumbum"]
+    },
+    "modality": "Worse during fever or neurological disorder",
+    "miasm": "Syphilitic",
+    "notes": "Sensory nerve involvement"
+  },
+  {
+    "rubric": "Tongue bleeds when slightly bitten",
+    "grading": {
+      "high": ["Phosphorus", "Merc sol"],
+      "medium": ["Crotalus", "Arnica"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse with slight injury, brushing teeth",
+    "miasm": "Syphilitic",
+    "notes": "Capillary fragility or platelet dysfunction"
+  },
+  {
+    "rubric": "Tongue with alternating white and red patches",
+    "grading": {
+      "high": ["Kali bich", "Arsenicum"],
+      "medium": ["Borax", "Merc sol"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse during fever, fungal infection",
+    "miasm": "Syphilitic",
+    "notes": "Often associated with oral lichen planus or candidiasis"
+  },
+  {
+    "rubric": "Tongue swollen and protruding constantly",
+    "grading": {
+      "high": ["Lachesis", "Apis"],
+      "medium": ["Belladonna", "Arum triphyllum"],
+      "low": ["Merc sol"]
+    },
+    "modality": "Worse during fevers, allergic reactions",
+    "miasm": "Sycotic/Syphilitic",
+    "notes": "Seen in angioedema, severe inflammation"
+  },
+  {
+    "rubric": "Tongue cold with collapsed state",
+    "grading": {
+      "high": ["Camphora", "Veratrum album"],
+      "medium": ["Carbo veg", "Secale"],
+      "low": ["Arsenicum"]
+    },
+    "modality": "Worse in cholera, collapse, shock",
+    "miasm": "Acute/Syphilitic",
+    "notes": "Vital force low; tongue is icy, bluish, lifeless"
+  },
+  {
+    "rubric": "Tongue cannot be protruded",
+    "grading": {
+      "high": ["Causticum", "Plumbum"],
+      "medium": ["Baryta mur", "Gelsemium"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse in paralysis, post-stroke cases",
+    "miasm": "Syphilitic",
+    "notes": "Complete motor loss of hypoglossal nerve"
+  },
+  {
+    "rubric": "Tongue moist but with intense thirst",
+    "grading": {
+      "high": ["Arsenicum", "Phosphorus"],
+      "medium": ["Bryonia", "Sulphur"],
+      "low": ["Merc sol"]
+    },
+    "modality": "Worse during fever, dryness inside but saliva present",
+    "miasm": "Psoric",
+    "notes": "Mismatch between tongue and thirst sensation"
+  },
+  {
+    "rubric": "Tongue slimy with bitter taste",
+    "grading": {
+      "high": ["Nux vomica", "Chelidonium"],
+      "medium": ["Pulsatilla", "Lycopodium"],
+      "low": ["Kali bich"]
+    },
+    "modality": "Worse in morning, after overeating or stress",
+    "miasm": "Sycotic",
+    "notes": "Liver-digestive pathology common"
+  },
+  {
+    "rubric": "Tongue with horizontal cracks only",
+    "grading": {
+      "high": ["Nitric acid", "Sulphur"],
+      "medium": ["Nat mur", "Phosphorus"],
+      "low": ["Graphites"]
+    },
+    "modality": "Worse in dry atmosphere, chronic cases",
+    "miasm": "Syphilitic",
+    "notes": "Indicates deep, long-standing pathology"
+  },
+  {
+    "rubric": "Tongue changes color with emotions",
+    "grading": {
+      "high": ["Lachesis", "Ignatia"],
+      "medium": ["Sepia", "Pulsatilla"],
+      "low": ["Nat mur"]
+    },
+    "modality": "Worse with excitement, anger, shame",
+    "miasm": "Psoric",
+    "notes": "Psychosomatic sensitivity; reactive tongue coloration"
+  },
+  {
+    "rubric": "Tongue coated in patches like island maps",
+    "grading": {
+      "high": ["Arsenicum", "Taraxacum"],
+      "medium": ["Sulphur", "Merc sol"],
+      "low": ["Nat mur"]
+    },
+    "modality": "Worse with spicy food, stress",
+    "miasm": "Psoric",
+    "notes": "Geographic tongue or migratory glossitis"
+  },
+  {
+    "rubric": "Tongue numb after dental work",
+    "grading": {
+      "high": ["Hypericum", "Chamomilla"],
+      "medium": ["Phosphorus", "Gelsemium"],
+      "low": ["Arnica"]
+    },
+    "modality": "Worse after injections or trauma",
+    "miasm": "Psoric",
+    "notes": "Nerve irritation or post-anesthetic reaction"
+  },
+  {
+    "rubric": "Tongue sore after eating fruits",
+    "grading": {
+      "high": ["Borax", "Arsenicum"],
+      "medium": ["Sulphur", "Phosphorus"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse with acidic fruits, citrus",
+    "miasm": "Psoric",
+    "notes": "Seen in hypersensitive mucosa, aphthae"
+  },
+  {
+    "rubric": "Tongue tip ulcerated and painful",
+    "grading": {
+      "high": ["Nitric acid", "Arsenicum"],
+      "medium": ["Merc sol", "Borax"],
+      "low": ["Natrum mur"]
+    },
+    "modality": "Worse during menses, stress, or fatigue",
+    "miasm": "Syphilitic",
+    "notes": "Chronic aphthae; tongue tip rich in sensory nerves"
+  },
+  {
+    "rubric": "Tongue white except red tip and borders",
+    "grading": {
+      "high": ["Belladonna", "Phosphorus"],
+      "medium": ["Sulphur", "Kali bich"],
+      "low": ["Lycopodium"]
+    },
+    "modality": "Worse in gastric complaints, fevers",
+    "miasm": "Psoric/Sycotic",
+    "notes": "Seen in gastritis, liver toxicity"
+  },
+  {
+    "rubric": "Tongue paralyzed on one side",
+    "grading": {
+      "high": ["Plumbum", "Causticum"],
+      "medium": ["Gelsemium", "Baryta mur"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Worse after stroke, head trauma",
+    "miasm": "Syphilitic",
+    "notes": "Hypoglossal palsy or motor neuron involvement"
+  },
+  {
+    "rubric": "Tongue large with scalloped edges",
+    "grading": {
+      "high": ["Calcarea carb", "Silicea"],
+      "medium": ["Nat mur", "China"],
+      "low": ["Ferrum met"]
+    },
+    "modality": "Worse in hypothyroid or sluggish digestion",
+    "miasm": "Psoric",
+    "notes": "Common in low thyroid or edema"
+  },
+  {
+    "rubric": "Tongue dry with metallic taste",
+    "grading": {
+      "high": ["Merc sol", "Nitric acid"],
+      "medium": ["Phosphorus", "Sulphur"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Worse in fever, mouth ulcers, heavy metal toxicity",
+    "miasm": "Syphilitic",
+    "notes": "Seen in liver pathology, post-surgery"
+  },
+  {
+    "rubric": "Tongue cracks bleed easily",
+    "grading": {
+      "high": ["Nitric acid", "Phosphorus"],
+      "medium": ["Merc sol", "Sulphur"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse with heat, dryness, touch",
+    "miasm": "Syphilitic",
+    "notes": "Indicates low vitality, capillary fragility"
+  },
+  {
+    "rubric": "Tongue painful when speaking",
+    "grading": {
+      "high": ["Merc sol", "Nitric acid"],
+      "medium": ["Borax", "Sulphur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse during prolonged speech, dryness",
+    "miasm": "Psoric/Syphilitic",
+    "notes": "Seen in teachers, speakers, aphthous patients"
+  },
+  {
+    "rubric": "Tongue with ulcer from edge of broken tooth",
+    "grading": {
+      "high": ["Calendula", "Arnica"],
+      "medium": ["Merc sol", "Borax"],
+      "low": ["Hepar sulph"]
+    },
+    "modality": "Worse with chewing, sharp edge contact",
+    "miasm": "Psoric",
+    "notes": "Mechanical ulcer from tooth irritation"
+  },
+  {
+    "rubric": "Tongue deviates with eye movement",
+    "grading": {
+      "high": ["Causticum", "Plumbum"],
+      "medium": ["Gelsemium", "Zincum"],
+      "low": ["Baryta mur"]
+    },
+    "modality": "Worse in hemiplegia, stroke cases",
+    "miasm": "Syphilitic",
+    "notes": "Brainstem or cranial nerve lesion indicator"
+  },
+  {
+    "rubric": "Tongue ulcerates after every fever",
+    "grading": {
+      "high": ["Arsenicum", "Merc sol"],
+      "medium": ["Borax", "Phosphorus"],
+      "low": ["Kali bich"]
+    },
+    "modality": "Worse post-viral illness or during convalescence",
+    "miasm": "Syphilitic",
+    "notes": "Recurrent tongue ulcers post fever; weak immunity"
+  },
+  {
+    "rubric": "Tongue inflamed with black dots",
+    "grading": {
+      "high": ["Crotalus", "Arsenicum"],
+      "medium": ["Lachesis", "Nitric acid"],
+      "low": ["Carbo veg"]
+    },
+    "modality": "Worse during septic fevers, alcoholism",
+    "miasm": "Syphilitic",
+    "notes": "Necrotic vessels or bleeding in tongue tissues"
+  },
+  {
+    "rubric": "Tongue movement jerky, irregular",
+    "grading": {
+      "high": ["Zincum", "Stramonium"],
+      "medium": ["Belladonna", "Tarentula"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Worse with stress, neurological cases",
+    "miasm": "Syphilitic/Neurotic",
+    "notes": "Seen in cerebral palsy, chorea, spasmodic disorders"
+  },
+  {
+    "rubric": "Tongue turns blue during coughing",
+    "grading": {
+      "high": ["Lachesis", "Cactus"],
+      "medium": ["Carbo veg", "Drosera"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse during violent paroxysmal coughs",
+    "miasm": "Syphilitic",
+    "notes": "Seen in cyanotic conditions or chronic bronchitis"
+  },
+  {
+    "rubric": "Tongue trembling during anger",
+    "grading": {
+      "high": ["Lachesis", "Ignatia"],
+      "medium": ["Nux vomica", "Zincum"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Worse with suppressed emotions",
+    "miasm": "Psoric",
+    "notes": "Emotional disturbance reflected in tongue motion"
+  },
+  {
+    "rubric": "Tongue ulcerates during menstruation",
+    "grading": {
+      "high": ["Kreosotum", "Borax"],
+      "medium": ["Merc sol", "Arsenicum"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse before or during periods",
+    "miasm": "Syphilitic",
+    "notes": "Autoimmune aphthae; often hormonal link"
+  },
+  {
+    "rubric": "Tongue difficult to control while singing",
+    "grading": {
+      "high": ["Causticum", "Gelsemium"],
+      "medium": ["Phos acid", "Plumbum"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse with mental exertion or stage fear",
+    "miasm": "Syphilitic",
+    "notes": "Seen in performers with stage anxiety or neurological fatigue"
+  },
+  {
+    "rubric": "Tongue burns after eating salt",
+    "grading": {
+      "high": ["Nitric acid", "Arsenicum"],
+      "medium": ["Borax", "Phosphorus"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse with salted food or pickles",
+    "miasm": "Psoric",
+    "notes": "Mucosal hypersensitivity; ulcer tendency"
+  },
+  {
+    "rubric": "Tongue bends downward",
+    "grading": {
+      "high": ["Plumbum", "Zincum"],
+      "medium": ["Gelsemium", "Causticum"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse during neurological weakness or paralysis",
+    "miasm": "Syphilitic",
+    "notes": "Seen in motor control loss; progressive cases"
+  },
+  {
+    "rubric": "Tongue coated brown with central stripe",
+    "grading": {
+      "high": ["Baptisia", "Phosphorus"],
+      "medium": ["Arsenicum", "Bryonia"],
+      "low": ["Rhus tox"]
+    },
+    "modality": "Worse in typhoid, dengue, malaria",
+    "miasm": "Typhoid/Syphilitic",
+    "notes": "Common tongue in septic fevers with exhaustion"
+  },
+  {
+    "rubric": "Tongue feels glued to palate",
+    "grading": {
+      "high": ["Nux moschata", "Bryonia"],
+      "medium": ["Nat mur", "Sulphur"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Worse during fever, dryness of mouth",
+    "miasm": "Psoric",
+    "notes": "Typical in dehydration or heat exhaustion"
+  },
+  {
+    "rubric": "Tongue red with central white patch",
+    "grading": {
+      "high": ["Sulphur", "Taraxacum"],
+      "medium": ["Merc sol", "Phosphorus"],
+      "low": ["Nat mur"]
+    },
+    "modality": "Worse with liver congestion or poor digestion",
+    "miasm": "Sycotic",
+    "notes": "Central white patch in red tongue = bile disturbance"
+  },
+  {
+    "rubric": "Tongue heavy as if paralyzed",
+    "grading": {
+      "high": ["Plumbum", "Causticum"],
+      "medium": ["Phos acid", "Gelsemium"],
+      "low": ["Zincum"]
+    },
+    "modality": "Worse with talking, in neurological fatigue",
+    "miasm": "Syphilitic",
+    "notes": "Motor heaviness due to nerve weakness"
+  },
+  {
+    "rubric": "Tongue sensitive to cold water",
+    "grading": {
+      "high": ["Phosphorus", "Nitric acid"],
+      "medium": ["Arsenicum", "Merc sol"],
+      "low": ["Borax"]
+    },
+    "modality": "Worse with cold drinks or wind",
+    "miasm": "Psoric",
+    "notes": "Nerve-rich mucosa hypersensitivity"
+  },
+  {
+    "rubric": "Tongue tip feels bitten though not injured",
+    "grading": {
+      "high": ["Ignatia", "Nitric acid"],
+      "medium": ["Merc sol", "Nat mur"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse with stress, during sleep",
+    "miasm": "Psoric/Neurotic",
+    "notes": "Mental strain causing tongue tension"
+  },
+  {
+    "rubric": "Tongue folds into itself when protruding",
+    "grading": {
+      "high": ["Zincum", "Plumbum"],
+      "medium": ["Gelsemium", "Causticum"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse with muscle weakness, brain disorders",
+    "miasm": "Syphilitic",
+    "notes": "Seen in motor coordination loss and CNS degeneration"
+  },
+  {
+    "rubric": "Tongue loses taste for sweets",
+    "grading": {
+      "high": ["Phosphorus", "Arsenicum"],
+      "medium": ["China", "Sulphur"],
+      "low": ["Ignatia"]
+    },
+    "modality": "Worse after fevers, during depression",
+    "miasm": "Psoric",
+    "notes": "Taste alteration seen in post-viral and diabetic cases"
+  },
+  {
+    "rubric": "Tongue tingling after urination",
+    "grading": {
+      "high": ["Lachesis", "Causticum"],
+      "medium": ["Zincum", "Gelsemium"],
+      "low": ["Arsenicum"]
+    },
+    "modality": "Worse after urinating, especially cold weather",
+    "miasm": "Psoric/Syphilitic",
+    "notes": "Nervous sensitivity; bladder–nerve cross-link"
+  },
+  {
+    "rubric": "Tongue numb after emotional shock",
+    "grading": {
+      "high": ["Ignatia", "Gelsemium"],
+      "medium": ["Phosphorus", "Aconite"],
+      "low": ["Nat mur"]
+    },
+    "modality": "Worse after grief, fright or anxiety",
+    "miasm": "Psoric",
+    "notes": "Psychosomatic reaction affecting tongue nerves"
+  },
+  {
+    "rubric": "Tongue quivers like jelly",
+    "grading": {
+      "high": ["Gelsemium", "Zincum"],
+      "medium": ["Lachesis", "Phos acid"],
+      "low": ["Causticum"]
+    },
+    "modality": "Worse with fever, exhaustion, old age",
+    "miasm": "Syphilitic",
+    "notes": "Seen in typhoid and debilitated states"
+  },
+  {
+    "rubric": "Tongue red, dry and parched with thirstlessness",
+    "grading": {
+      "high": ["Apis", "Belladonna"],
+      "medium": ["Bryonia", "Sulphur"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse during fever, afternoon heat",
+    "miasm": "Psoric",
+    "notes": "Mismatch between appearance and thirst"
+  },
+  {
+    "rubric": "Tongue black and cracked during pneumonia",
+    "grading": {
+      "high": ["Arsenicum", "Carbo veg"],
+      "medium": ["Lachesis", "Crotalus"],
+      "low": ["Phosphorus"]
+    },
+    "modality": "Worse with respiratory failure or sepsis",
+    "miasm": "Syphilitic",
+    "notes": "Terminal stage tongue in lung diseases"
+  },
+  {
+    "rubric": "Tongue coated greenish-yellow",
+    "grading": {
+      "high": ["Kali bich", "Merc sol"],
+      "medium": ["Chelidonium", "Pulsatilla"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse after rich food or in bile disorders",
+    "miasm": "Sycotic",
+    "notes": "Indicates liver–gut derangement"
+  },
+  {
+    "rubric": "Tongue curls back on attempting to speak",
+    "grading": {
+      "high": ["Causticum", "Zincum"],
+      "medium": ["Gelsemium", "Belladonna"],
+      "low": ["Hyoscyamus"]
+    },
+    "modality": "Worse during speech effort or emotional strain",
+    "miasm": "Syphilitic",
+    "notes": "Seen in dysarthria, dystonia or spastic states"
+  },
+  {
+    "rubric": "Tongue bitten during sleep",
+    "grading": {
+      "high": ["Cuprum", "Zincum"],
+      "medium": ["Ignatia", "Hyoscyamus"],
+      "low": ["Belladonna"]
+    },
+    "modality": "Worse during convulsions or night terrors",
+    "miasm": "Syphilitic",
+    "notes": "Common in epilepsy or sleep disorders"
+  },
+  {
+    "rubric": "Tongue pain like electric shocks",
+    "grading": {
+      "high": ["Hypericum", "Spigelia"],
+      "medium": ["Arsenicum", "Phosphorus"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Worse with touch, swallowing or talking",
+    "miasm": "Syphilitic",
+    "notes": "Neuralgic tongue pain in nerve-rich individuals"
+  },
+  {
+    "rubric": "Tongue looks white but feels dry",
+    "grading": {
+      "high": ["Bryonia", "Nux moschata"],
+      "medium": ["Sulphur", "Pulsatilla"],
+      "low": ["Arsenicum"]
+    },
+    "modality": "Worse in dry fevers or heat stroke",
+    "miasm": "Psoric",
+    "notes": "Surface shows saliva, but patient feels intense dryness"
+  },
+  {
+    "rubric": "Tongue numbness alternating with burning",
+    "grading": {
+      "high": ["Phosphorus", "Arsenicum"],
+      "medium": ["Gelsemium", "Belladonna"],
+      "low": ["Nitric acid"]
+    },
+    "modality": "Worse during stress, menopause, or B12 deficiency",
+    "miasm": "Psoric/Syphilitic",
+    "notes": "Seen in glossodynia, diabetes, or post-viral state"
+  },
+  {
+    "rubric": "Tongue ulcerates after spicy food",
+    "grading": {
+      "high": ["Borax", "Nitric acid"],
+      "medium": ["Arsenicum", "Phosphorus"],
+      "low": ["Lachesis"]
+    },
+    "modality": "Worse with chillies, pickles, tamarind",
+    "miasm": "Psoric",
+    "notes": "Seen in hypersensitive tongues with low threshold"
+  },
+  {
+    "rubric": "Tongue with deep central fissure",
+    "grading": {
+      "high": ["Nitric acid", "Phosphorus"],
+      "medium": ["Sulphur", "Merc sol"],
+      "low": ["Silicea"]
+    },
+    "modality": "Worse with dryness, in smokers or elderly",
+    "miasm": "Syphilitic",
+    "notes": "Common in atrophic glossitis and chronic anemia"
+  },
+  {
+    "rubric": "Tongue twitching during dreams",
+    "grading": {
+      "high": ["Zincum", "Stramonium"],
+      "medium": ["Tarentula", "Hyoscyamus"],
+      "low": ["Gelsemium"]
+    },
+    "modality": "Worse with frightful dreams, during REM sleep",
+    "miasm": "Neurotic",
+    "notes": "Unconscious stress expressed via tongue"
+  },
+  {
+    "rubric": "Tongue pain worse at night",
+    "grading": {
+      "high": ["Merc sol", "Nitric acid"],
+      "medium": ["Arsenicum", "Phosphorus"],
+      "low": ["Sulphur"]
+    },
+    "modality": "Worse after midnight, with rest",
+    "miasm": "Syphilitic",
+    "notes": "Ulcerative or necrotic tongue pain at night"
+  },
+  {
+    "rubric": "Tongue stuck to roof of mouth",
+    "grading": {
+      "high": ["Nux moschata", "Bryonia"],
+      "medium": ["Sulphur", "Arsenicum"],
+      "low": ["Pulsatilla"]
+    },
+    "modality": "Worse in dry heat, dehydration",
+    "miasm": "Psoric",
+    "notes": "Seen in cholera, fever, low fluid states"
+  }
+]
