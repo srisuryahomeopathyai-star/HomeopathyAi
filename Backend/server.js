@@ -28,11 +28,8 @@ app.use(
       "http://localhost:5173",
       "http://localhost:3000",
       "http://localhost:5000",
-      "https://homeopathy-new.vercel.app",
-      "https://homeopathy-new.onrender.com",
-      "https://homeopathy-eight.vercel.app",
-      "https://homeopathy-6fnt.onrender.com",
-
+      "https://homeopathy-ai-kohl.vercel.app",
+      "https://homeopathyai.onrender.com",
       // Add your deployed frontend URLs here if needed
     ],
     credentials: true,
