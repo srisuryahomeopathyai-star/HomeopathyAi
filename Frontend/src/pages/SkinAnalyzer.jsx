@@ -31,6 +31,7 @@ function SkinAnalyzer() {
       <h2 className='text-xl font-bold mb-4'>Skin Image Analyzer</h2>
       <input type='file' accept='image/*' onChange={handleImageChange} />
       <button
+        type='button'
         onClick={handleSubmit}
         disabled={!image}
         className='mt-4 bg-blue-500 text-white px-4 py-2 rounded'
