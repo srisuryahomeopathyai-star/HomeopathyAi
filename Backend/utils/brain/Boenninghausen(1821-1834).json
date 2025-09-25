@@ -1,0 +1,4188 @@
+{
+  "Glands, In general": {
+    "high": [],
+    "medium": [
+      "Bar-c.",
+      "Bell."
+    ],
+    "low": [
+      "Con.",
+      "Iod.",
+      "Lyc.",
+      "Merc.",
+      "Phos.",
+      "Rhus-t.",
+      "Sil.",
+      "Sulph."
+    ],
+    "very_low": [
+      "Spong."
+    ]
+  },
+  "Aching": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Pain",
+      "simple."
+    ],
+    "very_low": []
+  },
+  "Air, streaming thro, as of": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Spong."
+    ]
+  },
+  "Alive sensation in": {
+    "high": [],
+    "medium": [
+      "Spong."
+    ],
+    "low": [
+      "Ign."
+    ],
+    "very_low": [
+      "Merc.",
+      "Rhod.",
+      "Sulph."
+    ]
+  },
+  "Atrophy": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Flaccid."
+    ],
+    "very_low": []
+  },
+  "Boring, piercing pain": {
+    "high": [],
+    "medium": [
+      "Bell."
+    ],
+    "low": [
+      "Sabad."
+    ],
+    "very_low": [
+      "Lyc.",
+      "Puls."
+    ]
+  },
+  "Bruised pain": {
+    "high": [
+      "CON.",
+      "EUP-PUR.",
+      "HEP.",
+      "RUTA"
+    ],
+    "medium": [
+      "Arn.",
+      "Carb-an.",
+      "Cic.",
+      "Iod.",
+      "Petr.",
+      "Ruta",
+      "Sep.",
+      "Cocc.",
+      "Ign.",
+      "Ip.",
+      "Led.",
+      "Puls.",
+      "Verat."
+    ],
+    "low": [
+      "Arg-m.",
+      "Ars.",
+      "Cupr.",
+      "Plat.",
+      "Rhus-t.",
+      "Sul-ac.",
+      "Agar.",
+      "Am-m.",
+      "Phos."
+    ],
+    "very_low": [
+      "Caust.",
+      "Kali-c.",
+      "Phos.",
+      "Puls.",
+      "Rhod.",
+      "Staph.",
+      "Sulph.",
+      "Ang.",
+      "Asaf.",
+      "Aur.",
+      "Bar-c.",
+      "Bov.",
+      "Bry.",
+      "Bufo",
+      "Calc.",
+      "Cann-s.",
+      "Carb-v.",
+      "Chin.",
+      "Graph.",
+      "Mag-c.",
+      "Nat-m.",
+      "Nux-v.",
+      "Par.",
+      "Petr.",
+      "Sabad.",
+      "Sep.",
+      "Teucr.",
+      "Valer.",
+      "Zinc."
+    ]
+  },
+  "Burning (Compare Swelling, hot.)": {
+    "high": [
+      "Burning",
+      "ARS."
+    ],
+    "medium": [
+      "Bell.",
+      "Cann-s.",
+      "Hep.",
+      "Phos."
+    ],
+    "low": [
+      "Compare",
+      "Swelling",
+      "hot.",
+      "Cocc.",
+      "Sil."
+    ],
+    "very_low": [
+      "Carb-v.",
+      "Laur.",
+      "Merc.",
+      "Rheum"
+    ]
+  },
+  "Burrowing, digging, etc.": {
+    "high": [],
+    "medium": [
+      "Dulc.",
+      "Rhod.",
+      "Carb-an.",
+      "Cocc.",
+      "Mang."
+    ],
+    "low": [
+      "Arn.",
+      "Bell.",
+      "Calc.",
+      "Phos.",
+      "Rhus-t.",
+      "Spig.",
+      "Asaf.",
+      "Ruta",
+      "Thuj."
+    ],
+    "very_low": [
+      "Acon.",
+      "Am-m.",
+      "Asaf.",
+      "Bov.",
+      "Bry.",
+      "Kali-c.",
+      "Nat-c.",
+      "Plat.",
+      "Ruta",
+      "Sep.",
+      "Stann.",
+      "Calc.",
+      "Dulc.",
+      "Rhod.",
+      "Spig."
+    ]
+  },
+  "Compression": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Ign.",
+      "See",
+      "Squeezing."
+    ],
+    "very_low": []
+  },
+  "Contraction, constriction": {
+    "high": [],
+    "medium": [
+      "Ign.",
+      "Iod.",
+      "Nux-v.",
+      "Spong."
+    ],
+    "low": [
+      "Bell.",
+      "Bor.",
+      "Chin.",
+      "Nit-ac.",
+      "Plb.",
+      "Puls.",
+      "Rhus-t.",
+      "Sulph."
+    ],
+    "very_low": [
+      "Acon.",
+      "Alum.",
+      "Arn.",
+      "Cocc.",
+      "Con.",
+      "Lyc.",
+      "Mang.",
+      "Phos.",
+      "Sep.",
+      "Sul-ac."
+    ]
+  },
+  "Contusions of": {
+    "high": [],
+    "medium": [
+      "Petr.",
+      "Phos."
+    ],
+    "low": [
+      "Con.",
+      "Iod.",
+      "Kali-c."
+    ],
+    "very_low": [
+      "Cic.",
+      "Hep.",
+      "Merc.",
+      "Puls.",
+      "Sil.",
+      "Sulph."
+    ]
+  },
+  "Contusive pain": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Bruised",
+      "pain."
+    ],
+    "very_low": []
+  },
+  "Cramping": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Squeezing."
+    ],
+    "very_low": []
+  },
+  "Crawling, titillating": {
+    "high": [
+      "CON."
+    ],
+    "medium": [
+      "Arn.",
+      "Plat.",
+      "Rhus-t.",
+      "Sep.",
+      "Spong.",
+      "Plb."
+    ],
+    "low": [
+      "Acon.",
+      "Canth.",
+      "Merc.",
+      "Ph-ac.",
+      "Rhod.",
+      "Sabin.",
+      "Cham.",
+      "Sec.",
+      "Sulph."
+    ],
+    "very_low": [
+      "Cann-s.",
+      "Nat-c.",
+      "Puls.",
+      "Sulph.",
+      "Zinc.",
+      "Acon.",
+      "Arn.",
+      "Colch.",
+      "Ign.",
+      "Kali-bi.",
+      "Merc.",
+      "Mez.",
+      "Nat-m.",
+      "Nux-v.",
+      "Ph-ac.",
+      "Plat.",
+      "Rhod.",
+      "Sabad.",
+      "Spig."
+    ]
+  },
+  "Cutting": {
+    "high": [],
+    "medium": [
+      "Bell.",
+      "Lyc.",
+      "Sep."
+    ],
+    "low": [
+      "Arg-m.",
+      "Calc.",
+      "Nat-c.",
+      "Sil."
+    ],
+    "very_low": [
+      "Con.",
+      "Graph.",
+      "Ign.",
+      "Ph-ac.",
+      "Staph.",
+      "Sulph."
+    ]
+  },
+  "Drawing": {
+    "high": [
+      "SABIN."
+    ],
+    "medium": [
+      "Bell.",
+      "Chin.",
+      "Ign.",
+      "Seneg.",
+      "Cocc.",
+      "Staph."
+    ],
+    "low": [
+      "Cycl.",
+      "Kali-bi.",
+      "Kali-c.",
+      "Led.",
+      "Sabad.",
+      "Samb."
+    ],
+    "very_low": [
+      "Agn.",
+      "Bov.",
+      "Calc.",
+      "Cann-s.",
+      "Cham.",
+      "Cycl.",
+      "Mez.",
+      "Nit-ac.",
+      "Phos.",
+      "Puls.",
+      "Sil.",
+      "Sulph.",
+      "Thuj.",
+      "Agar.",
+      "Ant-t.",
+      "Aur.",
+      "Bry.",
+      "Calc-f.",
+      "Canth.",
+      "Colch.",
+      "Gels.",
+      "Hell.",
+      "Ip.",
+      "Merc.",
+      "Nat-m.",
+      "Nux-m.",
+      "Olnd.",
+      "Par.",
+      "Rhod.",
+      "Seneg.",
+      "Spig.",
+      "Teucr.",
+      "Valer.",
+      "Verat."
+    ]
+  },
+  "Dull pain": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Asar.",
+      "Hyos."
+    ],
+    "very_low": [
+      "Carb-v.",
+      "Mur-ac."
+    ]
+  },
+  "Flaccid (withered, atrophied, etc.)": {
+    "high": [
+      "CON.",
+      "IOD."
+    ],
+    "medium": [
+      "Cham.",
+      "Nit-ac.",
+      "Sec."
+    ],
+    "low": [
+      "Chin.",
+      "Nux-m.",
+      "Sil."
+    ],
+    "very_low": [
+      "Ars.",
+      "Kali-c.",
+      "Ph-ac.",
+      "Verat."
+    ]
+  },
+  "Forced-out feeling in": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Spong."
+    ]
+  },
+  "Formication": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Crawling."
+    ],
+    "very_low": []
+  },
+  "Gnawing, eating, etc.": {
+    "high": [],
+    "medium": [
+      "Plat.",
+      "Spong."
+    ],
+    "low": [
+      "Mez.",
+      "Ran-s.",
+      "Staph."
+    ],
+    "very_low": [
+      "Bar-c.",
+      "Cham.",
+      "Nat-m.",
+      "Ph-ac."
+    ]
+  },
+  "Hard": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [],
+    "second_headings": {
+      "Chronic": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Calc-f."
+        ]
+      },
+      "Hot": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Asaf."
+        ]
+      },
+      "Indolent": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Calc-f."
+        ]
+      },
+      "Malignant": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Carb-an."
+        ]
+      },
+      "Painless": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Iod."
+        ]
+      },
+      "Stony": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Alum.",
+          "Calc-f.",
+          "Carb-v."
+        ]
+      }
+    }
+  },
+  "Hardness": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Induration."
+    ],
+    "very_low": []
+  },
+  "Heat": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Burning."
+    ],
+    "very_low": []
+  },
+  "Heaviness": {
+    "high": [],
+    "medium": [
+      "Bell.",
+      "Phos."
+    ],
+    "low": [
+      "Cupr.",
+      "Merc.",
+      "Rhus-t.",
+      "Sulph."
+    ],
+    "very_low": [
+      "Chin.",
+      "Lyc.",
+      "Nux-v.",
+      "Puls.",
+      "Sil.",
+      "Stann.",
+      "Staph."
+    ]
+  },
+  "Indurations (nodes)": {
+    "high": [
+      "BELL.",
+      "CLEM.",
+      "CON.",
+      "SIL."
+    ],
+    "medium": [
+      "Bar-c.",
+      "Bry.",
+      "Calc.",
+      "Calc-f.",
+      "Carb-an.",
+      "Carb-v.",
+      "Cham.",
+      "Chin.",
+      "Graph.",
+      "Iod.",
+      "Lyc.",
+      "Mag-m.",
+      "Phyt.",
+      "Puls.",
+      "Spong."
+    ],
+    "low": [
+      "Agn.",
+      "Am-c.",
+      "Am-m.",
+      "Ambr.",
+      "Arn.",
+      "Ars.",
+      "Dig.",
+      "Dulc.",
+      "Ferr.",
+      "Kali-c.",
+      "Merc.",
+      "Nat-c.",
+      "Nit-ac.",
+      "Phos.",
+      "Plb.",
+      "Rhus-t.",
+      "Spig.",
+      "Squil.",
+      "Staph.",
+      "Sulph."
+    ],
+    "very_low": [
+      "Alum.",
+      "Ant-c.",
+      "Asaf.",
+      "Aur.",
+      "Bad.",
+      "Bov.",
+      "Brom.",
+      "Bufo",
+      "Camph.",
+      "Cann-s.",
+      "Canth.",
+      "Caps.",
+      "Caust.",
+      "Cist.",
+      "Cocc.",
+      "Colch.",
+      "Cupr.",
+      "Cycl.",
+      "Hep.",
+      "Hyos.",
+      "Ign.",
+      "Kali-i.",
+      "Mang.",
+      "Merc-d.",
+      "Merc-",
+      "i-r.",
+      "Nat-m.",
+      "Nux-v.",
+      "Petr.",
+      "Rhod.",
+      "Sep.",
+      "Sul-i.",
+      "Thuj.",
+      "Tub.",
+      "Verat."
+    ]
+  },
+  "Inflammation": {
+    "high": [
+      "BELL.",
+      "MERC.",
+      "PHOS."
+    ],
+    "medium": [
+      "Acon.",
+      "Ars.",
+      "Bar-c.",
+      "Nux-v.",
+      "Puls.",
+      "Rhus-t.",
+      "Sil.",
+      "Sulph."
+    ],
+    "low": [
+      "Bry.",
+      "Camph.",
+      "Carb-an.",
+      "Dulc.",
+      "Graph.",
+      "Lach.",
+      "Lyc.",
+      "Nit-ac.",
+      "Staph.",
+      "Tarent-c."
+    ],
+    "very_low": [
+      "Apis",
+      "Arn.",
+      "Ars-i.",
+      "Aur.",
+      "Bufo",
+      "Calc.",
+      "Canth.",
+      "Caps.",
+      "Carb-v.",
+      "Cham.",
+      "Con.",
+      "Crot-h.",
+      "Echi.",
+      "Hep.",
+      "Kali-c.",
+      "Laur.",
+      "Nat-s.",
+      "Petr.",
+      "Ph-ac.",
+      "Plb.",
+      "Pyrog.",
+      "Samb.",
+      "Sars.",
+      "Spig.",
+      "Squil.",
+      "Sul-ac.",
+      "Thuj.",
+      "Verat.",
+      "Zinc."
+    ]
+  },
+  "Inflated feeling in": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Spong."
+    ]
+  },
+  "Injuries": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Contusions.",
+      "Skin",
+      "wounds."
+    ],
+    "very_low": []
+  },
+  "Itching": {
+    "high": [
+      "CON."
+    ],
+    "medium": [
+      "Caust.",
+      "Phos.",
+      "Sil.",
+      "Spong."
+    ],
+    "low": [
+      "Am-c.",
+      "Anac.",
+      "Ant-c.",
+      "Kali-c.",
+      "Merc.",
+      "Sabin."
+    ],
+    "very_low": [
+      "Canth.",
+      "Carb-an.",
+      "Carb-v.",
+      "Cocc.",
+      "Mag-c.",
+      "Ran-s.",
+      "Rheum",
+      "Rhus-t.",
+      "Sep.",
+      "Sulph."
+    ],
+    "second_headings": {
+      "In": {
+        "high": [],
+        "medium": [
+          "Cycl."
+        ],
+        "low": [
+          "Phos."
+        ],
+        "very_low": [
+          "Cocc.",
+          "Kali-n.",
+          "Verat."
+        ]
+      },
+      "Near bones": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Caust."
+        ]
+      }
+    }
+  },
+  "Jerking pain": {
+    "high": [],
+    "medium": [
+      "Calc.",
+      "Clem.",
+      "Nat-m.",
+      "Puls."
+    ],
+    "low": [
+      "Asaf.",
+      "Bell.",
+      "Caps.",
+      "Caust.",
+      "Meny.",
+      "Nux-v.",
+      "Rhus-t.",
+      "Sulph.",
+      "See",
+      "Twitching",
+      "pain."
+    ],
+    "very_low": [
+      "Arn.",
+      "Aur.",
+      "Bry.",
+      "Chin.",
+      "Graph.",
+      "Lyc.",
+      "Merc.",
+      "Nat-c.",
+      "Nit-ac.",
+      "Petr.",
+      "Sep.",
+      "Sil."
+    ]
+  },
+  "Knotted cord, like": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Swelling."
+    ],
+    "very_low": []
+  },
+  "Lax": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Flaccid."
+    ],
+    "very_low": []
+  },
+  "Living": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Alive."
+    ],
+    "very_low": []
+  },
+  "Nodosities in": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Phyt."
+    ],
+    "very_low": [
+      "Dulc.",
+      "Graph.",
+      "Iod.",
+      "Phos.",
+      "Sil."
+    ]
+  },
+  "Numb feeling": {
+    "high": [],
+    "medium": [
+      "Plat."
+    ],
+    "low": [
+      "Con.",
+      "Lyc.",
+      "Sep."
+    ],
+    "very_low": [
+      "Anac.",
+      "Asaf.",
+      "Bell.",
+      "Cocc.",
+      "Puls.",
+      "Rhus-t.",
+      "Sil.",
+      "Spong."
+    ]
+  },
+  "Painful": {
+    "high": [
+      "COLOC.",
+      "HEP.",
+      "LYC.",
+      "MERC.",
+      "THUJ."
+    ],
+    "medium": [
+      "Alum.",
+      "Calc.",
+      "Caust.",
+      "Con.",
+      "Nit-ac.",
+      "Ph-",
+      "ac.",
+      "Staph."
+    ],
+    "low": [
+      "Arn.",
+      "Bell.",
+      "Carb-v.",
+      "Graph.",
+      "Ign.",
+      "Nat-m.",
+      "Puls.",
+      "Sul-ac."
+    ],
+    "very_low": [
+      "Am-c.",
+      "Ambr.",
+      "Ant-c.",
+      "Ant-t.",
+      "Apis",
+      "Asaf.",
+      "Bry.",
+      "Carb-",
+      "an.",
+      "Cham.",
+      "Cic.",
+      "Dulc.",
+      "Ham.",
+      "Hell.",
+      "Kali-c.",
+      "Lach.",
+      "Mag-c.",
+      "Nux-v.",
+      "Phos.",
+      "Rhus-t.",
+      "Sep.",
+      "Sil.",
+      "Spig.",
+      "Spong.",
+      "Squil.",
+      "Stann.",
+      "Sulph."
+    ]
+  },
+  "Painfulness, in general": {
+    "high": [
+      "ARN.",
+      "BELL.",
+      "LYC.",
+      "MERC.",
+      "PHOS."
+    ],
+    "medium": [
+      "Alum.",
+      "Am-c.",
+      "Aur.",
+      "Cann-s.",
+      "Carb-an.",
+      "Caust.",
+      "Coloc.",
+      "Iod.",
+      "Puls.",
+      "Spig.",
+      "Verat."
+    ],
+    "low": [
+      "Acon.",
+      "Ant-c.",
+      "Ars.",
+      "Bry.",
+      "Calc.",
+      "Carb-v.",
+      "Cic.",
+      "Graph.",
+      "Kali-",
+      "c.",
+      "Nat-m.",
+      "Nux-v.",
+      "Petr.",
+      "Rhus-t.",
+      "Sil.",
+      "Spong.",
+      "Staph.",
+      "Sulph.",
+      "Thuj."
+    ],
+    "very_low": [
+      "Ambr.",
+      "Ant-t.",
+      "Bar-c.",
+      "Canth.",
+      "Cham.",
+      "Clem.",
+      "Con.",
+      "Dulc.",
+      "Hell.",
+      "Hep.",
+      "Ign.",
+      "Mag-c.",
+      "Mgs.",
+      "Nit-ac.",
+      "Ph-ac.",
+      "Rheum",
+      "Sel.",
+      "Sep.",
+      "Squil.",
+      "Stann.",
+      "Stram.",
+      "Sul-ac."
+    ]
+  },
+  "Piercing": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Boring."
+    ],
+    "very_low": []
+  },
+  "Pinching": {
+    "high": [],
+    "medium": [
+      "Calc.",
+      "Rhod."
+    ],
+    "low": [
+      "Bry.",
+      "Meny.",
+      "Sabad.",
+      "Stann.",
+      "Verat."
+    ],
+    "very_low": [
+      "Mur-ac.",
+      "Rhus-t.",
+      "Sulph."
+    ]
+  },
+  "Pressure": {
+    "high": [],
+    "medium": [
+      "Bell.",
+      "Calc.",
+      "Lyc.",
+      "Merc.",
+      "Spong.",
+      "Staph.",
+      "Sulph."
+    ],
+    "low": [
+      "Ars.",
+      "Aur.",
+      "Caust.",
+      "Ign.",
+      "Ph-ac.",
+      "Stann.",
+      "Stram.",
+      "Zinc."
+    ],
+    "very_low": [
+      "Arg-m.",
+      "Carb-v.",
+      "Chin.",
+      "Cina",
+      "Cocc.",
+      "Cycl.",
+      "Kali-c.",
+      "Mang.",
+      "Meny.",
+      "Par.",
+      "Puls.",
+      "Rheum",
+      "Rhus-t.",
+      "Sabin.",
+      "Teucr.",
+      "Verat."
+    ],
+    "second_headings": {
+      "Inward": {
+        "high": [],
+        "medium": [
+          "Calc.",
+          "Staph."
+        ],
+        "low": [
+          "Cocc.",
+          "Zinc."
+        ],
+        "very_low": [
+          "Aur.",
+          "Cycl.",
+          "Rheum"
+        ]
+      },
+      "Outward": {
+        "high": [],
+        "medium": [
+          "Merc.",
+          "Spong."
+        ],
+        "low": [
+          "Ign.",
+          "Par.",
+          "Rhus-t.",
+          "Teucr."
+        ],
+        "very_low": [
+          "Arg-m.",
+          "Cina",
+          "Lyc.",
+          "Mang.",
+          "Meny.",
+          "Puls.",
+          "Sulph."
+        ]
+      },
+      "Simple": {
+        "high": [],
+        "medium": [
+          "Arg-m.",
+          "Bell.",
+          "Bism.",
+          "Cupr.",
+          "Cycl.",
+          "Guai.",
+          "Kali-c.",
+          "Olnd.",
+          "Rhus-t.",
+          "Sabin.",
+          "Staph."
+        ],
+        "low": [
+          "Anac.",
+          "Aur.",
+          "Bry.",
+          "Colch.",
+          "Coloc.",
+          "Hep.",
+          "Ign.",
+          "Merc.",
+          "Mez.",
+          "Nux-m.",
+          "Plat.",
+          "Puls.",
+          "Verat."
+        ],
+        "very_low": [
+          "Alum.",
+          "Ang.",
+          "Ars.",
+          "Asaf.",
+          "Canth.",
+          "Cham.",
+          "Cocc.",
+          "Con.",
+          "Dros.",
+          "Graph.",
+          "Hell.",
+          "Kali-bi.",
+          "Kali-n.",
+          "Phos.",
+          "Rhod.",
+          "Sil.",
+          "Spong.",
+          "Stann.",
+          "Thuj.",
+          "Valer.",
+          "Viol-t.",
+          "Zinc."
+        ]
+      },
+      "Stinging, pricking": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Mez.",
+          "Staph."
+        ]
+      },
+      "Tearing, shooting": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Arg-m.",
+          "Bell.",
+          "Cham.",
+          "Coloc.",
+          "Thuj."
+        ]
+      }
+    }
+  },
+  "Pricking": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Sticking."
+    ],
+    "very_low": []
+  },
+  "Pulsation": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Throbbing.",
+      "Trobbing."
+    ],
+    "very_low": []
+  },
+  "Quivering": {
+    "high": [],
+    "medium": [
+      "Ang."
+    ],
+    "low": [
+      "Calc.",
+      "Mez.",
+      "Sil."
+    ],
+    "very_low": [
+      "Bell.",
+      "Kali-c.",
+      "Nat-c."
+    ]
+  },
+  "Redness of lymphatics": {
+    "high": [],
+    "medium": [
+      "Apis."
+    ],
+    "low": [],
+    "very_low": []
+  },
+  "Running therein, as of something": {
+    "high": [],
+    "medium": [
+      "Spong."
+    ],
+    "low": [
+      "Laur."
+    ],
+    "very_low": [
+      "Bell.",
+      "Calc.",
+      "Sep.",
+      "Sulph."
+    ]
+  },
+  "Sensitive": {
+    "high": [
+      "CON.",
+      "PHOS."
+    ],
+    "medium": [
+      "Aur.",
+      "Cham.",
+      "Lyc.",
+      "Sep."
+    ],
+    "low": [
+      "Bar-c.",
+      "Bell.",
+      "Graph.",
+      "Nat-c.",
+      "Petr.",
+      "Spig.",
+      "Sul-ac."
+    ],
+    "very_low": [
+      "Arn.",
+      "Chin.",
+      "Cocc.",
+      "Cupr.",
+      "Hep.",
+      "Ign.",
+      "Kali-c.",
+      "Laur.",
+      "Mag-c.",
+      "Nit-ac.",
+      "Nux-v.",
+      "Ph-ac.",
+      "Puls.",
+      "Sil.",
+      "Squil.",
+      "Zinc."
+    ]
+  },
+  "Shooting": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Tearing."
+    ],
+    "very_low": []
+  },
+  "Sore (smarting) pain": {
+    "high": [],
+    "medium": [
+      "Con.",
+      "Ign.",
+      "Sep.",
+      "Zinc."
+    ],
+    "low": [
+      "Graph.",
+      "Hep.",
+      "Nux-v.",
+      "Plat.",
+      "Teucr."
+    ],
+    "very_low": [
+      "Alum.",
+      "Ant-c.",
+      "Arn.",
+      "Bry.",
+      "Calc.",
+      "Caust.",
+      "Cic.",
+      "Clem.",
+      "Kali-c.",
+      "Merc.",
+      "Mez.",
+      "Nat-m.",
+      "Phos.",
+      "Puls.",
+      "Rhus-t.",
+      "Staph.",
+      "Sul-ac.",
+      "Sulph."
+    ]
+  },
+  "Squeezing": {
+    "high": [],
+    "medium": [
+      "Ang.",
+      "Calc.",
+      "Plat.",
+      "Ph-ac."
+    ],
+    "low": [
+      "Bell.",
+      "Carb-v.",
+      "Chin.",
+      "Sabad.",
+      "Ang.",
+      "Ign.",
+      "Petr.",
+      "Plat."
+    ],
+    "very_low": [
+      "Anac.",
+      "Caust.",
+      "Iod.",
+      "Kali-c.",
+      "Lyc.",
+      "Nat-c.",
+      "Ph-ac.",
+      "Sep.",
+      "Sil.",
+      "Alum.",
+      "Bell.",
+      "Calc.",
+      "Mez.",
+      "Olnd."
+    ]
+  },
+  "Sticking, pricking, etc.": {
+    "high": [
+      "BELL.",
+      "CON.",
+      "MERC.",
+      "PULS.",
+      "CALC.",
+      "HELL.",
+      "SARS.",
+      "SEP."
+    ],
+    "medium": [
+      "Am-m.",
+      "Asaf.",
+      "Bry.",
+      "Calc.",
+      "Cocc.",
+      "Graph.",
+      "Ign.",
+      "Nat-m.",
+      "Phos.",
+      "Ran-s.",
+      "Spig.",
+      "Staph.",
+      "Zinc.",
+      "Caust.",
+      "Chin.",
+      "Dros.",
+      "Lach.",
+      "Ruta"
+    ],
+    "low": [
+      "Alum.",
+      "Arn.",
+      "Carb-an.",
+      "Chin.",
+      "Hep.",
+      "Iod.",
+      "Kali-c.",
+      "Kreos.",
+      "Mur-ac.",
+      "Nat-c.",
+      "Nit-ac.",
+      "Nux-v.",
+      "Rhus-t.",
+      "Sep.",
+      "Stann.",
+      "Sul-ac.",
+      "Agn.",
+      "Ars.",
+      "Dulc.",
+      "Graph.",
+      "Lyc.",
+      "Mag-c.",
+      "Mang.",
+      "Petr.",
+      "Ph-ac.",
+      "Phos.",
+      "Sabin.",
+      "Staph.",
+      "Valer."
+    ],
+    "very_low": [
+      "Acon.",
+      "Agn.",
+      "Ang.",
+      "Apis",
+      "Arg-m.",
+      "Bar-c.",
+      "Bor.",
+      "Carb-v.",
+      "Caust.",
+      "Cupr.",
+      "Cycl.",
+      "Eupho.",
+      "Hell.",
+      "Lach.",
+      "Lyc.",
+      "Mez.",
+      "Mgs.",
+      "Ph-ac.",
+      "Plb.",
+      "Rheum",
+      "Sabad.",
+      "Sil.",
+      "Spong.",
+      "Sulph.",
+      "Thuj.",
+      "Verat.",
+      "Abrot.",
+      "Agar.",
+      "Am-c.",
+      "Anac.",
+      "Ant-c.",
+      "Asaf.",
+      "Aur.",
+      "Bry.",
+      "Canth.",
+      "Chel.",
+      "Cocc.",
+      "Colch.",
+      "Iod.",
+      "Kali-c.",
+      "Nux-v.",
+      "Par.",
+      "Samb.",
+      "Spig.",
+      "Stront.",
+      "Verb.",
+      "Viol-t.",
+      "Zinc."
+    ],
+    "second_headings": {
+      "Burning": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Arg-m.",
+          "Eupho.",
+          "Zinc."
+        ]
+      },
+      "Pressive": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Anac.",
+          "Ruta."
+        ]
+      },
+      "Tearing (shooting)": {
+        "high": [],
+        "medium": [
+          "Ars."
+        ],
+        "low": [],
+        "very_low": [
+          "Acon.",
+          "Chel.",
+          "Merc.",
+          "Phos.",
+          "Thuj."
+        ]
+      },
+      "Sudden pains": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Phos."
+        ]
+      },
+      "Sutures, along the": {
+        "high": [],
+        "medium": [],
+        "low": [
+          "Calc-p."
+        ],
+        "very_low": []
+      }
+    }
+  },
+  "Strangling, choking pain in": {
+    "high": [
+      "PULS."
+    ],
+    "medium": [
+      "Chin."
+    ],
+    "low": [
+      "Ruta",
+      "Spong."
+    ],
+    "very_low": [
+      "Am-c.",
+      "Ign.",
+      "Nux-v."
+    ]
+  },
+  "Suppuration": {
+    "high": [
+      "COLOC.",
+      "FORM.",
+      "LACH.",
+      "SEP."
+    ],
+    "medium": [
+      "Lyc.",
+      "Merc.",
+      "Phos.",
+      "Spig.",
+      "Zinc."
+    ],
+    "low": [
+      "Bar-c.",
+      "Bell.",
+      "Calc.",
+      "Calc-hp.",
+      "Fl-ac.",
+      "Ign.",
+      "Nit-ac.",
+      "Sil.",
+      "Squil.",
+      "Sulph."
+    ],
+    "very_low": [
+      "Bad.",
+      "Calc-s.",
+      "Canth.",
+      "Carb-an.",
+      "Carb-v.",
+      "Cist.",
+      "Clem.",
+      "Dulc.",
+      "Hep.",
+      "Hyos.",
+      "Kreos.",
+      "Petr.",
+      "Phyt.",
+      "Rhus-t.",
+      "Sars.",
+      "Sul-ac.",
+      "Tub."
+    ]
+  },
+  "Swelling, (tumour)": {
+    "high": [
+      "BELL.",
+      "CON.",
+      "LYC.",
+      "MERC.",
+      "NIT-AC.",
+      "PHOS.",
+      "RHUS-T.",
+      "SULPH."
+    ],
+    "medium": [
+      "Ars.",
+      "Bar-c.",
+      "Bry.",
+      "Calc.",
+      "Carb-an.",
+      "Cham.",
+      "Clem.",
+      "Dulc.",
+      "Graph.",
+      "Hep.",
+      "Iod.",
+      "Iris.",
+      "Kali-c.",
+      "Nat-c.",
+      "Nux-v.",
+      "Phyt.",
+      "Puls.",
+      "Sil.",
+      "Spong.",
+      "Thuj."
+    ],
+    "low": [
+      "Acon.",
+      "Ail.",
+      "Am-c.",
+      "Ambr.",
+      "Arn.",
+      "Ars-s-f.",
+      "Canth.",
+      "Carb-v.",
+      "Chin.",
+      "Dig.",
+      "Ferr.",
+      "Kali-i.",
+      "Ph-ac.",
+      "Plb.",
+      "Sep.",
+      "Spig.",
+      "Squil.",
+      "Staph.",
+      "Stram.",
+      "Tub."
+    ],
+    "very_low": [
+      "Agn.",
+      "Alum.",
+      "Am-m.",
+      "Ant-c.",
+      "Ant-t.",
+      "Apis",
+      "Arg-m.",
+      "Asaf.",
+      "Aur.",
+      "Bad.",
+      "Bor.",
+      "Bov.",
+      "Brom.",
+      "Bufo",
+      "Calad.",
+      "Calc-f.",
+      "Camph.",
+      "Cann-s.",
+      "Caps.",
+      "Caust.",
+      "Cic.",
+      "Cist.",
+      "Cocc.",
+      "Coloc.",
+      "Cor-r.",
+      "Croc.",
+      "Cupr.",
+      "Cycl.",
+      "Eupho.",
+      "Fl-ac.",
+      "Ham.",
+      "Hell.",
+      "Hyos.",
+      "Ign.",
+      "Kali-m.",
+      "Lach.",
+      "Led.",
+      "Mag-c.",
+      "Mag-m.",
+      "Mang.",
+      "Mez.",
+      "Mur-ac.",
+      "Nat-m.",
+      "Nat-s.",
+      "Petr.",
+      "Psor.",
+      "Ran-b.",
+      "Ran-s.",
+      "Rhod.",
+      "Ruta",
+      "Sabad.",
+      "Sabin.",
+      "Samb.",
+      "Sars.",
+      "Stann.",
+      "Stront.",
+      "Sul-ac.",
+      "Sul-i.",
+      "Teucr.",
+      "Verat.",
+      "Viol-o.",
+      "Zinc."
+    ],
+    "second_headings": {
+      "Bluish": {
+        "high": [],
+        "medium": [
+          "Carb-an.",
+          "Lach."
+        ],
+        "low": [
+          "Aur.",
+          "Hep.",
+          "Puls."
+        ],
+        "very_low": [
+          "Arn.",
+          "Ars.",
+          "Carb-v.",
+          "Con.",
+          "Mang.",
+          "Merc.",
+          "Sil.",
+          "Sul-ac."
+        ]
+      },
+      "Cold": {
+        "high": [
+          "CON."
+        ],
+        "medium": [
+          "Ars.",
+          "Cocc."
+        ],
+        "low": [
+          "Bell.",
+          "Cycl.",
+          "Rhod."
+        ],
+        "very_low": [
+          "Asaf.",
+          "Dulc.",
+          "Lach.",
+          "Spig."
+        ]
+      },
+      "Hard": {
+        "high": [
+          "CON."
+        ],
+        "medium": [
+          "Bry.",
+          "Phos.",
+          "Phyt.",
+          "Puls.",
+          "Rhus-t.",
+          "Sulph."
+        ],
+        "low": [
+          "Arn.",
+          "Asaf.",
+          "Caust.",
+          "Dig.",
+          "Graph.",
+          "Led.",
+          "Merc.",
+          "Samb."
+        ],
+        "very_low": [
+          "Agn.",
+          "Ant-c.",
+          "Ars.",
+          "Chin.",
+          "Lach.",
+          "Mez.",
+          "Nux-v.",
+          "Sabin.",
+          "Spong.",
+          "Stront."
+        ]
+      },
+      "Hot": {
+        "high": [
+          "BELL.",
+          "BRY.",
+          "MERC.",
+          "PHOS."
+        ],
+        "medium": [
+          "Acon.",
+          "Calc.",
+          "Sulph."
+        ],
+        "low": [
+          "Ant-t.",
+          "Arn.",
+          "Asaf.",
+          "Carb-an.",
+          "Chin.",
+          "Clem.",
+          "Hep.",
+          "Led.",
+          "Puls.",
+          "Rhus-t."
+        ],
+        "very_low": [
+          "Am-c.",
+          "Canth.",
+          "Carb-v.",
+          "Cocc.",
+          "Eupho.",
+          "Kali-c.",
+          "Nux-",
+          "v.",
+          "Petr.",
+          "Sars.",
+          "Sil."
+        ]
+      },
+      "Inflammatory": {
+        "high": [],
+        "medium": [
+          "Acon.",
+          "Arn.",
+          "Bell.",
+          "Bry.",
+          "Carb-an.",
+          "Hep.",
+          "Lyc.",
+          "Merc.",
+          "Phos.",
+          "Rhus-t.",
+          "Thuj."
+        ],
+        "low": [
+          "Ant-c.",
+          "Ars.",
+          "Calc.",
+          "Carb-v.",
+          "Mang.",
+          "Nat-c.",
+          "Petr.",
+          "Puls.",
+          "Sil.",
+          "Sulph."
+        ],
+        "very_low": [
+          "Agn.",
+          "Am-c.",
+          "Asaf.",
+          "Bor.",
+          "Caust.",
+          "Coch.",
+          "Con.",
+          "Hyos.",
+          "Mez.",
+          "Mur-ac.",
+          "Sars."
+        ]
+      },
+      "Joints about": {
+        "high": [],
+        "medium": [],
+        "low": [
+          "Berb."
+        ],
+        "very_low": []
+      },
+      "Like knotted cords": {
+        "high": [],
+        "medium": [
+          "Dulc.",
+          "Iod."
+        ],
+        "low": [
+          "Hep.",
+          "Rhus-t."
+        ],
+        "very_low": [
+          "Calc.",
+          "Cist.",
+          "Lyc."
+        ]
+      },
+      "Painful": {
+        "high": [],
+        "medium": [
+          "Iod.",
+          "Rhus-t.",
+          "Sil."
+        ],
+        "low": [
+          "Acon.",
+          "Arn.",
+          "Aur.",
+          "Bell.",
+          "Carb-an.",
+          "Chin.",
+          "Graph.",
+          "Lyc.",
+          "Mosch.",
+          "Nux-v.",
+          "Phos.",
+          "Puls.",
+          "Spig.",
+          "Staph."
+        ],
+        "very_low": [
+          "Ant-c.",
+          "Calc.",
+          "Canth.",
+          "Clem.",
+          "Nit-ac.",
+          "Stann."
+        ]
+      },
+      "Painless": {
+        "high": [],
+        "medium": [
+          "Calc.",
+          "Con.",
+          "Ign.",
+          "Ph-ac.",
+          "Sep.",
+          "Sulph."
+        ],
+        "low": [
+          "Dulc.",
+          "Merc.",
+          "Nit-ac.",
+          "Plb.",
+          "Sil."
+        ],
+        "very_low": [
+          "Staph."
+        ]
+      }
+    }
+  },
+  "Swollen sensation in": {
+    "high": [
+      "PULS."
+    ],
+    "medium": [
+      "Bell.",
+      "Rhus-t.",
+      "Spong."
+    ],
+    "low": [
+      "Aur.",
+      "Bry.",
+      "Hep.",
+      "Ign.",
+      "Kali-n.",
+      "Merc.",
+      "Sabin.",
+      "Staph.",
+      "Zinc."
+    ],
+    "very_low": [
+      "Ant-c.",
+      "Carb-v.",
+      "Chin.",
+      "Con.",
+      "Dulc.",
+      "Lach.",
+      "Mags.",
+      "Nux-m.",
+      "Nux-v.",
+      "Spig."
+    ]
+  },
+  "Tearing, (drawing, etc.)": {
+    "high": [
+      "CHIN."
+    ],
+    "medium": [
+      "Arn.",
+      "Bell.",
+      "Bry.",
+      "Kali-c.",
+      "Lyc.",
+      "Sil.",
+      "Sulph."
+    ],
+    "low": [
+      "Ambr.",
+      "Calc.",
+      "Carb-an.",
+      "Carb-v.",
+      "Caust.",
+      "Cham.",
+      "Dulc.",
+      "Ferr.",
+      "Graph.",
+      "Ign.",
+      "Merc.",
+      "Nat-c.",
+      "Nux-v.",
+      "Puls.",
+      "Rhod.",
+      "Rhus-t.",
+      "Seneg.",
+      "Sep.",
+      "Zinc."
+    ],
+    "very_low": [
+      "Agn.",
+      "Am-c.",
+      "Bar-c.",
+      "Bov.",
+      "Cann-s.",
+      "Caps.",
+      "Cocc.",
+      "Con.",
+      "Cycl.",
+      "Kreos.",
+      "Mez.",
+      "Nit-ac.",
+      "Phos.",
+      "Sel.",
+      "Thuj."
+    ]
+  },
+  "Tension": {
+    "high": [
+      "PHOS."
+    ],
+    "medium": [
+      "Bar-c.",
+      "Bry.",
+      "Con.",
+      "Puls.",
+      "Rhus-t.",
+      "Spong.",
+      "Sulph.",
+      "Ruta"
+    ],
+    "low": [
+      "Arn.",
+      "Bell.",
+      "Bov.",
+      "Carb-",
+      "an.",
+      "Clem.",
+      "Graph.",
+      "Kali-c.",
+      "Stront."
+    ],
+    "very_low": [
+      "Alum.",
+      "Ambr.",
+      "Ang.",
+      "Arg-m.",
+      "Aur.",
+      "Calc.",
+      "Caust.",
+      "Coloc.",
+      "Dulc.",
+      "Lyc.",
+      "Merc.",
+      "Mgs.",
+      "Mur-ac.",
+      "Nux-v.",
+      "Sabad.",
+      "Sabin.",
+      "Sep.",
+      "Sil.",
+      "Staph.",
+      "Thuj.",
+      "Zinc."
+    ]
+  },
+  "Throbbing (Compare Crawling.)": {
+    "high": [
+      "Throbbing",
+      "MERC."
+    ],
+    "medium": [
+      "Am-m.",
+      "Calc.",
+      "Kali-c.",
+      "Sabad.",
+      "Sil.",
+      "Sulph."
+    ],
+    "low": [
+      "Compare",
+      "Crawling.",
+      "Asaf.",
+      "Caust.",
+      "Cham.",
+      "Lyc.",
+      "Nit-ac.",
+      "Phos.",
+      "Sep."
+    ],
+    "very_low": [
+      "Arn.",
+      "Bell.",
+      "Bov.",
+      "Bry.",
+      "Clem.",
+      "Mgs.",
+      "Rhod.",
+      "Thuj."
+    ]
+  },
+  "Tickling in": {
+    "high": [],
+    "medium": [
+      "Kali-c."
+    ],
+    "low": [],
+    "very_low": [
+      "Plat."
+    ]
+  },
+  "Twitching": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Caps."
+    ],
+    "very_low": [
+      "Clem.",
+      "Sulph."
+    ]
+  },
+  "Ulcerative or sore pain": {
+    "high": [
+      "PHOS."
+    ],
+    "medium": [
+      "Am-m.",
+      "Puls.",
+      "Rhus-t."
+    ],
+    "low": [
+      "Aur.",
+      "Bry.",
+      "Caust.",
+      "Cic.",
+      "Graph.",
+      "Ign.",
+      "Kali-c.",
+      "Merc.",
+      "Nat-m.",
+      "Zinc."
+    ],
+    "very_low": [
+      "Am-c.",
+      "Bell.",
+      "Calc.",
+      "Canth.",
+      "Cham.",
+      "Chin.",
+      "Cocc.",
+      "Hep.",
+      "Mur-ac.",
+      "Nat-c.",
+      "Nit-ac.",
+      "Petr.",
+      "Ruta",
+      "Sil.",
+      "Staph.",
+      "Sul-ac.",
+      "Teucr."
+    ]
+  },
+  "Ulcers": {
+    "high": [
+      "ARS.",
+      "PHOS.",
+      "SIL."
+    ],
+    "medium": [
+      "Ambr.",
+      "Bell.",
+      "Canth.",
+      "Con.",
+      "Hep.",
+      "Lach.",
+      "Sulph."
+    ],
+    "low": [
+      "Aur.",
+      "Calc.",
+      "Carb-an.",
+      "Coloc.",
+      "Dulc.",
+      "Kreos.",
+      "Merc.",
+      "Ph-ac.",
+      "Sul-ac.",
+      "Thuj."
+    ],
+    "very_low": [
+      "Ant-c.",
+      "Arn.",
+      "Asaf.",
+      "Carb-v.",
+      "Caust.",
+      "Clem.",
+      "Cupr.",
+      "Hyos.",
+      "Ign.",
+      "Kali-c.",
+      "Lyc.",
+      "Nit-ac.",
+      "Rhus-t.",
+      "Sars.",
+      "Sep.",
+      "Spong.",
+      "Squil.",
+      "Zinc."
+    ],
+    "second_headings": {
+      "Cancerous": {
+        "high": [
+          "ARS.",
+          "CON.",
+          "SULPH."
+        ],
+        "medium": [
+          "Bell.",
+          "Hep.",
+          "Kreos.",
+          "Sep.",
+          "Sil."
+        ],
+        "low": [
+          "Aur.",
+          "Cupr.",
+          "Dulc.",
+          "Merc.",
+          "Squil."
+        ],
+        "very_low": [
+          "Arn.",
+          "Calc.",
+          "Carb-an.",
+          "Carb-v.",
+          "Caust.",
+          "Clem.",
+          "Kali-c.",
+          "Lyc.",
+          "Nit-ac.",
+          "Ph-ac.",
+          "Phos.",
+          "Rhus-t.",
+          "Sul-ac.",
+          "Zinc."
+        ]
+      },
+      "Spongy": {
+        "high": [
+          "CARB-AN.",
+          "SIL."
+        ],
+        "medium": [
+          "Lach.",
+          "Merc.",
+          "Sulph.",
+          "Thuj."
+        ],
+        "low": [
+          "Clem.",
+          "Nit-ac.",
+          "Sep."
+        ],
+        "very_low": [
+          "Kreos.",
+          "Rhus-t."
+        ]
+      }
+    }
+  },
+  "Urging outward, as if": {
+    "high": [],
+    "medium": [
+      "BONES."
+    ],
+    "low": [],
+    "very_low": [
+      "Spong."
+    ]
+  },
+  "Abscess of": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Ang.",
+      "Arn.",
+      "Calc.",
+      "Hep.",
+      "Nit-ac.",
+      "Ph-ac.",
+      "Sil."
+    ],
+    "second_headings": {
+      "Pelvic bones": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Aur."
+        ]
+      }
+    }
+  },
+  "Adherent to skin": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Croto-t."
+    ]
+  },
+  "Band about (Compare Constriction.)": {
+    "high": [
+      "Band",
+      "about",
+      "NIT-AC.",
+      "PULS.",
+      "SULPH."
+    ],
+    "medium": [
+      "Con."
+    ],
+    "low": [
+      "Compare",
+      "Constriction.",
+      "Aur.",
+      "Graph.",
+      "Lyc.",
+      "Merc.",
+      "Nat-m.",
+      "Phos.",
+      "Sil."
+    ],
+    "very_low": [
+      "Anac.",
+      "Chin.",
+      "Kreos.",
+      "Petr.",
+      "Sabad."
+    ]
+  },
+  "Beaten loose, feeling, as if flesh were, from": {
+    "high": [
+      "RHUS-T."
+    ],
+    "medium": [
+      "Bry.",
+      "Ign.",
+      "Merc.",
+      "Sulph.",
+      "Thuj."
+    ],
+    "low": [
+      "Dros.",
+      "Led.",
+      "Mosch.",
+      "Nit-ac.",
+      "Nux-",
+      "v."
+    ],
+    "very_low": [
+      "Apis",
+      "Bell.",
+      "Canth.",
+      "Kali-c.",
+      "Kreos.",
+      "Lach.",
+      "Lyc.",
+      "Nat-m.",
+      "Ol-an.",
+      "Staph."
+    ]
+  },
+  "Boring, piercing": {
+    "high": [
+      "MERC."
+    ],
+    "medium": [
+      "Aur.",
+      "Bell.",
+      "Calc.",
+      "Puls.",
+      "Sep.",
+      "Sil."
+    ],
+    "low": [
+      "Agar.",
+      "Asaf.",
+      "Dulc.",
+      "Hell.",
+      "Hep.",
+      "Lyc.",
+      "Mez.",
+      "Nat-c.",
+      "Nat-m.",
+      "Rhod.",
+      "Sulph.",
+      "Thuj."
+    ],
+    "very_low": [
+      "Ang.",
+      "Bar-c.",
+      "Clem.",
+      "Kali-i.",
+      "Lach.",
+      "Mang.",
+      "Ph-ac.",
+      "Phos.",
+      "Plb.",
+      "Rhus-t.",
+      "Sabad.",
+      "Sabin.",
+      "Spig.",
+      "Staph."
+    ]
+  },
+  "Broken, pain as if": {
+    "high": [
+      "EUP-PUR."
+    ],
+    "medium": [
+      "Ruta"
+    ],
+    "low": [
+      "Cupr.",
+      "Sep."
+    ],
+    "very_low": [
+      "Am-c.",
+      "Caust.",
+      "Puls.",
+      "Pyrog.",
+      "Ther.",
+      "Verat."
+    ]
+  },
+  "Brittle, (as if)": {
+    "high": [
+      "CALC.",
+      "LYC.",
+      "MERC.",
+      "SIL.",
+      "SULPH."
+    ],
+    "medium": [
+      "Asaf.",
+      "Ph-ac."
+    ],
+    "low": [],
+    "very_low": [
+      "Bufo",
+      "Thuj."
+    ]
+  },
+  "Burning": {
+    "high": [],
+    "medium": [
+      "Asaf.",
+      "Ph-ac.",
+      "Rhus-t.",
+      "Ruta",
+      "Sulph."
+    ],
+    "low": [
+      "Carb-v.",
+      "Dros.",
+      "Eupho.",
+      "Lyc.",
+      "Merc.",
+      "Phos.",
+      "Zinc."
+    ],
+    "very_low": [
+      "Ang.",
+      "Ars.",
+      "Aur.",
+      "Bry.",
+      "Caust.",
+      "Chel.",
+      "Coloc.",
+      "Kali-i.",
+      "Lach.",
+      "Nat-c.",
+      "Nit-ac.",
+      "Par.",
+      "Puls.",
+      "Sabin.",
+      "Sep.",
+      "Sil.",
+      "Staph.",
+      "Thuj."
+    ]
+  },
+  "Bursæ": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Ganglion."
+    ],
+    "very_low": []
+  },
+  "Bursting sensation": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Swollen."
+    ],
+    "very_low": []
+  },
+  "Caries": {
+    "high": [],
+    "medium": [
+      "Hep.",
+      "Merc.",
+      "Sil."
+    ],
+    "low": [],
+    "very_low": [
+      "Ars.",
+      "Aur.",
+      "Calc.",
+      "Lach.",
+      "Lyc.",
+      "Nit-ac.",
+      "Ph-ac.",
+      "Puls.",
+      "Sep."
+    ]
+  },
+  "Cold water running thro": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Graph."
+    ]
+  },
+  "Coldness in": {
+    "high": [],
+    "medium": [
+      "Calc."
+    ],
+    "low": [
+      "Lyc.",
+      "Sep.",
+      "Zinc."
+    ],
+    "very_low": [
+      "Ars.",
+      "Berb.",
+      "Elaps.",
+      "Graph.",
+      "Merc.",
+      "Sulph.",
+      "Verat."
+    ]
+  },
+  "Condyles, pains in": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Verat-v."
+    ]
+  },
+  "Constriction, contraction, etc.": {
+    "high": [
+      "NIT-AC.",
+      "PULS.",
+      "SULPH."
+    ],
+    "medium": [
+      "Con.",
+      "Graph.",
+      "Rhus-t.",
+      "Ruta"
+    ],
+    "low": [
+      "Aur.",
+      "Chin.",
+      "Lyc.",
+      "Merc.",
+      "Nat-m.",
+      "Nux-v.",
+      "Phos.",
+      "Sep.",
+      "Sil.",
+      "Valer."
+    ],
+    "very_low": [
+      "Am-m.",
+      "Anac.",
+      "Cocc.",
+      "Gels.",
+      "Kreos.",
+      "Petr.",
+      "Rhod.",
+      "Sabad.",
+      "Stront.",
+      "Zinc."
+    ]
+  },
+  "Cramp in": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Constriction."
+    ],
+    "very_low": []
+  },
+  "Crumbling of": {
+    "high": [],
+    "medium": [
+      "Kali-c."
+    ],
+    "low": [
+      "Asaf.",
+      "Calc.",
+      "Lyc.",
+      "Merc.",
+      "Mez.",
+      "Ph-ac.",
+      "Phos.",
+      "Sil.",
+      "Staph.",
+      "Sulph."
+    ],
+    "very_low": [
+      "Ars.",
+      "Aur.",
+      "Bell.",
+      "Calc-p.",
+      "Con.",
+      "Dulc.",
+      "Ferr.",
+      "Guai.",
+      "Hep.",
+      "Lach.",
+      "Nit-ac.",
+      "Petr.",
+      "Puls.",
+      "Rhod.",
+      "Rhus-t.",
+      "Ruta",
+      "Sabin.",
+      "Sep."
+    ]
+  },
+  "Crushed": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Squeezed."
+    ],
+    "very_low": []
+  },
+  "Curvature, curve, deformed, etc., rachitis (Compare Back.)": {
+    "high": [
+      "Curvature",
+      "curve",
+      "deformed",
+      "etc.",
+      "rachitis",
+      "ASAF.",
+      "CALC.",
+      "MERC.",
+      "PHOS.",
+      "SIL."
+    ],
+    "medium": [
+      "Bell.",
+      "Ferr.",
+      "Hep.",
+      "Lyc.",
+      "Nit-ac.",
+      "Ph-ac.",
+      "Puls.",
+      "Sep.",
+      "Sulph."
+    ],
+    "low": [
+      "Compare",
+      "Back.",
+      "Calc-p.",
+      "Mez.",
+      "Ruta",
+      "Staph."
+    ],
+    "very_low": [
+      "Am-c.",
+      "Bar-c.",
+      "Bufo",
+      "Caust.",
+      "Cic.",
+      "Iod.",
+      "Ip.",
+      "Petr.",
+      "Plb.",
+      "Rhod.",
+      "Ther.",
+      "Thuj."
+    ]
+  },
+  "Cutting within bones": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Aur-m.",
+      "Kali-bi.",
+      "Kali-m."
+    ]
+  },
+  "Denuded by suppuration": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Ars.",
+      "Asaf.",
+      "Aur.",
+      "Calc.",
+      "Chin.",
+      "Con.",
+      "Hep.",
+      "Lach.",
+      "Lyc.",
+      "Merc.",
+      "Mez.",
+      "Nit-ac.",
+      "Ph-ac.",
+      "Puls.",
+      "Ruta",
+      "Sabin.",
+      "Sep.",
+      "Sil.",
+      "Staph.",
+      "Sulph."
+    ]
+  },
+  "Digging in": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Bufo."
+    ]
+  },
+  "Distension": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Swollen",
+      "sensation."
+    ],
+    "very_low": []
+  },
+  "Epiphyses": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Calc-p."
+    ]
+  },
+  "Excoriative pain": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Sore",
+      "pain."
+    ],
+    "very_low": []
+  },
+  "Exfoliation of the periosteum": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Asaf.",
+      "Merc.",
+      "Ph-ac.",
+      "Sil."
+    ]
+  },
+  "Exostosis": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Aur."
+    ],
+    "very_low": [
+      "Calc-f."
+    ]
+  },
+  "Fistula, as of": {
+    "high": [],
+    "medium": [
+      "Sil."
+    ],
+    "low": [
+      "Calc-f.",
+      "Phos."
+    ],
+    "very_low": [
+      "Calc-hp.",
+      "Hep."
+    ]
+  },
+  "Fracture": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Arn.",
+      "Calc-f.",
+      "Calc-p.",
+      "Ruta",
+      "Sulph.",
+      "Symph."
+    ],
+    "very_low": [
+      "Calc.",
+      "Calen.",
+      "Croc.",
+      "Ferr.",
+      "Iod.",
+      "Kali-i.",
+      "Sil.",
+      "Valer."
+    ],
+    "second_headings": {
+      "Callous, deficient": {
+        "high": [],
+        "medium": [],
+        "low": [
+          "Calc-f."
+        ],
+        "very_low": [
+          "Symph."
+        ]
+      },
+      "Compound": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Calen."
+        ]
+      },
+      "Disposition to": {
+        "high": [
+          "MERC."
+        ],
+        "medium": [],
+        "low": [],
+        "very_low": []
+      },
+      "Pains in old": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Mag-m."
+        ]
+      },
+      "Slow union, slow formation of callous": {
+        "high": [],
+        "medium": [
+          "Calc.",
+          "Sil."
+        ],
+        "low": [
+          "Asaf.",
+          "Lyc.",
+          "Nit-ac.",
+          "Ruta",
+          "Sulph.",
+          "Symph."
+        ],
+        "very_low": [
+          "Ferr.",
+          "Merc.",
+          "Mez.",
+          "Ph-ac.",
+          "Phos.",
+          "Puls.",
+          "Sep.",
+          "Staph."
+        ]
+      },
+      "Suppurating": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Sil."
+        ]
+      }
+    }
+  },
+  "Ganglion, bursæ": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Am-c.",
+      "Apis",
+      "Arn.",
+      "Benz-ac.",
+      "Calc-",
+      "p.",
+      "Kali-m.",
+      "Phos.",
+      "Rhus-t."
+    ],
+    "very_low": [
+      "Acon.",
+      "Ant-c.",
+      "Ars-i.",
+      "Bell.",
+      "Bov.",
+      "Hep.",
+      "Iod.",
+      "Mag-p.",
+      "Ph-ac.",
+      "Seneg.",
+      "Sil.",
+      "Stict.",
+      "Sul-i.",
+      "Sulph.",
+      "Zinc."
+    ]
+  },
+  "Gnawing, eating in": {
+    "high": [],
+    "medium": [
+      "Dros.",
+      "Mang.",
+      "Ruta",
+      "Staph."
+    ],
+    "low": [
+      "Arg-m.",
+      "Bell.",
+      "Lyc.",
+      "Phos.",
+      "Rhod.",
+      "Samb.",
+      "Stront."
+    ],
+    "very_low": [
+      "Am-m.",
+      "Canth.",
+      "Colch.",
+      "Con.",
+      "Graph.",
+      "Kali-",
+      "bi.",
+      "Kali-i.",
+      "Nat-s.",
+      "Ph-ac.",
+      "Puls.",
+      "Sulph."
+    ]
+  },
+  "Growth, affected": {
+    "high": [
+      "thin",
+      "pain",
+      "joints"
+    ],
+    "medium": [],
+    "low": [
+      "Agar.",
+      "Calc.",
+      "Sil."
+    ],
+    "very_low": [
+      "Calc-f.",
+      "Calc-p.",
+      "Ferr-acet.",
+      "Guai.",
+      "Puls."
+    ]
+  },
+  "Hollow bones especially": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Merc.",
+      "Mez.",
+      "Still."
+    ],
+    "very_low": [
+      "Aran.",
+      "Fl-ac.",
+      "Rhus-t."
+    ]
+  },
+  "Inflammation of": {
+    "high": [
+      "ARS.",
+      "ASAF.",
+      "AUR.",
+      "CALC.",
+      "CON.",
+      "HEP.",
+      "LACH.",
+      "MERC.",
+      "MEZ.",
+      "NIT-AC.",
+      "PULS.",
+      "SEP.",
+      "SIL.",
+      "STAPH.",
+      "SULPH."
+    ],
+    "medium": [
+      "Acon.",
+      "Bell.",
+      "Chin.",
+      "Lyc.",
+      "Ph-ac.",
+      "Phos."
+    ],
+    "low": [
+      "Ang.",
+      "Bry.",
+      "Clem.",
+      "Mang.",
+      "Rhus-t."
+    ],
+    "very_low": [
+      "Calc-f.",
+      "Coloc.",
+      "Cupr.",
+      "Dig.",
+      "Eupho.",
+      "Iod.",
+      "Kreos.",
+      "Mag-m.",
+      "Merc-c.",
+      "Nat-c.",
+      "Plb.",
+      "Spig.",
+      "Thuj.",
+      "Verat."
+    ],
+    "second_headings": {
+      "Periosteum": {
+        "high": [
+          "MERC-C.",
+          "PH-AC.",
+          "SABIN."
+        ],
+        "medium": [
+          "Asaf.",
+          "Merc.",
+          "Puls.",
+          "Sil."
+        ],
+        "low": [
+          "Acon.",
+          "Bell.",
+          "Chin.",
+          "Staph."
+        ],
+        "very_low": [
+          "Ant-c.",
+          "Aur.",
+          "Calc-p.",
+          "Kali-bi.",
+          "Led.",
+          "Rhus-t."
+        ]
+      }
+    }
+  },
+  "Jerks in": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Phos.",
+      "Rhod."
+    ]
+  },
+  "Loose": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Beaten."
+    ],
+    "very_low": []
+  },
+  "Marrow": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [],
+    "second_headings": {
+      "As if absent": {
+        "high": [],
+        "medium": [
+          "Lyc."
+        ],
+        "low": [],
+        "very_low": [
+          "Sulph."
+        ]
+      },
+      "Coagulated": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Ang."
+        ]
+      },
+      "Pain in": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Am-c.",
+          "Bar-c.",
+          "Crot-h.",
+          "Mag-m.",
+          "Naja",
+          "Ol-an.",
+          "Op."
+        ]
+      }
+    }
+  },
+  "Necrosis, gangrene (septic osteo-myelitis)": {
+    "high": [
+      "ARS."
+    ],
+    "medium": [
+      "Phos.",
+      "Sabin."
+    ],
+    "low": [
+      "Asaf.",
+      "Merc.",
+      "Plb.",
+      "Puls.",
+      "Sec.",
+      "Sil.",
+      "Thuj."
+    ],
+    "very_low": [
+      "Aur.",
+      "Bell.",
+      "Con.",
+      "Eupho.",
+      "Iod.",
+      "Kreos.",
+      "Nit-ac.",
+      "Ph-ac.",
+      "Sulph."
+    ]
+  },
+  "Nodes": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Bufo",
+      "Kali-bi."
+    ]
+  },
+  "Numbness": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Abrot.",
+      "Chin."
+    ]
+  },
+  "Osteo-myelitis": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Sil."
+    ],
+    "very_low": [
+      "Bell.",
+      "Puls."
+    ]
+  },
+  "Pain, simple": {
+    "high": [
+      "PULS."
+    ],
+    "medium": [
+      "Asaf.",
+      "Cocc.",
+      "Ferr.",
+      "Gels.",
+      "Merc.",
+      "Ph-ac.",
+      "Rhod."
+    ],
+    "low": [
+      "Chin.",
+      "Colch.",
+      "Cupr.",
+      "Dros.",
+      "Ruta",
+      "Staph."
+    ],
+    "very_low": [
+      "Ant-c.",
+      "Arn.",
+      "Aur.",
+      "Calc.",
+      "Calc-p.",
+      "Canth.",
+      "Caps.",
+      "Carb-v.",
+      "Clem.",
+      "Ign.",
+      "Kali-bi.",
+      "Lach.",
+      "Led.",
+      "Nit-ac.",
+      "Nux-m.",
+      "Op.",
+      "Phos.",
+      "Rhus-t.",
+      "Samb.",
+      "Verat."
+    ]
+  },
+  "Painfulness": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [],
+    "second_headings": {
+      "Or affected in general": {
+        "high": [
+          "ASAF.",
+          "MERC.",
+          "PH-AC.",
+          "PULS.",
+          "RUTA"
+        ],
+        "medium": [
+          "Arg-",
+          "m.",
+          "Aur.",
+          "Calc.",
+          "Chin.",
+          "Cocc.",
+          "Con.",
+          "Cupr.",
+          "Hep.",
+          "Lyc.",
+          "Mez.",
+          "Nit-ac.",
+          "Phos.",
+          "Rhod.",
+          "Rhus-t.",
+          "Sabin.",
+          "Sep.",
+          "Sil.",
+          "Staph.",
+          "Sulph."
+        ],
+        "low": [
+          "Am-m.",
+          "Ang.",
+          "Ars.",
+          "Bell.",
+          "Bry.",
+          "Canth.",
+          "Carb-v.",
+          "Colch.",
+          "Coloc.",
+          "Cycl.",
+          "Dros.",
+          "Eupho.",
+          "Graph.",
+          "Guai.",
+          "Hell.",
+          "Kali-c.",
+          "Lach.",
+          "Mang.",
+          "Nat-m.",
+          "Sabad.",
+          "Sars.",
+          "Spig.",
+          "Stront.",
+          "Valer.",
+          "Verat.",
+          "Viol-t.",
+          "Zinc."
+        ],
+        "very_low": [
+          "Acon.",
+          "Agar.",
+          "Agn.",
+          "Am-c.",
+          "Anac.",
+          "Arn.",
+          "Bar-c.",
+          "Bism.",
+          "Cann-s.",
+          "Caps.",
+          "Carb-an.",
+          "Caust.",
+          "Cham.",
+          "Chel.",
+          "Cic.",
+          "Clem.",
+          "Dig.",
+          "Dulc.",
+          "Ferr.",
+          "Fl-ac.",
+          "Ign.",
+          "Iod.",
+          "Ip.",
+          "Kreos.",
+          "Led.",
+          "Mag-c.",
+          "Mag-m.",
+          "Nat-",
+          "c.",
+          "Ol-an.",
+          "Olnd.",
+          "Op.",
+          "Petr.",
+          "Phyt.",
+          "Plb.",
+          "Ran-s.",
+          "Samb.",
+          "Sec.",
+          "Spong.",
+          "Teucr.",
+          "Thuj."
+        ]
+      },
+      "Of periosteum": {
+        "high": [
+          "ASAF.",
+          "PH-AC."
+        ],
+        "medium": [
+          "Acon.",
+          "Chin.",
+          "Cycl.",
+          "Merc.",
+          "Mez.",
+          "Rhod.",
+          "Ruta",
+          "Sil."
+        ],
+        "low": [
+          "Ant-c.",
+          "Aur.",
+          "Ign.",
+          "Led.",
+          "Mang.",
+          "Puls.",
+          "Rhus-t.",
+          "Sabin.",
+          "Staph."
+        ],
+        "very_low": [
+          "Bell.",
+          "Bry.",
+          "Camph.",
+          "Colch.",
+          "Coloc.",
+          "Hell.",
+          "Sabad.",
+          "Spig."
+        ]
+      }
+    }
+  },
+  "Paralytic pain": {
+    "high": [],
+    "medium": [
+      "Cocc.",
+      "Sil."
+    ],
+    "low": [
+      "Cycl.",
+      "Mez.",
+      "Nux-v.",
+      "Sabin.",
+      "Staph."
+    ],
+    "very_low": [
+      "Aur.",
+      "Bell.",
+      "Chin.",
+      "Led.",
+      "Nat-m.",
+      "Petr.",
+      "Phos.",
+      "Rhus-t.",
+      "Verat.",
+      "Zinc."
+    ]
+  },
+  "Periostitis": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Inflammation."
+    ],
+    "very_low": []
+  },
+  "Porous": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Phos."
+    ],
+    "very_low": []
+  },
+  "Projections": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Croto-t.",
+      "Mez."
+    ],
+    "very_low": [
+      "Bell.",
+      "Sil."
+    ]
+  },
+  "Protruding as if": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Rad-br."
+    ]
+  },
+  "Rachitis": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "See",
+      "Curvature."
+    ],
+    "very_low": []
+  },
+  "Sawing": {
+    "high": [],
+    "medium": [],
+    "low": [
+      "Syph."
+    ],
+    "very_low": [
+      "sc.",
+      "Hyper.",
+      "Phos.",
+      "Spig.",
+      "Sulph.",
+      "Tarent."
+    ]
+  },
+  "Scraping": {
+    "high": [
+      "CHIN.",
+      "PH-AC.",
+      "RHUS-T."
+    ],
+    "medium": [
+      "Asaf.",
+      "Sabad."
+    ],
+    "low": [
+      "Puls."
+    ],
+    "very_low": [
+      "Bry.",
+      "Coloc.",
+      "Nat-m.",
+      "Spig.",
+      "Thuj."
+    ],
+    "second_headings": {
+      "Within bones": {
+        "high": [],
+        "medium": [
+          "Sabad."
+        ],
+        "low": [],
+        "very_low": []
+      }
+    }
+  },
+  "Sensitive (to touch)": {
+    "high": [],
+    "medium": [
+      "Puls.",
+      "Sil."
+    ],
+    "low": [
+      "Bell.",
+      "Calc.",
+      "Chin.",
+      "Lyc.",
+      "Sulph.",
+      "Symph."
+    ],
+    "very_low": [
+      "Aur.",
+      "Carb-an.",
+      "Guai.",
+      "Kali-bi.",
+      "Lach.",
+      "Nat-c.",
+      "Rhus-t."
+    ],
+    "second_headings": {
+      "Periosteum": {
+        "high": [],
+        "medium": [
+          "Acon.",
+          "Chin.",
+          "Ph-ac.",
+          "Puls."
+        ],
+        "low": [
+          "Aur.",
+          "Bell.",
+          "Led.",
+          "Merc.",
+          "Nit-ac.",
+          "Ruta",
+          "Sil."
+        ],
+        "very_low": [
+          "Ant-c.",
+          "Chin-s.",
+          "Cupr-p.",
+          "Ign.",
+          "Mang.",
+          "Merc-c.",
+          "Phos.",
+          "Rhus-t.",
+          "Spig.",
+          "Staph.",
+          "Tell."
+        ]
+      }
+    }
+  },
+  "Separation as if": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Kali-bi."
+    ]
+  },
+  "Shattered as if": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Graph."
+    ]
+  },
+  "Soft as of": {
+    "high": [],
+    "medium": [
+      "Lyc."
+    ],
+    "low": [
+      "Merc.",
+      "Phos.",
+      "Sil."
+    ],
+    "very_low": [
+      "Aur.",
+      "Calc.",
+      "Calc-p.",
+      "Ferr.",
+      "Hep.",
+      "Mez.",
+      "Ph-ac.",
+      "Staph.",
+      "Sulph."
+    ]
+  },
+  "Sore, smarting pain": {
+    "high": [],
+    "medium": [
+      "Ph-ac."
+    ],
+    "low": [
+      "Hep.",
+      "Mez."
+    ],
+    "very_low": [
+      "Ign.",
+      "Merc.",
+      "Phos.",
+      "Sep."
+    ]
+  },
+  "Suppuration (caries, ulceration, etc.)": {
+    "high": [
+      "ASAF.",
+      "LYC.",
+      "MERC.",
+      "SIL."
+    ],
+    "medium": [
+      "Ars.",
+      "Aur.",
+      "Calc.",
+      "Con.",
+      "Graph.",
+      "Hep.",
+      "Kali-c.",
+      "Mez.",
+      "Nit-ac.",
+      "Ph-ac.",
+      "Plat.",
+      "Sep.",
+      "Staph.",
+      "Sulph."
+    ],
+    "low": [
+      "Ang.",
+      "Arg-m.",
+      "Chin.",
+      "Cist.",
+      "Eupho.",
+      "Fl-ac.",
+      "Iod.",
+      "Kali-i.",
+      "Kreos.",
+      "Phos.",
+      "Puls.",
+      "Ruta",
+      "Sec.",
+      "Stront."
+    ],
+    "very_low": [
+      "Aran.",
+      "Bell.",
+      "Bry.",
+      "Calc-f.",
+      "Calc-i.",
+      "Calc-p.",
+      "Caps.",
+      "Carb-an.",
+      "Clem.",
+      "Cupr.",
+      "Dulc.",
+      "Guai.",
+      "Hecla",
+      "Kali-bi.",
+      "Lach.",
+      "Nat-m.",
+      "Op.",
+      "Petr.",
+      "Psoral.",
+      "Rhus-t.",
+      "Sabin.",
+      "Spong.",
+      "Ther.",
+      "Thuj.",
+      "Tub."
+    ],
+    "second_headings": {
+      "Of periosteum": {
+        "high": [
+          "ASAF."
+        ],
+        "medium": [
+          "Chin.",
+          "Kali-bi.",
+          "Merc.",
+          "Ph-ac.",
+          "Sil."
+        ],
+        "low": [
+          "Ant-c.",
+          "Aur.",
+          "Puls.",
+          "Ruta",
+          "Sabin.",
+          "Staph."
+        ],
+        "very_low": [
+          "Bell.",
+          "Cycl.",
+          "Hell.",
+          "Mez.",
+          "Rhod.",
+          "Rhus-t."
+        ]
+      }
+    }
+  },
+  "Swelling, tumour, etc.": {
+    "high": [
+      "ASAF.",
+      "CALC.",
+      "PH-AC.",
+      "PULS.",
+      "SIL.",
+      "STAPH.",
+      "SULPH."
+    ],
+    "medium": [
+      "Arg-m.",
+      "Aur.",
+      "Guai.",
+      "Lyc.",
+      "Merc.",
+      "Mez.",
+      "Nit-ac.",
+      "Phos.",
+      "Ruta"
+    ],
+    "low": [
+      "Bry.",
+      "Calc-f.",
+      "Clem.",
+      "Coloc.",
+      "Dulc.",
+      "Hep.",
+      "Kali-i.",
+      "Kreos.",
+      "Lach.",
+      "Rhus-t.",
+      "Sabin.",
+      "Sep."
+    ],
+    "very_low": [
+      "Am-c.",
+      "Ang.",
+      "Bell.",
+      "Bufo",
+      "Carb-an.",
+      "Con.",
+      "Dig.",
+      "Eupho.",
+      "Ferr.",
+      "Fl-",
+      "ac.",
+      "Iod.",
+      "Mang.",
+      "Nat-",
+      "c.",
+      "Nat-m.",
+      "Petr.",
+      "Plb.",
+      "Rhod.",
+      "Spig.",
+      "Stront.",
+      "Thuj.",
+      "Tub.",
+      "Verat."
+    ],
+    "second_headings": {
+      "Of periosteum": {
+        "high": [
+          "ASAF.",
+          "PH-AC."
+        ],
+        "medium": [
+          "Acon.",
+          "Aur.",
+          "Merc.",
+          "Sil."
+        ],
+        "low": [
+          "Ant-c.",
+          "Chin.",
+          "Puls.",
+          "Staph."
+        ],
+        "very_low": [
+          "Bell.",
+          "Bry.",
+          "Mang.",
+          "Mez.",
+          "Rhod.",
+          "Rhus-t.",
+          "Ruta",
+          "Sabin.",
+          "Sulph."
+        ]
+      }
+    }
+  },
+  "Swollen feeling in": {
+    "high": [],
+    "medium": [
+      "Puls."
+    ],
+    "low": [
+      "Ant-c.",
+      "Rhus-t.",
+      "Spig."
+    ],
+    "very_low": [
+      "Aloe",
+      "Ars.",
+      "Bell.",
+      "Guai."
+    ]
+  },
+  "Tearing (drawing)": {
+    "high": [
+      "CHIN.",
+      "KALI-C.",
+      "MERC.",
+      "RHOD."
+    ],
+    "medium": [
+      "Agar.",
+      "Am-m.",
+      "Arg-m.",
+      "Aur.",
+      "Bar-c.",
+      "Bell.",
+      "Carb-v.",
+      "Caust.",
+      "Cocc.",
+      "Cupr.",
+      "Cycl.",
+      "Dros.",
+      "Kali-n.",
+      "Lyc.",
+      "Mag-c.",
+      "Ph-ac.",
+      "Phos.",
+      "Ruta",
+      "Sabin.",
+      "Spig.",
+      "Staph.",
+      "Stront.",
+      "Teucr.",
+      "Zinc."
+    ],
+    "low": [
+      "Ang.",
+      "Arn.",
+      "Asaf.",
+      "Bism.",
+      "Bry.",
+      "Canth.",
+      "Cham.",
+      "Cina",
+      "Hep.",
+      "Lach.",
+      "Mang.",
+      "Nat-c.",
+      "Nit-ac.",
+      "Nux-v.",
+      "Plb.",
+      "Puls.",
+      "Sep.",
+      "Spong.",
+      "Thuj.",
+      "Valer.",
+      "Verat."
+    ],
+    "very_low": [
+      "Acon.",
+      "Alum.",
+      "Anac.",
+      "Ars.",
+      "Bor.",
+      "Bov.",
+      "Cann-s.",
+      "Chel.",
+      "Coloc.",
+      "Con.",
+      "Dig.",
+      "Dulc.",
+      "Graph.",
+      "Hell.",
+      "Ign.",
+      "Iod.",
+      "Kali-bi.",
+      "Laur.",
+      "Mag-m.",
+      "Nat-m.",
+      "Rhus-t.",
+      "Samb.",
+      "Sars.",
+      "Stann.",
+      "Sul-ac.",
+      "Sulph.",
+      "Verb."
+    ],
+    "second_headings": {
+      "In periosteum": {
+        "high": [],
+        "medium": [
+          "Acon.",
+          "Rhod."
+        ],
+        "low": [
+          "Ph-ac."
+        ],
+        "very_low": [
+          "Bry."
+        ]
+      },
+      "Burning": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Sabin."
+        ]
+      },
+      "Crampy": {
+        "high": [],
+        "medium": [],
+        "low": [
+          "Aur."
+        ],
+        "very_low": [
+          "Olnd."
+        ]
+      },
+      "Loose as if flesh were": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Bell.",
+          "Nat-m.",
+          "Ol-an."
+        ]
+      },
+      "Paralytic": {
+        "high": [],
+        "medium": [
+          "Cocc."
+        ],
+        "low": [
+          "Chin.",
+          "Dig."
+        ],
+        "very_low": [
+          "Bell.",
+          "Chel.",
+          "Nat-m.",
+          "Ol-an."
+        ]
+      },
+      "Pressive": {
+        "high": [
+          "ARG-M.",
+          "CYCL."
+        ],
+        "medium": [],
+        "low": [
+          "Asaf.",
+          "Bism.",
+          "Bry."
+        ],
+        "very_low": [
+          "Arn.",
+          "Coloc.",
+          "Staph.",
+          "Teucr."
+        ]
+      },
+      "Stitch-like": {
+        "high": [],
+        "medium": [],
+        "low": [],
+        "very_low": [
+          "Bell.",
+          "Mur-ac.",
+          "Sabin."
+        ]
+      },
+      "Twitching (jerk-like), etc.": {
+        "high": [
+          "CHIN."
+        ],
+        "medium": [],
+        "low": [
+          "Cupr."
+        ],
+        "very_low": [
+          "Agn.",
+          "Mang."
+        ]
+      }
+    }
+  },
+  "Thickened": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Calc-f.",
+      "Sil."
+    ]
+  },
+  "Throbbing": {
+    "high": [],
+    "medium": [
+      "Asaf.",
+      "Calc.",
+      "Merc.",
+      "Sulph."
+    ],
+    "low": [
+      "Lyc.",
+      "Sabad.",
+      "Sil."
+    ],
+    "very_low": [
+      "Carb-v.",
+      "Nit-ac.",
+      "Phos.",
+      "Rhod.",
+      "Ruta",
+      "Sep.",
+      "Thuj."
+    ]
+  },
+  "Torn loose, as if flesh were (Compare Generalities.)": {
+    "high": [
+      "Torn",
+      "loose",
+      "as",
+      "if",
+      "flesh",
+      "were"
+    ],
+    "medium": [
+      "Ruta"
+    ],
+    "low": [
+      "Compare",
+      "Generalities.",
+      "Dios.",
+      "Nat-m.",
+      "Rhus-t."
+    ],
+    "very_low": [
+      "Bry.",
+      "Ign.",
+      "Ol-an.",
+      "Sulph.",
+      "Thuj."
+    ]
+  },
+  "Tuberculosis of": {
+    "high": [],
+    "medium": [
+      "Phos.",
+      "Puls.",
+      "Stann."
+    ],
+    "low": [
+      "Ang.",
+      "Asaf.",
+      "Calc.",
+      "Calc-hp."
+    ],
+    "very_low": [
+      "Hep."
+    ]
+  },
+  "Twitching, jerking pain": {
+    "high": [
+      "ASAF.",
+      "CHIN."
+    ],
+    "medium": [
+      "Calc.",
+      "Nat-m.",
+      "Puls."
+    ],
+    "low": [
+      "Caust.",
+      "Lyc.",
+      "Rhus-",
+      "t.",
+      "Sulph.",
+      "Valer."
+    ],
+    "very_low": [
+      "Aur.",
+      "Bell.",
+      "Clem.",
+      "Colch.",
+      "Mang.",
+      "Merc.",
+      "Nux-v.",
+      "Ol-an.",
+      "Petr.",
+      "Phos.",
+      "Rhod.",
+      "Sep.",
+      "Sil."
+    ]
+  },
+  "Ulcerative pain (Compare Sore pain.)": {
+    "high": [
+      "Ulcerative",
+      "pain"
+    ],
+    "medium": [
+      "Bry.",
+      "Puls."
+    ],
+    "low": [
+      "Compare",
+      "Sore",
+      "pain.",
+      "Am-m.",
+      "Rhus-t."
+    ],
+    "very_low": [
+      "Am-c.",
+      "Bufo",
+      "Caust.",
+      "Cic.",
+      "Graph.",
+      "Ign.",
+      "Mang.",
+      "Nat-m."
+    ]
+  },
+  "Weakness, sense of": {
+    "high": [],
+    "medium": [],
+    "low": [],
+    "very_low": [
+      "Bufo",
+      "Indg."
+    ]
+  }
+}
