@@ -91,9 +91,7 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 const API_KEY = process.env.GEMINI_API_KEY;
 const genAI = new GoogleGenerativeAI(API_KEY);
 const model = genAI.getGenerativeModel({
-  model: "models/gemini-2.5-flash-lite-preview-06-17",
-  "models/gemini-1.5-flash": true,
-  // model: "models/gemini-2.5-pro",
+  model: "gemini-2.5-pro",
 });
 
 function buildPromptFromCaseData(caseData) {
@@ -185,7 +183,7 @@ router.post("/", async (req, res) => {
 
     let parsed;
     try {
-       parsed = JSON.parse(text);
+      parsed = JSON.parse(text);
     } catch {
       const jsonStart = text.indexOf("{");
       const jsonEnd = text.lastIndexOf("}") + 1;

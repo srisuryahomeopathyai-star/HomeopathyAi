@@ -1,0 +1,1961 @@
+{
+  "acute_joint_pain": {
+    "reward": {
+      "Rhus_tox": 10,
+      "Bryonia": 9,
+      "Arnica": 9,
+      "Belladonna": 8,
+      "Colchicum": 8,
+      "Ledum": 8,
+      "Apis": 8,
+      "Nux_vomica": 7,
+      "Aconite": 7,
+      "Ferrum_phos": 7,
+      "Ruta": 7,
+      "Pulsatilla": 6,
+      "Gelsemium": 6,
+      "Chamomilla": 6,
+      "Hepar_sulph": 6,
+      "Kalmia": 6,
+      "Guaiacum": 5,
+      "Merc_sol": 5,
+      "Natrum_sulph": 5,
+      "Mag_phos": 5,
+      "Sanguinaria": 5,
+      "Actaea_racemosa": 5,
+      "Actaea_spicata": 5,
+      "Spigelia": 4
+    },
+    "penalty": {
+      "Sulphur": -6,
+      "Psorinum": -6,
+      "Calcarea_carbonica": -5,
+      "Phosphorus": -5,
+      "Sepia": -5,
+      "Silicea": -4,
+      "Lycopodium": -4,
+      "Carcinosin": -4,
+      "Medorrhinum": -4,
+      "Tuberculinum": -4
+    },
+    "modalities_boost": {
+      "better_motion": { "Rhus_tox": 3 },
+      "worse_motion": { "Bryonia": 3, "Colchicum": 2 },
+      "worse_cold": { "Arnica": 2, "Ruta": 2 },
+      "better_cold": { "Ledum": 3 },
+      "worse_touch": { "Colchicum": 3, "Apis": 2 },
+      "hot_swollen_joint": { "Belladonna": 3, "Apis": 3 }
+    }
+  }
+}
+{
+  "acute_gout": {
+    "reward": {
+      "Colchicum": 10,
+      "Benzoic_acid": 9,
+      "Ledum": 9,
+      "Antimonium_crudum": 8,
+      "Sabina": 7,
+      "Nux_vomica": 7,
+      "Bryonia": 7,
+      "Arnica": 6,
+      "Sulphur": 6,
+      "Pulsatilla": 5,
+      "Rhus_tox": 4,
+      "Acid_nitricum": 4,
+      "Calc_fluor": 4,
+      "Berberis": 4
+    },
+    "penalty": {
+      "Gelsemium": -6,
+      "Causticum": -6,
+      "Dulcamara": -5,
+      "Ruta": -5,
+      "Phytolacca": -4,
+      "Aurum_metallicum": -4
+    },
+    "modalities_boost": {
+      "worse_touch": { "Colchicum": 4, "Benzoic_acid": 2 },
+      "better_cold": { "Ledum": 4 },
+      "smarting_burning": { "Antimonium_crudum": 3 },
+      "pain_big_toe": { "Colchicum": 5, "Ledum": 3 }
+    }
+  }
+}
+{
+  "acute_sprain": {
+    "reward": {
+      "Ruta": 10,
+      "Rhus_tox": 9,
+      "Arnica": 9,
+      "Ledum": 8,
+      "Bryonia": 7,
+      "Hypericum": 7,
+      "Symphytum": 6,
+      "Bellis_perennis": 6,
+      "Calc_fluor": 6,
+      "Causticum": 5
+    },
+    "penalty": {
+      "Colchicum": -6,
+      "Benzoic_acid": -6,
+      "Kalmia": -5,
+      "Gelsemium": -5,
+      "Phytolacca": -4,
+      "Guaiacum": -4
+    },
+    "modalities_boost": {
+      "worse_strain": { "Ruta": 4 },
+      "better_motion": { "Rhus_tox": 3 },
+      "worse_motion": { "Bryonia": 3 },
+      "better_cold": { "Ledum": 2 },
+      "bruised_soreness": { "Arnica": 4, "Bellis_perennis": 3 }
+    }
+  }
+}
+{
+  "acute_injury": {
+    "reward": {
+      "Arnica": 10,
+      "Bellis_perennis": 9,
+      "Rhus_tox": 8,
+      "Ruta": 7,
+      "Hypericum": 7,
+      "Symphytum": 6,
+      "Ledum": 6,
+      "Bryonia": 6,
+      "Calc_phos": 5,
+      "Sarc_trauma": 5
+    },
+    "penalty": {
+      "Colchicum": -5,
+      "Benzoic_acid": -4,
+      "Gelsemium": -4,
+      "Causticum": -4,
+      "Sulphur": -3
+    },
+    "modalities_boost": {
+      "bruised_sore": { "Arnica": 4 },
+      "deep_tissue_trauma": { "Bellis_perennis": 4 },
+      "nerve_injury": { "Hypericum": 4 },
+      "periosteal_pain": { "Ruta": 3 },
+      "fracture_healing": { "Symphytum": 5 }
+    }
+  }
+}
+{
+  "acute_bursitis": {
+    "reward": {
+      "Ruta": 10,
+      "Bryonia": 9,
+      "Rhus_tox": 8,
+      "Belladonna": 8,
+      "Arnica": 7,
+      "Hepar_sulph": 7,
+      "Apis": 7,
+      "Kalmia": 6,
+      "Causticum": 6,
+      "Sanguinaria": 6,
+      "Ledum": 5,
+      "Silicea": 5,
+      "Calc_fluor": 5
+    },
+    "penalty": {
+      "Colchicum": -5,
+      "Benzoic_acid": -4,
+      "Pulsatilla": -4,
+      "Nux_vom": -4,
+      "Phytolacca": -4
+    },
+    "modalities_boost": {
+      "worse_motion": { "Bryonia": 4 },
+      "better_motion": { "Rhus_tox": 3 },
+      "worse_pressure": { "Belladonna": 3, "Apis": 3 },
+      "better_cold": { "Ledum": 3, "Apis": 2 },
+      "bursa_related": { "Ruta": 5 }
+    }
+  }
+}
+{
+  "acute_synovitis": {
+    "reward": {
+      "Bryonia": 10,
+      "Rhus_tox": 9,
+      "Belladonna": 8,
+      "Arnica": 7,
+      "Ferrum_phos": 7,
+      "Ruta": 7,
+      "Apis": 7,
+      "Kalmia": 6,
+      "Hepar_sulph": 6,
+      "Pulsatilla": 5,
+      "Merc_sol": 5,
+      "Sticta": 5,
+      "Calc_fluor": 5
+    },
+    "penalty": {
+      "Colchicum": -6,
+      "Benzoic_acid": -5,
+      "Silicea": -5,
+      "Phytolacca": -4,
+      "Causticum": -4
+    },
+    "modalities_boost": {
+      "worse_motion": { "Bryonia": 3 },
+      "better_motion": { "Rhus_tox": 3 },
+      "hot_shiny_swelling": { "Belladonna": 4, "Apis": 3 },
+      "deep_synovial_inflammation": { "Ferrum_phos": 3, "Sticta": 3 }
+    }
+  }
+}
+{
+  "acute_RA_flare": {
+    "reward": {
+      "Bryonia": 9,
+      "Rhus_tox": 9,
+      "Kalmia": 8,
+      "Guaiacum": 8,
+      "Actaea_spicata": 8,
+      "Belladonna": 7,
+      "Arsenicum": 7,
+      "Merc_sol": 7,
+      "Pulsatilla": 6,
+      "Causticum": 6,
+      "Colchicum": 5,
+      "Rhus_radicans": 5,
+      "Hepar_sulph": 5
+    },
+    "penalty": {
+      "Sulphur": -5,
+      "Silicea": -4,
+      "Phosphorus": -4,
+      "Calcarea_carbonica": -4
+    },
+    "modalities_boost": {
+      "morning_stiffness": { "Rhus_tox": 4, "Kalmia": 3 },
+      "worse_motion": { "Bryonia": 3 },
+      "better_motion": { "Rhus_tox": 3 },
+      "small_joint_flaring": { "Actaea_spicata": 4 },
+      "burning_pains": { "Arsenicum": 3 }
+    }
+  }
+}
+{
+  "acute_viral_myalgia": {
+    "reward": {
+      "Gelsemium": 10,
+      "Rhus_tox": 9,
+      "Eupatorium_perfoliatum": 9,
+      "Arnica": 8,
+      "Bryonia": 7,
+      "Ferrum_phos": 7,
+      "Belladonna": 7,
+      "Pulsatilla": 6,
+      "Nux_vomica": 6,
+      "Mag_phos": 6,
+      "Arsenicum": 5,
+      "China": 5
+    },
+    "penalty": {
+      "Colchicum": -5,
+      "Benzoic_acid": -4,
+      "Ledum": -4,
+      "Causticum": -4
+    },
+    "modalities_boost": {
+      "heaviness_weakness": { "Gelsemium": 5 },
+      "body_ache_like_broken": { "Eupatorium_perfoliatum": 5, "Arnica": 3 },
+      "better_motion": { "Rhus_tox": 2 },
+      "worse_motion": { "Bryonia": 2 }
+    }
+  }
+}
+{
+  "acute_spine_stiffness": {
+    "reward": {
+      "Rhus_tox": 10,
+      "Bryonia": 9,
+      "Gelsemium": 8,
+      "Arnica": 7,
+      "Kalmia": 7,
+      "Ruta": 7,
+      "Nux_vomica": 6,
+      "Mag_phos": 6,
+      "Actaea_racemosa": 6,
+      "Causticum": 6,
+      "Colocynthis": 5
+    },
+    "penalty": {
+      "Colchicum": -4,
+      "Benzoic_acid": -4,
+      "Sulphur": -4,
+      "Phytolacca": -4
+    },
+    "modalities_boost": {
+      "better_motion": { "Rhus_tox": 3 },
+      "worse_motion": { "Bryonia": 3 },
+      "neck_pain_radiating": { "Kalmia": 4 },
+      "muscle_spasm": { "Mag_phos": 3 },
+      "feels_bruised": { "Arnica": 3 }
+    }
+  }
+}
+{
+  "acute_sciatica": {
+    "reward": {
+      "Colocynthis": 10,
+      "Gnaphalium": 9,
+      "Mag_phos": 8,
+      "Rhus_tox": 8,
+      "Bryonia": 7,
+      "Kalmia": 7,
+      "Arnica": 6,
+      "Hypericum": 6,
+      "Nux_vomica": 6,
+      "Belladonna": 6,
+      "Berberis": 5,
+      "Aesculus": 5
+    },
+    "penalty": {
+      "Colchicum": -5,
+      "Benzoic_acid": -5,
+      "Causticum": -4,
+      "Gelsemium": -4
+    },
+    "modalities_boost": {
+      "better_pressure": { "Colocynthis": 4 },
+      "radiates_down_leg": { "Kalmia": 4, "Berberis": 3 },
+      "numbness": { "Gnaphalium": 4 },
+      "worse_motion": { "Bryonia": 2 },
+      "better_motion": { "Rhus_tox": 2 }
+    }
+  }
+}
+{
+  "condition": "Chronic Osteoarthritis",
+  "scoring_system": "-10_to_+10",
+  "remedies": {
+    "+10": [
+      "Calcarea fluorica",
+      "Causticum",
+      "Ruta graveolens",
+      "Calcarea carbonica",
+      "Fluoric acid",
+      "Kali carbonicum",
+      "Medorrhinum",
+      "Syphilinum"
+    ],
+    "+8": [
+      "Sulphur",
+      "Silicea",
+      "Aurum metallicum",
+      "Kali iodatum",
+      "Sticta pulmonaria",
+      "Guaiacum",
+      "Phytolacca",
+      "Baryta carbonica"
+    ],
+    "+6": [
+      "Natrum sulphuricum",
+      "Actaea racemosa",
+      "Graphites",
+      "Thuja",
+      "Hecla lava"
+    ],
+    "+4": [
+      "Pulsatilla",
+      "Sanguinaria",
+      "Phosphorus",
+      "Ferrum metallicum",
+      "Sabal serrulata"
+    ],
+    "acute_support_only_(reduced_score)": {
+      "+4": [
+        "Rhus toxicodendron",
+        "Bryonia"
+      ]
+    },
+    "penalty": {
+      "-2": [
+        "Nux vomica",
+        "Natrum muriaticum",
+        "Ignatia",
+        "Sepia"
+      ],
+      "-4": [
+        "Lycopodium",
+        "Lachesis",
+        "Chamomilla"
+      ],
+      "-6": [
+        "Hypericum",
+        "Spigelia",
+        "Gelsemium"
+      ],
+      "-10": [
+        "Aconite",
+        "Belladonna",
+        "Apis",
+        "Colchicum",
+        "Ledum",
+        "Eupatorium perfoliatum"
+      ]
+    }
+  }
+}
+{
+  "condition": "Chronic Rheumatoid Arthritis",
+  "scoring_system": "-10_to_+10",
+  "remedies": {
+    "+10": [
+      "Causticum",
+      "Rhus tox",
+      "Kali iodatum",
+      "Aurum metallicum",
+      "Thuja",
+      "Stellaria media",
+      "Formica rufa"
+    ],
+    "+8": [
+      "Sulphur",
+      "Natrum sulphuricum",
+      "Calcarea carbonica",
+      "Medorrhinum",
+      "Syphilinum",
+      "Ruta graveolens",
+      "Graphites",
+      "Calcarea fluorica"
+    ],
+    "+6": [
+      "Actaea racemosa",
+      "Kali carbonicum",
+      "Pulsatilla",
+      "Phosphorus",
+      "Sanguinaria",
+      "Hecla lava",
+      "Guaiacum"
+    ],
+    "+4": [
+      "Silicea",
+      "Ferrum metallicum",
+      "Baryta carbonica",
+      "Lycopodium",
+      "Phytolacca"
+    ],
+    "reduced_acute_support_(only_for_flareups)": {
+      "+2": [
+        "Bryonia",
+        "Colchicum",
+        "Belladonna"
+      ]
+    },
+    "penalty": {
+      "-2": [
+        "Sepia",
+        "Ignatia",
+        "Natrum muriaticum"
+      ],
+      "-4": [
+        "Chamomilla",
+        "Nux vomica",
+        "Gelsemium"
+      ],
+      "-6": [
+        "Hypericum",
+        "Spigelia"
+      ],
+      "-10": [
+        "Aconite",
+        "Arnica",
+        "Apis",
+        "Ledum",
+        "Eupatorium perfoliatum"
+      ]
+    }
+  }
+}
+{
+  "condition": "Sprains",
+  "scoring_system": "-10_to_+10",
+  "remedies": {
+    "+10": [
+      "Ruta graveolens",
+      "Rhus toxicodendron",
+      "Arnica montana",
+      "Bellis perennis",
+      "Symphytum officinale"
+    ],
+    "+8": [
+      "Ledum palustre",
+      "Bryonia alba",
+      "Calcarea fluorica",
+      "Hypericum perforatum",
+      "Apis mellifica"
+    ],
+    "+6": [
+      "Hamamelis virginiana",
+      "Carbo animalis",
+      "Causticum",
+      "Natrum sulphuricum",
+      "Calcarea phosphorica"
+    ],
+    "+4": [
+      "Sanguinaria",
+      "Pulsatilla",
+      "Phytolacca",
+      "Dulcamara",
+      "Guaiacum"
+    ],
+    "penalty": {
+      "-2": [
+        "Nux vomica",
+        "Ignatia",
+        "Natrum muriaticum",
+        "Sepia"
+      ],
+      "-4": [
+        "Gelsemium",
+        "Chamomilla",
+        "Aurum metallicum"
+      ],
+      "-6": [
+        "Hepar sulph",
+        "Kali bichromicum"
+      ],
+      "-10": [
+        "Aconite",
+        "Belladonna",
+        "Colocynthis",
+        "Digitalis",
+        "Lachesis"
+      ]
+    }
+  }
+}
+{
+  "condition": "Muscular Pains & Muscular Rheumatism",
+  "scoring_system": "-10_to_+10",
+  "remedies": {
+    "+10": [
+      "Rhus toxicodendron",
+      "Arnica montana",
+      "Bryonia alba",
+      "Gelsemium",
+      "Dulcamara",
+      "Actaea racemosa"
+    ],
+    "+8": [
+      "Causticum",
+      "Colocynthis",
+      "Magnesium phosphoricum",
+      "Hypericum",
+      "Ruta graveolens",
+      "Calcarea carbonica"
+    ],
+    "+6": [
+      "Phytolacca",
+      "Kalmia latifolia",
+      "Natrum sulphuricum",
+      "Sanguinaria",
+      "Guaiacum"
+    ],
+    "+4": [
+      "Pulsatilla",
+      "Silicea",
+      "Ferrum metallicum",
+      "Sticta pulmonaria",
+      "China officinalis"
+    ],
+    "penalty": {
+      "-2": [
+        "Ignatia",
+        "Sepia",
+        "Natrum muriaticum",
+        "Chamomilla"
+      ],
+      "-4": [
+        "Aurum metallicum",
+        "Lycopodium",
+        "Hepar sulphur"
+      ],
+      "-6": [
+        "Kali bichromicum",
+        "Antimonium tartaricum"
+      ],
+      "-10": [
+        "Aconitum",
+        "Belladonna",
+        "Digitalis",
+        "Spigelia",
+        "Cocculus"
+      ]
+    }
+  }
+}
+{
+  "condition": "Neuralgia",
+  "scoring_system": "-10_to_+10",
+  "remedies": {
+    "+10": [
+      "Spigelia",
+      "Magnesium phosphoricum",
+      "Kalmia latifolia",
+      "Hypericum",
+      "Colocynthis",
+      "Aconitum napellus"
+    ],
+    "+8": [
+      "Chamomilla",
+      "Belladonna",
+      "Gelsemium",
+      "Verbascum",
+      "Cedron",
+      "Arsenicum album"
+    ],
+    "+6": [
+      "China officinalis",
+      "Zincum metallicum",
+      "Ruta graveolens",
+      "Phosphorus",
+      "Actaea racemosa"
+    ],
+    "+4": [
+      "Pulsatilla",
+      "Silicea",
+      "Lachesis",
+      "Bryonia alba",
+      "Calcarea carbonica"
+    ],
+    "penalty": {
+      "-2": [
+        "Natrum muriaticum",
+        "Ignatia",
+        "Sepia",
+        "Sulphur"
+      ],
+      "-4": [
+        "Nux vomica",
+        "Hepar sulphuris",
+        "Kali carbonicum"
+      ],
+      "-6": [
+        "Antimonium tartaricum",
+        "Dulcamara"
+      ],
+      "-10": [
+        "Digitalis",
+        "Cocculus",
+        "Ipecacuanha",
+        "Veratrum album",
+        "Arnica montana"
+      ]
+    }
+  }
+}
+{
+  "condition": "Sciatica",
+  "scoring_system": "-10_to_+10",
+  "remedies": {
+    "+10": [
+      "Colocynthis",
+      "Magnesium phosphoricum",
+      "Gnaphalium",
+      "Kalmia latifolia",
+      "Rhus toxicodendron",
+      "Aesculus hippocastanum"
+    ],
+    "+8": [
+      "Bryonia alba",
+      "Arsenicum album",
+      "Lachesis",
+      "Nux vomica",
+      "Hypericum perforatum",
+      "Phytolacca"
+    ],
+    "+6": [
+      "Sulphur",
+      "Pulsatilla",
+      "Ruta graveolens",
+      "Calcarea carbonica",
+      "Causticum",
+      "Natrum sulphuricum"
+    ],
+    "+4": [
+      "Gelsemium",
+      "Staphysagria",
+      "Sanguinaria",
+      "Hecla lava",
+      "Actaea racemosa"
+    ],
+    "penalty": {
+      "-2": [
+        "Ignatia",
+        "Chamomilla",
+        "Ferrum metallicum",
+        "Lycopodium"
+      ],
+      "-4": [
+        "Hepar sulphur",
+        "Kali carbonicum",
+        "Spigelia"
+      ],
+      "-6": [
+        "Digitalis",
+        "Stannum metallicum"
+      ],
+      "-10": [
+        "Aconitum",
+        "Belladonna",
+        "Ipecacuanha",
+        "Antimonium tartaricum",
+        "Veratrum album"
+      ]
+    }
+  }
+}
+{
+  "condition": "Cervical Spondylosis",
+  "scoring_system": "-10_to_+10",
+  "remedies": {
+    "+10": [
+      "Kalmia latifolia",
+      "Gelsemium",
+      "Cimicifuga (Actaea racemosa)",
+      "Causticum",
+      "Calcarea fluorica"
+    ],
+    "+8": [
+      "Silicea",
+      "Natrum muriaticum",
+      "Phosphorus",
+      "Lycopodium",
+      "Colocynthis"
+    ],
+    "+6": [
+      "Sanguinaria",
+      "Ruta graveolens",
+      "Guaiacum",
+      "Ferrum metallicum",
+      "Dulcamara",
+      "Calcarea carbonica"
+    ],
+    "+4": [
+      "Pulsatilla",
+      "Nux vomica",
+      "Sticta pulmonaria",
+      "Aesculus",
+      "Hypericum",
+      "Hecla lava"
+    ],
+    "penalty": {
+      "-2": [
+        "Sepia",
+        "Ignatia",
+        "Sulphur",
+        "Chamomilla"
+      ],
+      "-4": [
+        "Kali bichromicum",
+        "Antimonium tartaricum",
+        "Spigelia"
+      ],
+      "-6": [
+        "Aconitum",
+        "Belladonna"
+      ],
+      "-10": [
+        "Ipecacuanha",
+        "Digitalis",
+        "Veratrum album",
+        "Arnica montana",
+        "Apis mellifica"
+      ]
+    }
+  }
+}
+{
+  "condition": "Lumbago",
+  "scoring_system": "-10_to_+10",
+  "remedies": {
+    "+10": [
+      "Aesculus hippocastanum",
+      "Colocynthis",
+      "Nux vomica",
+      "Kali carbonicum"
+    ],
+    "+8": [
+      "Arnica montana",
+      "Hypericum perforatum",
+      "Sulphur",
+      "Ruta graveolens",
+      "Magnesium phosphoricum",
+      "Gelsemium"
+    ],
+    "+6": [
+      "Calcarea carbonica",
+      "Natrum sulphuricum",
+      "Pulsatilla",
+      "Causticum",
+      "Hecla lava",
+      "Sanguinaria"
+    ],
+    "+4": [
+      "Phosphorus",
+      "Dulcamara",
+      "Sepia",
+      "Lycopodium",
+      "Actaea racemosa",
+      "Bellis perennis"
+    ],
+    "penalty": {
+      "-2": [
+        "Ignatia",
+        "Chamomilla",
+        "Ferrum metallicum",
+        "Kali bichromicum"
+      ],
+      "-4": [
+        "Hepar sulphur",
+        "Antimonium tartaricum",
+        "Graphites"
+      ],
+      "-6": [
+        "Digitalis",
+        "Veratrum album"
+      ],
+      "-10": [
+        "Aconitum napellus",
+        "Belladonna",
+        "Ipecacuanha",
+        "Cocculus",
+        "Arsenicum iodatum"
+      ]
+    }
+  }
+}
+{
+  "condition": "IVDP (Intervertebral Disc Prolapse)",
+  "rubric_scoring": {
+    "deep_acting": {
+      "Calcarea fluorica": 10,
+      "Phosphorus": 9,
+      "Silicea": 9,
+      "Natrum muriaticum": 8,
+      "Sulphur": 8,
+      "Kali carb": 8,
+      "Gnaphalium": 9,
+      "Colocynthis": 7,
+      "Hypericum": 7,
+      "Aesculus": 7,
+      "Bryonia": 4,
+      "Rhus toxicodendron": 3
+    },
+    "confirmatory": {
+      "Mag phos": 6,
+      "Arnica": 5,
+      "Nux vomica": 5,
+      "Ruta": 5,
+      "Cimicifuga": 4,
+      "Gelsemium": 3
+    },
+    "penalty": {
+      "Belladonna": -3,
+      "Pulsatilla": -3,
+      "Lachesis": -2,
+      "Apis": -2
+    }
+  }
+}
+{
+  "condition": "Coccygodynia",
+  "rubric_scoring": {
+    "deep_acting": {
+      "Ruta": 10,
+      "Hypericum": 9,
+      "Silicea": 9,
+      "Calcarea fluorica": 8,
+      "Phosphorus": 8,
+      "Kali carb": 7,
+      "Aesculus": 7,
+      "Causticum": 6
+    },
+    "confirmatory": {
+      "Sepia": 6,
+      "Staphysagria": 5,
+      "Mag phos": 5,
+      "Arnica": 4,
+      "Nux vomica": 4,
+      "Cimicifuga": 3
+    },
+    "low_priority_acute": {
+      "Rhus toxicodendron": 2,
+      "Bryonia": 2
+    },
+    "penalty": {
+      "Pulsatilla": -3,
+      "Lachesis": -3,
+      "Belladonna": -2,
+      "Apis": -2
+    }
+  }
+}
+{
+  "condition": "Sacralgia",
+  "rubric_scoring": {
+    "deep_acting": {
+      "Aesculus": 10,
+      "Kali carb": 9,
+      "Causticum": 9,
+      "Sulphur": 8,
+      "Berberis vulgaris": 8,
+      "Phosphorus": 7,
+      "Sepia": 7,
+      "Arsenicum album": 6,
+      "Calcarea fluorica": 6
+    },
+    "confirmatory": {
+      "Hypericum": 6,
+      "Ruta": 5,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 2,
+      "Nux vomica": 4,
+      "Ignatia": 3,
+      "Staphysagria": 3,
+      "Mag phos": 3,
+      "Cimicifuga": 3,
+      "Lycopodium": 4
+    },
+    "nerve_related": {
+      "Colocynthis": 5,
+      "Plumbum metallicum": 4,
+      "Merc sol": 3
+    },
+    "penalty": {
+      "Pulsatilla": -3,
+      "Lachesis": -3,
+      "Belladonna": -2,
+      "Apis": -2,
+      "Gelsemium": -2
+    }
+  }
+}
+{
+  "condition": "Knee Joint Pain - Deep Acting Remedies",
+  "rubric_scoring": {
+    "deep_acting": {
+      "Calcarea carbonica": 10,
+      "Calcarea fluorica": 10,
+      "Ruta graveolens": 9,
+      "Kali carbonicum": 9,
+      "Causticum": 9,
+      "Sulphur": 9,
+      "Lycopodium": 8,
+      "Natrum sulphuricum": 8,
+      "Natrum muriaticum": 8,
+      "Phosphorus": 8,
+      "Kali iodatum": 8,
+      "Ammonium muriaticum": 8,
+      "Berberis vulgaris": 8,
+      "Rhus radicans": 7,
+      "Ledum palustre": 7,
+      "Guaiacum": 7,
+      "Formica rufa": 7,
+      "Acid benzoicum": 7,
+      "Acid nitricum": 7,
+      "Antimonium crudum": 7,
+      "Sarsaparilla": 7,
+      "Mezereum": 7,
+      "Staphysagria": 6,
+      "Sepia": 6,
+      "Silicea": 6,
+      "Graphites": 6,
+      "Arsenicum album": 6,
+      "Magnesium phosphoricum": 6,
+      "Nux vomica": 5,
+      "Thuja": 5,
+      "Phytolacca": 5,
+      "Aurum metallicum": 5,
+      "Aurum muriaticum natronatum": 5,
+      "Colchicum": 5,
+      "Benzoicum acidum": 5
+    },
+    "pathological_joint_remedies": {
+      "Syphilinum": 10,
+      "Medorrhinum": 8,
+      "Psorinum": 8,
+      "Tuberculinum": 7,
+      "Kali bichromicum": 7,
+      "Hecla lava": 7,
+      "Fluoric acid": 7,
+      "Calcarea phosphorica": 7,
+      "Natrum phosphoricum": 6,
+      "Baryta carbonica": 6
+    },
+    "cartilage_degeneration": {
+      "Calcarea fluorica": 10,
+      "Ruta graveolens": 9,
+      "Silicea": 7,
+      "Causticum": 7,
+      "Natrum sulphuricum": 7,
+      "Hecla lava": 7,
+      "Fluoric acid": 7
+    },
+    "chronic_synovitis_effusion": {
+      "Kali iodatum": 9,
+      "Natrum sulphuricum": 9,
+      "Guaiacum": 8,
+      "Berberis vulgaris": 7,
+      "Kali carbonicum": 7,
+      "Causticum": 7,
+      "Lycopodium": 6,
+      "Sulphur": 6
+    },
+    "weakness_instability": {
+      "Calcarea carbonica": 10,
+      "Kali carbonicum": 9,
+      "Causticum": 9,
+      "Sepia": 7,
+      "Phosphorus": 7,
+      "Baryta carbonica": 7,
+      "Silicea": 6
+    },
+    "confirmatory_remedies": {
+      "Pulsatilla": 3,
+      "Ignatia": 3,
+      "Gelsemium": 3,
+      "Cimicifuga": 3,
+      "Bellis perennis": 3
+    },
+    "penalty": {
+      "Arnica": -3,
+      "Bryonia": -2,
+      "Rhus toxicodendron": -2,
+      "Belladonna": -3,
+      "Aconite": -4,
+      "Apis": -3,
+      "Dulcamara": -3
+    }
+  }
+}
+{
+  "condition": "Weather Related Joint Pains",
+  "rubric_scoring": {
+    "cold_aggravation": {
+      "Kali carbonicum": 10,
+      "Causticum": 9,
+      "Dulcamara": 7,
+      "Calcarea carbonica": 7,
+      "Silicea": 7,
+      "Hepar sulphur": 6,
+      "Mag phos": 5,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 2,
+      "Arnica": -2,
+      "Pulsatilla": -3
+    },
+    "damp_aggravation": {
+      "Natrum sulphuricum": 10,
+      "Dulcamara": 9,
+      "Rhus radicans": 8,
+      "Kali iodatum": 8,
+      "Calcarea fluorica": 7,
+      "Thuja": 6,
+      "Causticum": 6,
+      "Medorrhinum": 6,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 2,
+      "Pulsatilla": -3,
+      "Lachesis": -3
+    },
+    "rainy_weather": {
+      "Dulcamara": 10,
+      "Natrum sulphuricum": 9,
+      "Medorrhinum": 8,
+      "Kali iodatum": 7,
+      "Causticum": 6,
+      "Rhus radicans": 6,
+      "Phosphorus": 5,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Belladonna": -2,
+      "Sulphur": -2
+    },
+    "winter_aggravation": {
+      "Calcarea carbonica": 10,
+      "Silicea": 9,
+      "Hepar sulphur": 8,
+      "Kali carbonicum": 8,
+      "Causticum": 7,
+      "Natrum muriaticum": 6,
+      "Sepia": 6,
+      "Graphites": 6,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Gelsemium": -2,
+      "Pulsatilla": -3
+    },
+    "hot_weather_aggravation": {
+      "Lycopodium": 9,
+      "Natrum muriaticum": 8,
+      "Sulphur": 8,
+      "Phosphorus": 7,
+      "Sepia": 7,
+      "Glonoinum": 6,
+      "Belladonna": 5,
+      "Bryonia": 2,
+      "Rhus toxicodendron": 1,
+      "Arsenicum album": -2,
+      "Silicea": -2
+    },
+    "change_of_weather": {
+      "Phosphorus": 9,
+      "Rhus radicans": 8,
+      "Kali iodatum": 8,
+      "Natrum sulphuricum": 7,
+      "Causticum": 7,
+      "Dulcamara": 7,
+      "Lycopodium": 6,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Aconite": -3,
+      "Belladonna": -3
+    },
+    "stormy_weather": {
+      "Phosphorus": 9,
+      "Rhododendron": 9,
+      "Rhus radicans": 8,
+      "Causticum": 7,
+      "Natrum sulphuricum": 7,
+      "Dulcamara": 6,
+      "Lachesis": 5,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Aconite": -3,
+      "Belladonna": -3
+    },
+    "wind_aggravation": {
+      "Cimicifuga": 8,
+      "Phosphorus": 8,
+      "Causticum": 7,
+      "Sepia": 6,
+      "Natrum muriaticum": 6,
+      "Hepar sulphur": 6,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Pulsatilla": -3,
+      "Gelsemium": -3
+    }
+  }
+}
+{
+  "condition": "Weather Related Amelioration",
+  "rubric_scoring": {
+    "better_in_dry_weather": {
+      "Dulcamara": 9,
+      "Natrum sulphuricum": 8,
+      "Kali iodatum": 7,
+      "Causticum": 6,
+      "Phosphorus": 5,
+      "Lycopodium": 5,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 2,
+      "Pulsatilla": -3
+    },
+    "better_in_warm_weather": {
+      "Causticum": 9,
+      "Kali carbonicum": 8,
+      "Silicea": 7,
+      "Hepar sulphur": 7,
+      "Sepia": 6,
+      "Natrum muriaticum": 6,
+      "Phosphorus": 5,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Arnica": -2,
+      "Pulsatilla": -3
+    },
+    "better_in_hot_applications": {
+      "Mag phos": 10,
+      "Causticum": 8,
+      "Colocynthis": 8,
+      "Hepar sulphur": 7,
+      "Dulcamara": 6,
+      "Phosphorus": 5,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Belladonna": -3,
+      "Aconite": -4
+    },
+    "better_in_cold_applications": {
+      "Ledum palustre": 10,
+      "Arsenicum album": 7,
+      "Heloderma": 7,
+      "Apis": 6,
+      "Phytolacca": 5,
+      "Bryonia": 2,
+      "Rhus toxicodendron": 1,
+      "Causticum": -2,
+      "Mag phos": -3,
+      "Hepar sulphur": -4
+    },
+    "better_in_summer": {
+      "Kali carbonicum": 8,
+      "Natrum muriaticum": 8,
+      "Lycopodium": 7,
+      "Sulphur": 7,
+      "Phosphorus": 6,
+      "Sepia": 5,
+      "Bryonia": 2,
+      "Rhus toxicodendron": 2,
+      "Hepar sulphur": -3,
+      "Silicea": -2
+    },
+    "better_in_open_air": {
+      "Pulsatilla": 9,
+      "Rhus radicans": 7,
+      "Phosphorus": 7,
+      "Causticum": 6,
+      "Sepia": 6,
+      "Lycopodium": 5,
+      "Rhus toxicodendron": 2,
+      "Bryonia": -2,
+      "Aconite": -3,
+      "Belladonna": -3
+    },
+    "better_before_storm": {
+      "Rhododendron": 9,
+      "Phosphorus": 8,
+      "Rhus radicans": 7,
+      "Natrum sulphuricum": 6,
+      "Causticum": 6,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Aconite": -3
+    },
+    "better_after_storm": {
+      "Phosphorus": 9,
+      "Medorrhinum": 8,
+      "Dulcamara": 7,
+      "Kali iodatum": 7,
+      "Causticum": 6,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Belladonna": -3
+    },
+    "better_in_sun": {
+      "Natrum muriaticum": 9,
+      "Lycopodium": 8,
+      "Phosphorus": 7,
+      "Sepia": 7,
+      "Sulphur": 6,
+      "Causticum": 5,
+      "Rhus toxicodendron": 2,
+      "Bryonia": 1,
+      "Gelsemium": -3,
+      "Pulsatilla": -3
+    }
+  }
+}
+{
+  "knee_joint_pain_side_based": {
+    "left_knee": {
+      "Sulphur": +10,
+      "Graphites": +9,
+      "Psorinum": +8,
+      "Calc_carbonicum": +7,
+      "Kali_carbonicum": +6,
+      "Mezereum": +6,
+      "Medorrhinum": +6,
+      "Thuja": +5,
+      "Causticum": +5,
+      "Aurum_metallicum": +5,
+      "Arsenicum_album": +4,
+      "Rhus_tox": +3,
+      "Bryonia": +3,
+      "Ruta": +5,
+      "Silicea": +5,
+      "Phytolacca": +4,
+      "Belladonna": +3
+    },
+
+    "right_knee": {
+      "Sulphur": +10,
+      "Graphites": +9,
+      "Psorinum": +8,
+      "Calc_carbonicum": +7,
+      "Kali_carbonicum": +6,
+      "Mezereum": +6,
+      "Medorrhinum": +6,
+      "Thuja": +5,
+      "Causticum": +5,
+      "Aurum_metallicum": +5,
+      "Arsenicum_album": +4,
+      "Rhus_tox": +3,
+      "Bryonia": +3,
+      "Ruta": +5,
+      "Silicea": +5,
+      "Phytolacca": +4,
+      "Belladonna": +3
+    },
+  }
+}
+{
+  "location_inner_knee": {
+    "Medial_Joint_Line": {
+      "Rhus_tox": +8,
+      "Bryonia": +6,
+      "Pulsatilla": +5,
+      "Medorrhinum": +4,
+      "Causticum": +6,
+      "Ledum": +3,
+      "Sepia": +2,
+      "Nat_mur": +3,
+      "Kali_carbonicum": +7,
+      "Kali_bichromicum": +4,
+      "Kali_sulph": +2,
+      "Silicea": +3,
+      "Calc_fluor": +8,
+      "Calc_phos": +5,
+      "Calc_carbonicum": +4,
+      "Arnica": +3,
+      "Bellis_perennis": +4,
+      "Hypericum": +2,
+      "Ruta": +9,
+      "Colchicum": +5,
+      "Benzoic_acid": +7,
+      "Guaaicum": +4,
+      "Sanguinaria": +3,
+      "Ferrum_phos": +2,
+      "Dulcamara": +3,
+      "Tuberculinum": +2,
+      "Lycopodium": +3,
+      "Staphysagria": +2,
+      "Sulphur": +4
+    }
+  }
+}
+{
+  "location_popliteal_fossa": {
+    "Back_of_Knee": {
+      "Rhus_tox": +7,
+      "Bryonia": +5,
+      "Ammon_mur": +10,
+      "Kali_carbonicum": +8,
+      "Kali_bichromicum": +6,
+      "Kali_iodatum": +7,
+      "Phytolacca": +4,
+      "Gnaphalium": +5,
+      "Agaricus": +3,
+      "Aurum_muriaticum": +8,
+      "Graphites": +2,
+      "Ruta": +6,
+      "Colchicum": +4,
+      "Benzoic_acid": +5,
+      "Ledum": +3,
+      "Bellis_perennis": +6,
+      "Arnica": +4,
+      "Calc_fluor": +7,
+      "Calc_carbonicum": +5,
+      "Calc_phos": +4,
+      "Tuberculinum": +3,
+      "Sulphur": +5,
+      "Zincum": +4,
+      "Causticum": +6,
+      "Nat_sulph": +7,
+      "Nat_mur": +3,
+      "Pulsatilla": +3,
+      "Ignatia": +2
+    }
+  }
+}
+{
+  "location_patella": {
+    "Front_of_Knee": {
+      "Rhus_tox": +8,
+      "Bryonia": +6,
+      "Ruta": +10,
+      "Kali_carbonicum": +6,
+      "Kali_bichromicum": +5,
+      "Causticum": +7,
+      "Pulsatilla": +4,
+      "Aconite": +3,
+      "Arnica": +5,
+      "Bellis_perennis": +6,
+      "Ledum": +3,
+      "Colchicum": +5,
+      "Calc_fluor": +9,
+      "Calc_carbonicum": +6,
+      "Calc_phos": +6,
+      "Chamomilla": +2,
+      "Dulcamara": +3,
+      "Nat_sulph": +5,
+      "Nat_mur": +3,
+      "Benzoic_acid": +4,
+      "Silicea": +3,
+      "Sulphur": +5
+    }
+  }
+}
+{
+  "location_outer_knee": {
+    "Lateral_Joint_Line": {
+      "Rhus_tox": +7,
+      "Bryonia": +5,
+      "Ruta": +8,
+      "Kali_carbonicum": +9,
+      "Kali_iodatum": +6,
+      "Kali_bichromicum": +4,
+      "Ammon_mur": +8,
+      "Arnica": +4,
+      "Bellis_perennis": +6,
+      "Colocynth": +5,
+      "Colchicum": +4,
+      "Calc_fluor": +9,
+      "Calc_carbonicum": +5,
+      "Calc_phos": +6,
+      "Causticum": +7,
+      "Nat_mur": +4,
+      "Nat_sulph": +6,
+      "Pulsatilla": +3,
+      "Silicea": +3,
+      "Sulphur": +5,
+      "Ledum": +3,
+      "Dulcamara": +3,
+      "Hypericum": +2,
+      "Aconite": +3,
+      "Guaicum": +4,
+      "Benzoic_acid": +6,
+      "Zincum": +3,
+      "Tuberculinum": +3,
+      "Lycopodium": +4,
+      "Ferrum_phos": +2,
+      "Sanguinaria": +3
+    }
+  }
+}
+{
+  "synovial_swelling_bakers_cyst": {
+    "Bakers_Cyst_Synovial_Swelling": {
+      "Kali_carbonicum": +10,
+      "Kali_iodatum": +9,
+      "Kali_bichromicum": +7,
+      "Benzoic_acid": +9,
+      "Ammonium_muriaticum": +8,
+      "Calc_fluor": +10,
+      "Calc_carbonicum": +7,
+      "Calc_phosphoricum": +6,
+      "Silicea": +6,
+      "Sulphur": +7,
+      "Natrum_sulph": +8,
+      "Lycopodium": +7,
+      "Thuja": +6,
+      "Medorrhinum": +7,
+      "Tuberculinum": +5,
+      "Pulsatilla": +4,
+      "Causticum": +7,
+      "Rhus_tox": +3,
+      "Bryonia": +3,
+      "Arnica": +2,
+      "Bellis_perennis": +3,
+      "Apis": +5,
+      "Fluoric_acid": +8,
+      "Phytolacca": +6,
+      "Guaiacum": +5,
+      "Sanguinaria": +4,
+      "Ruta": +4,
+      "Ledum": +3,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6,
+      "Graphites": +5,
+      "Hepar_sulph": +4
+    }
+  }
+}
+{
+  "heel_pain": {
+    "Heel_Pain_All": {
+      "Calc_fluor": +10,
+      "Calc_phos": +9,
+      "Calc_carbonicum": +8,
+      "Silicea": +7,
+      "Ruta": +7,
+      "Rhus_tox": +3,
+      "Bryonia": +2,
+      "Arnica": +3,
+      "Bellis_perennis": +3,
+      "Pulsatilla": +4,
+      "Medorrhinum": +6,
+      "Syphilinum": +7,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6,
+      "Ammonium_muriaticum": +7,
+      "Ammonium_carbonicum": +5,
+      "Kali_bichromicum": +5,
+      "Kali_carbonicum": +6,
+      "Kali_phosphoricum": +4,
+      "Kali_sulphuricum": +5,
+      "Phytolacca": +4,
+      "Guaiacum": +5,
+      "Ledum": +3,
+      "Hypericum": +4,
+      "Natrum_muriaticum": +5,
+      "Natrum_sulphuricum": +6,
+      "Sepia": +5,
+      "Sulphur": +7,
+      "Lycopodium": +5,
+      "Rhododendron": +4,
+      "Mezereum": +4,
+      "Tuberculinum": +5,
+      "Graphites": +4,
+      "Hepar_sulph": +3,
+      "Symphytum": +6,
+      "Fluoric_acid": +8,
+      "Alumina": +5,
+      "Petroleum": +4,
+      "Antimonium_crudum": +4,
+      "Sanguinaria": +3,
+      "Ignatia": +3,
+      "Arsenicum_album": +4
+    }
+  }
+}
+{
+  "plantar_fasciitis": {
+    "Plantar_Fascia_Pain": {
+      "Calc_fluor": +10,
+      "Fluoric_acid": +9,
+      "Calc_phos": +8,
+      "Calc_carbonicum": +7,
+      "Silicea": +7,
+      "Symphytum": +6,
+      "Ammonium_muriaticum": +8,
+      "Ammonium_carbonicum": +6,
+      "Medorrhinum": +7,
+      "Syphilinum": +7,
+      "Natrum_sulphuricum": +6,
+      "Sepia": +5,
+      "Lycopodium": +5,
+      "Graphites": +5,
+      "Sulphur": +7,
+      "Arsenicum_album": +5,
+      "Guaiacum": +4,
+      "Phytolacca": +4,
+      "Pulsatilla": +3,
+      "Petroleum": +4,
+      "Antimonium_crudum": +4,
+      "Rhus_tox": +2,
+      "Bryonia": +2,
+      "Arnica": +2,
+      "Bellis_perennis": +3,
+      "Ledum": +1,
+      "Hypericum": +1
+    }
+  }
+}
+{
+  "heel_spur": {
+    "Calcaneal_Spur": {
+      "Calc_fluor": +10,
+      "Fluoric_acid": +10,
+      "Symphytum": +9,
+      "Calc_phos": +8,
+      "Calc_carbonicum": +7,
+      "Silicea": +7,
+      "Medorrhinum": +7,
+      "Ammonium_muriaticum": +7,
+      "Natrum_sulphuricum": +6,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6,
+      "Lycopodium": +5,
+      "Graphites": +5,
+      "Sulphur": +6,
+      "Kali_carbonicum": +5,
+      "Kali_bichromicum": +4,
+      "Phytolacca": +4,
+      "Guaiacum": +4,
+      "Antimonium_crudum": +4,
+      "Petroleum": +4,
+      "Rhus_tox": +2,
+      "Bryonia": +2,
+      "Arnica": +2,
+      "Bellis_perennis": +2,
+      "Ledum": +1,
+      "Hypericum": +1
+    }
+  }
+}
+{
+  "achilles_insertion": {
+    "Achilles_Tendon_Insertion_Pain": {
+      "Ruta": +10,
+      "Calc_fluor": +9,
+      "Rhus_tox": +5,
+      "Symphytum": +7,
+      "Fluoric_acid": +6,
+      "Calc_phos": +6,
+      "Natrum_sulphuricum": +6,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6,
+      "Medorrhinum": +6,
+      "Syphilinum": +6,
+      "Lycopodium": +5,
+      "Kali_bichromicum": +4,
+      "Kali_carbonicum": +4,
+      "Guaiacum": +4,
+      "Phytolacca": +4,
+      "Sulphur": +5,
+      "Silicea": +5,
+      "Pulsatilla": +3,
+      "Petroleum": +3,
+      "Graphites": +3,
+      "Antimonium_crudum": +3,
+      "Arnica": +2,
+      "Bellis_perennis": +2,
+      "Bryonia": +2,
+      "Hypericum": +1,
+      "Ledum": +1
+    }
+  }
+}
+{
+  "ankylosing_spondylitis": {
+    "AS_Chronic_Stiffness_Pain": {
+      "Kali_carbonicum": +10,
+      "Kali_iodatum": +9,
+      "Kali_bichromicum": +7,
+      "Calc_fluor": +9,
+      "Calc_phos": +8,
+      "Calc_carbonicum": +7,
+      "Silicea": +8,
+      "Sulphur": +8,
+      "Medorrhinum": +8,
+      "Syphilinum": +9,
+      "Thuja": +7,
+      "Guaiacum": +8,
+      "Rhododendron": +7,
+      "Rhus_radicans": +7,
+      "Aurum_metallicum": +7,
+      "Aurum_muriaticum": +7,
+      "Natrum_sulphuricum": +7,
+      "Natrum_muriaticum": +5,
+      "Lycopodium": +6,
+      "Causticum": +8,
+      "Graphites": +5,
+      "Petroleum": +5,
+      "Antimonium_crudum": +4,
+      "Mezereum": +4,
+      "Phytolacca": +5,
+      "Ruta": +5,
+      "Symphytum": +4,
+      "Bryonia": +2,
+      "Rhus_tox": +3,
+      "Arnica": +2,
+      "Bellis_perennis": +2,
+      "Hypericum": +1,
+      "Ledum": +1
+    }
+  }
+}
+{
+  "sacroiliitis_AS_specific": {
+    "pain_stiffness_morning": {
+      "Kali_carbonicum": +10,
+      "Kali_iodatum": +9,
+      "Calc_fluor": +9,
+      "Calc_phos": +8,
+      "Calc_carbonicum": +7,
+      "Silicea": +7,
+      "Sulphur": +8,
+      "Medorrhinum": +8,
+      "Syphilinum": +8,
+      "Thuja": +6,
+      "Guaiacum": +7,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6,
+      "Natrum_sulphuricum": +7,
+      "Natrum_muriaticum": +5,
+      "Lycopodium": +5,
+      "Causticum": +7,
+      "Phytolacca": +5,
+      "Ruta": +6,
+      "Graphites": +4,
+      "Petroleum": +4,
+      "Antimonium_crudum": +3,
+      "Mezereum": +3,
+      "Symphytum": +3,
+      "Arnica": +2,
+      "Bellis_perennis": +2,
+      "Hypericum": +1,
+      "Ledum": +1
+    },
+
+    "sacroiliac_joint_inflammation": {
+      "Kali_carbonicum": +10,
+      "Aesculus": +9,
+      "Sulphur": +8,
+      "Medorrhinum": +8,
+      "Calc_fluor": +8,
+      "Calc_phos": +7,
+      "Kali_iodatum": +7,
+      "Silicea": +6,
+      "Causticum": +7,
+      "Natrum_sulphuricum": +6,
+      "Guaiacum": +6,
+      "Ruta": +6,
+      "Phytolacca": +5,
+      "Aurum_muriaticum": +6,
+      "Aurum_metallicum": +5,
+      "Syphilinum": +7,
+      "Thuja": +5,
+      "Lycopodium": +4,
+      "Natrum_muriaticum": +4,
+      "Bellis_perennis": +3,
+      "Symphytum": +3,
+      "Ledum": +1,
+      "Hypericum": +1
+    },
+
+    "sacroiliac_pain_worse_rest": {
+      "Kali_carbonicum": +9,
+      "Kali_iodatum": +8,
+      "Medorrhinum": +8,
+      "Sulphur": +7,
+      "Causticum": +7,
+      "Calc_phos": +6,
+      "Calc_fluor": +6,
+      "Silicea": +5,
+      "Thuja": +5,
+      "Guaiacum": +5,
+      "Ruta": +6,
+      "Phytolacca": +4,
+      "Natrum_sulphuricum": +5,
+      "Aurum_muriaticum": +5,
+      "Aurum_metallicum": +4,
+      "Graphites": +3,
+      "Petroleum": +3,
+      "Bellis_perennis": +3,
+      "Symphytum": +2,
+      "Arnica": +1
+    },
+
+    "sacroiliac_pain_better_motion": {
+      "Kali_iodatum": +9,
+      "Sulphur": +8,
+      "Causticum": +7,
+      "Medorrhinum": +7,
+      "Natrum_sulphuricum": +6,
+      "Kali_carbonicum": +6,
+      "Calc_phos": +5,
+      "Calc_fluor": +5,
+      "Ruta": +6,
+      "Guaiacum": +5,
+      "Silicea": +4,
+      "Aurum_muriaticum": +4,
+      "Phytolacca": +4,
+      "Thuja": +3,
+      "Graphites": +2,
+      "Bellis_perennis": +2,
+      "Arnica": +1
+    },
+
+    "sacroiliac_shooting_pain_down_leg": {
+      "Kali_carbonicum": +9,
+      "Kali_iodatum": +8,
+      "Sulphur": +7,
+      "Causticum": +8,
+      "Silicea": +6,
+      "Calc_fluor": +6,
+      "Calc_phos": +5,
+      "Medorrhinum": +6,
+      "Syphilinum": +7,
+      "Guaiacum": +5,
+      "Ruta": +5,
+      "Phytolacca": +5,
+      "Aurum_muriaticum": +5,
+      "Lycopodium": +4,
+      "Natrum_muriaticum": +4,
+      "Aesculus": +3,
+      "Bellis_perennis": +2,
+      "Symphytum": +2,
+      "Hypericum": +1,
+      "Ledum": +1
+    },
+
+    "removed_blocked_remedies": {
+      "Rhus_tox": -999,
+      "Bryonia": -999
+    }
+  }
+}
+{
+  "psoriatic_arthritis": {
+    "small_large_joint_pain": {
+      "Sulphur": +10,
+      "Psorinum": +9,
+      "Graphites": +8,
+      "Mezereum": +7,
+      "Calc_carbonicum": +7,
+      "Arsenicum_album": +6,
+      "Rhus_tox": +4,
+      "Bryonia": +3,
+      "Medorrhinum": +7,
+      "Thuja": +6,
+      "Natrum_muriaticum": +6,
+      "Calc_fluor": +5,
+      "Kali_carbonicum": +5,
+      "Silicea": +5,
+      "Lachesis": +4,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6,
+      "Causticum": +6,
+      "Ruta": +5,
+      "Belladonna": +3,
+      "Phytolacca": +4,
+      "Petroleum": +4,
+      "Antimonium_crudum": +4
+    },
+
+    "dactylitis_finger_toe": {
+      "Sulphur": +10,
+      "Psorinum": +9,
+      "Graphites": +8,
+      "Mezereum": +7,
+      "Calc_carbonicum": +6,
+      "Arsenicum_album": +5,
+      "Thuja": +6,
+      "Medorrhinum": +7,
+      "Rhus_tox": +3,
+      "Bryonia": +3,
+      "Causticum": +6,
+      "Silicea": +5,
+      "Kali_carbonicum": +5,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6
+    },
+
+    "enthesitis_tendon_insertion": {
+      "Sulphur": +10,
+      "Psorinum": +9,
+      "Calc_fluor": +8,
+      "Silicea": +7,
+      "Ruta": +7,
+      "Causticum": +6,
+      "Rhus_tox": +3,
+      "Bryonia": +3,
+      "Medorrhinum": +7,
+      "Thuja": +6,
+      "Aurum_metallicum": +6
+    },
+
+    "psoriatic_skin_joint_overlap": {
+      "Sulphur": +10,
+      "Psorinum": +9,
+      "Graphites": +8,
+      "Mezereum": +7,
+      "Thuja": +6,
+      "Medorrhinum": +7,
+      "Calc_carbonicum": +6,
+      "Silicea": +6,
+      "Kali_carbonicum": +5,
+      "Arsenicum_album": +5,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6
+    },
+
+    "removed_blocked_remedies": {
+      "None": -999
+    }
+  }
+}
+{
+  "small_joint_arthritis": {
+    "fingers_wrist_toes": {
+      "Sulphur": +10,
+      "Psorinum": +9,
+      "Graphites": +8,
+      "Actaea_spicata": +7,
+      "Mezereum": +7,
+      "Calc_carbonicum": +7,
+      "Medorrhinum": +7,
+      "Thuja": +6,
+      "Arsenicum_album": +6,
+      "Calc_fluor": +6,
+      "Silicea": +5,
+      "Kali_carbonicum": +5,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6,
+      "Causticum": +6,
+      "Ruta": +5,
+      "Phytolacca": +4,
+      "Petroleum": +4,
+      "Antimonium_crudum": +4,
+      "Belladonna": +3,
+      "Rhus_tox": +3,
+      "Bryonia": +3
+    },
+
+    "metacarpal_metatarsal": {
+      "Sulphur": +10,
+      "Psorinum": +9,
+      "Graphites": +8,
+      "Actaea_spicata": +7,
+      "Mezereum": +7,
+      "Calc_carbonicum": +6,
+      "Medorrhinum": +7,
+      "Thuja": +6,
+      "Arsenicum_album": +5,
+      "Calc_fluor": +6,
+      "Silicea": +5,
+      "Kali_carbonicum": +5,
+      "Aurum_metallicum": +6,
+      "Aurum_muriaticum": +6,
+      "Causticum": +6,
+      "Ruta": +5,
+      "Phytolacca": +4,
+      "Rhus_tox": +3,
+      "Bryonia": +3
+    },
+    
+  }
+}
+{
+  "viral_arthritis": {
+    "acute_joint_pain": {
+      "Bryonia": +10,
+      "Rhus_tox": +9,
+      "Arsenicum_album": +8,
+      "Gelsemium": +7,
+      "Aconitum": +7,
+      "Belladonna": +6,
+      "Rhus_radicans": +6,
+      "Apis_mellifica": +5,
+      "Ledum": +5,
+      "Mercurius_sol": +5,
+      "Eupatorium_perf": +5,
+      "Veratrum_album": +4,
+      "Calc_carbonicum": +3,
+      "Sulphur": +3,
+      "Psorinum": +2,
+      "Medorrhinum": +2
+    },
+
+    "migratory_joint_pain": {
+      "Bryonia": +9,
+      "Rhus_tox": +9,
+      "Gelsemium": +8,
+      "Arsenicum_album": +7,
+      "Aconitum": +7,
+      "Apis_mellifica": +6,
+      "Rhus_radicans": +6,
+      "Ledum": +5,
+      "Belladonna": +5,
+      "Mercurius_sol": +5
+    },
+
+    "modalities": {
+      "worse": ["motion", "cold", "touch", "night"],
+      "better": ["rest", "warmth", "lying down"]
+    }
+  }
+}
+
