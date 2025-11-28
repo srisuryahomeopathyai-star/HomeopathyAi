@@ -2,7 +2,7 @@
 
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/doctor1.jpg";
+import logo from "../assets/doctors.jpg";
 import logo1 from "../assets/Bhanulogo.png";
 const Home = () => {
   return (
@@ -55,24 +55,33 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Doctor Profile */}
+      {/* Doctors Section */}
       <section style={styles.section}>
-        <h2 style={styles.sectionTitle}>Meet Our Doctor</h2>
-        <div style={styles.doctor}>
-          <img
-            // src="https://cdn-icons-png.flaticon.com/512/387/387561.png"
-            src={logo}
-            alt='Doctor'
-            style={styles.doctorImg}
-          />
-          <div>
-            <h3 style={styles.doctorName}>Dr. Somasekhar, BHMS</h3>
-            <p style={styles.doctorDesc}>
-              A passionate homeopath with expertise in case-based prescribing,
-              chronic illness treatment, and mental-emotional balance. Trusted
-              by thousands for accurate, safe, and gentle healing.
-            </p>
-          </div>
+        <h2 style={styles.sectionTitle}>Our Homeopathy Doctors</h2>
+
+        <div style={styles.doctorsGrid}>
+          {[
+            { name: "Dr. V. Manidhar, BHMS", location: "Vizag" },
+            { name: "Dr. N. Shalini, M.D.", location: "Draksharamam" },
+            { name: "Dr. A. Bhavani, BHMS", location: "Rajanagaram" },
+            { name: "Dr. P. Ramachandra Rao, BHMS", location: "Eluru" },
+            { name: "Dr. K. Lokesh, BHMS", location: "Jaggampeta" },
+            { name: "Dr. Venkata Ramana, BHMS", location: "Kathipudi" },
+            { name: "Dr. D. Rajesh, BHMS", location: "Vetlapalem" },
+            { name: "Dr. K. Lakshmi Reddy, BHMS", location: "Kakinada" },
+            { name: "Dr. P. S. Satyavathi, BHMS", location: "Samalkota" },
+            { name: "Dr. N. Harika, BHMS", location: "Tuni" },
+          ].map((doc, index) => (
+            <div key={index} style={styles.doctorCard}>
+              <img
+                src={logo} // You can replace with actual doctor images when available
+                alt={doc.name}
+                style={styles.doctorCardImg}
+              />
+              <h3 style={styles.doctorCardName}>{doc.name}</h3>
+              <p style={styles.doctorCardLocation}>📍 {doc.location}</p>
+            </div>
+          ))}
         </div>
       </section>
 
@@ -86,26 +95,82 @@ const Home = () => {
 
       {/* Testimonials Marquee Section */}
       <section style={styles.section}>
-        <h2 style={styles.sectionTitle}>What Our Patients Say</h2>
+        <h2 style={styles.sectionTitle}>Doctors Who Trust Our Treatment</h2>
+
         <div style={styles.marqueeContainer}>
           <div style={styles.marqueeContent}>
-            {[1, 2, 3, 4].map((_, index) => (
+            {[
+              {
+                name: "Dr. V. Manidhar, BHMS",
+                location: "Vizag",
+                review:
+                  "A highly effective and reliable treatment method for chronic conditions.",
+              },
+              {
+                name: "Dr. N. Shalini, M.D.",
+                location: "Draksharamam",
+                review:
+                  "Accurate diagnosis and holistic care. Truly impressed.",
+              },
+              {
+                name: "Dr. A. Bhavani, BHMS",
+                location: "Rajanagaram",
+                review: "Gentle remedies with real results for my patients.",
+              },
+              {
+                name: "Dr. P. Ramachandra Rao, BHMS",
+                location: "Eluru",
+                review:
+                  "Professional, compassionate, and outcome-focused healing.",
+              },
+              {
+                name: "Dr. K. Lokesh, BHMS",
+                location: "Jaggampeta",
+                review:
+                  "One of the best homeopathic approaches I have experienced.",
+              },
+              {
+                name: "Dr. Venkata Ramana, BHMS",
+                location: "Kathipudi",
+                review: "Detailed case-taking and patient-friendly treatment.",
+              },
+              {
+                name: "Dr. D. Rajesh, BHMS",
+                location: "Vetlapalem",
+                review:
+                  "Highly dependable treatment. Perfect for chronic complaints.",
+              },
+              {
+                name: "Dr. K. Lakshmi Reddy, BHMS",
+                location: "Kakinada",
+                review: "Holistic, gentle, and scientifically handled care.",
+              },
+              {
+                name: "Dr. P. S. Satyavathi, BHMS",
+                location: "Samalkota",
+                review: "Excellent healing outcomes with zero side effects.",
+              },
+              {
+                name: "Dr. N. Harika, BHMS",
+                location: "Tuni",
+                review: "Patients show steady and remarkable improvement.",
+              },
+            ].map((doc, index) => (
               <div key={index} style={styles.testimonialBox}>
-                <p style={styles.testimonialText}>
-                  “
-                  {
-                    [
-                      "Dr. Somasekhar’s treatment changed my life.",
-                      "Effective remedies. Results within weeks.",
-                      "Excellent diagnosis and care.",
-                      "The best clinic for chronic conditions.",
-                    ][index % 4]
-                  }
-                  ”
-                </p>
-                <div style={styles.testimonialAuthor}>
-                  — {["Sravani", "Ramesh", "Lakshmi", "Venkat"][index % 4]}
+                <p style={styles.testimonialText}>“{doc.review}”</p>
+
+                <div style={styles.testimonialAuthor}>— {doc.name}</div>
+
+                <div
+                  style={{
+                    color: "#475569",
+                    fontSize: "0.9rem",
+                    marginTop: "3px",
+                  }}
+                >
+                  📍 {doc.location}
                 </div>
+
                 <div style={styles.testimonialStars}>⭐⭐⭐⭐⭐</div>
               </div>
             ))}
@@ -114,7 +179,7 @@ const Home = () => {
       </section>
 
       {/* Map Section */}
-      <section style={{ ...styles.section, paddingTop: 0 }}>
+      {/* <section style={{ ...styles.section, paddingTop: 0 }}>
         <h2 style={styles.sectionTitle}>Find Us on Google Maps</h2>
         <div style={styles.mapContainer}>
           <iframe
@@ -128,7 +193,7 @@ const Home = () => {
             referrerPolicy='no-referrer-when-downgrade'
           ></iframe>
         </div>
-      </section>
+      </section> */}
 
       {/* Footer */}
       {/* <footer style={styles.footer}>
@@ -318,6 +383,49 @@ const styles = {
     display: "flex",
     gap: "30px",
     animation: "scrollLeft 20s linear infinite",
+  },
+  doctorsGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fit, minmax(250px, 1fr))",
+    gap: "30px",
+    marginTop: "30px",
+    justifyItems: "center",
+  },
+
+  doctorCard: {
+    background: "#ffffff",
+    borderRadius: "16px",
+    padding: "20px",
+    width: "250px",
+    boxShadow: "0 6px 18px rgba(0,0,0,0.08)",
+    transition: "transform 0.3s ease, box-shadow 0.3s ease",
+    textAlign: "center",
+    cursor: "pointer",
+  },
+  doctorCardHover: {
+    transform: "translateY(-5px)",
+    boxShadow: "0 12px 25px rgba(0,0,0,0.12)",
+  },
+
+  doctorCardImg: {
+    width: "120px",
+    height: "120px",
+    borderRadius: "50%",
+    objectFit: "cover",
+    marginBottom: "15px",
+    border: "4px solid #3b82f6",
+  },
+
+  doctorCardName: {
+    fontSize: "1.1rem",
+    fontWeight: 700,
+    color: "#1e3a8a",
+  },
+
+  doctorCardLocation: {
+    marginTop: "6px",
+    fontSize: "0.95rem",
+    color: "#475569",
   },
 };
 

@@ -155,30 +155,6 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Doctor Profile */}
-      <section className='py-16 px-6 bg-purple-50'>
-        <h2 className='text-3xl font-bold text-center text-blue-800 mb-10'>
-          Meet Our Doctor
-        </h2>
-        <div className='flex flex-col md:flex-row items-center justify-center gap-10'>
-          <img
-            src={doctorImg}
-            alt='Dr. Somasekhar'
-            className='w-72 h-72 rounded-3xl object-cover border-4 border-green-400 shadow-xl'
-          />
-          <div className='max-w-md'>
-            <h3 className='text-2xl font-bold text-blue-900'>
-              Dr. Somasekhar, BHMS
-            </h3>
-            <p className='text-gray-700 mt-3'>
-              A dedicated homeopath with deep experience in holistic healing,
-              chronic diseases, and personalized case-based prescriptions.
-              Trusted by thousands for accurate, gentle care.
-            </p>
-          </div>
-        </div>
-      </section>
-
       {/* Contact Section */}
       <section className='py-16 px-6 text-center bg-green-50'>
         <h2 className='text-3xl font-bold text-blue-800 mb-6'>Contact Us</h2>
@@ -189,42 +165,44 @@ const Home = () => {
         <p className='text-gray-800'>📧 bhanuhomeohospital@gmail.com</p>
       </section>
 
-      {/* Testimonials Section */}
-      <section className='py-16 px-6 bg-white'>
+      {/* 🔹 Doctors Section */}
+      <section className='py-16 px-6 bg-[#f0f7ff]'>
         <h2 className='text-3xl font-bold text-center text-blue-800 mb-10'>
-          What Our Patients Say
+          Our Homeopathy Doctors
         </h2>
-        <div className='max-w-6xl mx-auto grid gap-8 md:grid-cols-3 sm:grid-cols-2 grid-cols-1'>
-          {/* Testimonial 1 */}
-          <div className='bg-blue-50 rounded-xl p-6 shadow-lg'>
-            <p className='text-gray-700 italic mb-4'>
-              “I was suffering from migraines for years. Dr. Somasekhar’s
-              treatment changed my life. Highly recommend Sri Surya Homeo
-              Clinic!”
-            </p>
-            <div className='font-semibold text-blue-900'>— Sravani K.</div>
-            <div className='text-yellow-500 mt-2'>⭐⭐⭐⭐⭐</div>
-          </div>
 
-          {/* Testimonial 2 */}
-          <div className='bg-blue-50 rounded-xl p-6 shadow-lg'>
-            <p className='text-gray-700 italic mb-4'>
-              “Professional, friendly, and truly effective remedies. I noticed
-              results within weeks.”
-            </p>
-            <div className='font-semibold text-blue-900'>— Ramesh V.</div>
-            <div className='text-yellow-500 mt-2'>⭐⭐⭐⭐⭐</div>
-          </div>
+        <div className='max-w-6xl mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3'>
+          {/* Doctor Card Component */}
+          {[
+            { name: "Dr. V. Manidhar, BHMS", location: "Vizag" },
+            { name: "Dr. N. Shalini, M.D.", location: "Draksharamam" },
+            { name: "Dr. T. Phani Kumar, BHMS", location: "Jaggampeta" },
+            { name: "Dr. A. Vani Bala, BHMS", location: "Gokavaram" },
+            { name: "Dr. M. S. Krishna Kumari, BHMS", location: "Rajahmundry" },
+            { name: "Dr. M. V. V. Naresh, BHMS", location: "Rajahmundry" },
+            { name: "Dr. M. Lakshmi, BHMS", location: "Kovvur" },
+            { name: "Dr. N. Santhi Sri, BHMS", location: "Dowleswaram" },
+            { name: "Dr. B. S. Subrahmanyam, BHMS", location: "Rajahmundry" },
+            { name: "Dr. P. Lingaswamy, BHMS", location: "Rajahmundry" },
+          ].map((doc, index) => (
+            <div
+              key={index}
+              className='bg-white p-6 rounded-xl shadow-md hover:shadow-xl transition-all duration-300 flex items-center gap-5 border border-blue-100'
+            >
+              <img
+                src='/assets/doctor.png'
+                alt={doc.name}
+                className='w-20 h-20 rounded-full object-cover border-2 border-blue-300 shadow-sm'
+              />
 
-          {/* Testimonial 3 */}
-          <div className='bg-blue-50 rounded-xl p-6 shadow-lg'>
-            <p className='text-gray-700 italic mb-4'>
-              “Excellent diagnosis and personalized care. The best homeopathy
-              clinic in our area.”
-            </p>
-            <div className='font-semibold text-blue-900'>— Lakshmi Devi</div>
-            <div className='text-yellow-500 mt-2'>⭐⭐⭐⭐</div>
-          </div>
+              <div>
+                <h4 className='font-semibold text-blue-900 text-lg'>
+                  {doc.name}
+                </h4>
+                <p className='text-gray-600 text-sm mt-1'>{doc.location}</p>
+              </div>
+            </div>
+          ))}
         </div>
       </section>
     </div>
