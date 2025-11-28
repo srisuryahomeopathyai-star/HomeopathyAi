@@ -1,260 +1,200 @@
-/* 
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/**
+ * ===========================
+ *    Modern Navbar Styling
+ * ===========================
+ *
+ * @format
+ */
 
 .navbar {
-  position: fixed;
+  background: #ffffff;
+  position: relative;
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #ffffff;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
   z-index: 1000;
-}
-.logo-img {
-  height: 46px;
-  width: auto;
-  object-fit: contain;
+  padding: 10px 0px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
 .navbar-container {
-  max-width: 1200px;
+  max-width: 1000px;
   margin: auto;
-  padding: 16px 24px;
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
 }
 
-
+/* LOGO */
 .navbar-logo {
   display: flex;
   align-items: center;
   gap: 10px;
-}
-
-.navbar-logo .dot {
-  width: 12px;
-  height: 12px;
-  background-color: #3b82f6;
-  border-radius: 50%;
 }
 
 .navbar-logo h1 {
   font-size: 20px;
-  color: #1d4ed8;
   font-weight: 700;
-}
-
-
-.navbar-links {
-  display: flex;
-  gap: 24px;
-  list-style: none;
-  align-items: center;
-  transition: transform 0.3s ease;
-}
-
-.navbar-links li a {
-  text-decoration: none;
-  color: #374151;
-  font-weight: 500;
-  transition: color 0.3s ease;
-}
-
-.navbar-links li a:hover {
-  color: black;
-}
-
-.signup-btn {
-  background-color: #2563eb;
-  color: white;
-  border: none;
-  padding: 8px 16px;
-  border-radius: 9999px;
-  font-weight: 500;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-.signup-btn:hover {
-  background-color: #1e40af;
-  color: black;
-}
-
-
-.hamburger {
-  display: none;
-  flex-direction: column;
-  cursor: pointer;
-  gap: 5px;
-}
-
-.bar {
-  width: 24px;
-  height: 2px;
-  background-color: #374151;
-  transition: all 0.3s ease;
-}
-
-@media (max-width: 768px) {
-  .navbar-links {
-    position: absolute;
-    top: 72px;
-    right: 0;
-    background: #ffffff;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 100%;
-    padding: 20px;
-    transform: translateY(-100%);
-    opacity: 0;
-    visibility: hidden;
-  }
-
-  .navbar-links.open {
-    transform: translateY(0);
-    opacity: 1;
-    visibility: visible;
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
-  }
-
-  .hamburger {
-    display: flex;
-  }
-}
-body {
-  padding-top: 80px;
-} */
-/* Main navbar styles */
-.navbar {
-  background-color: #fff;
-  border-bottom: 1px solid #ddd;
-  padding: 10px 20px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.navbar-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.navbar-logo {
-  display: flex;
-  align-items: center;
-  gap: 10px;
+  color: #1d4ed8;
 }
 
 .logo-img {
   height: 40px;
-  width: auto;
 }
 
+/* ===========================
+   NAV LINKS
+=========================== */
 .navbar-links {
   display: flex;
   list-style: none;
-  gap: 20px;
-  transition: all 0.3s ease;
+  gap: 25px;
+  align-items: center;
+  transition: all 0.35s ease;
 }
 
+/* LEFT ALIGN NAV LINKS */
 .navbar-links li {
-  position: relative;
+  display: flex;
+  align-items: center;
 }
 
 .navbar-links a {
   text-decoration: none;
-  color: #333;
-  padding: 8px 10px;
-  transition: all 0.3s ease;
+  color: #374151;
   font-weight: 500;
-  border-radius: 5px;
+  padding: 6px 2px;
+  position: relative;
+  transition: color 0.3s ease;
 }
 
-/* Hover animation */
-.navbar-links a:hover {
-  background-color: #f0f0f0;
-  transform: scale(1.05);
-  color: #007bff;
+/* Underline Animation */
+.navbar-links a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0%;
+  height: 2px;
+  background: #2563eb;
+  transition: width 0.3s ease;
 }
 
-/* Active link */
+.navbar-links a:hover::after {
+  width: 100%;
+}
+
+/* Active Link */
 .active-link {
-  color: #007bff;
-  font-weight: bold;
-  border-bottom: 2px solid #fdb813;
+  color: #1d4ed8 !important;
+}
+.active-link::after {
+  width: 100%;
 }
 
-/* Hamburger menu styles (for responsiveness) */
-.hamburger {
-  display: none;
-  flex-direction: column;
-  cursor: pointer;
-}
-.bar {
-  height: 3px;
-  width: 25px;
-  background-color: #333;
-  margin: 3px 0;
-  transition: all 0.3s ease;
+/* ===========================
+   SIGNUP BTN
+=========================== */
+.signup-btn {
+  background: #2563eb;
+  padding: 6px 14px;
+  color: white !important;
+  border-radius: 6px;
+  transition: 0.3s ease;
 }
 
-.bar.open {
-  background-color: #007bff;
+.signup-btn:hover {
+  background: #1e3fae;
+  transform: translateY(-2px);
 }
 
-/* Logout button styling */
+/* LOGOUT BUTTON */
 .logout-btn {
   background: none;
   border: none;
   color: red;
-  cursor: pointer;
   font-weight: bold;
-  padding: 8px 10px;
-  transition: all 0.3s ease;
+  cursor: pointer;
+  transition: 0.3s ease;
 }
 
 .logout-btn:hover {
-  color: #c70000;
+  transform: translateY(-2px);
+  color: #b30000;
   text-decoration: underline;
 }
 
-/* Sign Up button */
-.signup-btn {
-  background-color: #007bff;
-  color: white !important;
-  padding: 8px 12px;
+/* ===========================
+   HAMBURGER MENU
+=========================== */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  gap: 4px;
+}
+
+.bar {
+  width: 26px;
+  height: 3px;
+  background: #333;
   border-radius: 5px;
+  transition: 0.3s ease;
 }
 
-.signup-btn:hover {
-  background-color: #0056b3;
+/* Hamburger animation */
+.hamburger.open .bar:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+.hamburger.open .bar:nth-child(2) {
+  opacity: 0;
+}
+.hamburger.open .bar:nth-child(3) {
+  transform: rotate(-45deg) translate(5px, -5px);
 }
 
-/* Responsive - small screens */
+/* ===========================
+   MOBILE VIEW
+=========================== */
 @media (max-width: 768px) {
   .hamburger {
     display: flex;
   }
 
   .navbar-links {
-    flex-direction: column;
+    position: absolute;
+    top: 70px;
+    left: 0;
     width: 100%;
+    flex-direction: column;
+    background: white;
+    padding: 20px 0;
     display: none;
-    margin-top: 10px;
+
+    /* smooth slide animation */
+    transform: translateY(-20px);
+    opacity: 0;
   }
 
   .navbar-links.open {
     display: flex;
+    animation: slideDown 0.35s ease forwards;
+  }
+
+  @keyframes slideDown {
+    0% {
+      transform: translateY(-20px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0px);
+      opacity: 1;
+    }
   }
 
   .navbar-links li {
-    text-align: center;
     width: 100%;
+    text-align: center;
+    padding: 12px 0;
   }
 }

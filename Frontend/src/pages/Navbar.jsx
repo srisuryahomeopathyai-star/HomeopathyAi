@@ -108,7 +108,10 @@ const Navbar = () => {
         </div>
 
         {/* Hamburger Icon */}
-        <div className='hamburger' onClick={() => setMenuOpen(!menuOpen)}>
+        <div
+          className={`hamburger ${menuOpen ? "open" : ""}`}
+          onClick={() => setMenuOpen(!menuOpen)}
+        >
           <span className={menuOpen ? "bar open" : "bar"}></span>
           <span className={menuOpen ? "bar open" : "bar"}></span>
           <span className={menuOpen ? "bar open" : "bar"}></span>
@@ -165,6 +168,15 @@ const Navbar = () => {
                   className={({ isActive }) => (isActive ? "active-link" : "")}
                 >
                   Followup
+                </NavLink>
+              </li>
+              {/* ⭐ Added Dashboard */}
+              <li>
+                <NavLink
+                  to='/dashboard'
+                  className={({ isActive }) => (isActive ? "active-link" : "")}
+                >
+                  Dashboard
                 </NavLink>
               </li>
               <li>
