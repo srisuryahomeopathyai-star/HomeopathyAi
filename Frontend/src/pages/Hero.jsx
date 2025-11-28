@@ -53,17 +53,6 @@ const Home = () => {
         </p>
       </section>
 
-      {/* Why Choose Us */}
-      <section style={styles.section}>
-        <h2 style={styles.sectionTitle}>Why Choose Us?</h2>
-        <div style={styles.features}>
-          <div style={styles.featureBox}>🧠 AI-Supported Diagnosis</div>
-          <div style={styles.featureBox}>👨‍⚕️ 7+ Years Experience</div>
-          <div style={styles.featureBox}>📱 Online Consultation</div>
-          <div style={styles.featureBox}>🌿 Side-effect Free Remedies</div>
-        </div>
-      </section>
-
       {/* Doctors Section */}
       <section style={styles.section}>
         <h2 style={styles.sectionTitle}>Our Homeopathy Doctors</h2>
@@ -112,57 +101,93 @@ const Home = () => {
               {
                 name: "Dr. V. Manidhar, BHMS",
                 location: "Vizag",
-                review:
-                  "A highly effective and reliable treatment method for chronic conditions.",
+                review: `“I am Dr. V. Manidhar. I have been using this app’s repertory and AI-supported analysis, and I am truly impressed with its accuracy and practicality. The repertory structure is very clear, user-friendly, and clinically helpful.
+
+After integrating this into my daily practice, I have noticed a clear improvement in my case results and success rate. The app saves time, improves clarity, and supports precise remedy selection.
+
+A highly recommended tool for all homeopathic doctors.”`,
               },
               {
                 name: "Dr. N. Shalini, M.D.",
                 location: "Draksharamam",
-                review:
-                  "Accurate diagnosis and holistic care. Truly impressed.",
+                review: `“I am Dr. N. Shalini. Using this app’s repertory and AI-based analytical system has greatly enhanced the accuracy and speed of my case evaluations. The repertory is comprehensive, neatly organized, and very practical for day-to-day clinical use.
+
+Since I started using it, I have noticed a significant improvement in my case success rate. The app provides clarity in remedy selection and supports deeper understanding of patient symptoms.
+
+A highly efficient and reliable tool for every modern homeopathic practitioner."`,
               },
               {
-                name: "Dr. A. Bhavani, BHMS",
-                location: "Rajanagaram",
-                review: "Gentle remedies with real results for my patients.",
+                name: "Dr. K.Saritha Laxmi, BHMS",
+                location: "Draksharamam",
+                review: `“I am Dr. K. Saritha Laxmi. After using this app’s repertory and AI-based case-analysis system, I am extremely satisfied with its performance. The repertory is very clear, well-structured, and clinically practical for everyday use.
+
+Since I started using this tool, I have observed a significant improvement in my case clarity and success rate. The intelligent rubric suggestions and accurate remedy mapping make case handling much easier and more efficient.
+
+A highly recommended tool for every homeopathic practitioner.”`,
               },
               {
-                name: "Dr. P. Ramachandra Rao, BHMS",
-                location: "Eluru",
-                review:
-                  "Professional, compassionate, and outcome-focused healing.",
-              },
-              {
-                name: "Dr. K. Lokesh, BHMS",
+                name: "Dr. M. Siva Rama Krishna, BHMS",
                 location: "Jaggampeta",
-                review:
-                  "One of the best homeopathic approaches I have experienced.",
+                review: `“I am Dr. Sivaramakrishna. After using this app’s repertory and AI-driven case analysis, I can confidently say it has added tremendous value to my clinical practice. The repertory is clean, fast, and highly practical, making case interpretation much easier.
+
+Since integrating this tool into my routine, I have observed a steady improvement in accuracy and overall success rate. The clarity in rubric selection and the intelligent remedy suggestions make it an excellent companion for busy practitioners.
+
+A very reliable and efficient app for modern homeopathic practice.”`,
               },
               {
-                name: "Dr. Venkata Ramana, BHMS",
-                location: "Kathipudi",
-                review: "Detailed case-taking and patient-friendly treatment.",
+                name: "Dr. MSK. Haffezza, BHMS",
+                location: "Jaggampeta",
+                review: `“I am Dr. Hafeezza. I have been using this app’s repertory and AI-based case-analysis system, and the experience has been excellent. The repertory is well-organized, easy to use, and clinically very supportive.
+
+After using this app, I have noticed a clear improvement in my case accuracy and success rate. The intelligent rubric suggestions and precise remedy mapping make day-to-day practice much smoother.
+
+A highly useful and dependable tool for every homeopathic practitioner.”`,
               },
               {
-                name: "Dr. D. Rajesh, BHMS",
-                location: "Vetlapalem",
-                review:
-                  "Highly dependable treatment. Perfect for chronic complaints.",
-              },
-              {
-                name: "Dr. K. Lakshmi Reddy, BHMS",
+                name: "Dr.A.Sravani, BHMS",
                 location: "Kakinada",
-                review: "Holistic, gentle, and scientifically handled care.",
+                review: `“I am Dr. A. Sravani. After using this app’s repertory and AI-based case-analysis system, I can confidently say it has made my clinical work smoother and more accurate. The repertory is very well organized, practical, and easy to navigate.
+
+Ever since I started using this, my case interpretation and success rate have significantly improved. The depth of rubrics, clarity of remedy suggestions, and the intelligent analysis really make this app stand out.
+
+A very useful tool for every homeopathic practitioner.”`,
               },
               {
-                name: "Dr. P. S. Satyavathi, BHMS",
-                location: "Samalkota",
-                review: "Excellent healing outcomes with zero side effects.",
+                name: "Dr. Ch.Yadagiri, BHMS",
+                location: "Vijayawada",
+                review: `I am Dr. Ch. Yadagiri. I have been using this app’s repertory along with its AI-based case analysis, and I am truly impressed with its accuracy and usefulness. The repertory is clear, practical, and extremely helpful during daily case-taking.
+
+After integrating this app into my practice, my case interpretation and overall success rate have noticeably improved. The intelligent rubric suggestions and precise remedy guidance make this a very dependable clinical tool.
+
+A highly beneficial app for every homeopathic doctor.`,
               },
               {
-                name: "Dr. N. Harika, BHMS",
-                location: "Tuni",
-                review: "Patients show steady and remarkable improvement.",
+                name: "Dr. K. Saritha Laxmi, BHMS",
+                location: "Vijayawada",
+                review: `I am Dr. K. Saritha Laxmi. After using this app’s repertory and AI-based case-analysis system, I am extremely satisfied with its performance. The repertory is very clear, well-structured, and clinically practical for everyday use.
+
+Since I started using this tool, I have observed a significant improvement in my case clarity and success rate. The intelligent rubric suggestions and accurate remedy mapping make case handling much easier and more efficient.
+
+A highly recommended tool for every homeopathic practitioner.`,
+              },
+              {
+                name: "Dr. D.Rajasekhar, BHMS",
+                location: "Viziyanagaram",
+                review: `I am Dr. Raja Sekhar. After using this app’s repertory and AI-supported analysis, I am highly impressed with its clinical accuracy and ease of use. The repertory is very practical, clearly structured, and perfectly suited for fast decision-making during case work.
+
+Ever since I integrated this tool into my practice, my success rate and confidence in case analysis have noticeably increased. The intelligent rubric selection and precise remedy guidance make it an excellent support system for daily clinical work.
+
+A must-have tool for every homeopathic doctor.`,
+              },
+              {
+                name: "Dr. G.V.S. Kiran, BHMS",
+                location: "Palakollu",
+                review: `“Dr. GVS Kiran here. I have been using this app’s repertory system for the past few weeks, and I am extremely satisfied with the results. The repertory is very well-structured, fast, and clinically practical. After integrating this repertory into my case analysis, my success rate has noticeably increased.
+
+The symptom coverage, remedy suggestions, and the customized AI-based logic make case solving much easier and more accurate. This has become a valuable tool in my daily practice. Highly recommended for every homeopathic practitioner.”
+
+– Dr. GVS Kiran,
+BHMS, Consultant Homeopathic Physician`,
               },
             ].map((doc, index) => (
               <div key={index} style={styles.testimonialBox}>
@@ -173,7 +198,7 @@ const Home = () => {
                 <div
                   style={{
                     color: "#475569",
-                    fontSize: "0.9rem",
+                    fontSize: "0.2rem",
                     marginTop: "3px",
                   }}
                 >
@@ -222,7 +247,7 @@ const styles = {
   hero: {
     display: "flex",
     flexWrap: "wrap",
-    padding: "60px 40px",
+    padding: "50px 40px",
     alignItems: "center",
     justifyContent: "space-between",
   },
@@ -390,13 +415,13 @@ const styles = {
 
   marqueeContent: {
     display: "flex",
-    gap: "30px",
+    gap: "20px",
     animation: "scrollLeft 20s linear infinite",
   },
   doctorsGrid: {
     display: "grid",
-    gridTemplateColumns: "repeat(auto-fit, minmax(250px, 1fr))",
-    gap: "30px",
+    gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
+    gap: "20px",
     marginTop: "30px",
     justifyItems: "center",
   },
