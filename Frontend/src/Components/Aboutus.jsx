@@ -3,18 +3,17 @@
 import React from "react";
 import "./AboutUs.css";
 
-
 const AboutUs = () => {
   return (
     <section className='about-section'>
       <div className='about-container'>
-        <h2 className='about-heading'>About Bhanu Homeopathy</h2>
+        <h2 className='about-heading'>About Sri Surya Homeopathy</h2>
 
         <p className='about-description'>
-          At <strong>Bhanu Homeopathy</strong>, we provide natural, gentle, and
-          effective healing through the science of homeopathy. Our mission is to
-          offer holistic wellness by treating not just the symptoms, but the
-          root cause of disease.
+          At <strong>Sri Surya Homeopathy</strong>, we provide natural, gentle,
+          and effective healing through the science of homeopathy. Our mission
+          is to offer holistic wellness by treating not just the symptoms, but
+          the root cause of disease.
         </p>
 
         <div className='about-content'>
@@ -76,12 +75,10 @@ const AboutUs = () => {
               <p>
                 Ready to begin your journey toward natural wellness?{" "}
                 <strong>Schedule a consultation today</strong> and experience
-                the Bhanu Homeopathy difference.
+                the Sri Surya Homeopathy difference.
               </p>
             </div>
           </div>
-
-          
         </div>
       </div>
     </section>

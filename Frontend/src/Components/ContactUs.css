@@ -1,5 +1,5 @@
 /** @format */
-
+/* 
 .contact-container {
   max-width: 600px;
   margin: 50px auto;
@@ -71,4 +71,84 @@
 
 .submit-button:hover {
   background-color: #c82333;
+} */
+/** @format */
+.contact-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  background: linear-gradient(to bottom right, #f5f5f5, #ffffff);
+  border: 2px solid #dcdcdc;
+  border-radius: 20px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* Title */
+.contact-title {
+  text-align: center;
+  font-size: 32px;
+  color: #2c3e50;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+
+/* Success Message */
+.success-message {
+  background-color: #e8f5e9;
+  color: #1a7f37;
+  border: 1px solid #c7e6c8;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+/* Fields */
+.contact-form .form-group {
+  margin-bottom: 20px;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 600;
+  color: #333;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #bdbdbd;
+  border-radius: 10px;
+  font-size: 16px;
+  background: #fff;
+  transition: border 0.3s, box-shadow 0.3s;
+}
+
+/* Focus Effects */
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #6c757d;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(108, 117, 125, 0.25);
+}
+
+/* Submit Button */
+.submit-button {
+  background-color: #343a40;
+  color: white;
+  font-size: 18px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  width: 100%;
+  transition: background 0.3s ease, transform 0.2s;
+}
+
+.submit-button:hover {
+  background-color: #23272b;
+  transform: translateY(-2px);
 }

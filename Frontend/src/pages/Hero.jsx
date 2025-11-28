@@ -10,11 +10,14 @@ const Home = () => {
       {/* Hero Section */}
       <section style={styles.hero}>
         <div style={styles.heroLeft}>
-          <h1 style={styles.heroTitle}>🌿 Welcome to Bhanu Homeo Clinic</h1>
-          <p style={styles.heroSub}>Natural Healing. Trusted Expertise. Proven Results.</p>
+          <h1 style={styles.heroTitle}>🌿 Welcome to Sri Surya Homeo Clinic</h1>
+          <p style={styles.heroSub}>
+            Natural Healing. Trusted Expertise. Proven Results.
+          </p>
           <p style={styles.heroText}>
-            Combining traditional homeopathy with modern tools to provide holistic care that works. 
-            7+ years of service to over 10,000 satisfied patients.
+            Combining traditional homeopathy with modern tools to provide
+            holistic care that works. 7+ years of service to over 10,000
+            satisfied patients.
           </p>
           {/* <div style={styles.heroButtons}>
             <Link to="/addcase" style={{ ...styles.button, backgroundColor: "#4f46e5" }}>
@@ -26,21 +29,18 @@ const Home = () => {
           </div> */}
         </div>
         <div style={styles.heroRight}>
-          <img
-            src={logo1}
-            alt="Doctor"
-            style={styles.heroImg}
-          />
+          <img src={logo1} alt='Doctor' style={styles.heroImg} />
         </div>
       </section>
 
       {/* About Section */}
       <section style={styles.section}>
-        <h2 style={styles.sectionTitle}>About Bhanu Homeo Clinic</h2>
+        <h2 style={styles.sectionTitle}>About Sri Surya Homeo Clinic</h2>
         <p style={styles.sectionText}>
-          Founded with compassion and care, our mission is to heal naturally using personalized
-          classical homeopathic remedies. We specialize in treating chronic diseases, stress, skin
-          conditions, women’s health, and more.
+          Founded with compassion and care, our mission is to heal naturally
+          using personalized classical homeopathic remedies. We specialize in
+          treating chronic diseases, stress, skin conditions, women’s health,
+          and more.
         </p>
       </section>
 
@@ -61,16 +61,16 @@ const Home = () => {
         <div style={styles.doctor}>
           <img
             // src="https://cdn-icons-png.flaticon.com/512/387/387561.png"
-           src={logo}
-            alt="Doctor"
+            src={logo}
+            alt='Doctor'
             style={styles.doctorImg}
           />
           <div>
             <h3 style={styles.doctorName}>Dr. Somasekhar, BHMS</h3>
             <p style={styles.doctorDesc}>
-              A passionate homeopath with expertise in case-based prescribing, chronic illness
-              treatment, and mental-emotional balance. Trusted by thousands for accurate, safe, and
-              gentle healing.
+              A passionate homeopath with expertise in case-based prescribing,
+              chronic illness treatment, and mental-emotional balance. Trusted
+              by thousands for accurate, safe, and gentle healing.
             </p>
           </div>
         </div>
@@ -84,54 +84,55 @@ const Home = () => {
         <p style={styles.sectionText}>📧 bhanuhomeohospital@gmail.com</p>
       </section>
 
-{/* Testimonials Marquee Section */}
-<section style={styles.section}>
-  <h2 style={styles.sectionTitle}>What Our Patients Say</h2>
-  <div style={styles.marqueeContainer}>
-    <div style={styles.marqueeContent}>
-      {[1, 2, 3, 4].map((_, index) => (
-        <div key={index} style={styles.testimonialBox}>
-          <p style={styles.testimonialText}>
-            “{[
-              "Dr. Somasekhar’s treatment changed my life.",
-              "Effective remedies. Results within weeks.",
-              "Excellent diagnosis and care.",
-              "The best clinic for chronic conditions.",
-            ][index % 4]}”
-          </p>
-          <div style={styles.testimonialAuthor}>
-            — {["Sravani", "Ramesh", "Lakshmi", "Venkat"][index % 4]}
+      {/* Testimonials Marquee Section */}
+      <section style={styles.section}>
+        <h2 style={styles.sectionTitle}>What Our Patients Say</h2>
+        <div style={styles.marqueeContainer}>
+          <div style={styles.marqueeContent}>
+            {[1, 2, 3, 4].map((_, index) => (
+              <div key={index} style={styles.testimonialBox}>
+                <p style={styles.testimonialText}>
+                  “
+                  {
+                    [
+                      "Dr. Somasekhar’s treatment changed my life.",
+                      "Effective remedies. Results within weeks.",
+                      "Excellent diagnosis and care.",
+                      "The best clinic for chronic conditions.",
+                    ][index % 4]
+                  }
+                  ”
+                </p>
+                <div style={styles.testimonialAuthor}>
+                  — {["Sravani", "Ramesh", "Lakshmi", "Venkat"][index % 4]}
+                </div>
+                <div style={styles.testimonialStars}>⭐⭐⭐⭐⭐</div>
+              </div>
+            ))}
           </div>
-          <div style={styles.testimonialStars}>⭐⭐⭐⭐⭐</div>
         </div>
-      ))}
-    </div>
-  </div>
-</section>
+      </section>
 
-
-
-
-{/* Map Section */}
-<section style={{ ...styles.section, paddingTop: 0 }}>
-  <h2 style={styles.sectionTitle}>Find Us on Google Maps</h2>
-  <div style={styles.mapContainer}>
-    <iframe
-      title="Bhanu Homeo Clinic Location"
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.7384504433393!2d78.50766697503696!3d13.558046202203175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb2b4d99b5c7b05%3A0x3f8a2cb54be57ff6!2sPrimo%20Smart%20Salon!5e0!3m2!1sen!2sin!4v1720198472937!5m2!1sen!2sin"
-      width="100%"
-      height="400"
-      style={{ border: 0, borderRadius: "12px" }}
-      allowFullScreen=""
-      loading="lazy"
-      referrerPolicy="no-referrer-when-downgrade"
-    ></iframe>
-  </div>
-</section>
+      {/* Map Section */}
+      <section style={{ ...styles.section, paddingTop: 0 }}>
+        <h2 style={styles.sectionTitle}>Find Us on Google Maps</h2>
+        <div style={styles.mapContainer}>
+          <iframe
+            title='Sri Surya Homeo Clinic Location'
+            src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.7384504433393!2d78.50766697503696!3d13.558046202203175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb2b4d99b5c7b05%3A0x3f8a2cb54be57ff6!2sPrimo%20Smart%20Salon!5e0!3m2!1sen!2sin!4v1720198472937!5m2!1sen!2sin'
+            width='100%'
+            height='400'
+            style={{ border: 0, borderRadius: "12px" }}
+            allowFullScreen=''
+            loading='lazy'
+            referrerPolicy='no-referrer-when-downgrade'
+          ></iframe>
+        </div>
+      </section>
 
       {/* Footer */}
       {/* <footer style={styles.footer}>
-        © {new Date().getFullYear()} Bhanu Homeo Clinic. All rights reserved.
+        © {new Date().getFullYear()} Sri Surya Homeo Clinic. All rights reserved.
       </footer> */}
     </div>
   );
@@ -193,7 +194,7 @@ const styles = {
   heroImg: {
     width: "400px",
     height: "auto",
-    backgroundColor:"transparent",
+    backgroundColor: "transparent",
   },
   section: {
     padding: "60px 40px",
@@ -263,14 +264,14 @@ const styles = {
     paddingBottom: "10px",
     scrollbarWidth: "thin",
   },
-  
+
   testimonialScrollInner: {
     display: "flex",
     gap: "20px",
     minWidth: "600px",
     padding: "10px 0",
   },
-  
+
   testimonialContainer: {
     display: "flex",
     flexWrap: "wrap",
@@ -312,12 +313,12 @@ const styles = {
     width: "100%",
     marginTop: "30px",
   },
-  
+
   marqueeContent: {
     display: "flex",
     gap: "30px",
     animation: "scrollLeft 20s linear infinite",
   },
-}
+};
 
 export default Home;

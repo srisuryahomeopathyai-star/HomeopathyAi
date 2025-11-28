@@ -1,3 +1,5 @@
+/** @format */
+
 import React from "react";
 
 const styles = {
@@ -13,7 +15,7 @@ const styles = {
 const Footer = () => {
   return (
     <footer style={styles.footer}>
-      © {new Date().getFullYear()} Bhanu Homeo Clinic. All rights reserved.
+      © {new Date().getFullYear()} Sri Surya Homeo Clinic. All rights reserved.
     </footer>
   );
 };

@@ -1,3 +1,5 @@
+/** @format */
+
 // /** @format */
 // import React, { useState, useEffect } from "react";
 // import "./Navbar.css";
@@ -26,8 +28,8 @@
 //       <nav className='navbar-container'>
 //         {/* Logo */}
 //         <div className='navbar-logo'>
-//           <img src={logo} alt='Bhanu Clinic Logo' className='logo-img' />
-//           <h1>Bhanu Clinic</h1>
+//           <img src={logo} alt='Sri Surya Clinic Logo' className='logo-img' />
+//           <h1>Sri Surya Clinic</h1>
 //         </div>
 
 //         {/* Hamburger Icon */}
@@ -97,16 +99,16 @@ const Navbar = () => {
   };
 
   return (
-    <header className="navbar">
-      <nav className="navbar-container">
+    <header className='navbar'>
+      <nav className='navbar-container'>
         {/* Logo */}
-        <div className="navbar-logo">
-          <img src={logo} alt="Bhanu Clinic Logo" className="logo-img" />
-          <h1>Bhanu Clinic</h1>
+        <div className='navbar-logo'>
+          <img src={logo} alt='Sri Surya Clinic Logo' className='logo-img' />
+          <h1>Sri Surya Homeopathy AI</h1>
         </div>
 
         {/* Hamburger Icon */}
-        <div className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>
+        <div className='hamburger' onClick={() => setMenuOpen(!menuOpen)}>
           <span className={menuOpen ? "bar open" : "bar"}></span>
           <span className={menuOpen ? "bar open" : "bar"}></span>
           <span className={menuOpen ? "bar open" : "bar"}></span>
@@ -115,39 +117,78 @@ const Navbar = () => {
         {/* Links */}
         <ul className={`navbar-links ${menuOpen ? "open" : ""}`}>
           <li>
-            <NavLink to="/" className={({ isActive }) => isActive ? "active-link" : ""}>Home</NavLink>
+            <NavLink
+              to='/'
+              className={({ isActive }) => (isActive ? "active-link" : "")}
+            >
+              Home
+            </NavLink>
           </li>
           <li>
-            <NavLink to="/about" className={({ isActive }) => isActive ? "active-link" : ""}>About</NavLink>
+            <NavLink
+              to='/about'
+              className={({ isActive }) => (isActive ? "active-link" : "")}
+            >
+              About
+            </NavLink>
           </li>
           <li>
-            <NavLink to="/contact" className={({ isActive }) => isActive ? "active-link" : ""}>Contact</NavLink>
+            <NavLink
+              to='/contact'
+              className={({ isActive }) => (isActive ? "active-link" : "")}
+            >
+              Contact
+            </NavLink>
           </li>
 
           {isLoggedIn ? (
             <>
               <li>
-                <NavLink to="/addcase" className={({ isActive }) => isActive ? "active-link" : ""}>Add Case</NavLink>
+                <NavLink
+                  to='/addcase'
+                  className={({ isActive }) => (isActive ? "active-link" : "")}
+                >
+                  Add Case
+                </NavLink>
               </li>
               <li>
-                <NavLink to="/cases" className={({ isActive }) => isActive ? "active-link" : ""}>View Cases</NavLink>
+                <NavLink
+                  to='/cases'
+                  className={({ isActive }) => (isActive ? "active-link" : "")}
+                >
+                  View Cases
+                </NavLink>
               </li>
               <li>
-                <NavLink to="/followup" className={({ isActive }) => isActive ? "active-link" : ""}>Followup</NavLink>
+                <NavLink
+                  to='/followup'
+                  className={({ isActive }) => (isActive ? "active-link" : "")}
+                >
+                  Followup
+                </NavLink>
               </li>
               <li>
-                <button className="logout-btn" onClick={handleLogout}>Logout</button>
+                <button className='logout-btn' onClick={handleLogout}>
+                  Logout
+                </button>
               </li>
             </>
           ) : (
             <>
               <li>
-                <NavLink to="/login" className={({ isActive }) => isActive ? "active-link" : ""}>Sign In</NavLink>
+                <NavLink
+                  to='/login'
+                  className={({ isActive }) => (isActive ? "active-link" : "")}
+                >
+                  Sign In
+                </NavLink>
               </li>
               <li>
                 <NavLink
-                  to="/register"
-                  className={({ isActive }) => isActive ? "active-link signup-btn" : "signup-btn"}
+                  to='/register'
+                  className={({ isActive }) =>
+                    isActive ? "active-link signup-btn" : "signup-btn"
+                  }
                 >
                   Sign Up
                 </NavLink>

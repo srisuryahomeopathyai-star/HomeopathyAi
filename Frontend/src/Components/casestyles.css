@@ -291,3 +291,57 @@ button[type="button"].danger {
   display: flex;
   gap: 10px;
 }
+.summary-button-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.summary-button {
+  background-color: #ffc107;
+  color: #333;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.summary-button.disabled {
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.tooltip {
+  visibility: hidden;
+  width: 220px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.tooltip-arrow {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid #333;
+}
+
+.summary-button-wrapper:hover .tooltip {
+  visibility: visible;
+  opacity: 0.9;
+}
