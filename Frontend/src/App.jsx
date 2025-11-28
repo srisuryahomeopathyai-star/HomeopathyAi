@@ -1,8 +1,8 @@
 /** @format */
 
-import React from "react";
+import React, { useState, useEffect } from "react"; // <-- Import useState and useEffect
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Hero from "../src/pages/Hero";
+import Hero from "./pages/Hero";
 import CaseSheetForm from "./Components/CaseSheetForm";
 import CasesList from "./Components/CasesList";
 import Navbar from "./pages/Navbar";
@@ -17,7 +17,20 @@ import FollowUps from "./Components/FollowUps";
 import FollowUpPage from "./Components/FollowUpPage";
 import FollowUpForm from "./Components/FollowUpForm";
 import Dashboard from "./Components/Dashboard";
+import SplashScreen from "./Components/SplashScreen";
+
 function App() {
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => setLoading(false), 3000); // 3 seconds
+    return () => clearTimeout(timer);
+  }, []);
+
+  if (loading) {
+    return <SplashScreen />; // Show splash screen while loading
+  }
+
   return (
     <Router>
       <Navbar />
