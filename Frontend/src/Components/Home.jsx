@@ -88,7 +88,7 @@ const Home = () => {
       <div className='flex flex-col md:flex-row max-w-7xl mx-auto px-6 py-16 items-center bg-white rounded-3xl shadow-xl'>
         <div className='w-full md:w-4/5'>
           <h1 className='text-4xl md:text-5xl font-bold text-blue-900 mb-4'>
-            🌿 Welcome to Sri Surya Homeopathy Clinic
+            🌿 Welcome to Sri Surya Homeopathy AI
           </h1>
           <p className='text-lg text-purple-600 font-semibold mb-2'>
             Natural Healing. Trusted Expertise. Proven Results.
@@ -111,8 +111,6 @@ const Home = () => {
             >
               📋 View All Cases
             </Link>
-
-            
           </div>
         </div>
         <div className='w-full md:w-1/5 mt-8 md:mt-0 flex justify-center'>
