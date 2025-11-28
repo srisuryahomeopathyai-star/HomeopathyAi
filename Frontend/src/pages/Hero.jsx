@@ -10,7 +10,7 @@ const Home = () => {
       {/* Hero Section */}
       <section style={styles.hero}>
         <div style={styles.heroLeft}>
-          <h1 style={styles.heroTitle}>🌿 Welcome to Sri Surya Homeo Clinic</h1>
+          <h1 style={styles.heroTitle}>🌿 Welcome to Sri Surya Homeo AI</h1>
           <p style={styles.heroSub}>
             Natural Healing. Trusted Expertise. Proven Results.
           </p>
