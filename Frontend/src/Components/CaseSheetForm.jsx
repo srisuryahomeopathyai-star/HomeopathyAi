@@ -1126,7 +1126,7 @@ ${brainData.next_best_remedies
           <button
             type='button'
             style={{
-              backgroundColor: "#ffc107",
+              backgroundColor: "#FF5555",
               color: "#333",
               padding: "8px 16px",
               border: "none",
