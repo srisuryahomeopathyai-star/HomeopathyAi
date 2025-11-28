@@ -7,6 +7,15 @@ import logo1 from "../assets/Bhanulogo.png";
 const Home = () => {
   return (
     <div style={styles.page}>
+      <style>
+        {`
+      @keyframes scrollLeft {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
+      }
+    `}
+      </style>
+
       {/* Hero Section */}
       <section style={styles.hero}>
         <div style={styles.heroLeft}>
