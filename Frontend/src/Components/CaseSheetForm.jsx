@@ -1139,7 +1139,7 @@ ${brainData.next_best_remedies
           >
             {loadingSummary
               ? "Generating AI Summary..."
-              : "Generate AI Summary"}
+              : "Zora's Repertorial Analysis"}
           </button>
         </div>
 
