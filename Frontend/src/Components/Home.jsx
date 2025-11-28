@@ -122,18 +122,6 @@ const Home = () => {
         </div>
       </div>
 
-      {/* About Section */}
-      <section className='max-w-6xl mx-auto px-6 py-16 text-center'>
-        <h2 className='text-3xl font-bold text-blue-800 mb-4'>
-          About Sri Surya Homeo Clinic
-        </h2>
-        <p className='text-gray-700 max-w-3xl mx-auto'>
-          We are committed to delivering safe, effective, and gentle homeopathic
-          treatments. Specializing in chronic illness, stress management, skin
-          problems, women’s health, and personalized constitutional remedies.
-        </p>
-      </section>
-
       {/* Why Choose Us */}
       <section className='bg-white py-16 px-6'>
         <h2 className='text-3xl font-bold text-center text-blue-800 mb-10'>
