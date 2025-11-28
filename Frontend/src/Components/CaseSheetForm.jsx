@@ -740,8 +740,7 @@ ${brainData.next_best_remedies
         </div>
 
         <div className='case-form-column'>
-          {/* Image Upload */}
-          <div className='case-section'>
+          {/* <div className='case-section'>
             <label className='case-file-input-label'>Upload Face Image:</label>
             <input type='file' accept='image/*' onChange={handleImageUpload} />
             <p style={{ fontSize: 12, color: "#555" }}>
@@ -757,7 +756,7 @@ ${brainData.next_best_remedies
               onChange={handleInputChange}
               placeholder='Phone number'
             />
-          </div>
+          </div> */}
 
           <div className='case-form-group'>
             <label className='case-label'>Date of Visit</label>
@@ -1015,7 +1014,7 @@ ${brainData.next_best_remedies
       </section>
 
       {/* General Remarks */}
-      <section className='case-section'>
+      {/* <section className='case-section'>
         <h3 className='case-section-title'>8. General Remarks</h3>
         <textarea
           className='case-textarea'
@@ -1024,11 +1023,11 @@ ${brainData.next_best_remedies
           onChange={handleInputChange}
           placeholder='General remarks'
         />
-      </section>
+      </section> */}
 
       {/* Observations by Doctor */}
       <section className='case-section'>
-        <h3 className='case-section-title'>9. Observations by Doctor</h3>
+        <h3 className='case-section-title'>8. Observations by Doctor</h3>
         <textarea
           className='case-textarea'
           name='observationsByDoctor'
@@ -1038,7 +1037,7 @@ ${brainData.next_best_remedies
         />
       </section>
       <section className='case-section'>
-        <h3 className='case-section-title'>10. Lab Investigation</h3>
+        <h3 className='case-section-title'>9. Lab Investigation</h3>
 
         <textarea
           className='case-textarea'
@@ -1229,7 +1228,7 @@ ${brainData.next_best_remedies
           </section>
         )}
 
-        <h3 className='case-section-title'>11. Prescription</h3>
+        <h3 className='case-section-title'>10. Prescription</h3>
         {caseData.prescription.map((prescription, index) => (
           <div key={index} className='case-prescription-block'>
             <div className='case-form-column'>

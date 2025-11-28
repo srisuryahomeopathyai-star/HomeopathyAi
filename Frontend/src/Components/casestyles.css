@@ -1,5 +1,9 @@
 /** @format */
 
+body {
+  background: linear-gradient(to bottom right, #2ea2c2, #2ea2c2);
+}
+
 .case-container {
   max-width: 900px;
   margin: 20px auto;
@@ -76,6 +80,7 @@
 }
 .case-textarea {
   min-height: 80px;
+  width: 800px;
   resize: vertical;
   font-family: inherit;
 }
