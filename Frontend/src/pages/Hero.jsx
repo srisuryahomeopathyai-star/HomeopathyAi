@@ -42,17 +42,6 @@ const Home = () => {
         </div>
       </section>
 
-      {/* About Section */}
-      <section style={styles.section}>
-        <h2 style={styles.sectionTitle}>About Sri Surya Homeo Clinic</h2>
-        <p style={styles.sectionText}>
-          Founded with compassion and care, our mission is to heal naturally
-          using personalized classical homeopathic remedies. We specialize in
-          treating chronic diseases, stress, skin conditions, women’s health,
-          and more.
-        </p>
-      </section>
-
       {/* Doctors Section */}
       <section style={styles.section}>
         <h2 style={styles.sectionTitle}>Our Homeopathy Doctors</h2>
