@@ -87,7 +87,7 @@ const CaseSheetForm = ({ existingCaseData }) => {
     }
     setCaseData({ ...caseData, chiefComplaints: updatedComplaints });
   };
-const handleAnalyzeSkinForComplaint = async (index, imageFile) => {
+  const handleAnalyzeSkinForComplaint = async (index, imageFile) => {
     if (!imageFile) {
       alert("Please upload a skin image first.");
       return;
@@ -243,20 +243,191 @@ const handleAnalyzeSkinForComplaint = async (index, imageFile) => {
     }
   };
 
+  //   const generateSummary = async () => {
+  //     const skinImageBase64s = [];
+
+  //     for (const complaint of caseData.chiefComplaints) {
+  //       if (complaint.skinImage) {
+  //         const base64 = await getBase64(complaint.skinImage);
+
+  //         skinImageBase64s.push({
+  //           label: complaint.complaint || "Skin Image",
+
+  //           imageBase64: base64,
+  //         });
+  //       }
+  //     }
+  //     if (
+  //       (!selectedRubrics || selectedRubrics.length === 0) &&
+  //       (!caseData.chiefComplaints ||
+  //         caseData.chiefComplaints.every((c) => !c.description.trim()))
+  //     ) {
+  //       alert(
+  //         "Please enter at least one chief complaint description or select a rubric."
+  //       );
+  //       return;
+  //     }
+
+  //     setLoadingSummary(true);
+  //     setAiSummary("");
+
+  //     let imageBase64 = null;
+  //     if (caseData.image) {
+  //       imageBase64 = await getBase64(caseData.image);
+  //     }
+
+  //     try {
+  //       // 🔹 1. Get Gemini Summary
+  //       const response = await fetch(`${API_URL}/api/generatesummary`, {
+  //         method: "POST",
+  //         headers: { "Content-Type": "application/json" },
+  //         body: JSON.stringify({
+  //           ...caseData,
+  //           imageBase64,
+  //           skinImages: skinImageBase64s,
+  //         }),
+  //       });
+
+  //       const summaryData = await response.json();
+  //       const summaryText = summaryData.summary || "No summary generated.";
+
+  //       const geminiRemedy =
+  //         summaryData.geminiRemedy || summaryData.remedy || null;
+  //       const geminiMiasm = summaryData.miasm || "N/A";
+  //       const geminiReason = summaryData.summary || "No explanation provided";
+  //       const geminiDosage = summaryData.dosage || "N/A";
+  //       const geminiKeySymptoms = summaryData.key_symptoms || [];
+  //       const geminiNextBestRemedies = summaryData.next_best_remedies || [];
+
+  //       const caseInput = {
+  //         symptoms: getAllSymptomsString(),
+  //         thermal: caseData.personalHistory?.thermal || "Not specified",
+  //         cravings:
+  //           caseData.personalHistory?.cravingsAversions || "Not specified",
+  //         mentals: caseData.mentalSymptoms || "Not specified",
+  //       };
+
+  //       const requestBody = {
+  //         rubrics: selectedRubrics || [],
+  //         caseInput,
+  //         geminiRemedy,
+  //         geminiMiasm,
+  //         geminiReason,
+  //         geminiDosage,
+  //         geminiKeySymptoms,
+  //         geminiNextBestRemedies,
+  //       };
+
+  //       // 🔹 3. Get analysis from internal brain
+  //       const brainResponse = await fetch(`${API_URL}/api/brain/analyze`, {
+  //         method: "POST",
+  //         headers: {
+  //           "Content-Type": "application/json",
+  //         },
+  //         body: JSON.stringify(requestBody),
+  //       });
+
+  //       const brainData = await brainResponse.json();
+
+  //       // 🔹 4. Fallback if only Gemini response is available
+  //       if (geminiRemedy && !brainData?.main_remedy?.name) {
+  //         brainData.main_remedy = {
+  //           name: geminiRemedy,
+  //           miasm: geminiMiasm,
+  //           reason: geminiReason,
+  //           dosage: geminiDosage || "30C (tentative)",
+  //           key_symptoms: geminiKeySymptoms || [],
+  //         };
+
+  //         // ✅ Add fallback next best remedies from Gemini
+  //         brainData.next_best_remedies = geminiNextBestRemedies || [];
+  //       }
+
+  //       setBrainResult(brainData);
+
+  //       // 🔹 5. Format output
+  //       const main = brainData?.main_remedy?.name
+  //         ? brainData.main_remedy
+  //         : {
+  //             name: geminiRemedy,
+  //             miasm: geminiMiasm,
+  //             reason: geminiReason,
+  //             dosage: geminiDosage,
+  //             key_symptoms: geminiKeySymptoms,
+  //           };
+
+  //       const finalSummary = `
+  // 📝 AI Generated Summary
+  // ${summaryText}
+
+  // --- Gemini AI Suggestion ---
+  // Remedy: ${geminiRemedy || "N/A"}
+  // Miasm: ${geminiMiasm || "N/A"}
+  // Dosage: ${geminiDosage || "N/A"}
+  // Explanation: ${geminiReason || "No explanation provided"}
+  // Key Symptoms: ${geminiKeySymptoms?.join(", ") || "No key symptoms provided"}
+
+  // --- Internal Brain AI Suggestion ---
+  // Remedy: ${brainData?.main_remedy?.name || "N/A"}
+  // Miasm: ${brainData?.main_remedy?.miasm || "N/A"}
+  // Dosage: ${brainData?.main_remedy?.dosage || "N/A"}
+  // Explanation: ${brainData?.main_remedy?.reason || "No explanation provided"}
+  // Key Symptoms: ${
+  //         brainData?.main_remedy?.key_symptoms?.join(", ") ||
+  //         "No key symptoms provided"
+  //       }
+
+  // 🧠 AI Suggested Remedy
+  // Best Homeopathic Remedy and Dosage: ${
+  //         geminiRemedy || brainData?.main_remedy?.name || "N/A"
+  //       } ${
+  //         geminiDosage
+  //           ? `(${geminiDosage})`
+  //           : brainData?.main_remedy?.dosage
+  //           ? `(${brainData.main_remedy.dosage})`
+  //           : ""
+  //       }
+
+  // ${
+  //   brainData.next_best_remedies?.length > 0
+  //     ? `🧠 Next Best Remedies:
+  // ${brainData.next_best_remedies
+  //   .map((r, i) => `${i + 1}. ${r.name} – ${r.reason || "No reason"}`)
+  //   .join("\n")}`
+  //     : ""
+  // }
+  // `;
+  //       setAiSummary(finalSummary);
+  //       setRemedy(main?.name || geminiRemedy);
+  //       setMiasm(main?.miasm || geminiMiasm);
+  //       setDosage(main?.dosage || geminiDosage);
+  //       console.log("Gemini remedy:", geminiRemedy);
+  //       console.log("Brain remedy:", brainData.main_remedy?.name);
+  //       console.log("AI Summary:", finalSummary);
+  //       console.log("Brain Result:", brainData);
+  //     } catch (error) {
+  //       alert("Error generating summary.");
+  //       console.error("❌ generateSummary error:", error);
+  //     } finally {
+  //       setLoadingSummary(false);
+  //     }
+  //   };
+
   const generateSummary = async () => {
+    // Collect skin images in Base64
     const skinImageBase64s = [];
 
     for (const complaint of caseData.chiefComplaints) {
       if (complaint.skinImage) {
         const base64 = await getBase64(complaint.skinImage);
-
         skinImageBase64s.push({
           label: complaint.complaint || "Skin Image",
-
           imageBase64: base64,
         });
       }
     }
+
+    // Validation: require either rubrics or complaint descriptions
     if (
       (!selectedRubrics || selectedRubrics.length === 0) &&
       (!caseData.chiefComplaints ||
@@ -278,15 +449,25 @@ const handleAnalyzeSkinForComplaint = async (index, imageFile) => {
 
     try {
       // 🔹 1. Get Gemini Summary
+      const token = localStorage.getItem("token"); // <-- JWT from localStorage
       const response = await fetch(`${API_URL}/api/generatesummary`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${token}`, // <-- send token to avoid 401
+        },
         body: JSON.stringify({
           ...caseData,
           imageBase64,
           skinImages: skinImageBase64s,
         }),
       });
+
+      if (response.status === 401) {
+        alert("Unauthorized! Please log in again.");
+        setLoadingSummary(false);
+        return;
+      }
 
       const summaryData = await response.json();
       const summaryText = summaryData.summary || "No summary generated.";
@@ -323,6 +504,7 @@ const handleAnalyzeSkinForComplaint = async (index, imageFile) => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
+          Authorization: `Bearer ${token}`, // <-- also send token here
         },
         body: JSON.stringify(requestBody),
       });
@@ -338,8 +520,6 @@ const handleAnalyzeSkinForComplaint = async (index, imageFile) => {
           dosage: geminiDosage || "30C (tentative)",
           key_symptoms: geminiKeySymptoms || [],
         };
-
-        // ✅ Add fallback next best remedies from Gemini
         brainData.next_best_remedies = geminiNextBestRemedies || [];
       }
 
@@ -397,10 +577,12 @@ ${brainData.next_best_remedies
     : ""
 }
 `;
+
       setAiSummary(finalSummary);
       setRemedy(main?.name || geminiRemedy);
       setMiasm(main?.miasm || geminiMiasm);
       setDosage(main?.dosage || geminiDosage);
+
       console.log("Gemini remedy:", geminiRemedy);
       console.log("Brain remedy:", brainData.main_remedy?.name);
       console.log("AI Summary:", finalSummary);
@@ -412,6 +594,7 @@ ${brainData.next_best_remedies
       setLoadingSummary(false);
     }
   };
+
   useEffect(() => {
     const fetchSuggestions = async () => {
       if (rubricInput.length < 3) return;
@@ -925,34 +1108,41 @@ ${brainData.next_best_remedies
       {/* Prescription */}
       <section className='case-section'>
         {/* AI Summary */}
-        <div style={{ marginTop: "20px", display: "flex", alignItems: "center", gap: "12px" }}>
-  {loadingSummary && (
-    <img
-      src={Loading}
-      alt='Loading...'
-      style={{ width: "224px", height: "224px" }}
-    />
-  )}
+        <div
+          style={{
+            marginTop: "20px",
+            display: "flex",
+            alignItems: "center",
+            gap: "12px",
+          }}
+        >
+          {loadingSummary && (
+            <img
+              src={Loading}
+              alt='Loading...'
+              style={{ width: "224px", height: "224px" }}
+            />
+          )}
 
-  <button
-    type='button'
-    style={{
-      backgroundColor: "#ffc107",
-      color: "#333",
-      padding: "8px 16px",
-      border: "none",
-      borderRadius: "4px",
-      cursor: loadingSummary ? "not-allowed" : "pointer",
-      opacity: loadingSummary ? 0.7 : 1,
-    }}
-    onClick={generateSummary}
-    disabled={loadingSummary}
-  >
-    {loadingSummary ? "Generating AI Summary..." : "Generate AI Summary"}
-  </button>
-</div>
-
-
+          <button
+            type='button'
+            style={{
+              backgroundColor: "#ffc107",
+              color: "#333",
+              padding: "8px 16px",
+              border: "none",
+              borderRadius: "4px",
+              cursor: loadingSummary ? "not-allowed" : "pointer",
+              opacity: loadingSummary ? 0.7 : 1,
+            }}
+            onClick={generateSummary}
+            disabled={loadingSummary}
+          >
+            {loadingSummary
+              ? "Generating AI Summary..."
+              : "Generate AI Summary"}
+          </button>
+        </div>
 
         {aiSummary && (
           <div

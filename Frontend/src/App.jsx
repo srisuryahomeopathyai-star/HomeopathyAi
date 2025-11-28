@@ -16,7 +16,7 @@ import TodayFollowUps from "./Components/TodayFollowUps";
 import FollowUps from "./Components/FollowUps";
 import FollowUpPage from "./Components/FollowUpPage";
 import FollowUpForm from "./Components/FollowUpForm";
-
+import Dashboard from "./Components/Dashboard";
 function App() {
   return (
     <Router>
@@ -30,10 +30,11 @@ function App() {
         <Route path='/about' element={<AboutUs />} />
         <Route path='/Register' element={<Register />} />
         <Route path='/Login' element={<Login />} />
-        <Route path="/followup" element={<FollowUpPage />} />
-<Route path="/followups/:id" element={<FollowUpForm />} />
-        <Route path="/todayfollowups" element={<TodayFollowUps />} />
-        <Route path="/followups" element={<FollowUps />} />
+        <Route path='/followup' element={<FollowUpPage />} />
+        <Route path='/followups/:id' element={<FollowUpForm />} />
+        <Route path='/todayfollowups' element={<TodayFollowUps />} />
+        <Route path='/followups' element={<FollowUps />} />
+        <Route path='/dashboard' element={<Dashboard />} />
       </Routes>
       <Footer />
     </Router>
