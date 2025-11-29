@@ -194,7 +194,7 @@ export default function Dashboard() {
 
       <label>Saved API Key:</label>
       <input
-        type='text'
+        type={editing ? "text" : "password"} // 🔥 MASK WHEN NOT EDITING
         value={key}
         onChange={(e) => setKey(e.target.value)}
         placeholder='Enter API key'
