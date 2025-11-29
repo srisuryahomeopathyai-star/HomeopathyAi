@@ -11,7 +11,6 @@ const SplashScreen = ({ onFinish }) => {
   const videoRef = useRef(null);
 
   useEffect(() => {
-    // Fade out and finish timers
     const fadeTimer = setTimeout(() => setFadeOut(true), 2500);
     const finishTimer = setTimeout(() => onFinish(), 3300);
 
@@ -26,18 +25,16 @@ const SplashScreen = ({ onFinish }) => {
       videoRef.current.muted = false;
       videoRef.current.play();
       setAudioEnabled(true);
-
-      // Hide button after 1 second
       setTimeout(() => setShowButton(false), 1000);
     }
   };
 
   return (
     <div
-      className={`fixed inset-0 z-50 flex items-center justify-center transition-opacity duration-700 
-    ${fadeOut ? "opacity-0" : "opacity-100"}`}
+      className={`fixed inset-0 z-50 transition-opacity duration-700 
+      ${fadeOut ? "opacity-0" : "opacity-100"}`}
     >
-      {/* Background Video */}
+      {/* Fullscreen Background Video */}
       <video
         ref={videoRef}
         src={splashVideo}
@@ -49,19 +46,17 @@ const SplashScreen = ({ onFinish }) => {
         className='splash-video'
       />
 
-      {/* Overlay content */}
+      {/* Overlay Content */}
       <div className='splash-overlay'>
-        <p className='fade-in-text mt-4'>Welcome to Sri Surya Homeopathy AI</p>
-
-        {/* Tap to enable audio */}
-        {showButton && !audioEnabled && (
-          <button
-            onClick={enableAudio}
-            className='mt-6 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition'
-          >
-            Tap to enable sound
-          </button>
-        )}
+        {/* Bottom content visible always */}
+        <div className='bottom-content'>
+          {/* Button (sound enable) */}
+          {showButton && !audioEnabled && (
+            <button onClick={enableAudio} className='sound-btn'>
+              Tap to enable sound
+            </button>
+          )}
+        </div>
       </div>
     </div>
   );
