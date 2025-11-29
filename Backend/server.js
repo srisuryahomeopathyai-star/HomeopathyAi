@@ -30,6 +30,7 @@ app.use(
       "http://localhost:5000",
       "https://homeopathy-ai-kohl.vercel.app",
       "https://homeopathyai.onrender.com",
+      "https://www.srisuryahomeoai.com",
       // Add your deployed frontend URLs here if needed
     ],
     credentials: true,
