@@ -34,8 +34,11 @@ app.use(
       // Add your deployed frontend URLs here if needed
     ],
     credentials: true,
+    methods: "GET,POST,PUT,DELETE,OPTIONS",
+    allowedHeaders: ["Content-Type", "Authorization"]
   })
 );
+app.options("*", cors());
 app.use(express.json({ limit: "100mb" }));
 app.use("/uploads", express.static(path.join(__dirname, "/uploads")));
 app.use("/api/auth", authRoutes);
