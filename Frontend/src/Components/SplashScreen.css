@@ -52,3 +52,22 @@
 .animate-scaleSmooth {
   animation: scaleSmooth 2.2s ease-in-out infinite;
 }
+/* Glowing Logo Animation */
+@keyframes glowPulse {
+  0% {
+    transform: scale(0.95);
+    filter: drop-shadow(0 0 8px rgba(0, 150, 255, 0.4));
+  }
+  50% {
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 18px rgba(0, 150, 255, 0.8));
+  }
+  100% {
+    transform: scale(0.95);
+    filter: drop-shadow(0 0 8px rgba(0, 150, 255, 0.4));
+  }
+}
+
+.animate-logoGlow {
+  animation: glowPulse 2.2s infinite ease-in-out;
+}
