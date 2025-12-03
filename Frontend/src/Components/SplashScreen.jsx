@@ -1,13 +1,10 @@
 /** @format */
-
 import React, { useEffect, useState, useRef } from "react";
 import splashVideo from "../assets/splashscreen.mp4";
 import "./SplashScreen.css";
 
 const SplashScreen = ({ onFinish }) => {
   const [fadeOut, setFadeOut] = useState(false);
-  const [audioEnabled, setAudioEnabled] = useState(false);
-  const [showButton, setShowButton] = useState(true);
   const videoRef = useRef(null);
 
   useEffect(() => {
@@ -20,43 +17,34 @@ const SplashScreen = ({ onFinish }) => {
     };
   }, [onFinish]);
 
-  const enableAudio = () => {
+  // Enable sound on first user interaction
+  const enableSound = () => {
     if (videoRef.current) {
       videoRef.current.muted = false;
       videoRef.current.play();
-      setAudioEnabled(true);
-      setTimeout(() => setShowButton(false), 1000);
     }
   };
 
   return (
     <div
-      className={`fixed inset-0 z-50 transition-opacity duration-700 
-      ${fadeOut ? "opacity-0" : "opacity-100"}`}
+      onClick={enableSound} // <-- first tap enables sound automatically
+      className={`fixed inset-0 z-50 transition-opacity duration-700 ${
+        fadeOut ? "opacity-0" : "opacity-100"
+      }`}
     >
-      {/* Fullscreen Background Video */}
       <video
         ref={videoRef}
         src={splashVideo}
         autoPlay
-        muted
-        playsInline
+        muted // autoplay requirement
         loop
+        playsInline
         preload='auto'
         className='splash-video'
       />
 
-      {/* Overlay Content */}
       <div className='splash-overlay'>
-        {/* Bottom content visible always */}
-        <div className='bottom-content'>
-          {/* Button (sound enable) */}
-          {showButton && !audioEnabled && (
-            <button onClick={enableAudio} className='sound-btn'>
-              Tap to enable sound
-            </button>
-          )}
-        </div>
+        <div className='bottom-content'></div>
       </div>
     </div>
   );
