@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react";
 import "./casestyles.css";
 import SkinAnalyzer from "../pages/SkinAnalyzer"; // Assuming SkinAnalyzer.jsx is in the same directory
 import Loading from "../assets/loading.gif";
+import { jwtDecode } from "jwt-decode";
 
 const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
 
@@ -56,6 +57,7 @@ const initialCaseData = {
 };
 
 const CaseSheetForm = ({ existingCaseData }) => {
+  const token = localStorage.getItem("token");
   const [submittedData, setSubmittedData] = useState(null);
   const [caseData, setCaseData] = useState(initialCaseData);
   const [aiSummary, setAiSummary] = useState("");
@@ -68,6 +70,7 @@ const CaseSheetForm = ({ existingCaseData }) => {
   const [remedy, setRemedy] = useState("");
   const [miasm, setMiasm] = useState("");
   const [dosage, setDosage] = useState("");
+  const [userId, setUserId] = useState(null);
   const [labInput, setLabInput] = useState("");
   const [skinAnalysisResults, setSkinAnalysisResults] = useState({});
   const [geminiReason, setGeminiReason] = useState("");
@@ -163,6 +166,7 @@ const CaseSheetForm = ({ existingCaseData }) => {
 
     const formData = new FormData();
     formData.append("image", caseData.image);
+    formData.append("userId", caseData.userId);
     const chiefComplaintsWithImages = caseData.chiefComplaints.map(
       (complaint, index) => {
         if (complaint.skinImage) {
@@ -179,6 +183,7 @@ const CaseSheetForm = ({ existingCaseData }) => {
 
     const cleanedData = {
       ...caseData,
+      userId: userId,
       remedyGiven: caseData.prescription[0]?.remedyName || "",
       aiRemedyGiven: brainResult?.main_remedy || "",
       image: undefined,
@@ -596,6 +601,11 @@ ${brainData.next_best_remedies
   };
 
   useEffect(() => {
+    if (token) {
+      const decoded = jwtDecode(token);
+      setUserId(decoded.id);
+      console.log(decoded.id);
+    }
     const fetchSuggestions = async () => {
       if (rubricInput.length < 3) return;
       const res = await fetch(`${API_URL}/api/brain/search?q=${rubricInput}`);
@@ -603,7 +613,7 @@ ${brainData.next_best_remedies
       setSuggestions(data);
     };
     fetchSuggestions();
-  }, [rubricInput]);
+  }, [rubricInput, token]);
 
   const handleAddRubric = (rubric) => {
     if (!selectedRubrics.includes(rubric)) {

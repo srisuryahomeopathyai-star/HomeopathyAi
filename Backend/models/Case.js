@@ -20,8 +20,11 @@
 //   },
 // });
 // models/Case.js
+/** @format */
+
 const mongoose = require("mongoose");
 
+// ---------------------- Chief Complaint ----------------------
 const chiefComplaintSchema = new mongoose.Schema({
   complaint: String,
   duration: String,
@@ -30,6 +33,7 @@ const chiefComplaintSchema = new mongoose.Schema({
   skinImage: String,
 });
 
+// ---------------------- Prescription -------------------------
 const prescriptionSchema = new mongoose.Schema({
   date: Date,
   remedyName: String,
@@ -38,12 +42,14 @@ const prescriptionSchema = new mongoose.Schema({
   instructions: String,
 });
 
+// ---------------------- Past History -------------------------
 const pastHistorySchema = new mongoose.Schema({
   childhoodDiseases: String,
   surgeriesInjuries: String,
   majorIllnesses: String,
 });
 
+// ---------------------- Personal History ---------------------
 const personalHistorySchema = new mongoose.Schema({
   appetite: String,
   cravingsAversions: String,
@@ -58,37 +64,56 @@ const personalHistorySchema = new mongoose.Schema({
   menstrual: String,
 });
 
+// ---------------------- Case Schema --------------------------
 const CaseSchema = new mongoose.Schema({
+  userId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "User",
+    required: true,
+  },
+
   name: String,
   phone: String,
   age: Number,
   gender: String,
   maritalStatus: String,
   symptoms: String,
+
   remedyGiven: {
     type: String,
     default: "",
   },
+
   aiRemedyGiven: { type: String },
+
   dateOfVisit: Date,
   imageUrl: String,
-  chiefComplaints: [chiefComplaintSchema],
+
+  // Chief complaints (array)
+  chiefComplaints: {
+    type: [chiefComplaintSchema],
+    default: [],
+  },
+
+  // Prescription list
   prescription: {
     type: [prescriptionSchema],
     default: [],
   },
+
+  // Lab investigation JSON
   labInvestigation: {
-    type: mongoose.Schema.Types.Mixed, // or Object / String depending on structure
+    type: mongoose.Schema.Types.Mixed,
     default: {},
   },
-  
+
   pastHistory: pastHistorySchema,
   personalHistory: personalHistorySchema,
+
   createdAt: {
     type: Date,
     default: Date.now,
   },
 });
-
 
 module.exports = mongoose.model("Case", CaseSchema);
