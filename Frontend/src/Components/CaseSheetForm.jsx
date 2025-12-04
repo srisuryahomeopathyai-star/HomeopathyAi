@@ -750,13 +750,13 @@ ${brainData.next_best_remedies
         </div>
 
         <div className='case-form-column'>
-          {/* <div className='case-section'>
+        {/* <div className='case-section'>
             <label className='case-file-input-label'>Upload Face Image:</label>
             <input type='file' accept='image/*' onChange={handleImageUpload} />
             <p style={{ fontSize: 12, color: "#555" }}>
               {caseData.image ? caseData.image.name : "No file chosen"}
             </p>
-          </div>
+          </div> */}
           <div className='case-form-group'>
             <label className='case-label'>Phone / WhatsApp</label>
             <input
@@ -766,7 +766,7 @@ ${brainData.next_best_remedies
               onChange={handleInputChange}
               placeholder='Phone number'
             />
-          </div> */}
+          </div> 
 
           <div className='case-form-group'>
             <label className='case-label'>Date of Visit</label>
