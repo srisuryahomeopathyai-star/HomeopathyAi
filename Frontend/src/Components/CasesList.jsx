@@ -1,3 +1,5 @@
+/** @format */
+
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { toast } from "react-toastify";
@@ -185,10 +187,12 @@ const CasesList = () => {
         `${API_URL}/api/cases/${selectedCase._id}`,
         selectedCase,
         {
-          headers: { Authorization: `Bearer ${token}` }
+          headers: { Authorization: `Bearer ${token}` },
         }
       );
-      setCases((prev) => prev.map((c) => (c._id === res.data._id ? res.data : c)));
+      setCases((prev) =>
+        prev.map((c) => (c._id === res.data._id ? res.data : c))
+      );
       toast.success("Case updated!");
       handleModalClose();
     } catch (err) {
@@ -198,69 +202,77 @@ const CasesList = () => {
 
   const handleDeleteCase = async (id) => {
     try {
-      await axios.delete(`${API_URL}/api/cases/${id}`);
+      const token = localStorage.getItem("token");
+
+      await axios.delete(`${API_URL}/api/cases/${id}`, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+
       setCases((prev) => prev.filter((c) => c._id !== id));
       toast.success("Deleted.");
-    } catch {
+    } catch (err) {
       toast.error("Delete failed.");
+      console.error("Delete error:", err);
     }
   };
 
   const handleAISuggestion = async () => {
-      try {
-        const token = localStorage.getItem('token');
-        if (!token) {
-          console.error('No token found. User not authenticated.');
-          return;
-        }
-        setLoadingSummary(true);
-
-        let imageBase64 = null;
-        if (selectedCase?.faceImage) {
-          imageBase64 = await new Promise((resolve, reject) => {
-            const reader = new FileReader();
-            reader.readAsDataURL(selectedCase.faceImage);
-            reader.onload = () => resolve(reader.result.split(',')[1]);
-            reader.onerror = reject;
-          });
-        }
-
-        const payload = {
-          ...selectedCase,
-          imageBase64,
-        };
-
-        const response = await axios.post(
-          `${API_URL}/api/generatesummary`,
-          payload,
-          {
-            headers: {
-              Authorization: `Bearer ${token}`,
-            },
-          }
-        );
-
-        const data = response.data;
-        setAiSummary(data.summary || 'No summary returned');
-        setSelectedCase((prev) => ({
-          ...prev,
-          aiRemedyGiven: data.geminiRemedy || prev.aiRemedyGiven,
-          main_remedy: {
-            name: data.geminiRemedy || prev.main_remedy?.name,
-            miasm: data.miasm || prev.main_remedy?.miasm,
-            reason: data.summary || prev.main_remedy?.reason,
-            dosage: data.dosage || prev.main_remedy?.dosage,
-            key_symptoms: data.key_symptoms || prev.main_remedy?.key_symptoms || [],
-          },
-          next_best_remedies: data.next_best_remedies || prev.next_best_remedies || [],
-        }));
-      } catch (error) {
-        console.error('Error generating AI summary:', error);
-        setAiSummary('Error generating summary.');
-      } finally {
-        setLoadingSummary(false);
+    try {
+      const token = localStorage.getItem("token");
+      if (!token) {
+        console.error("No token found. User not authenticated.");
+        return;
       }
-    };
+      setLoadingSummary(true);
+
+      let imageBase64 = null;
+      if (selectedCase?.faceImage) {
+        imageBase64 = await new Promise((resolve, reject) => {
+          const reader = new FileReader();
+          reader.readAsDataURL(selectedCase.faceImage);
+          reader.onload = () => resolve(reader.result.split(",")[1]);
+          reader.onerror = reject;
+        });
+      }
+
+      const payload = {
+        ...selectedCase,
+        imageBase64,
+      };
+
+      const response = await axios.post(
+        `${API_URL}/api/generatesummary`,
+        payload,
+        {
+          headers: {
+            Authorization: `Bearer ${token}`,
+          },
+        }
+      );
+
+      const data = response.data;
+      setAiSummary(data.summary || "No summary returned");
+      setSelectedCase((prev) => ({
+        ...prev,
+        aiRemedyGiven: data.geminiRemedy || prev.aiRemedyGiven,
+        main_remedy: {
+          name: data.geminiRemedy || prev.main_remedy?.name,
+          miasm: data.miasm || prev.main_remedy?.miasm,
+          reason: data.summary || prev.main_remedy?.reason,
+          dosage: data.dosage || prev.main_remedy?.dosage,
+          key_symptoms:
+            data.key_symptoms || prev.main_remedy?.key_symptoms || [],
+        },
+        next_best_remedies:
+          data.next_best_remedies || prev.next_best_remedies || [],
+      }));
+    } catch (error) {
+      console.error("Error generating AI summary:", error);
+      setAiSummary("Error generating summary.");
+    } finally {
+      setLoadingSummary(false);
+    }
+  };
 
   const AIDetails = () =>
     aiSummary && (
@@ -745,9 +757,19 @@ const CasesList = () => {
           )}
           <h4>Prescriptions</h4>
           {(viewCase.prescription || []).map((p, i) => (
-            <div key={i} style={{ marginBottom: "15px", padding: "10px", border: "1px solid #eee" }}>
+            <div
+              key={i}
+              style={{
+                marginBottom: "15px",
+                padding: "10px",
+                border: "1px solid #eee",
+              }}
+            >
               <p>
-                <strong>Date:</strong> {p.date ? new Date(p.date).toLocaleDateString() : "Not specified"}
+                <strong>Date:</strong>{" "}
+                {p.date
+                  ? new Date(p.date).toLocaleDateString()
+                  : "Not specified"}
               </p>
               <p>
                 <strong>Remedy Given:</strong> {p.remedyName || "Not available"}
@@ -759,7 +781,8 @@ const CasesList = () => {
                 <strong>Dose:</strong> {p.dose || "Not available"}
               </p>
               <p>
-                <strong>Instructions:</strong> {p.instructions || "Not available"}
+                <strong>Instructions:</strong>{" "}
+                {p.instructions || "Not available"}
               </p>
             </div>
           ))}
@@ -787,28 +810,28 @@ const CasesList = () => {
 
 export default CasesList;
 
-  const generateSummary = async () => {
-    if (!selectedCase || !selectedCase._id) {
-      toast.error("Please select a case first.");
-      return;
-    }
-    setLoadingSummary(true);
-    setAiSummary("");
-    try {
-      const token = localStorage.getItem("token"); // Retrieve the token
-      const res = await axios.post(
-        `${API_URL}/api/generatesummary`,
-        { caseId: selectedCase._id },
-        {
-          headers: { Authorization: `Bearer ${token}` }, // Add Authorization header
-        }
-      );
-      setAiSummary(res.data.summary);
-      toast.success("Summary generated!");
-    } catch (err) {
-      console.error("Error generating summary:", err);
-      toast.error("Failed to generate summary.");
-    } finally {
-      setLoadingSummary(false);
-    }
-  };
+const generateSummary = async () => {
+  if (!selectedCase || !selectedCase._id) {
+    toast.error("Please select a case first.");
+    return;
+  }
+  setLoadingSummary(true);
+  setAiSummary("");
+  try {
+    const token = localStorage.getItem("token"); // Retrieve the token
+    const res = await axios.post(
+      `${API_URL}/api/generatesummary`,
+      { caseId: selectedCase._id },
+      {
+        headers: { Authorization: `Bearer ${token}` }, // Add Authorization header
+      }
+    );
+    setAiSummary(res.data.summary);
+    toast.success("Summary generated!");
+  } catch (err) {
+    console.error("Error generating summary:", err);
+    toast.error("Failed to generate summary.");
+  } finally {
+    setLoadingSummary(false);
+  }
+};
