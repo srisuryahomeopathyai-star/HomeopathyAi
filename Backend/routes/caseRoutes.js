@@ -7,6 +7,9 @@ const path = require("path");
 const fs = require("fs");
 const Case = require("../models/Case");
 const { interpretLabData } = require("../utils/labAnalyzer");
+const authMiddleware = require("../middleware/middleware"); // Import authMiddleware
+const { updateCase } = require("../controllers/caseController"); // Import updateCase function
+
 // Ensure upload directory exists
 const uploadDir = "uploads";
 if (!fs.existsSync(uploadDir)) {
@@ -35,7 +38,7 @@ const upload = multer({
   },
 });
 
-router.post("/", upload.any(), async (req, res) => {
+router.post("/", authMiddleware, upload.any(), async (req, res) => {
   try {
     // if (!req.body.data) {
     //   return res.status(400).json({ message: "Missing data field" });
@@ -103,7 +106,7 @@ if (
 });
 
 // @route   GET /api/cases
-router.get("/", async (req, res) => {
+router.get("/", authMiddleware, async (req, res) => {
   try {
     const cases = await Case.find();
     res.json(cases);
@@ -114,7 +117,7 @@ router.get("/", async (req, res) => {
 });
 
 // ✅ New Route: GET /api/cases/:id
-router.get("/:id", async (req, res) => {
+router.get("/:id", authMiddleware, async (req, res) => {
   try {
     const singleCase = await Case.findById(req.params.id);
     if (!singleCase) {
@@ -128,43 +131,10 @@ router.get("/:id", async (req, res) => {
 });
 
 // @route   PUT /api/cases/:id
-// PUT /api/cases/:id
-router.put("/:id", async (req, res) => {
-  try {
-    const updatedData = {
-      name: req.body.name,
-      phone: req.body.phone,
-      age: req.body.age,
-      gender: req.body.gender,
-      symptoms: req.body.symptoms,
-      remedyGiven: req.body.remedyGiven,
-      dateOfVisit: req.body.dateOfVisit,
-      imageUrl: req.body.imageUrl,
-
-      chiefComplaints: req.body.chiefComplaints || [],
-      prescriptions: req.body.prescriptions || [],
-      personalHistory: req.body.personalHistory || {},
-    };
-
-    const updatedCase = await Case.findByIdAndUpdate(
-      req.params.id,
-      { $set: updatedData },
-      { new: true, runValidators: true }
-    );
-
-    if (!updatedCase) {
-      return res.status(404).json({ message: "Case not found" });
-    }
-
-    res.json(updatedCase);
-  } catch (error) {
-    console.error("Update Error:", error);
-    res.status(500).json({ message: "Server error while updating case" });
-  }
-});
+router.put("/:id", authMiddleware, updateCase);
 
 // @route   DELETE /api/cases/:id
-router.delete("/:id", async (req, res) => {
+router.delete("/:id", authMiddleware, async (req, res) => {
   try {
     await Case.findByIdAndDelete(req.params.id);
     res.json({ success: true });

@@ -1,8 +1,4 @@
-/** @format */
-
 const Case = require("../models/Case");
-
-// POST: Create Case
 exports.createCase = async (req, res) => {
   try {
     const newCase = new Case(req.body);
@@ -12,8 +8,6 @@ exports.createCase = async (req, res) => {
     res.status(400).json({ error: err.message });
   }
 };
-
-// GET: All Cases
 exports.getAllCases = async (req, res) => {
   try {
     const cases = await Case.find();
@@ -22,8 +16,6 @@ exports.getAllCases = async (req, res) => {
     res.status(500).json({ error: err.message });
   }
 };
-
-// GET: Single Case
 exports.getCaseById = async (req, res) => {
   try {
     const singleCase = await Case.findById(req.params.id);
@@ -33,14 +25,29 @@ exports.getCaseById = async (req, res) => {
     res.status(500).json({ error: err.message });
   }
 };
-
-// PUT: Update Case
 exports.updateCase = async (req, res) => {
+  console.log('updateCase function called'); // Add this line
   try {
-    const updated = await Case.findByIdAndUpdate(req.params.id, req.body, {
-      new: true,
-    });
-    res.json(updated);
+    console.log("Received update request body:", req.body);
+    console.log("Received prescriptions:", req.body.prescription);
+    const caseId = req.params.id; 
+
+    if (req.body.prescription && Array.isArray(req.body.prescription)) {
+      req.body.prescription = req.body.prescription.map(p => ({
+        ...p,
+        date: p.date ? new Date(p.date) : new Date() // Ensure date is a Date object, default to now if not provided
+      }));
+    }
+
+    const updatedCase = await Case.findByIdAndUpdate(caseId, { $set: req.body }, { new: true });
+
+    console.log('Updated case from DB:', updatedCase);
+    console.log('Updated prescriptions from DB:', updatedCase.prescription);
+
+    if (!updatedCase) {
+      return res.status(404).json({ error: "Case not found" }); // Fixed: Complete 404 handling
+    }
+    res.status(200).json(updatedCase);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
