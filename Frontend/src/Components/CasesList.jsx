@@ -206,31 +206,61 @@ const CasesList = () => {
     }
   };
 
-  const handleAISuggestion = async (id) => { // Renamed parameter to 'id' for clarity
+  const handleAISuggestion = async () => {
       try {
-          const token = localStorage.getItem('token');
-          if (!token) {
-              console.error('No token found. User not authenticated.');
-              return;
+        const token = localStorage.getItem('token');
+        if (!token) {
+          console.error('No token found. User not authenticated.');
+          return;
+        }
+        setLoadingSummary(true);
+
+        let imageBase64 = null;
+        if (selectedCase?.faceImage) {
+          imageBase64 = await new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.readAsDataURL(selectedCase.faceImage);
+            reader.onload = () => resolve(reader.result.split(',')[1]);
+            reader.onerror = reject;
+          });
+        }
+
+        const payload = {
+          ...selectedCase,
+          imageBase64,
+        };
+
+        const response = await axios.post(
+          `${API_URL}/api/generatesummary`,
+          payload,
+          {
+            headers: {
+              Authorization: `Bearer ${token}`,
+            },
           }
-  
-          // Ensure 'id' is a string and not an event object
-          const actualCaseId = typeof id === 'object' && id !== null && id.target ? id.target.value : id;
-  
-          const response = await axios.post(
-              `${API_URL}/api/generatesummary`,
-              { caseId: actualCaseId }, // Use actualCaseId here
-              {
-                  headers: {
-                      Authorization: `Bearer ${token}`,
-                  },
-              }
-          );
-          setAiSummary(response.data.summary);
+        );
+
+        const data = response.data;
+        setAiSummary(data.summary || 'No summary returned');
+        setSelectedCase((prev) => ({
+          ...prev,
+          aiRemedyGiven: data.geminiRemedy || prev.aiRemedyGiven,
+          main_remedy: {
+            name: data.geminiRemedy || prev.main_remedy?.name,
+            miasm: data.miasm || prev.main_remedy?.miasm,
+            reason: data.summary || prev.main_remedy?.reason,
+            dosage: data.dosage || prev.main_remedy?.dosage,
+            key_symptoms: data.key_symptoms || prev.main_remedy?.key_symptoms || [],
+          },
+          next_best_remedies: data.next_best_remedies || prev.next_best_remedies || [],
+        }));
       } catch (error) {
-          console.error('Error generating AI summary:', error);
+        console.error('Error generating AI summary:', error);
+        setAiSummary('Error generating summary.');
+      } finally {
+        setLoadingSummary(false);
       }
-  };
+    };
 
   const AIDetails = () =>
     aiSummary && (
