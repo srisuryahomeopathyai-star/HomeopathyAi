@@ -448,6 +448,7 @@ router.post("/", middleware, async (req, res) => {
         .json({ error: "User must provide a valid Gemini API key" });
 
     const genAI = new GoogleGenerativeAI(user.geminiApiKey);
+    
     const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
     const prompt = buildPromptFromCaseData(caseData);
