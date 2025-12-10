@@ -448,7 +448,7 @@ router.post("/", middleware, async (req, res) => {
         .json({ error: "User must provide a valid Gemini API key" });
 
     const genAI = new GoogleGenerativeAI(user.geminiApiKey);
-    const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash-lite" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
     const prompt = buildPromptFromCaseData(caseData);
 
@@ -485,12 +485,39 @@ router.post("/", middleware, async (req, res) => {
     );
   } catch (error) {
     console.error("Gemini API error:", error);
-    res
-      .status(500)
-      .json({
-        error: "Failed to generate summary from Gemini AI",
-        details: error.message,
+
+    const status = error?.status || error?.response?.status;
+    if (status === 429) {
+      let retryAfterSeconds = 30;
+      try {
+        const retryInfo = (error.errorDetails || []).find(
+          (d) => d["@type"] && d["@type"].includes("RetryInfo")
+        );
+        if (retryInfo?.retryDelay) {
+          const m = retryInfo.retryDelay.match(/(\d+)s/);
+          if (m) retryAfterSeconds = parseInt(m[1], 10);
+        }
+      } catch {}
+      return res.status(429).json({
+        error: "Rate limited by AI provider",
+        retryAfterSeconds,
       });
+    }
+
+    if (status === 404) {
+      return res.status(404).json({ status: 404, statusText: "Not Found" });
+    }
+
+    if (status === 403) {
+      return res.status(403).json({
+        error: "AI permission denied: verify user API key and project access",
+      });
+    }
+
+    return res.status(500).json({
+      error: "Failed to generate summary from Gemini AI",
+      details: error?.message || "Unknown error",
+    });
   }
 });
 
