@@ -43,10 +43,24 @@ const userSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  // Add Gemini/Google API key for each user
   geminiApiKey: {
     type: String,
-    required: false, // optional, user can add later
+    required: false,
+  },
+  trusted_device_id: {
+    type: String,
+    required: false,
+    default: null,
+  },
+  otp_code: {
+    type: String,
+    required: false,
+    default: null,
+  },
+  otp_expires: {
+    type: Date,
+    required: false,
+    default: null,
   },
 });
 

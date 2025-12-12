@@ -155,6 +155,30 @@ export default function Dashboard() {
 
       if (res.status === 401) return navigate("/login");
 
+      if (res.status === 429) {
+        let retrySeconds = 30;
+        try {
+          const json = await res.json();
+          retrySeconds = json.retryAfterSeconds || retrySeconds;
+          setMessage(`AI rate limit: wait ${retrySeconds}s and retry.`);
+        } catch {}
+        setTestResult({ loading: false, summary: "Rate limited" });
+        return;
+      }
+
+      if (res.status === 404) {
+        setMessage("Model not found or unsupported in current API version.");
+        setTestResult({ loading: false, summary: "Model not found" });
+        return;
+      }
+
+      if (!res.ok) {
+        const text = await res.text();
+        setMessage(text || "Failed to generate summary.");
+        setTestResult({ loading: false, summary: "Error testing API key" });
+        return;
+      }
+
       const data = await res.json();
 
       setTestResult({

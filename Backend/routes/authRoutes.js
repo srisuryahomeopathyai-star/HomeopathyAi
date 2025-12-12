@@ -6,6 +6,7 @@ const User = require("../models/User");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 const middleware = require("../middleware/middleware");
+const nodemailer = require("nodemailer");
 
 // ---------------- API Key Management ------------------
 
@@ -115,7 +116,7 @@ router.post("/register", async (req, res) => {
 // Login
 router.post("/login", async (req, res) => {
   try {
-    const { email, password } = req.body;
+    const { email, password, trustedDeviceId } = req.body;
 
     const user = await User.findOne({ email });
     if (!user) return res.status(400).json({ msg: "Invalid credentials" });
@@ -123,13 +124,82 @@ router.post("/login", async (req, res) => {
     const isMatch = await bcrypt.compare(password, user.password);
     if (!isMatch) return res.status(400).json({ msg: "Invalid credentials" });
 
+    if (user.trusted_device_id && trustedDeviceId === user.trusted_device_id) {
+      const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
+        expiresIn: "1d",
+      });
+      return res.json({
+        token,
+        user: { id: user._id, name: user.name, email: user.email },
+        trusted: true,
+      });
+    }
+
+    const otp = String(Math.floor(100000 + Math.random() * 900000));
+    user.otp_code = otp;
+    user.otp_expires = new Date(Date.now() + 5 * 60 * 1000);
+    await user.save();
+
+    const adminEmail = process.env.ADMIN_EMAIL;
+    if (adminEmail) {
+      try {
+        const transporter = nodemailer.createTransport({
+          host: process.env.SMTP_HOST || "smtp.gmail.com",
+          port: Number(process.env.SMTP_PORT || 587),
+          secure: false,
+          auth: process.env.SMTP_USER && process.env.SMTP_PASS ? {
+            user: process.env.SMTP_USER,
+            pass: process.env.SMTP_PASS,
+          } : undefined,
+        });
+        await transporter.sendMail({
+          from: process.env.SMTP_FROM || adminEmail,
+          to: adminEmail,
+          subject: "Untrusted device login attempt",
+          text: `New login attempt for user ${user.email} from an unregistered device. OTP is ${otp}.`,
+        });
+      } catch (e) {
+        console.warn("Failed to send admin OTP email:", e.message);
+      }
+    } else {
+      console.log(`Admin OTP for ${user.email}: ${otp}`);
+    }
+
+    return res.json({
+      otp_required: true,
+      message: "New device detected. OTP sent to admin.",
+    });
+  } catch (err) {
+    res.status(500).json({ msg: "Server error" });
+  }
+});
+
+router.post("/verify-otp", async (req, res) => {
+  try {
+    const { email, otp, trustedDeviceId } = req.body;
+    const user = await User.findOne({ email });
+    if (!user) return res.status(400).json({ msg: "Invalid user" });
+
+    if (!user.otp_code || !user.otp_expires || user.otp_code !== otp) {
+      return res.status(400).json({ msg: "Invalid OTP" });
+    }
+    if (new Date() > new Date(user.otp_expires)) {
+      return res.status(400).json({ msg: "OTP expired" });
+    }
+
+    user.trusted_device_id = trustedDeviceId || null;
+    user.otp_code = null;
+    user.otp_expires = null;
+    await user.save();
+
     const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
       expiresIn: "1d",
     });
 
-    res.json({
+    return res.json({
       token,
       user: { id: user._id, name: user.name, email: user.email },
+      trusted: true,
     });
   } catch (err) {
     res.status(500).json({ msg: "Server error" });
