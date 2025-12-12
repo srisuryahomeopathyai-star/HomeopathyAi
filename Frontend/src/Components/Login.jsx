@@ -17,9 +17,10 @@ const Login = () => {
   const getOrCreateDeviceId = () => {
     let id = localStorage.getItem("trusted_device_id");
     if (!id) {
-      id = (window.crypto && window.crypto.randomUUID)
-        ? window.crypto.randomUUID()
-        : `${Date.now()}-${Math.random().toString(36).slice(2, 10)}`;
+      id =
+        window.crypto && window.crypto.randomUUID
+          ? window.crypto.randomUUID()
+          : `${Date.now()}-${Math.random().toString(36).slice(2, 10)}`;
       localStorage.setItem("trusted_device_id", id);
     }
     return id;
@@ -48,7 +49,9 @@ const Login = () => {
 
       if (data.otp_required) {
         setOtpMode(true);
-        setMessage("Untrusted device: OTP sent to admin. Please enter OTP provided by seller/admin.");
+        setMessage(
+          "Untrusted device: OTP sent to admin. Please enter OTP provided by seller/admin."
+        );
         return;
       }
 
@@ -57,7 +60,7 @@ const Login = () => {
         setMessage("Login successful!");
         localStorage.setItem("token", data.token);
         localStorage.setItem("user", JSON.stringify(data.user));
-        window.location.href = '/cases';
+        window.location.href = "/cases";
       } else {
         setMessage(data.msg || "Invalid credentials");
       }
@@ -84,7 +87,7 @@ const Login = () => {
         setSuccess(true);
         setMessage("Login successful!");
         setOtpMode(false);
-        window.location.href = '/cases';
+        window.location.href = "/cases";
       } else {
         setMessage(data.msg || "OTP verification failed");
       }
@@ -142,7 +145,9 @@ const Login = () => {
               value={otp}
               onChange={(e) => setOtp(e.target.value)}
             />
-            <button onClick={handleVerifyOtp} type='button'>Verify OTP</button>
+            <button onClick={handleVerifyOtp} type='button'>
+              Verify OTP
+            </button>
           </div>
         )}
         <p>
