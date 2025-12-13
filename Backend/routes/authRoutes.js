@@ -143,17 +143,40 @@ router.post("/login", async (req, res) => {
     const adminEmail = process.env.ADMIN_EMAIL;
     if (adminEmail) {
       try {
-        const transporter = nodemailer.createTransport({
-          host: process.env.SMTP_HOST || "smtp.gmail.com",
-          port: Number(process.env.SMTP_PORT || 587),
-          secure: false,
-          auth: process.env.SMTP_USER && process.env.SMTP_PASS ? {
-            user: process.env.SMTP_USER,
-            pass: process.env.SMTP_PASS,
-          } : undefined,
-        });
+        const transporter = nodemailer.createTransport(
+          process.env.SMTP_SERVICE
+            ? {
+                service: process.env.SMTP_SERVICE, // e.g., 'gmail'
+                auth: {
+                  user: process.env.SMTP_USER,
+                  pass: process.env.SMTP_PASS,
+                },
+                pool: true,
+                maxConnections: 1,
+                maxMessages: 10,
+                connectionTimeout: Number(process.env.SMTP_CONN_TIMEOUT_MS || 15000),
+                socketTimeout: Number(process.env.SMTP_SOCKET_TIMEOUT_MS || 15000),
+                requireTLS: true,
+                tls: { minVersion: 'TLSv1.2' },
+              }
+            : {
+                host: process.env.SMTP_HOST || "smtp.gmail.com",
+                port: Number(process.env.SMTP_PORT || 587),
+                secure: false,
+                auth: process.env.SMTP_USER && process.env.SMTP_PASS
+                  ? { user: process.env.SMTP_USER, pass: process.env.SMTP_PASS }
+                  : undefined,
+                pool: true,
+                maxConnections: 1,
+                maxMessages: 10,
+                connectionTimeout: Number(process.env.SMTP_CONN_TIMEOUT_MS || 15000),
+                socketTimeout: Number(process.env.SMTP_SOCKET_TIMEOUT_MS || 15000),
+                requireTLS: true,
+                tls: { minVersion: 'TLSv1.2' },
+              }
+        );
         await transporter.sendMail({
-          from: process.env.SMTP_FROM || adminEmail,
+          from: process.env.SMTP_FROM || process.env.SMTP_USER || adminEmail,
           to: adminEmail,
           subject: "Untrusted device login attempt",
           text: `New login attempt for user ${user.email} from an unregistered device. OTP is ${otp}.`,
