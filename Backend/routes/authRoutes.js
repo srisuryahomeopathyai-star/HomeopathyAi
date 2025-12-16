@@ -143,106 +143,23 @@ router.post("/login", async (req, res) => {
     const adminEmail = process.env.ADMIN_EMAIL;
     if (adminEmail) {
       try {
-        const axios = require("axios");
-        const resendKey = process.env.RESEND_API_KEY;
-        const sendgridKey = process.env.SENDGRID_API_KEY;
-        const fromEmail =
-          process.env.SMTP_FROM || process.env.SMTP_USER || adminEmail;
-        const subject = "Untrusted device login attempt";
-        const text = `New login attempt for user ${user.email} from an unregistered device. OTP is ${otp}.`;
-
-        if (resendKey) {
-          await axios.post(
-            "https://api.resend.com/emails",
-            { from: fromEmail, to: adminEmail, subject, text },
-            {
-              headers: { Authorization: `Bearer ${resendKey}` },
-              timeout: Number(process.env.EMAIL_HTTP_TIMEOUT_MS || 10000),
-            }
-          );
-        } else if (sendgridKey) {
-          await axios.post(
-            "https://api.sendgrid.com/v3/mail/send",
-            {
-              personalizations: [{ to: [{ email: adminEmail }] }],
-              from: { email: fromEmail },
-              subject,
-              content: [{ type: "text/plain", value: text }],
-            },
-            {
-              headers: {
-                Authorization: `Bearer ${sendgridKey}`,
-                "Content-Type": "application/json",
-              },
-              timeout: Number(process.env.EMAIL_HTTP_TIMEOUT_MS || 10000),
-            }
-          );
-        } else {
-          const transporter = nodemailer.createTransport(
-            process.env.SMTP_SERVICE
-              ? {
-                  service: process.env.SMTP_SERVICE,
-                  auth: {
-                    user: process.env.SMTP_USER,
-                    pass: process.env.SMTP_PASS,
-                  },
-                  pool: true,
-                  maxConnections: 1,
-                  maxMessages: 10,
-                  connectionTimeout: Number(
-                    process.env.SMTP_CONN_TIMEOUT_MS || 15000
-                  ),
-                  socketTimeout: Number(
-                    process.env.SMTP_SOCKET_TIMEOUT_MS || 15000
-                  ),
-                  greetingTimeout: Number(
-                    process.env.SMTP_GREETING_TIMEOUT_MS || 5000
-                  ),
-                  requireTLS: true,
-                  tls: { minVersion: "TLSv1.2" },
-                }
-              : {
-                  host: process.env.SMTP_HOST || "smtp.gmail.com",
-                  port: Number(process.env.SMTP_PORT || 587),
-                  secure:
-                    String(process.env.SMTP_SECURE).toLowerCase() === "true" ||
-                    Number(process.env.SMTP_PORT || 0) === 465,
-                  auth:
-                    process.env.SMTP_USER && process.env.SMTP_PASS
-                      ? {
-                          user: process.env.SMTP_USER,
-                          pass: process.env.SMTP_PASS,
-                        }
-                      : undefined,
-                  pool: true,
-                  maxConnections: 1,
-                  maxMessages: 10,
-                  connectionTimeout: Number(
-                    process.env.SMTP_CONN_TIMEOUT_MS || 15000
-                  ),
-                  socketTimeout: Number(
-                    process.env.SMTP_SOCKET_TIMEOUT_MS || 15000
-                  ),
-                  greetingTimeout: Number(
-                    process.env.SMTP_GREETING_TIMEOUT_MS || 5000
-                  ),
-                  requireTLS: true,
-                  tls: { minVersion: "TLSv1.2" },
-                }
-          );
-          await transporter.verify().catch(() => {});
-          await transporter.sendMail({
-            from: fromEmail,
-            to: adminEmail,
-            subject,
-            text,
-          });
-        }
-      } catch (e) {
-        console.error("Email error:", {
-          message: e.message,
-          response: e.response?.data,
+        const transporter = nodemailer.createTransport({
+          host: process.env.SMTP_HOST || "smtp.gmail.com",
+          port: Number(process.env.SMTP_PORT || 587),
+         secure: process.env.SMTP_PORT == 465,
+          auth: process.env.SMTP_USER && process.env.SMTP_PASS ? {
+            user: process.env.SMTP_USER,
+            pass: process.env.SMTP_PASS,
+          } : undefined,
         });
+        await transporter.sendMail({
+          from: process.env.SMTP_FROM || adminEmail,
+          to: adminEmail,
+          subject: "Untrusted device login attempt",
+          text: `New login attempt for user ${user.email} from an unregistered device. OTP is ${otp}.`,
+        });
+      } catch (e) {
+        console.warn("Failed to send admin OTP email:", e.message);
       }
     } else {
       console.log(`Admin OTP for ${user.email}: ${otp}`);
