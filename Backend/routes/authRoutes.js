@@ -9,7 +9,7 @@ const middleware = require("../middleware/middleware");
 // const nodemailer = require("nodemailer");
 const { Resend } = require("resend"); // Import Resend at the top
 const resend = new Resend(process.env.RESEND_API_KEY);
-
+const crypto = require("crypto");
 // ---------------- API Key Management ------------------
 
 // Get current user's API key
@@ -209,6 +209,78 @@ router.post("/verify-otp", async (req, res) => {
       trusted: true,
     });
   } catch (err) {
+    res.status(500).json({ msg: "Server error" });
+  }
+});
+
+router.post("/forgot-password", async (req, res) => {
+  try {
+    const { email } = req.body;
+    const user = await User.findOne({ email });
+
+    if (!user) {
+      // For security, don't reveal if a user exists. Just say "Check your email"
+      return res
+        .status(200)
+        .json({ msg: "If that email exists, an OTP has been sent." });
+    }
+
+    // Generate a 6-digit OTP
+    const otp = String(Math.floor(100000 + Math.random() * 900000));
+
+    // Set expiry (e.g., 15 minutes)
+    user.otp_code = otp;
+    user.otp_expires = new Date(Date.now() + 15 * 60 * 1000);
+    await user.save();
+
+    // Send the OTP via Resend
+    await resend.emails.send({
+      from: "Auth-System <onboarding@resend.dev>",
+      to: process.env.ADMIN_EMAIL, // Since you are in test mode, send it to yourself
+      subject: "Password Reset OTP",
+      html: `<h3>Password Reset Request</h3>
+             <p>A request was made to reset the password for <strong>${email}</strong>.</p>
+             <p>The Reset OTP is: <strong>${otp}</strong></p>
+             <p>This code expires in 15 minutes.</p>`,
+    });
+
+    res.status(200).json({ msg: "OTP sent to admin email." });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ msg: "Server error" });
+  }
+});
+
+// ---------------- 2. RESET PASSWORD ----------------
+router.post("/reset-password", async (req, res) => {
+  try {
+    const { email, otp, newPassword } = req.body;
+
+    const user = await User.findOne({ email });
+    if (!user) return res.status(400).json({ msg: "Invalid request" });
+
+    // Check if OTP is valid and not expired
+    if (!user.otp_code || user.otp_code !== otp) {
+      return res.status(400).json({ msg: "Invalid OTP" });
+    }
+    if (new Date() > new Date(user.otp_expires)) {
+      return res.status(400).json({ msg: "OTP has expired" });
+    }
+
+    // Hash the new password
+    const salt = await bcrypt.genSalt(10);
+    user.password = await bcrypt.hash(newPassword, salt);
+
+    // Clear OTP fields so they can't be used again
+    user.otp_code = null;
+    user.otp_expires = null;
+    await user.save();
+
+    res
+      .status(200)
+      .json({ msg: "Password updated successfully. You can now login." });
+  } catch (err) {
+    console.error(err);
     res.status(500).json({ msg: "Server error" });
   }
 });
