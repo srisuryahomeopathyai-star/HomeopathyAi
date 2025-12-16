@@ -6,7 +6,9 @@ const User = require("../models/User");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 const middleware = require("../middleware/middleware");
-const nodemailer = require("nodemailer");
+// const nodemailer = require("nodemailer");
+const { Resend } = require("resend"); // Import Resend at the top
+const resend = new Resend(process.env.RESEND_API_KEY);
 
 // ---------------- API Key Management ------------------
 
@@ -114,6 +116,7 @@ router.post("/register", async (req, res) => {
 });
 
 // Login
+
 router.post("/login", async (req, res) => {
   try {
     const { email, password, trustedDeviceId } = req.body;
@@ -124,6 +127,7 @@ router.post("/login", async (req, res) => {
     const isMatch = await bcrypt.compare(password, user.password);
     if (!isMatch) return res.status(400).json({ msg: "Invalid credentials" });
 
+    // Handle Trusted Device (Standard Login)
     if (user.trusted_device_id && trustedDeviceId === user.trusted_device_id) {
       const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
         expiresIn: "1d",
@@ -135,37 +139,36 @@ router.post("/login", async (req, res) => {
       });
     }
 
+    // --- OTP GENERATION ---
     const otp = String(Math.floor(100000 + Math.random() * 900000));
+
+    // Save exactly this 'otp' to your DB
     user.otp_code = otp;
     user.otp_expires = new Date(Date.now() + 5 * 60 * 1000);
     await user.save();
 
+    // --- SENDING TO YOUR PERSONAL GMAIL ---
     const adminEmail = process.env.ADMIN_EMAIL;
     if (adminEmail) {
       try {
-        const transporter = nodemailer.createTransport({
-          host: process.env.SMTP_HOST || "smtp.gmail.com",
-          port: Number(process.env.SMTP_PORT) || 465,
-          secure: Number(process.env.SMTP_PORT) === 465,
-          auth:
-            process.env.SMTP_USER && process.env.SMTP_PASS
-              ? {
-                  user: process.env.SMTP_USER,
-                  pass: process.env.SMTP_PASS,
-                }
-              : undefined,
+        await resend.emails.send({
+          from: "Auth-System <onboarding@resend.dev>",
+          to: adminEmail, // This is your personal Gmail
+          subject: "Admin OTP Verification",
+          html: `
+            <div style="font-family: sans-serif; padding: 20px; border: 1px solid #eee;">
+              <h2>Login Attempt Detected</h2>
+              <p>User <strong>${user.email}</strong> is trying to log in from a new device.</p>
+              <p>The OTP saved to your database is:</p>
+              <h1 style="color: #4A90E2; letter-spacing: 5px;">${otp}</h1>
+              <p>This code will expire in 5 minutes.</p>
+            </div>
+          `,
         });
-        await transporter.sendMail({
-          from: process.env.SMTP_FROM || adminEmail,
-          to: adminEmail,
-          subject: "Untrusted device login attempt",
-          text: `New login attempt for user ${user.email} from an unregistered device. OTP is ${otp}.`,
-        });
+        console.log("OTP successfully sent to admin Gmail via Resend API");
       } catch (e) {
-        console.warn("Failed to send admin OTP email:", e.message);
+        console.error("Resend API Error:", e.message);
       }
-    } else {
-      console.log(`Admin OTP for ${user.email}: ${otp}`);
     }
 
     return res.json({
@@ -173,6 +176,7 @@ router.post("/login", async (req, res) => {
       message: "New device detected. OTP sent to admin.",
     });
   } catch (err) {
+    console.error("Login Route Error:", err);
     res.status(500).json({ msg: "Server error" });
   }
 });
