@@ -97,7 +97,7 @@ const AboutUs = () => {
   return (
     <section className='about-section'>
       <div className='about-container'>
-        <h2 className='about-heading'>About Sri Surya Homeopathy AI</h2>
+        <h2 className='about-heading'>About HomeoEra Neo</h2>
 
         <p className='about-description'>
           Our <strong>Homeopathy AI Assistant</strong> is a modern clinical

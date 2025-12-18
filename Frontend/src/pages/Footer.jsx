@@ -15,7 +15,7 @@ const styles = {
 const Footer = () => {
   return (
     <footer style={styles.footer}>
-      © {new Date().getFullYear()} Sri Surya Homeo Clinic. All rights reserved.
+      © {new Date().getFullYear()} HomeoEra Neo Clinic. All rights reserved.
     </footer>
   );
 };

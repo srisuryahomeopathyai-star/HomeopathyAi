@@ -1,81 +1,5 @@
 /** @format */
 
-// /** @format */
-
-// import React from "react";
-// import { Link } from "react-router-dom";
-
-// const Home = () => {
-//   return (
-//     <div style={styles.container}>
-//       <div style={styles.card}>
-//         <h1 style={styles.heading}>🌿 Welcome to Remedy AI Homeopathy Portal</h1>
-//         <p style={styles.subText}>
-//           Manage patient cases, generate AI-powered summaries, and explore effective remedies.
-//         </p>
-//         <div style={styles.links}>
-//           <Link to='/add-case' style={{ ...styles.button, backgroundColor: "#4f46e5" }}>
-//             ➕ Add New Case
-//           </Link>
-//           <Link to='/cases' style={{ ...styles.button, backgroundColor: "#10b981" }}>
-//             📋 View All Cases
-//           </Link>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
-// const styles = {
-//   container: {
-//     background: "linear-gradient(135deg, #e0f2fe, #fbefff)",
-//     minHeight: "100vh",
-//     display: "flex",
-//     justifyContent: "center",
-//     alignItems: "center",
-//     padding: "40px 20px",
-//   },
-//   card: {
-//     maxWidth: "700px",
-//     textAlign: "center",
-//     padding: "60px 40px",
-//     backgroundColor: "#ffffff",
-//     borderRadius: "16px",
-//     boxShadow: "0 8px 30px rgba(0, 0, 0, 0.1)",
-//     transition: "all 0.3s ease-in-out",
-//   },
-//   heading: {
-//     fontSize: "2.8rem",
-//     fontWeight: "700",
-//     marginBottom: "20px",
-//     color: "#1e3a8a",
-//   },
-//   subText: {
-//     fontSize: "1.2rem",
-//     marginBottom: "40px",
-//     color: "#334155",
-//   },
-//   links: {
-//     display: "flex",
-//     justifyContent: "center",
-//     gap: "20px",
-//     flexWrap: "wrap",
-//   },
-//   button: {
-//     padding: "14px 30px",
-//     color: "#fff",
-//     textDecoration: "none",
-//     borderRadius: "8px",
-//     fontWeight: "600",
-//     fontSize: "1rem",
-//     boxShadow: "0 4px 12px rgba(0, 0, 0, 0.1)",
-//     transition: "transform 0.2s, box-shadow 0.2s",
-//   },
-// };
-
-// export default Home;
-/** @format */
-
 import React from "react";
 import { Link } from "react-router-dom";
 import doctorImg from "../assets/doctor.jpg";
@@ -85,10 +9,10 @@ const Home = () => {
   return (
     <div className='bg-gradient-to-br from-blue-50 to-purple-100 min-h-screen text-gray-800'>
       {/* Hero Section */}
-      <div className='flex flex-col md:flex-row max-w-7xl mx-auto px-6 py-16 items-center bg-white rounded-3xl shadow-xl'>
+      <div className='flex flex-col md:flex-row max-w-7xl mx-auto px-6 pt-0 pb-16 items-center bg-white rounded-3xl shadow-xl'>
         <div className='w-full md:w-4/5'>
           <h1 className='text-4xl md:text-5xl font-bold text-blue-900 mb-4'>
-            🌿 Welcome to Sri Surya Homeopathy AI
+            🌿 Welcome to HomeoEra Neo
           </h1>
           <p className='text-lg text-purple-600 font-semibold mb-2'>
             Natural Healing. Trusted Expertise. Proven Results.

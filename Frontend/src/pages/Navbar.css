@@ -27,19 +27,35 @@
 
 /* LOGO */
 .navbar-logo {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto 1fr;
   align-items: center;
-  gap: 10px;
+  column-gap: 10px;
 }
 
 .navbar-logo h1 {
   font-size: 20px;
   font-weight: 700;
   color: #1d4ed8;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.navbar-logo .tagline {
+  font-size: 12px;
+  color: #4276de;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.1;
 }
 
 .logo-img {
-  height: 40px;
+  height: 60px;
+  width: 100px;
+}
+
+.navbar-logo .logo-img {
+  grid-row: 1 / span 2;
 }
 
 /* ===========================

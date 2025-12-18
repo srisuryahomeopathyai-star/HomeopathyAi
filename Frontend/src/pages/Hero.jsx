@@ -19,7 +19,8 @@ const Home = () => {
       {/* Hero Section */}
       <section style={styles.hero}>
         <div style={styles.heroLeft}>
-          <h1 style={styles.heroTitle}>🌿 Welcome to Sri Surya Homeo AI</h1>
+          <h1 style={styles.heroTitle}>🌿 Welcome to HomeoEra Neo</h1>
+          <p style={styles.heroTagline}>The New Era of Intelligent Homeopathy</p>
           <p style={styles.heroSub}>
             Natural Healing. Trusted Expertise. Proven Results.
           </p>
@@ -121,7 +122,7 @@ A highly recommended tool for every homeopathic practitioner.”`,
 
 Since integrating this tool into my routine, I have observed a steady improvement in accuracy and overall success rate. The clarity in rubric selection and the intelligent remedy suggestions make it an excellent companion for busy practitioners.
 
-A very reliable and efficient app for modern homeopathic practice.”`,
+A very reliable and efficient app for modern homeopathy practice.”`,
               },
               {
                 name: "Dr. MSK. Haffezza, BHMS",
@@ -206,7 +207,7 @@ BHMS, Consultant Homeopathic Physician`,
         <h2 style={styles.sectionTitle}>Find Us on Google Maps</h2>
         <div style={styles.mapContainer}>
           <iframe
-            title='Sri Surya Homeo Clinic Location'
+            title='HomeoEra NeoClinic Location'
             src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.7384504433393!2d78.50766697503696!3d13.558046202203175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb2b4d99b5c7b05%3A0x3f8a2cb54be57ff6!2sPrimo%20Smart%20Salon!5e0!3m2!1sen!2sin!4v1720198472937!5m2!1sen!2sin'
             width='100%'
             height='400'
@@ -220,7 +221,7 @@ BHMS, Consultant Homeopathic Physician`,
 
       {/* Footer */}
       {/* <footer style={styles.footer}>
-        © {new Date().getFullYear()} Sri Surya Homeo Clinic. All rights reserved.
+        © {new Date().getFullYear()} HomeoEra NeoClinic. All rights reserved.
       </footer> */}
     </div>
   );
@@ -253,6 +254,12 @@ const styles = {
     fontSize: "1.5rem",
     color: "#7c3aed",
     margin: "10px 0",
+  },
+  heroTagline: {
+    fontSize: "1.1rem",
+    color: "#7c3aed93",
+    margin: "6px 0",
+    fontWeight: "600",
   },
   heroText: {
     fontSize: "1.1rem",
