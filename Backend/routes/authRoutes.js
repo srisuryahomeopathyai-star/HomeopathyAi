@@ -129,9 +129,7 @@ router.post("/login", async (req, res) => {
 
     // Handle Trusted Device (Standard Login)
     if (user.trusted_device_id && trustedDeviceId === user.trusted_device_id) {
-      const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
-        expiresIn: "1d",
-      });
+      const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET);
       return res.json({
         token,
         user: { id: user._id, name: user.name, email: user.email },
