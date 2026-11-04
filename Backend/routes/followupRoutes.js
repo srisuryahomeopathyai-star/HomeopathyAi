@@ -83,7 +83,8 @@ const mongoose = require("mongoose");
 
 const FollowUp = require("../models/FollowUp");
 const { reanalyzeCase } = require("../services/analysisService");
-
+const authMiddleware = require("../middleware/middleware");
+router.use(authMiddleware);
 // Get today's follow-ups
 router.get("/today", async (req, res) => {
   try {
